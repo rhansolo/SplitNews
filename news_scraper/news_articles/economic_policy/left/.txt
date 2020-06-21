@@ -1,61 +1,41 @@
-• Congress’ official tax arbiter pegged the 10-year cost of the provision at $135 billion, and that committee also projected that 43,000 taxpayers who earn more than $1 million a year would benefit.
+“I can say that it pretty much blew estimates out of the water,” said Beth Ann Bovino, the U.S. chief economist at S&P Global. “It’s just a really nice report. I’d also say that the recession fears of last year seem to be a thing of the past when you look at this report.”
 
-• The post refers to a real provision in the CARES Act that eases restrictions passed in 2017 that limited how extensively pass-through corporations can apply business losses to the owner’s individual tax burden.
+AD
 
-The Coronavirus Aid, Relief, and Economic Security Act was a roughly $2 trillion bill passed in March that provided economic assistance to everyone from unemployed workers and beleaguered small businesses to overwhelmed hospitals and state governments. Was it also a giveaway to millionaires?
+The number of jobs added for the month was well above the average of 176,000 jobs per month in 2019 and higher than the 223,000 jobs added each month of 2018. In 2019, the United States added 269,999 jobs in January, an uptick that federal statisticians surmised had spiked because of the government shutdown as people took on part-time jobs. January was the 112th straight month of job growth since 2010.
 
-Yes, according to a May 14 Facebook post.
+AD
 
-Using simple text on a black background, the post says: "Hidden in the CARES Act was an obscure $135 billion tax break for 43,000 millionaires. Apparently, no one asked, ‘How are we going to pay for it?’"
+The new report comes on the heels of a milestone December, when women outnumbered men in the workforce for only the second time in history. That number was unchanged in January, with women continuing to make up slightly more than 50 percent of the non-farm labor force.
 
-It was flagged as part of Facebook’s efforts to combat false news and misinformation on its News Feed. (Read more about our partnership with Facebook.)
+Perhaps the most encouraging news in the latest jobs report is that the share of working Americans who have jobs or are actively looking for work — known as the labor force participation rate — ticked up to its highest level in seven years, about 63.4 percent. It’s another sign that the tight labor market is wooing more people back to the job market.
 
-The post is more or less on target.
+AD
 
-The CARES Act, which sailed through both houses of Congress, did include language that temporarily suspended a tax provision known as the excess loss limitation. The language is not hidden, but it’s safe to say that given how fast the $2 trillion bill sped through Congress, it mostly escaped media attention.
+“It’s a really strong start to the year and another sign that this expansion has really astounded by continuing to pull folks into the labor force,” said Nick Bunker, an economist at the Indeed Hiring Lab. “The strong labor gains are great — we’re not only seeing a rise in labor force participation but a pickup in employment as well. It’s a sign that the labor market has some momentum and could keep going for quite some time.”
 
-The excess loss limitation was part of the 2017 tax overhaul bill signed by President Donald Trump. It applied to pass-through businesses, which are companies whose profits are reported on the owner’s individual returns, and taxed as individual income, rather than being subject to corporate taxes.
+AD
 
-The 2017 provision limited how much in business losses a business owner could claim to lower the taxes on their non-business income.
+President Trump is staking his reelection campaign in part on the strength of the economy — touting the job creation under his administration repeatedly during the State of the Union address, for example.
 
-The temporary provision in the CARES Act suspended those limits, meaning business owners could deduct business losses without a limitation on the amount and could apply those losses to past or future tax years.
+But analysts have urged caution, pointing to other economic measures. Relatively modest wage growth, around 3.1 percent, remains a puzzle for economists who say it has not grown as expected given the increasingly tight labor market. Business investment has fallen for three straight quarters. And problems at Boeing as well as fears about the coronavirus have raised fears about more economic head winds on the horizon.
 
-After this provision in a very big bill came to light, Sen. Sheldon Whitehouse, D-R.I., and Rep. Lloyd Doggett, D-Texas, offered bills to roll back the temporary suspension of the tax limitation that was included in the CARES Act.
+AD
 
-The "$135 billion tax break" figure in the Facebook post is backed up by the analysis by the bipartisan Joint Committee on Taxation, the official arbiter of the cost of tax proposals considered by Congress.
+“It’s a powerful antidote, in many ways, with respect to what’s been happening in Washington,” said Mark Hamrick, an economic analyst at Bankrate. “In many ways we’ve seen a political environment that is violently ill, and yet the economy appears to be very robust. ... A year or so ago we were thinking we could be on the precipice of a recession. The reality is that the expansion looks good for some time to come for the future."
 
-In its analysis of the CARES Act, the committee found that the tax provision would cost the Treasury about $135 billion between 2020 and 2030, with the bulk of the cost occurring in the first two years, and small gains coming in later years.
+AD
 
-As for the 43,000 millionaires figure, that comes from an analysis requested by Whitehouse and Doggett that showed the estimated impact of the provision on different income groups. It was included in a letter that the committee sent to the two lawmakers.
+The Labor Department also released data Friday showing that 514,000 fewer jobs were added between April 2018 and March 2019 than originally thought. The initial data reported each month in the jobs report comes from a survey sample of businesses to see how many people were added or subtracted from payrolls. The revised data encompasses nearly all businesses in the United States, but it takes longer to gather the information, which is why there is a delay in releasing it.
 
-The committee found 43,000 taxpayers earning $1 million or more would indeed benefit from the provision, and they would reap nearly 82% of the total money saved.
+The revisions show that 2019 was the weakest year of job growth in eight years and that there was not such a big job boom in 2018 after the Trump administration’s tax cuts. Instead, what has become clearer is the job market remains fairly hot, but job growth has been gradually slowing since it peaked in 2014.
 
-Notably, this is a tiny group. While the term "millionaires" is often defined as people whose net worth is north of $1 million, this table refers to Americans earning $1 million a year in income, a much rarer accomplishment.
+AD
 
-A bit more than 10% of households have at least $1 million in net worth, but fewer than 1% of all workers, by some estimates, earn more than $1 million a year.
+“Job growth still looks very healthy,” said economist Ernie Tedeschi, a managing director at the research firm Evercore ISI. “But the story that the tax cuts heated up the labor market in 2018 changes a bit. Instead of job growth really accelerating in 2018, it looks more like it stayed pretty flat.”
 
-Other taxpayers below the $1 million income group would also benefit — 87,000 in all — although to a smaller extent.
+AD
 
-Tax experts say there is a logic to making a change to loss limitations during a dire economic situation.
+The jobs report is the first since Trump signed the U.S.-Mexico-Canada Agreement in January and comes weeks after Trump signed a partial trade deal with China, ending months of uncertainty over some of his major economic proposals. Some experts suggested the trade deals helped shore up confidence among companies last month.
 
-Steve Rosenthal, a senior fellow at the Urban Institute-Brookings Institution Tax Policy Center, said that while he believes the provision in the CARES Act is too generous, he does see some benefit to a scaled-back suspension.
-
-Allowing such taxpayers to carry back net losses "makes it possible for firms and individuals to generate cash quickly by effectively amending a past-year return and use current losses to lower prior-year taxes," he wrote in a recent blog post.
-
-Other tax specialists say the provision is more than just a giveaway to the rich.
-
-Kyle Pomerleau, a resident fellow at the American Enterprise Institute, said that loss deductions "are an essential part of a well-functioning income tax. Businesses typically make multi-year investments. Those investments may lose money in some years and make money in other years. The ability to either carry back losses to offset previous years’ taxes or carry forward losses to offset future taxes ensures that the tax system accurately measures income."
-
-This is especially important during recessions, Pomerleau said, because they help provide stressed companies with liquidity. "To the extent this allows firms to hold on to a few more workers than they otherwise would have, it might benefit lower-income individuals more than the tables suggest," he said.
-
-Our ruling
-
-The Facebook post said, "Hidden in the CARES Act was an obscure $135 billion tax break for 43,000 millionaires."
-
-This refers to a real provision in the CARES Act that eases restrictions passed in 2017 that limited how extensively pass-through corporations can apply business losses to the owner’s individual tax burden.
-
-Congress’ official tax arbiter pegged the 10-year cost of the provision at $135 billion, and that committee also projected that 43,000 taxpayers earning more than $1 million a year would benefit.
-
-However, it’s worth noting that 87,000 taxpayers earning less than that would also benefit.
-
-We rate the statement Mostly True.
+“It’s not a stretch to connect progress on things like USMCA and the China deal to restoring a sense of certainty,” said Neil Bradley, the chief policy officer for the U.S. Chamber of Commerce.

@@ -1,9 +1,0 @@
-Alphabet’s Jigsaw subsidiary has revealed a new tool that’s intended to help journalists more easily spot deepfakes and manipulated images. The tool, called Assembler, uses “detectors” to analyze an image or deepfake; determine if it’s authentic; and if it’s not, inform the user where the image may have been manipulated.
-
-Assembler’s detectors can see things like an image pasted over another or changes to image brightness, according to a blog post by Jigsaw CEO and founder Jared Cohen. Jigsaw also says Assembler has a detector specifically made to catch deepfakes and one that takes the combined signals from many detectors to analyze an image for multiple instances of manipulation at the same time.
-
-Right now, the tool is in testing with more than a dozen news and fact-checking organizations, including Animal Politico, Rappler, and Agence France-Presse, though Jigsaw doesn’t plan to offer it to the public, according to The New York Times.
-
-Other tech companies are also doing what they can to stop the spread of deepfakes and manipulated images. Facebook, Reddit, and YouTube have all introduced policies in recent weeks that ban malicious deepfakes on their platforms. Today, Twitter announced its policies around manipulated media, saying it will ban altered media that poses a safety risk and is deceptively shared. Tweets with altered media may also be labelled as “manipulated media,” and if they are, they will link out to a Twitter Moment with more context.
-
-Update February 4th, 4:28PM ET: Added information about Twitter’s new manipulated media policies.

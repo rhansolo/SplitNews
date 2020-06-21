@@ -1,57 +1,13 @@
-Steve Strauss
+The United States is currently undertaking its population census, the once-a-decade effort to count every single person living here. More than 150 other countries will join in this world census round—the 10-year period centered on 2020, and around 90 percent of the world’s population has already been or will be counted.
 
-Special to USA TODAY
+But while impressive on a human scale, a modern census is technologically unspectacular. The American questionnaire asks just seven questions of each person, with a few more for each household as a whole. Counting generously, the government is collecting 130 bytes of data per person and perhaps another 13 bytes per household—amounting to around 45 GB for the whole US population. If it weren’t for the strict confidentiality, you could, once it’s complete, carry around the entire contents of the US census on a base model iPhone 11. The challenges of this year’s census are enormous, but they are social, political, logistical—and now public-health related—rather than strictly technological or scientific.
 
-My millennial daughters were tear-gassed this week and I couldn’t be prouder.
+Adapted from The Sum of the People: How the Census Has Shaped Nations, From the Ancient World to the Modern Age by Andrew Whitby. Buy on Amazon. Courtesy of Basic Books
 
-My wife and I, while both at high risk of COVID-19, also joined a march in our town, but in a less confrontational, safer way.
+That wasn’t always the case: For centuries, counting its people was amongst the most technologically complex procedures a state could undertake. It’s not possible to point to a first census: Such a simple idea likely arose independently many times and in many places. Although writing is now integral to how we record, analyze, and report data, census-taking certainly predated it. Herodotus relates a story of the Scythians, nomadic warriors who lived in Central Asia in the first millennium BCE. “Because their king, who went by the name of Ariantas, wished to know how many Scythians there were, he gave orders that each one of them was to bring an arrowhead ... A huge number of arrowheads were duly brought, and the king”—presumably having first counted them—“decided to fashion a monument out of them that he could bequeath to posterity.” Such a method would be a bit unwieldy today, but it probably worked fine for the Scythians.
 
-So, while my family is, like so many millions of us are, sympathetic and supportive of the history we see unfolding before our eyes, and outraged at the murder of yet another black man by an unfeeling white policeman, the solution of how to get to the promised land remains elusive.
+In fact, proto-literate societies could conduct censuses of great complexity. The Inca, who dominated Andean America at the time of the Spanish conquest in the 15th century CE, recorded elaborate census statistics in connection with taxation, despite lacking what we would recognize as writing. Instead they used knots tied in complex bundles of colored strings called khipu to encode information. Of the thousand khipu that exist in museums today, two-thirds contain numerical data, and at least 50 are thought to pertain to censuses.
 
-My youngest daughter, far more radical than I, has fallen into the “defund the police” camp. Our friendly debate quickly devolved into a shouting match, until we decided to try, as one of my heroes – Mahatma Gandhi – suggested, “to be the change we want to see.”
+The most important ancient census, from our modern perspective, was surely that of Rome. Romans adopted the census late in the city’s regal period, shortly before the more familiar republic was declared in 509 BCE. They gave the procedure the name we now use (from the Latin cēnsēre, “to assess”), made it fundamental to their social order, and spread it yet further as their territory grew.
 
-We calmed down. We talked. We listened. And I learned something.
-
-Buyer beware:What products were among those marketed with the most outrageous claims of all time?
-
-Food video crew standoff:Bon Appétit Test Kitchen members ask for salary changes for minorities
-
-What does 'defund the police' mean?
-
-Defunding the police, at least as I now understand it, certainly does not mean not having any police. That would of course be folly. But it does mean that some of the money used to fund police forces can likely be better spent if the goal is long-term safety, and to begin to eradicate the poverty gap and racial disparity between white and black America that fosters crime.
-
-Defunding the police means that we begin to look at where crime and a lack of opportunity begins and then reallocate more resources there instead. More money for interdiction, for social services, for better education, and, relevant for this column, for minority grants and loans to start small businesses.
-
-Funding changes could benefit small businesses
-
-To me, there are few things we as a society can do better to equal the playing field than to increase funding and education for disadvantaged, would-be entrepreneurs generally, and African American entrepreneurs specifically.
-
-Small business ownership creates wealth. It fosters pride. It enhances and stabilizes communities. It creates a tax base, and that in turn helps fund better schools.
-
-The ripples that result from small business ownership positively affect the entire community. Small business ripples create jobs. There are ripples of hope and pride as once-blighted neighborhoods are revitalized. Money flows. Opportunity grows.
-
-So yes, one answer is money, specifically, increased funding for grants and loans to minority small-business owners. It is much needed.
-
-Racial wealth gap needs narrowing
-
-According to The Aspen Institute, “Hispanic and black Americans have levels of net worth that are only one-tenth of those held by white Americans, and fewer of their assets are in the form of business assets. Specifically, while white and Asian Americans hold one-third of their assets in business and financial assets, Hispanics and blacks hold only 15% and 8%, respectively, of their wealth in these forms.” (emphasis added.)
-
-Just consider the name of the report this quote comes from: “BRIDGING THE DIVIDE: How Business Ownership Can Help Close the Racial Wealth Gap.”
-
-The stats from the report speak for themselves:
-
-“In 2004, families in which the head of the household was self-employed had a median net worth five times that of households in which the head worked for someone else.”
-
-that of households in which the head worked for someone else.” “While black entrepreneurs have levels of wealth mobility equal to those of white entrepreneurs, white workers have greater wealth mobility than black workers.”
-
-
-
-The answer then is clear: Black workers need to become black entrepreneurs.
-
-But how do they do that? If you come from poverty, if your neighborhood was redlined, if your school was underfunded if you have had few entrepreneurial role models, how do you go from worker to entrepreneur?
-
-It takes a community effort of mentors, funding, education, and inspiration. Some great organizations are already doing this. But it also takes money, and where does the money come from?
-
-Right, a smaller, smarter police budget, with funds retargeted to entrepreneurship education.
-
-Steve Strauss is an attorney, popular speaker and the best-selling author of 17 books, including "The Small Business Bible." You can learn more about Steve at MrAllBiz.com, get more tips at his site TheSelfEmployed, and connect with him on Twitter @SteveStrauss and on Facebook at TheSelfEmployed.
+The censors, the officeholders who conducted the census, determined each Roman citizen’s position in an elaborate class hierarchy. This, in turn, dictated how that citizen and his family lived: how he could dress, how the law treated him, and how he could exercise political power. In principle, this stratification of Roman society was performed every five years. Each head of household would be called upon, in turn, to make his declaration. He would give his full name, that of his father—or patron, in the case of a freed slave—and his age. He would report his marital status and, if applicable, the name of his wife and the number, names, and ages of his children. He would then move on to an account of his property. This would proceed by tribe until it was complete. The censors were appointed for an 18-month term, and sheer logistics suggest the count must have taken most of this time.

@@ -1,5 +1,0 @@
-When a cybersecurity firm discovered it had been hacked last year by a virus widely believed to be used by Israeli spies, it wanted to know who else was on the hit list.
-
-The Moscow-based firm, Kaspersky Lab ZAO, checked millions of computers world-wide and three luxury European hotels popped up. The other hotels tested—thousands in all—were clean. Researchers at the firm weren’t sure what to make of the results. Then they realized what the three hotels had in common.
-
-...

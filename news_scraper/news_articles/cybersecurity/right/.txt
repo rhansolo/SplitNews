@@ -1,85 +1,47 @@
-Late last week, Sen. Lindsey Graham announced a webpage dedicated to the Senate Judiciary Committee’s probe into the Crossfire Hurricane illicit investigation into the Donald Trump campaign. Graham’s staff uploaded the four Carter Page Foreign Intelligence Surveillance Act (FISA) applications, which were recently further declassified.
+An unprecedented global “ransomware” attack that hit at least 100,000 organizations in 150 countries spread to thousands more computers Monday as people returned to work and logged in for the first time since the massive online assault began.
 
-These declassifications reveal more devastating details in the SpyGate saga. Here are seven new revelations.
+The attack that began Friday is believed to be the biggest online extortion attack ever recorded, spreading chaos by locking computers that run Britain’s hospital network, Germany’s national railway and scores of other companies, factories and government agencies worldwide.
 
-1. The FBI Always Intended to Spy on the Trump Campaign
+A BBC analysis determined about $38,000 had already been paid to those behind the attacks, however, that figure could climb exponentially as users log on Monday and those already infected give in to rising demands.
 
-When news first broke that the Obama administration had obtained a FISA order to surveil Page, Democrats and the left-leaning press argued the FBI’s surveillance of the former Trump foreign policy advisor didn’t constitute spying on the Trump campaign because the court-ordered surveillance didn’t begin until after Page had left the campaign.
+Steven Wilson, Head of Europol’s European Cybercrime Centre, told Sky News that it was now important that IT departments checked their systems on Monday morning to ensure they had not been compromised.
 
-“Conservatives tried to correct the record, noting that a Foreign Intelligence Surveillance Act (FISA) order gave the government access to Page’s past emails and other electronic communications with members of the Trump campaign, but the mainstream media ignored this reality.”
+He added: “It’s not a massively sophisticated attack. What is new is the use of a worm to propagate through systems.
 
-However, Inspector General Michael Horowitz’s report on FISA abuse later confirmed that, yes, “the FBI gathered substantial evidence of Page’s past electronic communications,” including multiple “emails between Page and members of the Donald J. Trump for President Campaign concerning campaign related matters.”
+“It is beyond anything we have seen before.”
 
-The recent declassifications of the FISA applications now expose a further reality: The FBI didn’t just seek access to past electronic communications with campaign members, the FBI believed Page would continue to communicate with the Trump campaign and sought the FISA court order to intercept those conversations.
+NATIONS BATTLE CYBERATTACK DAMAGES; UK FOCUSES ON HOSPITALS
 
-While Page had announced he was “taking a leave of absence from his work with the campaign,” the first FISA application read, “because Page was one of the first identified foreign policy advisors for [Trump’s] campaign, the FBI believes that Page likely established close relationships with other members of [Trump’s campaign.]”
+Wilson spoke as hospitals in the United Kingdom were beginning to get back to normal, although some were still experiencing problems after the global attack which hit 48 National Health Service trusts in England and 13 Scottish health boards, according to Sky News.
 
-Accordingly, the FBI maintained in its initial FISA application that it “believes that Page likely established close relationships with other members of [Trump’s] campaign and likely would have continued to have access to members of [Trump’s] campaign, which he could exploit to attempt to exert influence on foreign policy matters, regardless of whatever formal role he played in the campaign.”
+President Donald Trump ordered his homeland security adviser, Tom Bossert, to hold an emergency meeting Friday night to assess the threat posed by the cyberattack, senior administration official told Reuters.
 
-2. FBI Failed to Brief Trump About Its Page Suspicions
+Senior security staff held another meeting in the White House Situation Room on Saturday, and the FBI and National Security Agency were trying to identify the perpetrators of the massive cyber attack, said the official, who spoke on condition on anonymity to the news agency to discuss internal deliberations.
 
-This newly declassified information highlights another huge impropriety in the FBI’s handling of Crossfire Hurricane: The FBI failed to provide the Trump campaign a defensive briefing about Page!
+Security experts warned that further cyberattacks are likely.
 
-Here, it is helpful to remember what Counterintelligence Division Assistant Director E.W. “Bill” Priestap told the IG about why he opened the Crossfire Hurricane investigation instead of providing the Trump campaign a defensive briefing:
+RANSOMWARE: WHAT IS IT?
 
-we provide defensive briefings when we obtain information indicating a foreign adversary is trying or will try to influence a specific U.S. person, and when there is no indication that the specific U.S. person could be working with the adversary. In regard to the information the [Friendly Foreign Government] provided us, we had no indication as to which person in the Trump campaign allegedly received the offer from the Russians. There was no specific U.S. person identified. We also had no indication, whatsoever, that the person affiliated with the Trump campaign had rejected the alleged offer from the Russians. In fact, the information we received indicated that Papadopoulos told the [Friendly Foreign Government] he felt confident Mr. Trump would win the election, and Papadopoulos commented that the Clintons had a lot of baggage and that the Trump team had plenty of material to use in its campaign. While Papadopoulos didn’t say where the Trump team had received the ‘material,’ one could reasonably infer that some of the material might have come from the Russians. Had we provided a defensive briefing to someone on the Trump campaign, we would have alerted the campaign to what we were looking into, and, if someone on the campaign was engaged with the Russians, he/she would very likely change his/her tactics and/or otherwise seek to cover-up his/her activities, thereby preventing us from finding the truth. On the other hand, if no one on the Trump campaign was working with the Russians, an investigation could prove that.
+“The global reach is unprecedented and beyond what we have seen before," Rob Wainwright, director of the Netherlands-based Europol said Sunday "The latest count is over 200,000 victims in at least 150 countries, and those victims, many of those will be businesses, including large corporations.”
 
-Andrew McCabe, President Obama’s former deputy director of the FBI, likewise told the IG “that he did not consider a defensive briefing as an alternative to opening a counterintelligence case” because, “based on the [Friendly Foreign Government] information, the FBI did not know if any member of the campaign was coordinating with Russia and that the FBI did not brief people who ‘could potentially be the subjects that you are investigating or looking for.’”
+“At the moment, we are in the face of an escalating threat. The numbers are going up," he added. "I am worried about how the numbers will continue to grow when people go to work and turn on their machines on Monday morning."
 
-McCabe added that, “in a sensitive counterintelligence matter, it was essential to have a better understanding of what was occurring before taking an overt step such as providing a defensive briefing.” There are plenty of problems with Priestap and McCabe’s rationale, as well as the entire predicate for Crossfire Hurricane, but let’s take them at their word, and apply the same reasoning to Page.
+Jan Op Gen Oorth, spokesman for Europol, said the number of individuals who have fallen victim to the cyberextortion attack could be much higher.
 
-More than three months had passed since the FBI received word from a “Friendly Foreign Government” that former Trump advisor George Papadopoulos had learned that Russia had “dirt” on Hillary. Since then, the FBI believed it had discovered the identity of the man engaging with the Russians—Page.
+Wainwright said the attack was indiscriminate, fast-spreading and unique, because the ransomware was being used in combination with a worm, which means the infection of one computer automatically could spread it through a whole network.
 
-So convinced was the FBI that they had their man that agents swore out four FISA applications attesting that the FBI “believes that Russia’s efforts to influence U.S. policy were likely being coordinated between the [Russian Intelligence Service] and Page, and possible others.” The FBI further swore to the court that Page “was identified by source reporting as an intermediary with Russian leadership in ‘a well-developed conspiracy of co-operation’ to influence the 2016 U.S. Presidential election.”
+22-YEAR-OLD CYBERSECURITY RESEARCHER HELPED THWART UNPRECEDENTED CYBERATTACK
 
-So why didn’t the FBI provide the Trump campaign a defensive briefing about Page? Why didn’t the FBI warn Trump that it had evidence that Page was acting as an agent for Russia and that the campaign should be aware of that fact in communications with Page?
+The Europol spokesman said it was too early to say who is behind the onslaught and what their motivation was. The main challenge for investigators was the fast-spreading capabilities of the malware, he said, adding that so far not many people have paid the ransoms that the virus demands.
 
-3. The FBI Spied on the Trump Administration
+The effects were felt across the globe, with Russia's Interior Ministry and companies including Spain's Telefonica, FedEx Corp. in the U.S. and French carmaker Renault all reporting disruptions.
 
-The FBI also failed to provide the Trump administration a defensive briefing concerning its belief that Russia sought to use Page’s connections with administration officials to influence America’s foreign policy. Instead, as the newly declassified information reveals, following Trump’s inauguration, the FBI sought to, and apparently succeeded in, intercepting communications between Page and members of the Trump administration.
+Had it not been for a young cybersecurity researcher's accidental discovery of a so-called "kill switch," the malicious software likely would have spread much farther and faster. Security experts say this attack should wake up every corporate board room and legislative chamber around the globe.
 
-In each renewal application, the FBI stated that “although the election has concluded, . . . the FBI believes the Russian Government will continue attempting to use U.S. based individuals, such as Page, to covertly influence U.S. foreign policy.” Then, after noting that “although Page no longer appears to be an advisor to the now President-elect” (and later “to the now President”), the FISA applications included several blacked-out sentences identified as FISA-acquired information.
+Nonetheless, the experts say such widespread attacks are
 
-The language and placement of these redactions suggest that the FISA surveillance captured communications between Page and members of the Trump transition team and administration.
+tough to pull off.
 
-Significantly, both the April 7, 2017 and the June 28, 2017, FISA renewal applications, after redacting “FISA-Acquired Information,” noted that “the FBI assesses that Page continues to have access to senior U.S. Government officials. Moreover, the FBI further assesses that Page is attempting to downplay his contacts with the Russian Government and to dispel the controversy surrounding him, so as to make him more viable as a foreign policy expert who will be in a position, due to his continued contacts with senior U.S. Government officials, to influence U.S. foreign policy towards Russia.”
+The Associated Press contributed to this report.
 
-These assertions raise significant questions and concerns. Who were these “senior U.S. Government officials”? Did the FBI intercept Page’s communications with Trump administration officials? And why would the FBI not provide President Trump a defensive briefing about Page and his supposed role as a Russian agent?
-
-4. Rep. Adam Schiff Is a Rotten, No-Good, Two-Faced Liar
-
-The latest declassifications also expose—yet again—that Rep. Adam Schiff (D-Calif.) lied about everything in his “response memo” to Rep. Devin Nunes’s (R-Calif.) memo on FISA abuse. The lawyer who tweets anonymously as Undercover Huber detailed the evidence in a must-read thread on Friday.
-
-“DOJ cited multiple sources to support the case for surveilling Page—but made only narrow use of information from Steele’s sources about Page’s specific activities in 2016, chiefly his suspected July 2016 meeting in Moscow with Russian officials,” Schiff had claimed.
-
-Not so, as “Undercover Huber” detailed. Rather, the FISA applications stated that “[Carter] Page…has been identified by source reporting as an intermediary with Russian leadership” in “a well-developed conspiracy of co-operation” to influence the 2016 election. And that language was lifted directly from the Steele dossier.
-
-Schiff knew this. He also knew that with dueling memorandums, the press would 100 percent back the Democrat, and put Republican Nunes’s memorandum on FISA abuse down to politics.
-
-Schiff was right. He just didn’t expect Trump to survive long enough for proof of his duplicity to come out. But luckily for Schiff, the press backs lying Democrats at the same rate.
-
-5. FBI Relied Solely on Fake News to Support Portions of the FISA Applications
-
-The additional FISA application declassifications reveal another disconcerting fact: The FBI relied completely on media reports that ended up being inaccurate to “assesses that, following Page’s meetings in Russia, Page helped influence [the Republican Party] and Trump’s campaign to alter their platforms to be more sympathetic to Russia.”
-
-In the FISA applications, the FBI supported this “assessment” with summaries of the reporting by two “identified news organizations,” one a July 2016 article and the second an August 2016 article. While the FISA applications did not identify the articles, “one was apparently Josh Rogin’s Washington Post opinion article, which reported claims that Trump campaign members ‘worked behind the scenes to make sure [the GOP]’s platform would not call for giving weapons to Ukraine to fight Russian and rebel forces.’”
-
-The second article was likely Michael Crowley’s Politico piece that “opined that while the reason for [Trump’s] shift [in Russian policy] was not clear, [Trump]’s more conciliatory words, which contradict [the GOP]’s official platform, follow [Trump]’s recent association with several people sympathetic to Russian influence in Ukraine, including foreign policy advisor Carter Page.”
-
-With the additional declassifications, we now know that those news reports were the only “evidence” supporting the FBI’s assessment that Page influenced the Republican Party to “soften” the platform’s position on Russia. And the reporting was wrong—which is exactly why the FBI should never rely on a news report in a FISA application, much less rely solely on such reporting.
-
-6. The Special Counsel Pushed Pathetic Intel Too
-
-In May of 2017, Robert Mueller assumed leadership of the Russia collusion investigation, but nothing changed: The FBI continued to push nonsense to the FISA court. However, instead of presenting media reports as proof, the special counsel’s team pushed rumors.
-
-Specifically, as the newly declassified FISA application dated June 28, 2017 reveals, the FBI informed the FISA court that it “believes it has obtained additional information consistent with the above-described reporting from Sub-Source that Page met with Sechin while Page was in Moscow in July 2016.”
-
-The FBI then noted that in June 2017, agents had interviewed an individual whose name remains redacted. That individual told the FBI that he “recalled an instance where Page was picked-up in a chauffeured car and that it was rumored at that time that Page had met with Igor Sechin.” Yes, that’s right—rumor.
-
-7. Oh, the Sweet Irony
-
-The final take-away from the newly declassified portion of the FISA applications reveals just how tone-deaf and oblivious the FBI agents involved in Crossfire Hurricane were. In the final application, the FBI “notes that Pages continues to be active in meeting with media outlets . . . to refute claims of his involvement with Russian Government efforts to influence the 2016 U.S. Presidential election.”
-
-“This approach is important,” the FBI posits, “because, from the Russian Government’s point-of-view, it continues to keep the controversy of the election in front of the American and world media, which has the effect of undermining the integrity of the U.S. electoral process and weakening the effectiveness of the current U.S. Administration” (emphasis added).
-
-As the kids would say, “I can’t even.”
+Read more from SkyNews.

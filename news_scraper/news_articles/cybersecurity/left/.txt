@@ -1,40 +1,50 @@
-For indispensable reporting on the coronavirus crisis and more, subscribe to Mother Jones' newsletters
+The email accounts of four senior aides at the National Republican Congressional Committee were surveilled for several months, party officials said. | Alex Wong/Getty Images Cybersecurity Exclusive: Emails of top NRCC officials stolen in major 2018 hack Republican leaders were not informed until POLITICO contacted committee officials about the incident.
 
-The “unregulated spaces of social media platforms” are increasingly serving as “instruments for political distortion,” according to a new analysis from the democracy watchdog Freedom House, leading the group to conclude for the ninth consecutive year that global internet and digital media freedom has declined.
+The House GOP campaign arm suffered a major hack during the 2018 midterm campaigns, exposing thousands of sensitive emails to an outside intruder, according to three senior party officials.
 
-The Washington, DC-based free expression and research nonprofit has been studying internet freedom since 2009. This year’s report surveyed 65 countries covering the vast majority of the world’s internet users, seeking to measure factors including legal safeguards for free expression, the protection of internet users’ rights to privacy, and the ability to transmit news and political information.
+The email accounts of four senior aides at the National Republican Congressional Committee were surveilled for several months, the party officials said. The intrusion was detected in April by an NRCC vendor, who alerted the committee and its cybersecurity contractor. An internal investigation was initiated, and the FBI was alerted to the attack, said the officials, who requested anonymity to discuss the incident.
 
-Internet-based disinformation efforts “have reached a new zenith and sophistication.”
+Advertisement
 
-Mike Abramowitz, the president of Freedom House, told reporters that this year’s report found two key themes: government and populist movements using social media platforms to “manipulate elections on a grand scale, alongside government use of “technology to monitor their own citizens on an unprecedented scale.”
+However, senior House Republicans — including Speaker Paul Ryan of Wisconsin, Majority Leader Kevin McCarthy of California and Majority Whip Steve Scalise of Louisiana — were not informed of the hack until Politico contacted the NRCC on Monday with questions about the episode. Rank-and-file House Republicans were not told, either.
 
-While internet-based disinformation efforts are nothing new, Abramowitz said, they “have reached a new zenith and sophistication,” occurring not only in dictatorships but “increasingly in democracies” as well. “Perhaps most alarming is how populist leaders and far-right groups have grown adept not only at creating viral disinformation, but also at building and coordinating networks that disseminate it,” he said. “In many cases, unscrupulous candidates and their supporters are manufacturing their own echo chambers from scratch.”
+Rep. Steve Stivers of Ohio, who served as NRCC chairman this past election cycle, did not respond to repeated requests for comment.
 
-Repressive governments in China, Russia, Iran, and Saudi Arabia “are also stepping up efforts to influence elections outside their own borders,” he said.
-
-Equally troubling is governments’ increasing use of the internet and digital media to monitor their own citizens. “Three billion people are living under social media monitoring by their governments,” Abramowitz said, which employ artificial intelligence and other means to gather personal data and identify perceived threats and “silence opposition.” This is particularly disturbing, he added, given its tendency to lead to real-world consequences: In 47 of the 65 countries assessed, people had been arrested for non-violent online expression—a record number.
-
-It might be easy to dismiss these problems as belonging to foreign governments, but Abramowitz pointed out that the social media platforms that undergird the growing disinformation and surveillance dystopia are largely American companies, arguing that “the US bears a special responsibility for addressing these threats to internet freedom.” Such action, he said, “is the only way to stop the internet from becoming a trojan horse for tyranny and oppression.”
-
-Adrian Shahbaz, who co-authored the report with Allie Funk, said the biggest declines in internet freedom were in Sudan and Kazakhstan, followed by Brazil, Bangladesh, and Zimbabwe. China, well known for its oppressive approach to the internet, still ranks as the world’s worst abuser of internet freedom, based partly on crackdowns launched ahead of the 30th anniversary of the Tiananmen Square massacre and in response to anti-government protests in Hong Kong.
-
-He noted that the US has its own issues, with law enforcement agencies’ increasing use of social media monitoring and warrantless searches of travelers’ devices, and widespread disinformation efforts around the 2018 midterm elections, “with both domestic and foreign actors manipulating content for political purposes,” with similar activity gearing up for 2020.
-
-The report analyzes tactics deployed in countries during recent elections, finding three broad categories of interference: informational, technical, and legal.
-
-Shabaz called on the US congress and tech companies increase transparency around paid content, audit standards, and regulation of social media surveillance tools, and pointed to new laws in Washington, Illinois, and California, arguing that states could help drive policy in the face of Republican resistance to new federal laws designed to protect elections.
-
-“I do think that it might be a slow and difficult process but,” Shabaz added, “states can be a leader in demonstrating that reforms to the law are actually possible and can play a positive role in securing elections.”
-
-Read the full report below:
+Committee officials said they decided to withhold the information because they were intent on conducting their own investigation and feared that revealing the hack would compromise efforts to find the culprit.
 
 
 
 
 
+POLITICO Playbook newsletter Sign up today to receive the #1-rated newsletter in politics Email Sign Up By signing up you agree to receive email newsletters or alerts from POLITICO. You can unsubscribe at any time. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
 
+“We don’t want to get into details about what was taken because it’s an ongoing investigation,” said a senior party official. “Let’s say they had access to four active accounts. I think you can draw from that.”
 
-11042019 Report FH FOTN 2019 Final Public Download (PDF)
+The hack became a major source of consternation within the committee as the midterm campaign unfolded. The NRCC brought on the prominent Washington law firm Covington & Burling as well as Mercury Public Affairs to oversee the response to the hack. The NRCC paid the two firms hundreds of thousands of dollars to help respond to the intrusion. The committee’s chief legal counsel, Chris Winkelman, devoted many hours to dealing with the matter.
 
-11042019 Report FH FOTN 2019 Final Public Download (Text)
+Party officials would not say when the hack began or who was behind it, although they privately believe it was a foreign agent because of the nature of the attack.
+
+Donor information was not compromised during the intrusion, the party officials said.
+
+“The NRCC can confirm that it was the victim of a cyber intrusion by an unknown entity. The cybersecurity of the Committee’s data is paramount, and upon learning of the intrusion, the NRCC immediately launched an internal investigation and notified the FBI, which is now investigating the matter,” said Ian Prior, a vice president at Mercury.
+
+Prior, a former Justice Department official and NRCC operative, has been working with the committee to deal with the matter.
+
+“To protect the integrity of that investigation, the NRCC will offer no further comment on the incident,” Prior added.
+
+An FBI spokesperson declined to comment on its investigation into the incident.
+
+None of the information accessed during the hack — thousands of emails from senior NRCC aides — has appeared in public, party officials said. And they said there were no attempts to threaten the NRCC or its leadership during the campaign with exposure of the information.
+
+But the fact that the NRCC was hacked and withheld that information is likely to prove embarrassing at a time when Republicans are grappling with an election in which they lost 40 seats and control of the House. President Donald Trump has also claimed that Republicans are better than Democrats at cybersecurity, explaining why one party was hacked in 2016 but the other was not.
+
+“The DNC should be ashamed of themselves for allowing themselves to be hacked. They had bad defenses, and they were able to be hacked,” Trump told CBS News in July. “I heard they were trying to hack the Republicans, too. But, and this may be wrong, but they had much stronger defenses.”
+
+Rep. Tom Emmer of Minnesota will take over as NRCC chairman this cycle, a selection that was directly approved by McCarthy. Emmer is in the process of hiring his own senior aides for the committee, a normal procedure when a new chairman takes over a party committee. Emmer was first briefed on the hack on Monday evening.
+
+Cybersecurity remains a pressing concern for politicians and political committees, heightened by the high-profile Russian hacking of the Democratic National Committee and Hillary Clinton campaign chief John Podesta during the 2016 election cycle. It’s not clear, however, what the NRCC could have done to avoid this intrusion.
+
+The hack was first detected by an MSSP, a managed security services provider that monitors the NRCC’s network. The MSSP informed NRCC officials and they, in turn, alerted Crowdstrike, a well-known cybersecurity firm that had already been retained by the NRCC.
+
+Like other major committees, the NRCC also had security procedures in place before the election cycle began to try to limit the amount of information that could be exposed to a potential hacker. It also employed a full-time cybersecurity employee.
 

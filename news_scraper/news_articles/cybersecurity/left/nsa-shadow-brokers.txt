@@ -1,9 +1,0 @@
-WASHINGTON — Jake Williams awoke last April in an Orlando, Fla., hotel where he was leading a training session. Checking Twitter, Mr. Williams, a cybersecurity expert, was dismayed to discover that he had been thrust into the middle of one of the worst security debacles ever to befall American intelligence.
-
-Mr. Williams had written on his company blog about the Shadow Brokers, a mysterious group that had somehow obtained many of the hacking tools the United States used to spy on other countries. Now the group had replied in an angry screed on Twitter. It identified him — correctly — as a former member of the National Security Agency’s hacking group, Tailored Access Operations, or T.A.O., a job he had not publicly disclosed. Then the Shadow Brokers astonished him by dropping technical details that made clear they knew about highly classified hacking operations that he had conducted.
-
-America’s largest and most secretive intelligence agency had been deeply infiltrated.
-
-“They had operational insight that even most of my fellow operators at T.A.O. did not have,” said Mr. Williams, now with Rendition Infosec, a cybersecurity firm he founded. “I felt like I’d been kicked in the gut. Whoever wrote this either was a well-placed insider or had stolen a lot of operational data.”
-
-The jolt to Mr. Williams from the Shadow Brokers’ riposte was part of a much broader earthquake that has shaken the N.S.A. to its core. Current and former agency officials say the Shadow Brokers disclosures, which began in August 2016, have been catastrophic for the N.S.A., calling into question its ability to protect potent cyberweapons and its very value to national security. The agency regarded as the world’s leader in breaking into adversaries’ computer networks failed to protect its own.

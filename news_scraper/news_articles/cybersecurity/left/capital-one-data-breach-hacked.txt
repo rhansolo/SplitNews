@@ -1,9 +1,0 @@
-A software engineer in Seattle hacked into a server holding customer information for Capital One and obtained the personal data of over 100 million people, federal prosecutors said on Monday, in one of the largest thefts of data from a bank.
-
-The suspect, Paige Thompson, 33, left a trail online for investigators to follow as she boasted about the hacking, according to court documents in Seattle, where she was arrested and charged with one count of computer fraud and abuse.
-
-Ms. Thompson, who formerly worked for Amazon Web Services, which hosted the Capital One database that was breached, was not shy about her work as a hacker. She is listed as the organizer of a group on Meetup, a social network, called Seattle Warez Kiddies, described as a gathering for “anybody with an appreciation for distributed systems, programming, hacking, cracking.”
-
-[What we know about Paige Thompson, the software engineer accused in the Capital One data breach.]
-
-The F.B.I. noticed her activity on Meetup and used it to trace her other online activities, eventually linking her to posts describing the data theft on Twitter and the Slack messaging service.

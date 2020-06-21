@@ -1,49 +1,45 @@
-The former CIA and FBI director’s article is a symptom of how the establishment media has become the propaganda arm of an increasingly robust U.S. authoritarian movement.
+WikiLeaks on Tuesday released what it said is the full hacking capacity of the CIA in a stunning 8,000-plus page disclosure the anti-secrecy website contends is “the largest ever publication of confidential documents on the agency.”
 
-In 2018, the U.S. government filed 1,117 final applications to the Foreign Intelligence Surveillance Act court for authority for the FBI to conduct electronic surveillance and physical searches. One application was withdrawn. One other was denied. The remaining 1,115 were granted.
+The 8,761 documents and files -- released as “Vault 7 Part 1” and titled “Year Zero” -- were obtained from an “isolated, high-security network” at the CIA’s Center for Cyber Intelligence in Langley, Va., a press release from the website said. The trove had been “circulated among former U.S. government hackers and contractors,” one of whom “recently” gave the archive to WikiLeaks. The CIA allegedly employs more than 5,000 people in its cyber spying operation and had produced more than 1,000 programs as of 2016.
 
-Hours before the FISA court issued a December 17 order openly declaring that it could no longer trust any of the sworn statements the FBI had submitted to justify spying on Americans, The New York Times published an opinion article by William Webster, a former director of both the FBI and the CIA. Webster wrote, “Today, the integrity of the institutions that protect our civil order is, tragically, under assault from too many people whose job it should be to protect them.”
+“We do not comment on the authenticity or content of purported intelligence documents," a CIA spokesperson told Fox News.
 
-Gone are the days The New York Times worked to expose government abuse of power. The New York Times now defends power from truth.
+The collection of purported intelligence documents includes information on CIA-developed malware -- bearing names such as “Assassin” and “Medusa” -- intended to target iPhones, Android phones, smart TVs and Microsoft, Mac and Linux operating systems, among others. An entire unit in the CIA is devoted to inventing programs to hack data from Apple products, according to WikiLeaks.
 
-No More ‘Dissent Is Patriotism’
+WIKILEAKS OFFERS REWARD FOR INFO ON OBAMA MISDEEDS
 
-Setting aside the very dubious propositions that the FBI and the CIA should be protected from criticism, let’s plumb the depths of the Webster/NYT argument. Who, according to Webster, has the job of protecting the FBI and the CIA? Webster explains exactly who he means: “I am deeply disturbed by the assertion of President Trump that our ‘current director’ — as he refers to the man he selected for the job of running the F.B.I. — cannot fix what the president calls a broken agency.”
+Some of the remote hacking programs can allegedly turn numerous electronic devices into recording and transmitting stations to spy on their targets, with the information then sent back to secret CIA servers. One document appears to show the CIA was trying to “infect” vehicle control systems in cars and trucks for unspecified means.
 
-Webster goes on to suggest that the FBI should operate as an independent agency and that he is outraged by the “president’s thinly veiled suggestion that the director, Christopher Wray, like his banished predecessor, James Comey, could be on the chopping block.” He adds, “The independence of both the F.B.I. and its director is critical and should be fiercely protected by each branch of government.” Webster goes on to make it clear that the “rule of law” is threatened by the president criticizing the FBI.
+WikiLeaks hinted that the capabilites revealed in Tuesday's disclosure could have even darker utility than simply spying.
 
-The article is a symptom of how the establishment media has become the propaganda arm of an increasingly robust authoritarian movement in the United States. This movement inverts constitutional principles so that it becomes the president’s job to protect the FBI from criticism and his threat to fire an FBI chief is a threat to the Constitution. This is the kind of thing that Vladimir Putin might have told Tass to publish as he sought to seize power from Boris Yeltsin in the 1990s.
+“It would permit the CIA to engage in nearly undetectable assassinations,” the release stated.
 
-Not Mistakes But Deliberate Abuse of Power
+WikiLeaks #Vault7 confirms CIA can effectively bypass Signal + Telegram + WhatsApp + Confide encryptionhttps://t.co/h5wzfrReyy — WikiLeaks (@wikileaks) March 7, 2017
 
-The legitimacy of the FBI is in free fall. But not its terrifying power. The biggest lie about the latest Office of Inspector General report is that it reveals “mistakes” made by the FBI. These weren’t mistakes. The FISA court used more accurate terminology, like “misconduct.” The FBI investigators who applied for the Carter Page warrants had in their possession information that directly contradicted the basic factual requirements to apply for a surveillance warrant.
+FLASHBACK: WIKILEAKS REVEALS CLINTON 'HITS' FILE ON SANDERS
 
-As noted by the FISA court, “On December 9, 2019, the government filed with the FISC public and classified versions of the OIG Report…It documents troubling instances in which FBI personnel provided information…which was unsupported or contradicted by information in their possession.” These include falsely claiming dossier author Christopher Steele’s prior work was relied upon in prior criminal proceedings, doctoring evidence to hide the fact that Page was actually working for America to spy on Russia, and falsely claiming that the FBI had corroborated Steele’s work when Steele himself questioned his source’s accuracy in October 2016.
+The site said the CIA additionally failed to disclose security vulnerabilities and bugs to major U.S. software manufacturers, violating an Obama administration commitment made in January 2014. Instead, the agency used the software vulnerabilities -- which could also be exploited by rival agencies, nations and groups -- for its own ends, WikiLeaks said.
 
-The FBI knew by October 2016 that Page denied ever meeting Paul Manafort but nevertheless told the FISA court that it believed Manafort coordinated the Trump/Russia collusion through Page. The FBI told the FISA court that Page was working directly with two Russians he denied ever meeting.
+CIA hackers celebrated what they saw as the financial largesse of Obama towards them with "Make It Rain" gifhttps://t.co/M8LJ03ZoiC pic.twitter.com/zjV5uqQ68P — WikiLeaks (@wikileaks) March 7, 2017
 
-‘They Withheld Information Detrimental to Their Case’
+“As an example, specific CIA malware revealed in ‘Year Zero’ is able to penetrate, infest and control both the Android phone and iPhone software that runs or has run presidential Twitter accounts,” the WikiLeaks release stated.
 
-Webster wrote, “In fact, the report conclusively found that the evidence to initiate the Russia investigation was unassailable.” That’s simply not true. The FISA court wrote, “The FBI’ s handling of the Carter Page applications, as portrayed in the OIG report, was antithetical to the heightened duty of candor described above. The frequency with which representations made by FBI personnel turned out to be unsupported or contradicted by information in their possession, and with which they withheld information detrimental to their case, calls into question whether information contained in other FBI applications is reliable.”
+Digital rights non-profit Access Now said in a statement on Tuesday it was "fantasy to believe only the 'good guys'" would be able to use the discovered vulnerabilities.
 
-The FISA Court is referring to all pending FISA applications, more than 1,000 of which were initiated last year. The FISA court ordered the government to, “no later than January 10, 2020, inform the Court in a sworn written submission of what it has done, and plans to do, to ensure that the statement of facts in each FBI application accurately and completely reflects information possessed by the FBI that is material to any issue presented by the application.”
+“Today, our digital security has been compromised because the CIA has been stockpiling vulnerabilities rather than working with companies to patch them," Senior Legislative Manager Nathan White said.
 
-America is deep in the midst of a civil liberties crisis. The FISA court recently exposed a massive spying operation by the FBI using the National Security Agency’s secret database. It confirmed that under FBI Director Christopher Wray, “Since April 2017, the government has reported a large number of FBI queries that were not reasonably likely to return foreign-intelligence intonation or evidence of crime. In a number of cases, a single improper decision or assessment resulted in the use of query terms corresponding to a large number of individuals, including U.S. persons.”
+The CIA allegedly also maintains a database of malware created in other nations -- WikiLeaks specifically cites Russia -- in order to disguise its own hacking attempts as the work of another group.
 
-The FBI routinely violated record-keeping procedures the court established to ensure that the FBI could account for who it spied upon and why. This followed an earlier decision in which the FBI falsely certified to the FISA court that it was not abusing electronic spying. In that opinion, the FISA court accused the intelligence community of an “institutional lack of candor.”
+In what is described by WikiLeaks as "one of the most astounding intelligence own goals in living memory," the CIA is said to have made most of its programs unclassified to avoid legal consequences for transmitting classified information through the Internet -- a move that increased the risk of outside groups pirating the cyber spying tools.
 
-FBI Fights to Hide Its Misconduct
+WikiLeaks also revealed the U.S. Consulate in Frankfurt is a hacking base, and the website provided the methods by which agents obfuscate customs officers to gain entry to Germany, pretending to provide technical consultation.
 
-Under Wray, the FBI has fought congressional and judicial oversight. It fought the public release of yet another damning opinion from the FISA court released earlier this year. It appears to have slowed the release of this most recent OIG report.
+WikiLeaks said its source released the files because they believed questions surrounding the CIA’s reach “urgently need to be debated in public,” echoing the motives of many previous leakers.
 
-The OIG completed its probe of the Page FISA warrants in mid-September of this year. Nevertheless, the FBI withheld from the FISA court shocking revelations until the last possible minute. The FBI slashed by 85 percent its office in charge of monitoring the shady relationships between FBI agents and their confidential human sources.
+Still working through the publication, but what @Wikileaks has here is genuinely a big deal. Looks authentic. — Edward Snowden (@Snowden) March 7, 2017
 
-In other words, Wray has accelerated the FBI’s decline in a way more commonly associated with James Comey. One need only listen to Wray’s words to understand why. He recently said of the shocking IG report on the FBI’s many deceptions of the FISA court that it was “important that the inspector general found that, in this particular instance, the investigation was opened with appropriate predication and authorization.” That’s actually totally irrelevant. That Wray doesn’t seem to care that the FBI repeatedly deceives courts to spy on Americans is what’s important.
+One such former leaker, Edward Snowden, tweeted Tuesday afternoon about the WikiLeaks release.
 
-How will the FBI react to this avalanche of damning information? The accelerating march to a Soviet-style FBI will continue unabated under the cover of lip service to correct a “failure in the process.” That’s ridiculous. Exactly what regulation needs to be changed so that the FBI stops lying to courts?
+"Still working through the publication, but what @Wikileaks has here is genuinely a big deal. Looks authentic," wrote Snowden, who has been granted asylum in Russia as he seeks to avoid criminal prosecution in the U.S.
 
-The FBI has repeatedly promised to stop illegal spying on Americans, only to increase operations. It has contempt for the court and the president’s constitutional authority to reign in these abuses. As of 2017, it used this spying to interfere with the peaceful transfer of power to a new elected president.
-
-It’s all happening in plain sight. The legacy media, led by The New York Times, are openly advocating making the FBI an independent agency with power over the elected president. Lying to spy on Americans is pretty much the worst thing a law enforcement agency can do, short of framing elected leaders for treason. Somebody has to go to prison, or this will get worse.
-
-We keep hearing “nobody is above the law.” But the FBI has repeatedly demonstrated otherwise.
+Some of the WikiLeaks files include redacted information, such as tens “of thousands of CIA targets and attack machines throughout Latin America, Europe and the United States.”

@@ -1,101 +1,101 @@
-Quick Take
+Most Americans Say Federal Government Has Primary Responsibility for COVID-19 Testing
 
-Social media posts falsely claim donations made on the Black Lives Matter website go “directly” to the Democratic Party, because the group uses ActBlue Charities — an online fundraising platform. Donations go to the Black Lives Matter Global Network Foundation. The funds first pass through a nonprofit that sponsors the group.
+Declining share of Republicans say the coronavirus is a major threat to health in the U.S.
 
-Full Story
+How we did this Pew Research Center conducted this study to understand how Americans are continuing to respond to the coronavirus outbreak and their assessments of how well U.S. leadership is working during this crisis. For this analysis, we surveyed 10,957 U.S. adults from April 29 to May 5, 2020. Everyone who took part is a member of Pew Research Center’s American Trends Panel (ATP), an online survey panel that is recruited through national, random sampling of residential addresses. This way nearly all U.S. adults have a chance of selection. The survey is weighted to be representative of the U.S. adult population by gender, race, ethnicity, partisan affiliation, education and other categories. Read more about the ATP’s methodology. See here to read more about the questions used for this report, along with responses, and its methodology.
 
-As the Black Lives Matter movement captures national attention, websites and social media posts are spreading a false claim about donations made to a leading Black Lives Matter organization.
+As a growing number of states ease stay-at-home restrictions imposed in response to the outbreak of the novel coronavirus, a majority of Americans (61%) say it is primarily the federal government’s responsibility to make sure there are enough COVID-19 tests in order to safely lift the restrictions.
 
-An Instagram page for the website WokeHub.com claimed, for example, that “donations made to Black Lives Matter website go directly to the DNC” and that BlackLivesMatter.com “appears to be an international money laundering program used by the Democratic National Committee.” A similar claim appeared on the conspiracy theory website InfoWars.com.
+Fewer (37%) say it is mainly the responsibility of state governments to ensure there is an adequate supply of tests.
 
-Conservative personality Candace Owens also put the claim before her more than 1 million followers on Instagram, where she claimed “BLACK LIVES MATTER FUNDING GOES DIRECTLY TO WHITE DEMOCRATS AND THEIR VARIOUS INITIATIVES TO GET DEMOCRATS INTO OFFICE.”
+Partisans differ sharply over which level of government bears the responsibility for COVID-tests: A sizable majority of Democrats and Democratic-leaning independents (78%) say this responsibility primarily falls on the federal government, with 28% saying it is entirely responsible for making sure there are enough tests. A smaller majority of Republicans and Republican leaners (57%) say this is primarily the responsibility of state governments.
 
-But the claims — perhaps worsened by public confusion over the structure of the organization, which we’ll explain later — are based on a distortion of facts regarding the nonprofit ActBlue, which provides fundraising infrastructure to Democratic campaigns and progressive organizations.
+Since late March, Republicans and Democrats have diverged in opinions about several aspects of the coronavirus crisis. There is a growing partisan gap in perceptions of the threat that COVID-19 poses to the health of the U.S. population. And Republicans, unlike Democrats, now express less positive views of how well state and local officials – and even widely praised public health officials, such as those at the Centers for Disease Control and Prevention (CDC) – are handling the outbreak.
 
-ActBlue and BlackLivesMatter.com
+However, local hospitals and medical centers draw overwhelmingly positive ratings from members of both parties for how they have responded to the coronavirus outbreak. About nine-in-ten Americans (88%), including nearly identical majorities in both parties, say hospitals and medical centers in their area have done an excellent or good job.
 
-There are a number of groups that use the phrase “Black Lives Matter” in their name. There is a “Black Lives Matter Foundation,” for example, whose president confirmed to us that it is not related to the organization behind BlackLivesMatter.com — which is at the center of the viral claims.
+The new national survey by Pew Research Center, conducted April 29 to May 5 among 10,957 U.S. adults on the Center’s American Trends Panel, finds that the share of Republicans giving positive ratings to public health officials, such as those with the CDC, for their response to the coronavirus outbreak has declined 16 percentage points since a late March survey, conducted from the 19th to the 24th of that month.
 
-BlackLivesMatter.com is operated by an umbrella Black Lives Matter organization called the Black Lives Matter Global Network. The effort started in 2013 following the acquittal of George Zimmerman in the killing of Trayvon Martin.
+Currently, 68% of Republicans and Republican-leaning independents say public health officials such as those at the CDC have done an excellent or good job in dealing with the outbreak, down from 84% nearly two months ago. Positive ratings for public health officials among Democrats and Democratic leaners are virtually unchanged at 75%.
 
-To collect donations, the website uses ActBlue Charities, a 501(c)(3) organization that specifically makes the platform available to charitable organizations.
+Republicans also give lower ratings to state officials and local government officials than they did in March. And while a sizable majority of Republicans and Republican leaners (77%) say Donald Trump has done an excellent or good job in responding to the outbreak, this is somewhat lower than the 83% who said this two months ago. Democrats’ evaluations of Trump’s performance also are lower today (11%) than in March (18%).
 
-Owens’ Instagram post features a video showing that BlackLivesMatter.com uses ActBlue for its donations. It then shows an OpenSecrets.org breakdown of expenditures by ActBlue made in the 2020 cycle; the top recipients are the presidential campaigns of Sen. Bernie Sanders, former Vice President Joe Biden, and Sen. Elizabeth Warren.
+The survey finds little overall change since March in the public’s views of the threat from the coronavirus outbreak to the nation’s economy and the health of the U.S. population. Currently, 88% of Americans say the outbreak is a major threat to the U.S. economy, while 64% view it as a major threat to the health of the U.S. population. (This survey was conducted before the release of the April jobs report showing the nation’s unemployment rate at 14.7%, the highest since the Great Depression.)
 
-But the video misrepresents how ActBlue works. ActBlue isn’t itself donating money. It’s just the online platform that campaigns and groups use to solicit and collect donations.
+However, while nearly identical majorities of Republicans (88%) and Democrats (89%) say the outbreak is a major threat to the economy, Democrats are now nearly 40 percentage points more likely than Republicans to say it is major threat to the health of the population (82% of Democrats vs. 43% of Republicans).
 
-Campaign finance experts told us that it’s false to say that donations to the Black Lives Matter group are going to the Democratic National Committee, or to Democratic presidential campaigns, simply because the website uses ActBlue.
+Since late March, the share of Republicans who view the outbreak as a major threat to the nation’s health has declined 9 points, from 52% to 43%, while increasing slightly among Democrats, from 78% to 82%.
 
-“ActBlue lets candidates and liberal nonprofit organizations set up their separate accounts,” Michael Malbin, director of the nonpartisan Campaign Finance Institute, told us in a phone interview. “There’s no crossing from one account to another. If you give the money to Sanders, it does not go to Biden.”
+As has been the case since the coronavirus outbreak started, fewer Americans view the coronavirus outbreak as a major threat to their personal finances and health than to the nation’s economy and to the health of the population. Currently, 41% say the outbreak is a major threat to their personal finances, which is somewhat lower than the share who said this in late March (49%). Views of the threat the outbreak poses to personal health have changed little since then (currently 38%).
 
-Malbin — a professor of political science at the University at Albany, State University of New York — said candidates and organizations use ActBlue “for the ease of transactions.”
+While many businesses closed as social distancing measures and stay-at-home orders were put in place across the United States, essential organizations and businesses such as hospitals, police stations, online retailers and various grocery stories remained open. Majorities of the public say these business and organizations are doing enough to protect these essential workers.
 
-“ActBlue has no discretion over” where to direct individuals’ contributions, he said. The money “you see coming through ActBlue is coming through it, not from it.”
+Large majorities say police, fire and emergency departments (80%) and local hospitals and medical centers (78%) are doing enough to protect their employees. Nearly seven-in-ten (69% each) say the same about online retailers and grocery stores.
 
-A similar platform used for Republican fundraising efforts, WinRed, launched in 2019.
+While these views are widely shared by the public overall, Republicans are more likely than Democrats to say all four groups of employers are doing enough to protect their workers. In particular, a larger share of Republicans (82%) than Democrats (59%) say online retailers have done enough to protect their employees; the gap is about as wide in the shares saying grocery stores have done enough in this regard (80% of Republicans, 60% of Democrats).
 
-“When you donate on an ActBlue or ActBlue Charities page, the donation is earmarked for the group listed on the form,” Caleb Cade, a spokesperson for ActBlue, told us in an email. “We pass along the contribution directly to the receiving campaign or entity. We do not choose the recipient of the contribution, the donor does.”
+Majorities rate local hospitals, public health officials and state and local officials positively for response to the COVID-19 outbreak
 
-In a statement to FactCheck.org, the Black Lives Matter Global Network’s managing director, Kailee Scales, said that the claims about the money being routed to Democrats are part of “an organized disinformation campaign against BLM, from actors clearly trying to blunt the growing support for this movement.”
+The public expresses highly positive views of the way local hospitals and medical centers are responding to the coronavirus outbreak. Nearly nine-in-ten (88%) say hospitals and medical centers in their area are doing an excellent or good job in responding to the outbreak, including 47% who say they are doing an excellent job.
 
-“All contributions to the DNC are publicly reported to the FEC and review of FEC reports will confirm there has never been any donation from this organization,” she said.
+Majorities of Americans also say public health officials such as those at the CDC (72%), their local elected officials (64%) and their state elected officials (62%) are doing either a good or excellent job in response to the coronavirus outbreak.
 
-The Operations of the Black Lives Matter Global Network
+The public is much less positive in evaluations of how the news media and Donald Trump have responded to the coronavirus outbreak. Fewer than half of Americans (46%) say the news media have done a good or excellent job in responding to the outbreak; 53% say they have done a fair or poor job.
 
-The claims seem to have flourished amid confusion over the structure of the Black Lives Matter Global Network, which is incorporated in Delaware.
+An even larger majority of Americans say Donald Trump is doing an only fair (17%) or poor job (42%) responding to the COVID-19 outbreak. About four-in-ten Americans (41%) say Trump is doing an excellent or good job responding to the outbreak.
 
-The ActBlue donations page on the website specifically says that the money given will “benefit Black Lives Matter Global Network.”
+For the most part, these assessments have become somewhat less positive since March – largely because of changes in opinions among Republicans and Republican-leaning independents. (This is the first time the survey has included local hospitals and medical centers.)
 
-Technically, the network also has structured a foundation — the Black Lives Matter Global Network Foundation — which is “fiscally sponsored” by a global nonprofit called Thousand Currents, according to Jenesha de Rivera, director of finance and administration at Thousand Currents.
+Currently, 72% of Americans say public health officials such as those at the CDC are doing an excellent or good job in response to the coronavirus outbreak (down from 79% in March). The share of Republicans who give public health officials positive ratings has fallen 16 percentage points since then, from 84% t0 68%, while there has been almost no change among Democrats (75% currently).
 
-The partnership between the network and the nonprofit (formerly the International Development Exchange) was announced in 2016. The nonprofit organization said it would provide “fiduciary oversight, financial management, and other administrative services to BLM.”
+Similarly, Republicans’ evaluations of their local elected officials (61% currently say they have done an excellent or good job, down from 73% in March) and their state elected officials (from 72% then to 60% today) have become less positive.
 
-Cade, the ActBlue spokesperson, confirmed that the donations made through ActBlue go to Thousand Currents for Black Lives Matter.
+Republicans also offer somewhat less positive evaluations of how Trump has handled the outbreak than they did a few months ago: A 77% majority says he has done an excellent or good job, compared with 83% who said this in March.
 
-Fiscal sponsorships are common.
+For the most part, Democrats and Democratic leaners’ ratings for state and local officials and the news media are little changed. But the share of Democrats with positive views of Trump’s handling of the outbreak, already low at 18% in March, has fallen to 11%.
 
-“Using a fiscal sponsorship arrangement offers a way for a cause to attract donors even when it is not yet recognized as tax-exempt under Internal Revenue Code Section 501(c)(3),” according to the National Council on Nonprofits. “In essence the fiscal sponsor serves as the administrative ‘home’ of the cause. Charitable contributions are given to the fiscal sponsor, which then grants them to support the cause.”
+Far more Americans say coronavirus threatens nation’s economy and public health than say this about own finances or health
 
-Black Lives Matter Global Network Foundation “is an organization within Thousand Currents,” de Rivera said in a phone interview, “so it can accomplish its charitable purpose prior to receiving its approval from the IRS for its own 501(c)(3).”
+As has been the case since the coronavirus outbreak began, much larger majorities say it is a major threat to the U.S. economy (88%) and the health of the population (64%) than that it threatens people’s own finances (41%) and health (38%).
 
-De Rivera said the foundation has applied to become its own 501(c)(3). We asked the Black Lives Matter group for a copy of its Form 1023, which is used to apply for that designation, but didn’t hear back. An IRS spokesperson said copies are only publicly available if the organization is approved for 501(c)(3) status.
+These views are largely unchanged since late March, but the proportion viewing the outbreak as a major threat to their own finances has declined from 49% to 41%.
 
-On the claims that money is being given to Democratic campaigns, de Rivera said that Thousand Currents’ own 501(c)(3) status would be “in jeopardy” if charitable donations made through the organization were rerouted to political campaigns.
+Notably, there are no significant partisan differences in views of whether the coronavirus threatens the economy: 89% of Democrats and 88% of Republicans say it is a major threat.
 
-According to the IRS, “all section 501(c)(3) organizations are absolutely prohibited from directly or indirectly participating in, or intervening in, any political campaign on behalf of (or in opposition to) any candidate for elective public office. Contributions to political campaign funds or public statements of position (verbal or written) made on behalf of the organization in favor of or in opposition to any candidate for public office clearly violate the prohibition against political campaign activity.”
+However, Democrats also broadly view the outbreak as a major threat to the health of the U.S. population (82%); Republicans, for the most part, do not. Fewer than half (43%) say the outbreak is a major threat to the health of the population.
 
-A Thousand Currents audit for 2019 shows that, as of June 2019, the organization held nearly $3.4 million in net assets for Black Lives Matter. It had released nearly $1.8 million to the group in the last fiscal year.
+The partisan differences are more modest in views of the personal impact of the coronavirus. Still, Democrats are somewhat more likely than Republicans to say it is a major threat to their personal finances (44% vs. 36%) and much more likely to regard it as a major threat to their health (47% vs. 27%).
 
-The audit also provides a breakdown of how the foundation (referred to as the “fiscal project” under a statement of functional expenses, according to de Rivera) spent that $1.8 million in buckets — including on consultants and salaries.
+There are also geographic differences in views of the personal threat posed by COVID-19, with those who live in counties most heavily impacted by the virus more likely to see the outbreak as a threat to their personal finances and personal health.
 
-Speaking generally about the issue of fiscal sponsorships, Benjamin Leff, a law professor at American University who specializes in the regulation of nonprofits, told us by phone that “the sponsoring organization is responsible” for ensuring “that the sponsored organization spends the money in a way that is consistent with the law.” He said the sponsored organization does not have to file its own Forms 990.
+Among adults living in counties with 100 or more reported coronavirus deaths as of May 1, about half (48%) say the outbreak is a major threat to their personal financial situation, compared with 37% of those living in counties with fewer than 10 reported deaths. Meanwhile, 43% of those in the most impacted counties say the outbreak is a threat to their personal health, as do 36% of those in counties that have been moderately impacted and 35% of those in the least impacted counties.
 
-And, Leff said in an email, because ActBlue Charities is also a 501(c)(3), it is his “understanding … that both ActBlue Charities and Thousand Currents have a legal obligation to make reasonable efforts to ensure that the funds they receive are spent consistent with 501(c)(3) restrictions.”
+Within the most and least heavily impacted counties, sizable partisan differences remain, particularly in views of the impact of the coronavirus on people’s health. Democrats overall are 20 percentage points more likely than Republicans to view the coronavirus outbreak as a major threat to their personal health; these differences persist in counties most impacted by the outbreak as well as those less affected. Among Republicans in the most impacted counties, 34% see the coronavirus as a major threat to their health; that is much lower than the share of Democrats in the least affected counties who say this (48%).
 
-On June 11, the Black Lives Matter Global Network Foundation said in a press release that, thanks to donations, it would make $6.5 million available through grants that will be available to “all chapters affiliated” with it.
+Partisan differences are more modest in views of the impact of the outbreak on personal finances. Still, Democrats who live in counties with at least 100 coronavirus deaths as of May 1 are 8 percentage points more likely than Republicans in those counties to view the outbreak as a major threat to their finances, while Democrats in counties with fewer than 10 deaths are 11 points more likely than Republicans in those counties to view it as a major financial threat.
 
-Editor’s note: FactCheck.org is one of several organizations working with Facebook to debunk misinformation shared on social media. Our previous stories can be found here.
+More young adults view coronavirus as major threat to their finances than to their health
 
-Sources
+Since the beginning of the coronavirus outbreak, there have been wide differences by race and ethnicity in perceptions of the impact of the coronavirus.
 
-“ActBlue Expenditures.” OpenSecrets.gov. Accessed 11 Jun 2020.
+The new survey finds that black and Hispanic adults are far more likely than whites to say the outbreak is a major threat both to their health and finances.
 
-Cade, Caleb. Spokesperson, ActBlue. Email to FactCheck.org. 11 Jun 2020.
+About half of black (54%) and Hispanic (52%) adults say the outbreak is a major threat to their personal health, compared with 32% of whites.
 
-De Rivera, Jenesha. Director of finance and administration, Thousand Currents. Phone interview with FactCheck.org. 12 Jun 2020.
+The differences are about as wide in views of the impact on personal finances: 60% of Hispanics and 51% of blacks view the outbreak as a major threat to their finances, compared with 34% of whites.
 
-“Fiscal Sponsorship for Nonprofits.” National Council of Nonprofits. Accessed 11 Jun 2020.
+Younger adults continue to be more likely to view the coronavirus as a major threat to their personal finances than as a major threat to their personal health. Four-in-ten adults ages 18 to 29 say the outbreak is a major threat to their financial situation, while roughly a quarter (26%) say it is a major threat to their health. Adults ages 30 to 49 are 9 percentage points more likely to say the outbreak is a major threat to their finances than to their health.
 
-“IDEX and Black Lives Matter announce global partnership.” Thousand Currents. 6 Sep 2016.
+Among adults ages 50 to 64, similar proportions say the outbreak is a major threat to their finances (46%) and to their health (43%). Adults 65 and older are the least likely to say the coronavirus outbreak is a major threat to their financial situation and the most likely to say it is a major threat to their health.
 
-Leff, Benjamin. Law professor, American University. Phone interview with FactCheck.org. 12 Jun 2020.
+People living with a lower household income are significantly more likely to view the outbreak as a major threat to both their finances and their health than individuals in higher-income households. Among those in lower-income households, a slim majority (54%) say the virus is a major threat to their finances, compared with about three-in-ten (31%) of those in upper-income households. And nearly half (47%) in lower-income households say it is a major threat to their health, compared with three-in-ten in upper-income households.
 
-Malbin, Michael. Director, Campaign Finance Institute. Phone interview with FactCheck.org. 11 Jun 2020.
+Nearly two-thirds of conservative Republicans say states should be mainly responsible for ensuring enough COVID-19 testing
 
-Pappas, Alex. “WinRed, new GOP donor platform, reaps impeachment windfall, rakes in millions since probe launch.” Fox News. 1 Oct 2020.
+As states across the nation begin to slowly ease their closure orders and reopen their local economies, health experts say expanding the availability of testing for coronavirus is a necessary step in order to safely lift restrictions on public activity.
 
-Persily, Nathaniel. Law professor, Stanford University. Email to FactCheck.org. 11 Jun 2020.
+A majority of Americans (61%) say the federal government is mostly (40%) or entirely (21%) responsible in making sure there are enough COVID-19 tests available to the public. About four-in-ten (37%) say this responsibility at least mostly falls on the state government.
 
-“The Restriction of Political Campaign Intervention by Section 501(c)(3) Tax-Exempt Organizations.” IRS. Accessed 12 Jun 2020.
+Younger adults are more likely than those who are older to say the federal government should take the lead in making testing for COVID-19 widely available. Seven-in-ten adults ages 18 to 29 say the federal government should be responsible for making COVID-19 testing available, the highest share in any age group.
 
-“Thousand Currents and Subsidiary Consolidated Financial Statements.” Squar Milner. 30 Jun 2019.
+Republicans are ideologically divided in views of whether the states or federal government should be responsible for making sure there are enough COVID-19 tests. Nearly two-thirds of conservative Republicans (65%) say this is the responsibility of a state government; a majority of moderate and liberal Republicans (55%) say it is the federal government’s responsibility. Among Democrats, a larger majority of liberals (85%) than conservatives and moderates (73%) say the responsibility for ensuring an adequate supply of COVID-19 tests lies with the federal government.

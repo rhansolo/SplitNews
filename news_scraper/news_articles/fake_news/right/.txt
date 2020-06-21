@@ -1,25 +1,13 @@
-A viral Facebook post shared more than 12,000 times claims that not a single media outlet has covered a recent appeals court case that former Secretary of State Hillary Clinton allegedly lost.
+In viral tweets Wednesday, political provocateurs Candace Owens and Charlie Kirk suggested that donations to the Black Lives Matter Foundation are being sent instead to ActBlue, a Democratic political committee:
 
-Verdict: False
+Daily Beast reporter Lachlan Markay pointed out that Owens’s tweets, and Kirk’s by extension, are inaccurate—while ActBlue is organized as a political committee, it acts as a nonprofit fundraising tool that serves as a conduit, rather than a collector, for donations. ActBlue’s website explains that the platform is available to “Democratic candidates and committees, progressive organizations, and nonprofits that share our values.” Such groups can incorporate an ActBlue contribution form into their websites for free—although there is a 3.95 percent processing fee on donations—allowing groups and candidates to raise funds without having to create and maintain their own secure method of receiving donations.
 
-While Clinton is appealing a lower court decision, she has not lost the case, as the appeals court has yet to rule on the matter at the time of publication. Media outlets have covered the case.
+While donations go to ActBlue initially, the group delivers the funds to the organization or candidate intended by the donor. It’s only possible for ActBlue to redirect funds if the recipient refuses a donation or doesn’t cash a check from ActBlue for 60 days. In such an instance, a donation is re-designated as a contribution to ActBlue (if earmarked for a campaign or committee), to support social welfare activities (if earmarked for social welfare organizations), or to ActBlue Charities (if earmarked for a charitable organization). In other words, even if Black Lives Matter were to refuse donations the funds would be given to another similar cause, not the Democratic Party or any political candidates. Donations can be made directly to ActBlue as well to support the organization.
 
-Fact Check:
+As a registered political committee, ActBlue is required to report all contributions made through its platform to relevant agencies at either the federal or state level. All donations at the federal level can be viewed on the Federal Election Commission website, and each donation shows who the donation is from and reports where it’s going in the memo section.
 
-The Facebook post appears to reference an ongoing appeals court case involving Clinton and the conservative government watchdog group Judicial Watch. In March, a federal judge ruled that Clinton must testify at a deposition about her use of a private email server during her tenure as secretary of state, according to CNBC. Clinton has appealed that decision, and the matter has gone to the U.S. Court of Appeals for the D.C. Circuit.
+After seeing the success of ActBlue, the Republican Party launched WinRed, a similar fundraising platform, though WinRed works only with candidates for elected office.
 
-But contrary to what the post alleges, Clinton has not lost the case. The appeals court has yet to rule on the matter at the time of publication. (RELATED: Does Joe Biden Support Defunding The Police, As Donald Trump Claims?)
+Owens’s and Kirk’s representations of ActBlue are inaccurate. Black Lives Matters is not “a shell company”; ActBlue serves as a conduit for donations for the Black Lives Matters Foundation and other political organizations.
 
-“Oral argument was held on June 2, 2020, but there has not been a decision yet,” said Clifton Cislak, chief deputy clerk of the U.S. Court of Appeals for the D.C. Circuit, in an email to the Daily Caller News Foundation.
-
-The claim that Clinton lost the appeal appears to stem from websites such as Magamedia.org and Where Is The Buzz that ran stories erroneously alleging she lost the appeal. Tom Fitton, the president of Judicial Watch, attempted to set the record straight on Twitter by responding to Magamedia.org’s story, which has since been updated.
-
-Appreciate the kind words, but this isn’t correct. The appeals court has not yet ruled. — Tom Fitton (@TomFitton) June 7, 2020
-
-“Appreciate the kind words, but this isn’t correct,” Fitton tweeted. “The appeals court has not yet ruled.”
-
-The Facebook post’s claim that no news organizations have covered the case doesn’t hold up either. Numerous media outlets, including CNN, CNBC and Politico, covered the initial March ruling. Politico, Law.com, Law 360 and others wrote about the June 2 hearing.
-
-The entirety of the audio from the roughly hour-and-a-half June 2 hearing can be found on the U.S. Court of Appeals for the D.C. Circuit’s YouTube page.
-
-Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience. For licensing opportunities of our original content, please contact [email protected].
+Neither Owens nor Kirk responded to our request for comment.
