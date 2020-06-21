@@ -114,6 +114,12 @@ def get_bias(urllist):
         if score < -0.3:
             ll.append(l)
             ll[-1]['bias'] = score
+        elif score >= -0.3 and score <= 0.3:
+            cl.append(l)
+            cl[-1]['bias'] = score
+        elif score > 0.3
+            rl.append(l)
+            rl[-1]['bias'] = score
 
         idx += 1
 
@@ -121,9 +127,15 @@ def get_bias(urllist):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
-        if score >= -0.3 and score <= 0.3:
+        if score < -0.3:
+            ll.append(l)
+            ll[-1]['bias'] = score
+        elif score >= -0.3 and score <= 0.3:
             cl.append(l)
             cl[-1]['bias'] = score
+        elif score > 0.3
+            rl.append(l)
+            rl[-1]['bias'] = score
 
         idx += 1
 
@@ -131,11 +143,37 @@ def get_bias(urllist):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
-        if score > 0.3:
+        if score < -0.3:
+            ll.append(l)
+            ll[-1]['bias'] = score
+        elif score >= -0.3 and score <= 0.3:
+            cl.append(l)
+            cl[-1]['bias'] = score
+        elif score > 0.3
             rl.append(l)
             rl[-1]['bias'] = score
 
         idx += 1
+
+    # for l in list(cqueue):
+    #     ps = probs[idx]
+    #     ps = sum(ps) / 4
+    #     score = sum(ps * mn)
+    #     if score >= -0.3 and score <= 0.3:
+    #         cl.append(l)
+    #         cl[-1]['bias'] = score
+
+    #     idx += 1
+
+    # for l in list(rqueue):
+    #     ps = probs[idx]
+    #     ps = sum(ps) / 4
+    #     score = sum(ps * mn)
+    #     if score > 0.3:
+    #         rl.append(l)
+    #         rl[-1]['bias'] = score
+
+    #     idx += 1
 
     print([len(i) for i in (lqueue, cqueue, rqueue)])
     print([len(i) for i in (ll, cl, rl)])
