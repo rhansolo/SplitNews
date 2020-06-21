@@ -22,11 +22,12 @@ def scrape_art(article_queue, lqueue, cqueue, rqueue, biases):
 
         bias_score = biases[base_site]
 
+
         if (bias_score < -0.3 and len(lqueue) < 100):
             to_put = lqueue
         elif (bias_score > 0.3 and len(rqueue) < 100):
             to_put = cqueue
-        elif (-0.3 < bias_score and bias_score > 0.5 and len(cqueue) < 100):
+        elif (-0.3 < bias_score and bias_score < 0.3 and len(cqueue) < 100):
             to_put = rqueue
         else:
             continue
@@ -89,12 +90,14 @@ def get_bias(urllist):
     all_urls = list(lqueue) + list(cqueue) + list(rqueue)
     to_analyze = []
     for l in all_urls:
-        to_analyze.extend([l['body'], l['body'][10:], l['body'][20:], l['body'][30:]])
+        # to_analyze.extend([l['body'], l['body'][10:], l['body'][20:], l['body'][30:]])
+        to_analyze.append(l['body'])
 
     print("running nn...")
 
     probs = predictor.predict_proba(to_analyze)
-    probs = np.reshape(probs, (len(all_urls), 4, 3))
+    # probs = np.reshape(probs, (len(all_urls), 4, 3))
+    # probs = np.reshape(probs, (len(all_urls), 3))
 
     print("completed...")
 
@@ -106,54 +109,63 @@ def get_bias(urllist):
     cl = []
     rl = []
 
-    for l in list(lqueue):
+    for l in list(lqueue) + list(cqueue) + list(rqueue):
         ps = probs[idx]
-        ps = sum(ps) / 4
+        # ps = sum(ps) / 4
         score = sum(ps * mn)
-        print(score)
+
+        if np.argmax(ps) == 1 and score >= -0.3:
+            score = -0.35
+        if np.argmax(ps) == 0 and score < -0.3:
+            score = -0.25
+        if np.argmax(ps) == 0 and score > 0.3:
+            score = 0.25
+        if np.argmax(ps) == 2 and score <= 0.3:
+            score = 0.35
+
         if score < -0.3:
             ll.append(l)
             ll[-1]['bias'] = score
         elif score >= -0.3 and score <= 0.3:
             cl.append(l)
             cl[-1]['bias'] = score
-        elif score > 0.3
+        elif score > 0.3:
             rl.append(l)
             rl[-1]['bias'] = score
 
         idx += 1
 
-    for l in list(cqueue):
-        ps = probs[idx]
-        ps = sum(ps) / 4
-        score = sum(ps * mn)
-        if score < -0.3:
-            ll.append(l)
-            ll[-1]['bias'] = score
-        elif score >= -0.3 and score <= 0.3:
-            cl.append(l)
-            cl[-1]['bias'] = score
-        elif score > 0.3
-            rl.append(l)
-            rl[-1]['bias'] = score
+    # for l in list(cqueue):
+    #     ps = probs[idx]
+    #     ps = sum(ps) / 4
+    #     score = sum(ps * mn)
+    #     if score < -0.3:
+    #         ll.append(l)
+    #         ll[-1]['bias'] = score
+    #     elif score >= -0.3 and score <= 0.3:
+    #         cl.append(l)
+    #         cl[-1]['bias'] = score
+    #     elif score > 0.3:
+    #         rl.append(l)
+    #         rl[-1]['bias'] = score
 
-        idx += 1
+    #     idx += 1
 
-    for l in list(rqueue):
-        ps = probs[idx]
-        ps = sum(ps) / 4
-        score = sum(ps * mn)
-        if score < -0.3:
-            ll.append(l)
-            ll[-1]['bias'] = score
-        elif score >= -0.3 and score <= 0.3:
-            cl.append(l)
-            cl[-1]['bias'] = score
-        elif score > 0.3
-            rl.append(l)
-            rl[-1]['bias'] = score
+    # for l in list(rqueue):
+    #     ps = probs[idx]
+    #     ps = sum(ps) / 4
+    #     score = sum(ps * mn)
+    #     if score < -0.3:
+    #         ll.append(l)
+    #         ll[-1]['bias'] = score
+    #     elif score >= -0.3 and score <= 0.3:
+    #         cl.append(l)
+    #         cl[-1]['bias'] = score
+    #     elif score > 0.3:
+    #         rl.append(l)
+    #         rl[-1]['bias'] = score
 
-        idx += 1
+    #     idx += 1
 
     # for l in list(cqueue):
     #     ps = probs[idx]

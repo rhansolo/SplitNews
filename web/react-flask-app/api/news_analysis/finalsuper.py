@@ -52,7 +52,7 @@ def search(term):
     search_url = "https://splitnews.cognitiveservices.azure.com/bing/v7.0/news/search"
 
     headers = {"Ocp-Apim-Subscription-Key": subscription_key}
-    params = {"q": term, "textDecorations": True, "textFormat": "HTML", "count": "100"}
+    params = {"q": term, "textDecorations": True, "textFormat": "HTML", "count": "50"}
     response = requests.get(search_url, headers=headers, params=params)
     response.raise_for_status()
     search_results = response.json()
@@ -78,23 +78,38 @@ def search(term):
         if urllist[i] not in ret_urls:
             continue
         if urllist[i] not in finaldict.keys():
-            finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", ""]
+            try:
+                finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", ""]
+            except:
+                try:
+                    finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], {}, 0, "", ""]
+                except:
+                    pass
+
     for i in fullstack[0]:
-        finaldict[i['url']][3] = i['bias']
-        finaldict[i['url']][4] = textsummarize(i['body'], .1)
-        finaldict[i['url']][5] = textsummarize(i['body'], .3)
+        try:
+            finaldict[i['url']][3] = i['bias']
+            finaldict[i['url']][4] = textsummarize(i['body'], .1)
+            finaldict[i['url']][5] = textsummarize(i['body'], .3)
+        except:
+            pass
 
     for i in fullstack[1]:
-        finaldict[i['url']][3] = i['bias']
-        finaldict[i['url']][4] = textsummarize(i['body'], .1)
-        finaldict[i['url']][5] = textsummarize(i['body'], .3)
+        try:
+            finaldict[i['url']][3] = i['bias']
+            finaldict[i['url']][4] = textsummarize(i['body'], .1)
+            finaldict[i['url']][5] = textsummarize(i['body'], .3)
+        except:
+            pass
 
     for i in fullstack[2]:
-        finaldict[i['url']][3] = i['bias']
-        finaldict[i['url']][4] = textsummarize(i['body'], .1)
-        finaldict[i['url']][5] = textsummarize(i['body'], .3)
-    print(json.dumps(list(finaldict.values())))
-    print("DUMBASS AEIHGEGH")
+        try:
+            finaldict[i['url']][3] = i['bias']
+            finaldict[i['url']][4] = textsummarize(i['body'], .1)
+            finaldict[i['url']][5] = textsummarize(i['body'], .3)
+        except:
+            pass
+
     return list(finaldict.values())
 
 
