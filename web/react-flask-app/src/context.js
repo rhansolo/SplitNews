@@ -2,9 +2,22 @@ import React, { Component } from "react";
 
 const Context = React.createContext();
 
+const updateState = (state, data) => {
+  console.log(data);
+  return {
+    ...state,
+    articles: data.articles,
+    leftSummary: data.leftSummary,
+    rightSummary: data.rightSummary,
+  }
+}
+
 export class Provider extends Component {
   state = {
-    
+    articles: [],
+    leftSummary: "",
+    rightSummary: "",
+    dispatch: (data) => this.setState(state => updateState(state, data)),
   };
 
   render() {
@@ -15,3 +28,5 @@ export class Provider extends Component {
     );
   }
 }
+
+export const Consumer = Context.Consumer;

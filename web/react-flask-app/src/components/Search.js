@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 
+
+import { Consumer } from "../context"
+
 import SearchBar from "./layout/SearchBar";
 import axios from 'axios';
 
@@ -9,7 +12,7 @@ class Search extends Component {
     errors: "",
   }
 
-  onSubmit = (e) => {
+  onSubmit = (dispatch, e) => {
     e.preventDefault();
     const search = this.state.search;
 
@@ -20,7 +23,7 @@ class Search extends Component {
       return;
     }
 
-    axios.post("search/query", param).then(response => console.log(response));
+    axios.post("search/query", param).then(response => dispatch(response.data));
     
   }
 
@@ -33,26 +36,34 @@ class Search extends Component {
     const { search, errors } = this.state;
 
     return (
-      <div className="card mb-3">
-        <div className="card-header">Search</div>
-        <div className="card-body">
-          <form onSubmit={this.onSubmit}>
-            <SearchBar
-              label="Search"
-              name="search"
-              placeholder="Enter keywords or an article title"
-              value={search}
-              onChange={this.onChange}
-              error={errors}
-            />
-            <input
-              type="submit"
-              value="Search"
-              className="btn btn-light btn-block"
-            />
-          </form>
-        </div>
-      </div>
+      <Consumer>
+        {(value) => {
+          const { dispatch } = value;
+          return (
+            <div className="card mb-3">
+            <div className="card-header">Search</div>
+            <div className="card-body">
+              <form onSubmit={this.onSubmit.bind(this, dispatch)}>
+                <SearchBar
+                  label="Search"
+                  name="search"
+                  placeholder="Enter keywords or an article title"
+                  value={search}
+                  onChange={this.onChange}
+                  error={errors}
+                />
+                <input
+                  type="submit"
+                  value="Search"
+                  className="btn btn-light btn-block"
+                />
+              </form>
+            </div>
+          </div>
+          )
+        }}
+
+      </Consumer>
     );
   }
 }
