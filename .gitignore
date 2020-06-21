@@ -30,3 +30,7 @@ Temporary Items
 # Python caches
 __pycache__
 .ipynb_checkpoints
+
+# Tensorflow Models
+.h5
+.preproc
