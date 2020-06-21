@@ -12,7 +12,8 @@ def home():
 @app.route('/search/query', methods=['POST'])
 def get_results():
     data = request.get_json()
-    (summary_lst, result_lst) = analyzer.search(data.search)
+    print(data)
+    (summary_lst, result_lst) = analyzer.search(data['search'])
     articles = []
     for news in result_lst:
         title = news[0]

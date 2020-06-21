@@ -7,7 +7,7 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from heapq import nlargest
-from bias_detector import get_bias
+from news_analysis.bias_detector import get_bias
 import json
 
 def textsummarize(body, size):
@@ -42,7 +42,9 @@ def textsummarize(body, size):
     select_length = int(len(sentence_tokens)*size)
     summary = nlargest(select_length, sentence_scores, key = sentence_scores.get)
     final_summary = [word.text for word in summary]
-    temp = ' '.join(final_summary)
+    temp = '<ul><li>'
+    temp += '</li><li>'.join(final_summary)
+    temp += '</li></ul>'
 
     return temp
 
@@ -51,18 +53,27 @@ def leftandright(biases):
     leftstring = ""
     for i in biases[0]:
         leftstring = leftstring + i['body']
-    returnlist.append(textsummarize(leftstring, .05))
+    if leftstring != "":
+        returnlist.append(textsummarize(leftstring, .05))
+    else:
+        returnlist.append("")
 
 
     central = ""
     for i in biases[1]:
         central = central + i['body']
-    returnlist.append(textsummarize(central, .05))
+    if central != "":
+        returnlist.append(textsummarize(central, .05))
+    else:
+        returnlist.append("")
 
     rightstring = ""
     for i in biases[2]:
         rightstring = rightstring + i['body']
-    returnlist.append(textsummarize(rightstring, .05))
+    if rightstring != "":
+        returnlist.append(textsummarize(rightstring, .05))
+    else:
+        returnlist.append("")
     return returnlist
 
 def search(term):
@@ -98,6 +109,7 @@ def search(term):
             continue
         if urllist[i] not in finaldict.keys():
             finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", ""]
+
     for i in fullstack[0]:
         finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)

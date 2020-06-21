@@ -23,9 +23,7 @@ class Search extends Component {
       return;
     }
 
-    axios.post("search/query", param).then(response => dispatch(response.data));
-    
-  }
+    axios.post("search/query", param).then(response => dispatch(response.data));  }
 
   onChange = (e) => {
     this.setState({ [e.target.name]: e.target.value })

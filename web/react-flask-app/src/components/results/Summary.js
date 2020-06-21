@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
 import { Consumer } from "../../context";
 
@@ -15,17 +16,13 @@ class Summary extends Component {
                   <h4 className="display-5 mb-2">
                     Summary of Left wing articles
                   </h4>
-                  <p>
-                    {leftSummary}
-                  </p>
+                  <div className="text-left">{ReactHtmlParser(leftSummary)}</div>
                 </div>
                 <div className="col-sm-6">
                   <h4 className="display-5 mb-2">
                       Summary of Right wing articles
                   </h4>
-                  <p>
-                    {rightSummary}
-                  </p>
+                  <div className="text-left">{ReactHtmlParser(rightSummary)}</div>
                 </div>
               </div>
             </React.Fragment>
