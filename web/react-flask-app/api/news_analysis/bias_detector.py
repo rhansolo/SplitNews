@@ -3,6 +3,8 @@ import threading
 from collections import deque
 from urllib.parse import urlparse
 import os
+import ktrain
+import numpy as np
 
 BIAS_LISTS = 'news_sources'
 
@@ -20,11 +22,11 @@ def scrape_art(article_queue, lqueue, cqueue, rqueue, biases):
 
         bias_score = biases[base_site]
 
-        if (bias_score < -0.3 and len(lqueue) < 10):
+        if (bias_score < -0.3 and len(lqueue) < 15):
             to_put = lqueue
-        elif (bias_score > 0.3 and len(rqueue) < 10):
+        elif (bias_score > 0.3 and len(rqueue) < 15):
             to_put = cqueue
-        elif (-0.3 < bias_score and bias_score > 0.5 and len(cqueue) < 10):
+        elif (-0.3 < bias_score and bias_score > 0.5 and len(cqueue) < 15):
             to_put = rqueue
         else:
             continue
@@ -44,6 +46,8 @@ def scrape_art(article_queue, lqueue, cqueue, rqueue, biases):
 
 def get_bias(urllist):
     articles = deque(urllist)
+    predictor = ktrain.load_predictor('./news_bias_predictor')
+
     lqueue = deque()
     cqueue = deque()
     rqueue = deque()
@@ -81,7 +85,57 @@ def get_bias(urllist):
     for thread in threads:
         thread.join()
 
-    return (list(lqueue), list(cqueue), list(rqueue))
+    all_urls = list(lqueue) + list(cqueue) + list(rqueue)
+    to_analyze = []
+    for l in all_urls:
+        to_analyze.extend([l['body'], l['body'][10:], l['body'][20:], l['body'][30:]])
+
+    print("running nn...")
+
+    probs = predictor.predict_proba(to_analyze)
+    probs = np.reshape(probs, (len(all_urls), 4, 3))
+
+    print("completed...")
+
+    mn = [0, -1, 1]
+
+    idx = 0
+
+    ll = []
+    cl = []
+    rl = []
+
+    for l in lqueue:
+        ps = probs[idx]
+        ps = sum(ps) / 4
+        score = sum(ps * mn)
+        if score < -0.3:
+            ll.append(l)
+            ll[-1]['bias'] = score
+
+        idx += 1
+
+    for l in cqueue:
+        ps = probs[idx]
+        ps = sum(ps) / 4
+        score = sum(ps * mn)
+        if score >= -0.3 and score <= 0.3:
+            cl.append(l)
+            cl[-1]['bias'] = score
+
+        idx += 1
+
+    for l in rqueue:
+        ps = probs[idx]
+        ps = sum(ps) / 4
+        score = sum(ps * mn)
+        if score > 0.3:
+            rl.append(l)
+            rl[-1]['bias'] = score
+
+        idx += 1
+
+    return (ll, cl, rl)
 
 if __name__ == '__main__':
     urllist = ['https://www.ft.com/content/fda8c04a-7737-4b17-bc80-d0ed5fa57c6c',
