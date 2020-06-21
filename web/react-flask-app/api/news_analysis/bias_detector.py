@@ -105,7 +105,7 @@ def get_bias(urllist):
     cl = []
     rl = []
 
-    for l in lqueue:
+    for l in list(lqueue):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
@@ -115,7 +115,7 @@ def get_bias(urllist):
 
         idx += 1
 
-    for l in cqueue:
+    for l in list(cqueue):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
@@ -125,7 +125,7 @@ def get_bias(urllist):
 
         idx += 1
 
-    for l in rqueue:
+    for l in list(rqueue):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
@@ -135,6 +135,7 @@ def get_bias(urllist):
 
         idx += 1
 
+    print([len(i) for i in (lqueue, cqueue, rqueue)])
     return (ll, cl, rl)
 
 if __name__ == '__main__':
