@@ -25,7 +25,9 @@ export class Provider extends Component {
     leftSummary: "",
     rightSummary: "",
     searched: 0,
-    dispatch: (data) => this.setState(state => updateState(state, data)),
+    dispatch: (data) => {
+      this.setState(state => updateState(state, data))
+      console.log(data)},
     load: () => this.setState(state => loading(state)),
   };
 

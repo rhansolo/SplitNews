@@ -16,7 +16,7 @@ class Articles extends Component {
                   Articles
                 </h1>
                 {articles.map(article => (
-                  <Article title={article.title} short={article.short} long={article.long} rating={article.rating} />
+                  <Article title={article.title} short={article.short} long={article.long} rating={article.rating} img={article.pic_json} />
                 ))}
               </React.Fragment>
             );

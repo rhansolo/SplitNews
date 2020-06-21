@@ -98,7 +98,6 @@ def search(term):
     for q in fullstack:
         for site in q:
             ret_urls.append(site['url'])
-    print("heyo")
     totalinformation = []
     for i in search_results['value']:
         totalinformation.append(i)
