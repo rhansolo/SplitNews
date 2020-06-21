@@ -45,6 +45,7 @@ def scrape_art(article_queue, lqueue, cqueue, rqueue, biases):
             pass
 
 def get_bias(urllist):
+    print(len(urllist))
     articles = deque(urllist)
     predictor = ktrain.load_predictor('./news_bias_predictor')
 
@@ -109,6 +110,7 @@ def get_bias(urllist):
         ps = probs[idx]
         ps = sum(ps) / 4
         score = sum(ps * mn)
+        print(score)
         if score < -0.3:
             ll.append(l)
             ll[-1]['bias'] = score
@@ -136,6 +138,7 @@ def get_bias(urllist):
         idx += 1
 
     print([len(i) for i in (lqueue, cqueue, rqueue)])
+    print([len(i) for i in (ll, cl, rl)])
     return (ll, cl, rl)
 
 if __name__ == '__main__':

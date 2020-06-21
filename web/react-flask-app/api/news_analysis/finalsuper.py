@@ -8,7 +8,6 @@ from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from heapq import nlargest
 from bias_detector import get_bias
-import json
 
 def textsummarize(body, size):
     text = body
@@ -53,7 +52,7 @@ def search(term):
     search_url = "https://splitnews.cognitiveservices.azure.com/bing/v7.0/news/search"
 
     headers = {"Ocp-Apim-Subscription-Key": subscription_key}
-    params = {"q": term, "textDecorations": True, "textFormat": "HTML"}
+    params = {"q": term, "textDecorations": True, "textFormat": "HTML", "count": "100"}
     response = requests.get(search_url, headers=headers, params=params)
     response.raise_for_status()
     search_results = response.json()
