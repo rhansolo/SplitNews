@@ -1,0 +1,39 @@
+A handful of sickle cell disease treatments and CAR-T therapies that treat cancer have been approved by the Food and Drug Administration in recent years, but a new crop of experimental therapies that would grow those markets is exciting investors.
+
+See also: Drug manufacturers have spent a record $342 billion on M&A in 2019
+
+This week, much of the high-profile clinical data coming out of the American Society of Hematology’s annual meeting in Orlando, Fla., focused on companies developing products that aim to fit the needs of these patients.
+
+New interest in sickle cell disease
+
+The FDA approval in November of two new treatments for sickle cell disease has reinvigorated interest in a long-neglected therapeutic area.
+
+“The space, which has lacked therapeutics successes for so long, is finally getting its due,” wrote Maxim Group’s Jason McCarthy on Monday.
+
+Novartis’s NVS, +1.60% Adakveo reduces the frequency of one of the disease’s complications, while Oxbryta, developed by Global Blood Therapeutics GBT, +5.22% , treats the root cause of sickle cell anemia. The wholesale list prices for both drugs are about $10,000 a month.
+
+See also: Fate Therapeutics’ stock rises on early stage cancer drug data
+
+That said, analysts paid close attention to data for Bluebird Bio’s BLUE, +0.31% investigational gene therapy for sickle cell disease. “As investors digest data presented throughout ASH (especially in [sickle cell disease), we expect BLUE to outperform peers substantially,” wrote SVP Leerink analysts.
+
+The Cambridge, Mass.-based biotech plans to initiate a Phase 3 trial next year after releasing positive data for LentiGlobin in a Phase 1/2 study. The therapy showed a reduction in vaso-occlusive crises and acute chest syndrome (both complications of sickle cell disease) in some patients. Shares of Bluebird, which also presented data on its experimental CAR-T therapy and LentiGlobin as a treatment for severe beta-thalassemia, at ASH, were up 10% in afternoon trading on Tuesday.
+
+The CAR-T field prepares for competition
+
+In 2017, the FDA approved the first CAR-T therapy—Novartis’s Kymriah—as a treatment for certain patients with acute lymphoblastic leukemia. Gilead Sciences’ GILD, +4.63% Yescarta soon followed, as a treatment for certain types of large B-cell lymphoma. (Unlike oral or infused drugs, chimeric antigen receptor T cell, or CAR-T, therapy involves removing a patient’s immune cells, shipping them to a manufacturing facility to be re-engineering, and then sending them back to be placed back in the patient’s body.)
+
+Now that field is getting crowded, with both large and small pharmaceutical companies. This week, Bluebird and Bristol-Myers Squibb BMY, +0.78% shared results from their early-stage trial for an experimental CAR-T therapy treating multiple myeloma. BMS also said Saturday that a pivotal trial for liso-cel, its investigational CAR-T treatment, showed high rates of durable responses, and it will submit an application to the FDA this month. Johnson & Johnson JNJ, +0.29% is developing a CAR-T for multiple myeloma. The pharma company presented mid-stage study data that Bernstein analysts called “clearly impressive and will need to be watched.”
+
+Read: Precision BioSciences stock rises on early stage CAR-T trial data
+
+That said, some of the experimental therapies are hoping to capitalize on the costs associated with CAR-T treatment. The currently available CAR-T therapies are expensive. At launch, Kymriah cost $475,000, and Yescata $373,000.
+
+“Hospitals have been struggling with the cost of CAR-T as the patients require hospitalization within [three days] of treatment, which means the treatment is considered inpatient and reimbursed” as part of transplantation diagnostic related grouping,” Berstein’s Ronny Gal wrote this week.
+
+About one-quarter of the patients in the liso-cel trial were treated in an outpatient setting, which is less expensive than if a patient is hospitalized. If approved, that change in setting may shift the market away from an already approved therapy, such as Yescarta, to one that can deliver on a more cost-effective approach.
+
+M&A takes center stage
+
+The headlining deal in hematology right now is Merck’s MRK, +2.20% $2.7 billion buyout of ArQule US:ARQL, a biopharmaceutical company developing treatments for cancer and rare diseases. The deal, announced Monday, will add ArQule’s mid-stage therapeutic candidate, ARG 531, a Bruton’s tyrosine kinase (BTK) inhibitor, to Merck’s high-performing oncology portfolio. Shares of ArQule were up 1.27% in afternoon trading on Tuesday.
+
+“We see this acquisition as unlocking value for investors as it places ARQ 531 in the hands of a larger player who can develop this asset more broadly and aggressively,” Jonathan Chang, an analyst at SVB Leerink, wrote in a note.
