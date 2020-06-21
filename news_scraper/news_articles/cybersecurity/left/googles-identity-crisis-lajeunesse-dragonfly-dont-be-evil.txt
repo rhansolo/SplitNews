@@ -1,0 +1,99 @@
+The biggest tech news yesterday is that the former Google human rights chief says he was “sidelined” over the proposed, censored Chinese search engine known as “Dragonfly.” Ross LaJeunesse, the executive, knew how to ensure his story would make an impact. He spoke with The Verge’s Colin Lecher and many other media outlets, published a Medium post with frankly shocking details, and dominated tech news all day. Good. His story deserves attention.
+
+An idea that I’ve been kicking around as we prepare for season two of the Land of the Giants podcast (about Google, naturally) is that until very recently, Google was a special kind of naive. It is a powerful, massive company that used to see itself as a utopian collective which just so happened to make oodles of cash.
+
+If you get annoyed that Google has pivoted its way through launching and killing a dozen messaging apps, that open, freewheeling culture is why.
+
+You’re reading Processor, a newsletter about computers, software, and tech by Dieter Bohn. Dieter writes about consumer tech, software, and the most important tech news of the day from The Verge. This newsletter delivers “mostly daily,” and many of them include longer columns. You can subscribe to Processor and learn more about it here. Processor is also a YouTube series with the same goal: providing smart and surprising analysis with a bit of humor. Subscribe to all of The Verge’s great videos here! Subscribe
+
+
+
+By subscribing, you are agreeing to receive a daily newsletter from The Verge that highlights top stories of the day, as well as occasional messages from sponsors and / or partners of The Verge.
+
+That kind of naiveté would be endearing if it wasn’t also so dangerous. An organization as powerful as Google that isn’t willing to admit its size, influence, and power is bound to stumble into problems. I think Dragonfly was one result of that disconnect.
+
+Even if you could believe that Google could have made a moral case for Dragonfly (and I’m leaving that judgment for another time), the telling thing is that Google didn’t try — it was not openly discussed with employees like so many other Google products.
+
+Here’s an important paragraph from Colin Lecher’s story on LaJeunesse:
+
+As Google pushed for deals in authoritarian Saudi Arabia and launched the Google Center for Artificial Intelligence in Beijing, LaJeunesse says, he pushed for a company-wide human rights program that would bring new oversight to product launches. But Google rebuffed the idea, and eventually brought in a colleague to oversee policy issues related to Dragonfly.
+
+Assuming LaJeunesse’s account is accurate, there are any number of motivations you could ascribe to these decisions. But I want to home in on just one: I think that dealing forthrightly with the Dragonfly decision in a more traditional, open, “Googley” way would have forced the entire company to contend with the uncomfortable truth that it is a massive, geopolitical entity. It would have popped the bubble of Google’s self-image.
+
+Well, it popped anyway. Which means that Google is a company without a clear identity anymore. And the truth is that it was never as defined as it should have been in the first place. The old one — “Don’t be Evil” — didn’t scale, to borrow a classic Silicon Valley phrase.
+
+The operative verb in “Don’t be Evil” is “to be.” You can’t live up to “Don’t be Evil” if you don’t know what you are in the first place.
+
+I don’t think that the massive size of Google fully accounts for the things that LaJeunesse experienced, but I do think it’s an important factor. Almost exactly a month ago I published an essay I titled “Google’s Third Era,” pegged to the news that Google CEO Sundar Pichai was also becoming Alphabet’s CEO as Larry Page and Sergey Brin stepped back. Here’s what I wrote then:
+
+If the first era of Google was developing the technology, and the second era was growing to a massive scale, the third era is contending with the effects of that scale. That reckoning isn’t happening because the founders formalized their already reduced roles by handing over the CEO title. It’s happening because both internally and externally, we don’t know how to deal with a company as big and powerful as Google.
+
+It’s troubling to think that as a society we don’t know how to deal with institutions as large and powerful as Google (or Apple, Amazon, Facebook, and Microsoft). It’s even more troubling to think that nobody inside Google knows how to contend with Google’s size, either.
+
+Google’s old mantra was about defining itself by saying what it it wouldn’t be. Now, Google has to figure out what it will be.
+
+CES is coming and that right soon
+
+└ Here’s what’s next for gadgets in 2020
+
+Yesterday’s newsletter had the intro to this essay, but not all the category-specific predictions. Here they are: this is both a CES preview and a larger look at some of the trends coming to gadgets in 2020. CES begins this weekend and I’ll be there with many other Verge reporters and video directors.
+
+└ Samsung and LG go head to head with AI-powered fridges that recognize food
+
+I am so here for an arms race of wacky features on smart fridges. Using AI to determine what’s needed from the grocery store is so wildly unnecessary and so likely to work badly that I just want to sit back and watch. Samsung and LG are duking it out on the battlefield of features nobody asked for and it is so excessive you kind of just have to marvel at it. So yes, I’m here for it. Not here enough to actually buy one or ever recommend you do, but here to watch this low-stakes fight.
+
+└ LG’s latest rollable TV descends from the ceiling like a projector screen
+
+These are fun too look at, but don’t wait to buy one, they’re not coming to a big box store near you anytime soon. Jon Porter has the details:
+
+Despite promising that its last prototype from CES 2019 would be going on sale that year, LG subsequently failed to make that release date. LG Display’s press release doesn’t mention if or when it expects the new rollable TV to go on sale, which suggests that a release isn’t exactly imminent.
+
+└ Dell’s latest XPS 13 has a new design with a bigger display and Ice Lake chips
+
+Dell arguably updates the XPS 13 too often. There’s this model and the 2-in-1 model, and both have changed often enough to be confusing. But every change has been for the better, and this one is no exception. I encourage you to click though and just LOOK at this thing: it’s beautiful and svelte. Hopefully build quality is pretty good -- Dells can feel a little plasticky sometimes.
+
+But what’s undeniable is that all that iteration has taken Dell to a place where it’s making laptops that make even the most recent MacBooks look dowdy and old.
+
+True story: I was typing on my MacBook Pro over the holidays and there was somebody who works far way from the tech industry hunting around the rooms until he found me. He heard me typing and thought it was some sort of insect chattering in the house.
+
+└ Samsung’s Galaxy Book Flex α aims to be a cheaper QLED 2-in-1 laptop
+
+I don’t want to pre-judge this, but right now Samsung is definitely in a trust-but-verify place when it comes to experimental laptops. It has yet to ship the Galaxy Book S ARM-based laptop it announced in August, for one thing. For another, while I’m generally bullish on OLED becoming great on laptops, I’m not sure I’d take a chance on this one just yet. Wait not just for a release but also for reviews before you get too excited.
+
+└ GE’s new smart switches and dimmers can be installed in almost any home
+
+If you looked at getting smart switches for your home and threw up your hands when it came time to figuring out if your wiring would work, these may be worth a look. Dan Seifert explains:
+
+The vast majority of smart lighting switches and dimmers on the market require an extra wire in the junction box called a neutral wire, which is lacking on many older homes. This wire is used to control and regulate voltage and is necessary for many dimmers to work properly. Prior to GE’s new products, the only other smart switch and dimmers that didn’t need a neutral wire were from Lutron’s Caséta line of products. Unlike the Caséta products, though, GE’s new switches and dimmers do not require a hub and can connect directly to a Wi-Fi network.
+
+More from The Verge
+
+└ Google disables Xiaomi integrations for all its devices after a Nest showed weird images
+
+Reddit user Dio-V, who said via email to The Verge that they’re based in The Netherlands, said they saw images of an enclosed porch, a sleeping man in a chair, and a sleeping baby in a crib. Dio-V told The Verge he has been contacted by Google about the post, but so far had not heard from Xiaomi.
+
+└ A pop-up YouTube account might have locked down Rolling Stones rarities for decades
+
+What a weird story! Copyright leads to so many strange outcomes. Who gets paid, how, why, and when is getting ever more complicated as antiquated laws buckle under the stress of the internet’s new distribution models. There’s nobody better to explain it than Dani Deahl:
+
+All the recordings turned 50 years old in 2019, meaning they were slated to become public domain in the European Union unless they were published in some form before the end of the year. But it’s unclear if fleeting YouTube uploads are enough to satisfy the EU’s publishing requirements, according to Zvi S. Rosen, lecturer at the George Washington University School of Law. “It’s really kind of pushing the edge of what’s possible under the law,” Rosen tells The Verge.
+
+└ The IRS is done letting TurboTax easily steer you away from filing taxes for free
+
+Shame on Intuit for its lobbying behavior. Shame on congress and the IRS for not pushing to make free tax filing readily available. Thank Pro Publica for its dogged reporting on this, which will make a genuine difference in people’s lives this tax season.
+
+└ Brydge’s iPad keyboard with trackpad is coming next month for $200
+
+I know people want this to work and I know there are many people who actually have managed to get working mouse support integrated into their iPad workflows but I ...just don’t see it. Mouse support is built-in as an accessibility feature on the iPad, but it is foreign to the whole experience of iPadOS.
+
+I’m not saying the iPad should never have full-fledged mouse support, but I am saying it’s not good enough yet to justify this keyboard. Then again, I am going to try it and find out if I’m wrong. (I don’t expect I will be.)
+
+Trackpad support on the iPad is still very limited, and the experience isn’t as fluid as you might expect coming from a Mac. But interest still seems to be high: the Libra keyboard received more than $313,000 through crowdfunding and preorders.
+
+└ Dell will soon let you interact with your iPhone apps from your PC
+
+I am absolutely old enough to regale you with stories of PalmOS HotSync over Serial ports, but you don’t want that. I will say that it seems like we will be forever cursed to reinvent the ways mobile devices will talk to laptops for all eternity. Here’s Dell’s latest take on it, which is unique in that it works with the iPhone.
+
+└ FDA announces new crackdown on flavored vaping products
+
+Vape tank e-cigs predate Juul and other cartridge-based e-cigs by a lot. They’re less convenient and harder to hide, but not exactly hard for teenagers to acquire. Assuming this not-quite-a-ban stays as it is, I would not be surprised to see some tank-based product rush in to fill the gap. Maybe? This does seem like a half measure, in any case. Nicole Wetsman has the story:

@@ -1,0 +1,59 @@
+Stay up to date with email updates about WNYC and ProPublica’s investigations into the president’s business practices.
+
+Following politics is about following the money. It’s increasingly a shortcut to influence, access and power — and it’s a key focus at “Trump, Inc.”
+
+This week we trace the story of Lev Parnas and Igor Fruman, two men who’ve emerged as central characters in the Ukraine pressure campaign that led to President Donald Trump’s impeachment. But it was their activities in America — making a flurry of big political donations — that ultimately got them arrested. Parnas and Fruman now face federal criminal charges for, among other things, allegedly funneling foreign money into U.S. elections and trying to hide its source. (They’ve pleaded not guilty.)
+
+Get More Trump, Inc. Stay up to date with email updates from WNYC and ProPublica about their ongoing investigations.
+
+The story of their donations shows the degree to which money buys access and influence in Trump’s Washington. You can listen to it here.
+
+We want to keep following the money, and we need your help to do this reporting. Click here to find out how you can play a part.
+
+Identifying this sort of high-dollar, low-profile donor is especially important now, when a bitterly divided Federal Election Commission lacks a quorum, which has effectively neutered the principal law enforcement agency for elections. That means key campaign finance investigations and enforcement are going undone.
+
+“Parnas and Fruman are not the first people that we’ve seen fit this mold of someone with deep foreign connections, who’s never given campaign contributions before, suddenly starts giving large amounts of political contributions and then shows up at exclusive events,” said Robert Maguire, the research director at Citizens for Responsibility and Ethics in Washington, or CREW. But he says they can be a model for what to look for: political newcomers suddenly making big donations, often using an LLC to obscure their identity.
+
+Here’s a guide to gleaning insights from the vast troves of election data available. You can share what you find with “Trump, Inc.” Maybe you’ll even uncover the next Parnas and Fruman.
+
+Read More How Parnas and Fruman’s Dodgy Donation Was Uncovered by Two People Using Google Translate This week, “Trump, Inc.” examines the money that helped two unlikely players shape the Trump administration’s Ukraine campaign — and the unlikely events that allowed their financial machinations to come to light.
+
+ProPublica’s “FEC Itemizer” checks for new filings every 15 minutes. You can search for a specific political action committee, such as America First Action, the super PAC central to the Parnas and Fruman case, to read the latest reports filed and get details on the committee’s income, spending and cash on hand. If you’re trying to understand how much a committee spends at Trump properties, ProPublica tracks that here. For example: more than $80,000 for America First.
+
+The website OpenSecrets, part of the Center for Responsive Politics, pairs public campaign finance data with its own original reporting. Its Learning Center is a good starting point for anyone looking to learn to navigate election data
+
+What to Look For
+
+Start simple. Learn to navigate a given site by searching the names of friends, family or celebrities; by location; or by employer (perhaps your own or a notable company). Then try combining factors: perhaps people in your hometown who gave more than $1,000 to a campaign or committee.
+
+Look for newcomers. Maguire and his team from CREW specifically seek out donations above $25,000 from LLCs or people who haven’t given before; it’s often a shortcut to finding people looking for fast influence. “These are the kinds of contributions that are going to get somebody noticed” by politicians and political committees, Maguire said. Start to narrow your search: Here’s one, for example, that looks at LLCs that gave more than $25,000 to super PACs since Jan. 1, 2019. And it immediately makes your search more manageable, limiting it to just a few dozen results, down from millions of records.
+
+Identify unusual events and see who’s behind them. The OpenSecrets’ “Anomaly Tracker” defines unusual circumstances in campaign finance (like a disproportionate amount of money coming from a single source) and then automatically searches its database for candidates and committees that match them. It’s a way to model your own searches on the FEC site, looking for unusual donations or spending that might otherwise be overlooked.
+
+Cross-check names in news stories and social media. Once you’ve identified potential leads, cross-check those names in news stories and social media to see if gifts paid off. Recent discoveries from CREW include a California man who gave $100,000 in early December and within 10 days scored an invite to a White House holiday party. (Facebook photos turned up when CREW searched the donor’s name along with “Trump.”) Reporter Zach Everson, whose 1100 Pennsylvania newsletter documents the scene at the Trump hotel in Washington, often does this in the opposite direction. He’ll look at who’s been posting photos from the Trump hotel to social media, and then he’ll dig into their backgrounds to find out who’s potentially trying to gain access and influence.
+
+
+
+Caveats
+
+There’s a delay with election data: You’re usually working with the previous month’s or quarter’s reports, and we’re currently in a moment in the election cycle where fundraising and spending continues to rapidly accelerate, which could make some data quickly fall out of date.
+
+Data filed with the FEC might be inaccurate or misleading — sometimes accidentally, sometimes intentionally. In the case of Parnas and Fruman’s original donation to America First Action, the source of their donation was labeled as coming from an LLC called Global Energy Producers when it really came from a shell corporation controlled by Parnas and his wife.
+
+What happened in 2016 isn’t necessarily a precedent for understanding what’s happening in 2020: “Big Republican donors shied away from Donald Trump in a big way in 2016,” Maguire said. “And that is not happening now. They’ve come around.” That means we’re likely to see more money than ever before this election cycle, one with fewer checks on campaign giving and spending than ever before.
+
+Share What You Find
+
+Share what you find with the team at “Trump, Inc.” Here are instructions on how to send information securely, or you can always email us at [email protected] .
+
+Contact Us
+
+You can contact us via Signal, WhatsApp or voicemail at 347-244-2134. Here’s more about how you can contact us securely.
+
+You can always email us at [email protected].
+
+And finally, you can use the postal service:
+
+Trump Inc at ProPublica 155 Ave of the Americas, 13th Floor New York, NY 10013
+
+“Trump, Inc.” is a production of WNYC Studios and ProPublica. Support our work by visiting donate.propublica.org or by becoming a supporting member of WNYC. Subscribe here or wherever you get your podcasts.

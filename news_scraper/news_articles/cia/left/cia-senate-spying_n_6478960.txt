@@ -1,0 +1,39 @@
+WASHINGTON -- Central Intelligence Agency Director John Brennan consulted the White House before directing agency personnel to sift through a walled-off computer drive being used by the Senate Intelligence Committee to construct its investigation of the agency’s torture program, according to a recently released report by the CIA’s Office of the Inspector General.
+
+The Inspector General’s report, which was completed in July but only released by the agency on Wednesday, reveals that Brennan spoke with White House chief of staff Denis McDonough before CIA employees were ordered to “use whatever means necessary” to determine how certain sensitive internal documents had wound up in Senate investigators’ hands. The conversation with McDonough came after Brennan first issued the directive, but before he reiterated it to a CIA attorney leading the probe.
+
+Brennan’s consultation with McDonough also came before the CIA revealed the search to then-Senate Intelligence Committee chair Dianne Feinstein (D-Calif.), whose staff was the target of the snooping.
+
+The new information suggesting the White House was aware of -- and did not stop -- the CIA’s computer snooping is unlikely to improve the existing distrust between Senate committee members and the executive branch. Feinstein has said that the CIA's computer search likely violated the constitutional separation of powers, an allegation the White House has declined to directly address.
+
+The Oval Office’s prior knowledge of the controversial computer review will no doubt worsen the tensions that have erupted over the matter between the executive branch, its chief intelligence agency and the lawmakers tasked with their oversight.
+
+In January 2014, agency personnel became concerned that a set of sensitive, internal CIA documents known as the Panetta Review had somehow made their way into the hands of Feinstein’s investigators, who were working at a secure, off-site CIA facility to compile a 6,600-page study on the CIA's post-9/11 torture program. To determine whether Senate staff had obtained the documents, five CIA employees -- two lawyers and three IT personnel -- sifted through a walled-off hard drive on the Senate's side of a shared computer network. (The Inspector General later determined that those five employees had engaged in wrongdoing.)
+
+After determining that the document did indeed exist on the Senate’s side of the highly secure computer system, an agency lawyer consulted Brennan. It was not immediately clear whether this lawyer was one of the five employees identified by the Inspector General, though the lawyer does write that he was "ultimately responsible for ensuring the security" of the shared computer system used to compile the torture study.
+
+In a memo included in the IG report, the lawyer says he warned Brennan against discussing the matter with the Senate committee or the White House until the agency could be completely sure the contested documents had, for certain, been accessed by Feinstein’s staff. Following the conversation, Brennan ordered the team to "pursue all available options" to determine how Senate investigators had accessed the material.
+
+The following day, the lawyer wrote that Brennan informed him that he had “discussed the possible security breach with ... McDonough.” The director reiterated his previous orders that the lawyer should do whatever was needed to find out how staffers had accessed the documents. Although Brennan apparently told the lawyer he wanted to inform Feinstein and the Senate Intelligence Committee of the computer search as soon as possible, the CIA chief said that conversation couldn’t happen until the agency was sure of how committee staffers had accessed the document.
+
+“I was to use whatever means necessary to answer the question of how the documents arrived on the SSCI side of the system so that his communication with the Hill could occur,” the lawyer writes of his orders, referring to the Senate Select Committee on Intelligence, the panel's full name.
+
+Brennan, however, staunchly denied to the Inspector General that he had ever ordered such an invasive search. When asked about his alleged order to use "whatever means necessary," Brennan said that he "would never use those words," according to the IG report. The director said that he "only" recalled asking whether the lawyers were sure Senate staff had actually obtained the internal CIA material.
+
+Additionally, a CIA Accountability Review Board defended Brennan in findings also released on Wednesday, saying the spy chief had not understood the kind of computer search that would be required to determine what he wanted to know.
+
+“A misunderstanding ... arose because [Brennan] did not appreciate what forensic techniques were necessary to answer his questions,” the Accountability Review Board wrote in its report.
+
+The White House declined to comment to The Huffington Post for this story. The CIA also declined to comment and referred to the documents released yesterday.
+
+The Panetta Review is a collection of summaries pertaining to the agency’s now-defunct torture operation, and allegedly aligns with the damning conclusions of the Senate panel’s behemoth torture study. The document supposedly contrasts with the CIA's official position, which generally defends the use of torture and takes issue with many of the Senate study's harsh findings.
+
+The White House has taken special care to avoid wading into the explosive feud that erupted between the CIA and the Senate Intelligence Committee over the controversial Panetta Review. McDonough, though, has found his way into nearly all aspects of the dispute. Over the course of the belabored, monthslong declassification process preceding the public release of the torture study’s executive summary, McDonough served as a mediator between the intelligence committee and the spies -- though his role, according to some in Congress, was hardly objective. Democratic lawmakers have mercilessly hammered McDonough for aiding the agency in delaying the report’s release.
+
+After CIA Inspector General determined in July that five CIA employees had wrongly conducted the initial computer search, Brennan convened the Accountability Review Board in order to determine whether any of those employees should be punished. In the findings released Wednesday, the board determined that no punishment was merited, and that Brennan’s role in ordering the snooping was proper and reasonable.
+
+Those controversial findings have stoked outrage on Capitol Hill, where some lawmakers have long been demanding Brennan’s resignation for his role in the controversial search.
+
+“It is incredible that no one at the CIA has been held accountable for this very clear violation of Constitutional principles,” said Intelligence Committee member Sen. Ron Wyden (D-Ore.). “Director Brennan either needs to reprimand the individuals involved or take responsibility himself. So far he has done neither.”
+
+This article has been updated to note that Brennan's conversation with McDonough was after Brennan issued the directive, but before he reiterated it to a CIA attorney leading the probe.

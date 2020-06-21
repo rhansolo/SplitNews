@@ -1,0 +1,45 @@
+“The 360” shows you diverse perspectives on the day’s top stories.
+
+What’s happening
+
+The U.S. government is pressuring Apple to unlock two phones belonging to a Saudi air force officer who went on a deadly shooting rampage at a Pensacola, Fla., naval base in December.
+
+Mohammed Alshamrani killed three people and injured eight others before dying in a shootout with sheriff’s deputies. Last week Attorney General William Barr — who called the shooting an act of terrorism — admonished Apple for refusing to unlock Alshamrani’s phones, which are protected by passwords. President Trump blasted the company on Twitter and called for Apple “to step up to the plate and help our great Country, NOW!"
+
+Apple has declined to open the phones but said it had helped the investigation by handing over “many gigabytes of information” from Alshamrani’s account stored on its servers.
+
+This isn’t the first time Apple has butted heads with the Justice Department over access to its devices after a mass shooting. A similar issue arose over a phone belonging to one of the people behind a 2015 terrorist attack that killed 14 people in San Bernardino, Calif. A court ordered Apple to build software to unlock the phone, but the company refused. The government ultimately found outside help unlocking the phone and abandoned the case before it reached higher courts, leaving the underlying legal issues unresolved.
+
+Why there’s debate
+
+The government argues that Apple is standing in the way of its ability to combat terrorism by refusing to unlock the phones. “Apple has a notorious history of siding with terrorists over law enforcement,” Republican Sen. Tom Cotton tweeted. Barr said it was “critical” for the Justice Department to be able to access digital evidence in terror investigations.
+
+Apple has maintained that it cannot create a “backdoor” for the FBI to access an individual phone without creating a pathway that would make all iPhones vulnerable. Privacy advocates worry that an entry point created for this case could fall into the hands of criminals, hackers or rival governments.
+
+Others have accused the Justice Department of leveraging a high-profile terrorism case to pressure Apple into developing a tool it can use, or abuse, whenever it likes.
+
+What’s next
+
+Apple appears committed to defying the FBI’s request, which may lead to another protracted legal battle. Some lawmakers have suggested that Congress may pursue legislation to mandate that technology companies comply with government demands for access to devices.
+
+Perspectives
+
+Protecting user privacy makes law enforcement’s job more difficult
+
+“By choosing privacy for all citizens, we also allow privacy to criminals. Law enforcement today relies on a hodgepodge of methods that try to go around end-to-end encryption, allowing sophisticated criminals freedom of action.” — Security expert Daniel Goldberg to Washington Examiner
+
+The backdoor would create a security risk for all Apple phones
+
+“The issue, however, is far more complicated than Apple simply unlocking the suspected shooter’s iPhones. That’s because creating a so-called ‘backdoor’ for a single iPhone instantly opens every other iPhone on Earth to the risk of attack.” — Daniel Howley, Yahoo Finance
+
+It’s difficult to trust the government to decide which cases a backdoor would be used for
+
+“Even if it was a simpler process and tech companies could build a backdoor for presumably the right reasons, two enduring questions are who gets to decide who the good guys are, and under what legal, ethical and moral circumstances should investigators be issued the key.” — Edward C. Baig, USA Today
+
+Congress should step in to require tech companies to comply
+
+“Here’s how you solve the problem. You pass a law that if you are going to be selling these devices in America, under certain circumstances you have to turn it over to the government if someone is involved in a terror operation.” — Brian Kilmeade, Fox News
+
+Opening the phone for the FBI would mean other governments could make similar demands
+
+“For big US tech companies, complying with backdoor requirements in any one country would mean a backdoor for all users around the world. The only alternative would be to pull out of those countries entirely.” — Lily Hay Newman, Wired

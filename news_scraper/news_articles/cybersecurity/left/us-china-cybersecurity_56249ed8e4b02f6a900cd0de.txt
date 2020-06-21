@@ -1,0 +1,27 @@
+Oct 19 (Reuters) - Hackers associated with the Chinese government have tried to penetrate at least seven U.S. companies in the three weeks since Washington and Beijing agreed not to spy on each other for commercial reasons, according to a prominent U.S. security firm.
+
+CrowdStrike Inc said software it placed at five U.S. technology and two pharmaceutical companies had detected and rebuffed the attacks, which began on Sept. 26.
+
+On Sept. 25, President Barack Obama said he and Chinese President Xi Jinping had agreed that neither government would knowingly support cyber theft of corporate secrets to support domestic businesses. The agreement stopped short of restricting spying to obtain government secrets, including those held by private contractors.
+
+CrowdStrike Co-founder Dmitri Alperovitch said in an interview that he believed the hackers who attacked the seven companies were affiliated with the Chinese government based in part on the servers and software they used.
+
+The software included a program known as Derusbi, according to Alperovitch. Other analysts have said Derusbi previously turned up in attacks on Virginia defense contractor VAE Inc and health insurer Anthem Inc. Alperovitch said the hackers came from a variety of groups including one that CrowdStrike had previously named Deep Panda.
+
+The "primary benefits of the intrusion seem clearly aligned to facilitate theft of intellectual property and trade secrets, rather than to conduct traditional, national-security-related intelligence collection," CrowdStrike said in a blog post to be published on Monday.
+
+Chinese Foreign Ministry spokeswoman Hua Chunying repeated that the Chinese government opposed all forms of hacking or stealing commercial secrets.
+
+"Internet hacking attacks are marked by their secretive, cross border nature," she told a daily news briefing.
+
+CrowdStrike said it had notified the White House of its findings but declined to identify the targeted companies.
+
+A senior Obama administration official said the government was aware of CrowdStrike's findings but declined to address the company's conclusions.
+
+"As we move forward, we will monitor China's cyber activities closely and press China to abide by all of its commitments," said the official who did not want to be identified by name.
+
+Another U.S. cyber security company, FireEye Inc, said the state-sponsored Chinese hackers that it monitored were still active but it was too soon to say whether their aims had shifted.
+
+"It is premature to conclude that activity during this short time frame constitutes economic espionage," FireEye spokesman Vitor De Souza said. (Reporting by Joseph Menn in San Francisco, Jeff Mason in Washington and Ben Blanchard in Beijing; Editing by Tiffany Wu and Nick Macfie)
+
+Earlier On HuffPost:

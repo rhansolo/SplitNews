@@ -1,0 +1,115 @@
+We live in a world of bots and trolls and curated news feeds, in which reality is basically up for grabs.
+
+A new book titled LikeWar: The Weaponization of Social Media explores how this is transforming our culture and upending the old rules of politics and even war. In it, authors Peter W. Singer and Emerson Brooking argue that the distinctions between entertainment and politics, war and peace, and even civilian and soldier are gradually disappearing.
+
+Social media, the authors claim, is now the site of a globe-spanning information conflict being waged by millions of people in dozens of countries across a variety of platforms. It’s changing how we think, how we acquire information, and how we make sense of the world around us. And it has created what they call a global “battle space” in which pop stars like Taylor Swift and terror groups like ISIS use the same tactics to fight for your attention online.
+
+I spoke with Singer, a leading expert on 21st-century security issues, about the implications of these changes, and why tech companies have so far failed to take responsibility for the platforms they’ve created.
+
+A lightly edited transcript of our conversation follows.
+
+Sean Illing
+
+What is social media doing to us?
+
+Peter W. Singer
+
+Social media has simultaneously connected us and disconnected us. Whether we’re talking about our personal lives or politics or wars, there are no longer any gatekeepers; we can all collect information and share it. And so we’re empowered in a way we couldn’t be previously.
+
+But it’s also meant that we’re constantly being pulled in a thousand different directions, usually away from what’s most important, and that we can be manipulated, because all of this information is being dumped onto a few massive platforms that are designed to make money above all else. What it’s created is really akin to a battle space for attention and manipulation.
+
+Sean Illing
+
+You use the phrase “battle space” very deliberately, and much of your book is about how social media has become a weapon of war. Is it now the cheapest and most effective weapon?
+
+Peter W. Singer
+
+The internet began as a place for scientists to share computer time, then it quickly got repurposed into a social medium. But by creating this tool of mass connection, it became the nervous system of everything from commerce to news, and like everything else, it’s weaponized.
+
+Very soon, it’s being used by everything from terrorist groups to online fans of Kanye West and Taylor Swift, all of whom see it as a way to achieve their goals. Whether it’s to recruit or change the conversation or narrative to their benefit, or to gather intelligence that can be used to guide physical operations, the internet is this incredibly cheap and diverse tool. And regardless of who’s using it, it basically follows the same rules.
+
+Is the internet the most effective or powerful weapon? In some cases, it clearly has been. Some nations have used it to achieve the traditional goals of war without ever having to fire a bullet. And some nations, like Russia, get it in ways other nations, like America, don’t. And that’s why Russia has been so successful at advancing their interests in the last couple of years.
+
+Sean Illing
+
+Is Russia the best at this cyber game?
+
+Peter W. Singer
+
+They’re definitely top of the class right now, but it’s not just Russia. ISIS is another big winner in this space. Their mastery of social media was essential to their rise to the top of the terrorism game, surpassing al-Qaeda and the like. People look at ISIS and they wonder how a group with a seventh-century worldview could become so popular today, and the answer is that they’re really good at using 21st-century technology.
+
+So when ISIS decided to invade Mosul in June 2014, what do they do? They announce it with a hashtag. Like Russia, they understand the rules of the game: that the world is watching, that you can’t keep things a secret, so you should embrace it and use social media to turn your own message into a viral campaign.
+
+Sean Illing
+
+I don’t think our society can adapt quickly enough to these technological changes — they’re running so far ahead of our laws and culture and institutions that we’re essentially hostage to them.
+
+Peter W. Singer
+
+I don’t know if I’d use the word “hostage,” but we definitely have a problem. All of this has happened in the last 10 years or so, and you have this new battle space that’s very hard for people to wrap their heads around.
+
+In the book, we interview one of the leading political campaign experts about the 2016 election, and he talks about how, by all the known rules, Trump should not have won. There were too many competitors, he had no newspaper endorsements, hardly any campaign offices, fewer TV ads, etc. But those were the old rules, and in the age of the internet, they don’t apply anymore.
+
+So we need new rules, and that also applies to each of us as individuals. Because if you don’t understand all the ways you’re being distracted and manipulated by social media and the internet, you’re going to be a mark. If you’re online, you’re constantly under assault by people looking to monetize your attention or your outrage or whatever the case may be.
+
+Our entire country was caught off guard in 2016, and that’s why Russia was able to cause such chaos in our society. If we don’t recognize how much the world has changed, we won’t be able to protect ourselves. Because the world has changed, and it will keep changing at a faster and faster rate.
+
+Sean Illing
+
+You use the phrase “unreality machine” in the book to describe social media’s essential function. Is that the political utility of social media now — to manufacture reality?
+
+Peter W. Singer
+
+You can use social media to achieve your goals, whatever those goals might be. And for many groups, it is literally to create a new reality, because the target audience derives its understanding of the world — not just the news, but the way it frames the world — from what it views through social media.
+
+So in many ways, it’s a flip on the old adage that you can’t have your own facts. Actually, you can have your own facts now, and what’s scary is that all the factors driving social media, including the algorithms and the marketplace, reward this kind of thinking. So everyone who uses social media, whether it’s individual self-promoters or companies or terrorist groups or partisan news outlets, is leveraging it for their own goals.
+
+Sean Illing
+
+The odd thing about social media is that, on the one hand, it has reduced everything to theater, where it’s all about performance and branding, and yet, on the other hand, it has raised the stakes and made it easier to spread actual violence and chaos across the globe. I don’t think we’re close to figuring out how to navigate this tension.
+
+Peter W. Singer
+
+One of the challenges of this book was trying to deal with the duality you’re pointing to. We tried to pepper it with scenes and characters that are genuinely scary, like the failed rapper who is radicalized online and becomes one of ISIS’s top recruiters; but we also show the good side of online life, like a Muslim American woman who created what she jokingly calls Dumbledore’s Army, which is this group of teens who go after extremists online using their own tactics and language — and frankly, they’re doing a better job than the State Department.
+
+The second part of what you said really cuts to the heart of why the technology companies have had such a difficult time. In many ways, it’s like they’re going through the stages of grief over what happened to their babies. They’ve created these platforms that they effectively lost control of, and now they’re coming to grips with the consequences. But the contradictions persist, and I’m not sure they’re truly facing up to the realities.
+
+Sean Illing
+
+Can you give me an example of what you mean there?
+
+Peter W. Singer
+
+Take Facebook’s Mark Zuckerberg. Right after the 2016 election, he kept insisting that disinformation couldn’t have swayed the election — and he was making comments like this while at the same time telling political campaigns that Facebook is the best place for you to spend your money to influence people’s votes. So there is still a kind of denialism at these tech companies.
+
+So we’re in this bizarre situation in which a handful of tech geeks are some of the most powerful actors in war and politics, because they control the platforms that literally set the rules of the new game. And they never set out to be in this role and aren’t particularly interested in war and politics, and yet they’re the deciders in a way that was previously unthinkable.
+
+Sean Illing
+
+I recently interviewed Eric Weinstein, a mathematician and a managing director of Peter Thiel’s investment firm. He made the case that technology, the child of capitalism, might ultimately be its destroyer. Do you think the same could be said about the internet and liberal democracy?
+
+Peter W. Singer
+
+That’s a great question. We live in a system of government that is a child of the Enlightenment, which was made possible by the printing press. Today, we’re finding it increasingly difficult to keep up with the changes not just in our politics but in our broader information ecosystem.
+
+But we have to remember that the argument can go both ways. For all the bad examples of how social media has been weaponized and used to weaken democracies, there are also examples of how it’s allowed a level of citizen involvement that hasn’t been possible since the time of ancient Athens.
+
+Local governments are using it to engage citizens in new and creative ways, and national governments like Switzerland and Australia are incorporating it in interesting ways as well. And it wasn’t that long ago that social media was credited with inspiring the Arab Spring.
+
+The bottom line is that these technologies are here to stay, so we have to adapt and learn to live with them. We have to develop 21st-century approaches to everything from voting to commerce to citizenship, and we have to defend ourselves against external attacks. We simply don’t have a choice.
+
+Sean Illing
+
+You end the book with a plea to tech giants like Twitter and Facebook, asking them to do a better job of policing their platforms. But that seems unrealistic to me, since their entire business model rests on turning users into products for advertisers, and that will always trump any commitment they have to democratic norms or civil discourse.
+
+Do you really believe they have the will to make these changes, even if doing so means sacrificing the bottom line?
+
+Peter W. Singer
+
+Well, that last part is the caveat, because I think these companies are starting to ask themselves if allowing their customers to be targeted is actually good for the bottom line. In the end, these companies cannot avoid being drawn into issues of politics and war and propaganda, because that’s what their platforms are being used for. It’s not in their DNA to get involved in this way, but this is where they are, and they know that governments will eventually intervene if they don’t deal with these problems.
+
+What they can’t do, and what they’ve done in the past, is assume that technology is somehow going to solve our political problems. This is a cycle they’ve been caught in for years, and it’s obviously not working. They have to recognize that these platforms are not merely for-profit enterprises; they’re also the nervous system for our personal and professional and political lives, and they have a responsibility to treat them accordingly.
+
+So what we ask for in the book is totally reasonable. It’s fine to beta-test a product like a restaurant-rating app by pushing it out in the world and just seeing what happens, but that’s not fine when it’s a product that the world depends on and is likely to be used in crime and violence and war. They need to do what the military often does, which is war-game a scenario ahead of time and anticipate all the bad things that can happen, and develop responses to them.
+
+This is their civic responsibility, and they can’t bury their heads in the sand any longer.
