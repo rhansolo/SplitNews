@@ -1,0 +1,73 @@
+Series: Gutting the IRS Who Wins When a Crucial Agency Is Defunded
+
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+In March 2019, the IRS added a scheme to its annual “Dirty Dozen” list of “the worst of the worst tax scams.” That same scheme was targeted, just weeks earlier, when the U.S. Department of Justice filed a fraud lawsuit against a handful of promoters allegedly responsible for generating more than $2 billion in improper tax write-offs. And the Senate Finance Committee has been investigating that very same racket, recently demanding thousands of pages of documents from six promoters. Lawmakers from both parties have introduced legislation to halt the same practice.
+
+The scheme they’re all trying to kill is what’s called a “syndicated conservation easement,” which the IRS calls “abusive” and says has resulted in bogus deductions for the rich that have cost the U.S. Treasury billions in revenues.
+
+A conservation easement, in its original, legitimate form, is granted when a landowner permanently protects pristine land from development. In that scenario, the public enjoys the benefit of undeveloped land and the taxpayer gets a charitable deduction. By contrast, the syndicated form, created and packaged by profit-seeking middlemen known as “promoters,” involves buying up land, finding an appraiser willing to declare that it has huge development value and thus is worth many times the purchase price, then selling stakes in the deal to wealthy investors who extract tax deductions that are often five or more times what they put in. (ProPublica investigated syndicated easements in the 2017 article “The Billion-Dollar Loophole.”)
+
+Get Our Top Investigations Subscribe to the Big Story newsletter.
+
+But the multifront crackdown seems to be having, at best, a limited effect. There were signs that the pace of syndicated deals has eased, according to an IRS letter to Congress in July 2018 that cited incomplete data; that’s the most recent official statement from the agency, which declined to comment for this article. And some entities doing syndicated projects have seen their business drop or have even left the field. But IRS commissioner Chuck Rettig offered a different picture to the Senate Finance Committee this spring. “Syndicated transactions have absolutely not declined,” he testified. “They’re still there.”
+
+In November, Rettig announced an escalation — including the launch of criminal investigations — in the agency’s attempts to stymie syndicated easements. “We will not stop in our pursuit of everyone involved in the creation, marketing, promotion and wrongful acquisition of artificial, highly inflated deductions based on these aggressive transactions,” he said in a statement at the time. Three IRS divisions are now conducting coordinated examinations of syndication deals after identifying 125 “high-risk cases,” and outside contractors have been hired to assist with the investigative load. More than 80 tax court cases are now pending against partnerships that used the syndicated easement deduction.
+
+The imperviousness of the scam’s promoters and investors has left tax experts flummoxed. “Boy, it isn’t like the old days, when people were fearful of the IRS,” said Steven Miller, who oversaw enforcement and tax-exempt organizations during his 25 years at the IRS and is now national tax director with consulting firm Alliantgroup. “I’m worried people aren’t afraid of the cop on the beat any more.”
+
+Another IRS veteran offered a similar view. “I thought by now they would have put these guys out of business,” said former agency commissioner John Koskinen, who took steps against syndicated easements before he left in late 2017. “Obviously, if you can get four to seven times your investment back in deductions, that’s a good deal. But you really have to have a lot of chutzpah to pull it off.”
+
+Some promoters continue to flaunt their sales pitches. In November, for example, an Alabama promoter (which was not sued by the Justice Department) solicited high net-worth clients with an ad in Barron’s, promising, in capital letters, “TAX DEDUCTIONS AVAILABLE THROUGH CONSERVATION EASEMENTS…100,000 INVESTED YIELDS UP TO 600,000 IN DEDUCTIONS.”
+
+And sizable deals are still being struck, including by an Atlanta firm called EcoVest Capital, a chief target of the Justice Department lawsuit. According to a private placement memorandum dated Oct. 24, which was obtained by ProPublica, EcoVest was planning as many as three new syndicated deals on 1,549 acres in rural Calhoun County, Texas. One, touting a deduction of $4.10 for every $1 invested, was completed by year-end. (The Justice Department suit, which is still in its early stage, asserted that EcoVest has been involved in 51 syndication easement deals since 2009, generating $1.7 billion in federal tax deductions.)
+
+On their face, the risk disclosures to potential investors in a syndicated deal seem daunting. For example, the private placement memo for EcoVest’s Texas offering warned of a “very high likelihood that the Property Entity or the Company will be audited by the IRS.”
+
+But experts cite several reasons for the stubborn survival of this tax-avoidance scheme. The first is that the IRS, which Congress has starved for funding, chiefly wields its clout through individual audits and tax court cases, which invariably take years. And even the dozens of tax court cases the IRS is pursuing target only a fraction of syndicated deals.
+
+More important, the syndicated deals are structured in a way that insulate the wealthy individual investors, leaving the promoters and outside lawyers to do battle with the IRS. Their fight is fueled with “audit reserves” of as much as $1 million that are set aside as part of every syndication partnership. Some deals even offer “audit insurance” from Lloyds of London to offset disallowed write-offs.
+
+“The way the structure works is pretty buttoned up,” Miller said. “The investor sits there and doesn’t see immediate pain. You’re not going to be bothered by the IRS at the front end. Some of them say: ‘Well, let me do the math. What’s the likelihood of that 40% penalty?’ That’s the calculation people are making.”
+
+Miller believes the deterrent effect will kick in only if more cases personally target individual promoters and deal consultants with tough penalties and professional sanctions. “Ultimately,” he said, “they need to crush a few appraisers like a grape.”
+
+The “linchpin” of the syndicated easements, Miller said, is the inflated appraisal. “How do I buy something today for a dollar and magically everything I buy is truly worth $10? That belies rational thought. You just scratch your head.”
+
+Here’s how the appraisal worked in one syndicated deal described in the Justice Department complaint. In 2015, an EcoVest entity acquired 28 acres in North Myrtle Beach, South Carolina, for $1.1 million. The firm raised about $9 million from investors who bought the property, then made an easement donation based on a claimed value for what the land would be worth if developed as a multifamily resort. That projection, made by an appraiser hired by the promoters, produced a tax deduction of about $39.7 million. The tax writeoff for investors: $4.12 for every $1 invested.
+
+In a written response to ProPublica’s questions, an EcoVest spokesperson called the government’s charges “baseless” and insisted that “none of the appraisals associated with EcoVest sponsored investments are abusive or fraudulent.”
+
+One appraiser regularly retained by EcoVest and other syndicators also looms large in the Justice Department suit: Claud Clark III, based in Magnolia Springs, Alabama. The complaint notes his involvement in at least 58 syndicated easement deals and alleges that Clark, 66, “continually and repeatedly” generated “grossly overvalued appraisals.”
+
+In January 2019, the Alabama state real estate appraiser board brought a formal complaint against Clark, after a detailed review of one of his easement appraisals found an inflated valuation riddled with errors and omissions. Threatened with loss of his Alabama license, Clark voluntarily surrendered it in April instead. He faces a second complaint filed with state regulators in Louisiana, regarding a 2018 appraisal he did for syndicators in Jefferson Davis Parish.
+
+EcoVest has continued to use Clark. Its October private placement memorandum, which raised $19.3 million from investors, did not disclose that he had surrendered his appraisal license in his home state. (A spokesperson for EcoVest said Clark’s relinquishment of his Alabama license wasn’t disclosed “because, under securities laws, it was not material to whether Mr. Clark was authorized to issue an appraisal in Texas — a state with different appraisal rules, regulations, and practices.”)
+
+Clark did not respond to requests for comment. On Christmas Eve, however, his attorneys filed a 130-page response and counterclaim to the Justice Department complaint, denying any inflated appraisals and accusing government officials, including the IRS commissioner, Rettig, of making “unlawful disclosures” of appraisal information from his tax returns in public statements about the litigation.
+
+Promoters of syndicated conservation easements have long been at war with the supporters of traditional easements, who worry that abusive deals will prompt Congress to eliminate the tax break altogether. The traditional conservation community, embodied by the Land Trust Alliance, the Washington, D.C., association of nonprofit land trusts, began pressing the IRS to crack down nearly a decade ago. (Land trusts are a key part of the process: The rules for conservation easements require that any property donated to seek an easement deduction must be accepted and maintained by a land trust or government entity.) The Land Trust Alliance later refused to accredit any trust accepting syndicated deals.
+
+The IRS’ attempt to crack down on syndicated easements dates back to December 2016, when the agency took the rare step of designating profit-making syndicated easements as abusive “listed” transactions. The IRS demanded special paperwork identifying everyone involved in such deals — from promoters and tax advisers to appraisers and investors — and warned that continued involvement would brand them for investigations and audits.
+
+The agency next took its campaign to tax court, after refusing to back down on dozens of audits rejecting the fat write-offs and demanding back taxes, interest and penalties of up to 40%.
+
+But with millions at stake, promoters have fought back fiercely. In 2016, they formed a Washington, D.C.-based advocacy group, called Partnership for Conservation, which has spent more than $3 million to date on lobbyists. EcoVest has spent another $2.5 million.
+
+The Partnership for Conservation defends the legitimacy of syndicated deals, arguing that the profit motive produces “tremendous opportunities” for conservation, according to Robert Ramsay, executive director of the organization. He said that the IRS should limit enforcement to cases of appraisal and valuation abuse, which he calls rare. “You have to stop with the premise that all of these are egregious and over the top,” Ramsay said. “I don’t think that’s the case.”
+
+Among the syndicators’ most fervent supporters is Robert Keller, a conservation biologist who runs the Atlantic Coast Conservancy, a land trust in Jasper, Georgia, and has accepted more syndicated easements than anyone. Keller acknowledged in an interview that his business has slowed, declining from 56 easements in 2017 to 22 in 2019. His land trust is itself now also under IRS audit for 2014 through 2016. (One of the reasons for the decline in volume for Keller: Atlanta-based Ornstein-Schuler, among the most prolific syndicated-easement promoters, announced last January that it was abandoning the business, citing “recent developments and the uncertainty related to the conservation and gifting of property.”)
+
+Keller’s land trust displays the slogan “Saving the world — One small piece at a time.” He is unapologetic about accepting syndicated easements. “For me, as a conservation biologist, this allows me to put away vast pieces of property,” Keller said. “I want to save the world.”
+
+Keller asserts the campaign against syndicated easements resulted from an unholy political deal between the Land Trust Alliance and IRS. In September, he filed a Freedom of Information Act lawsuit against the IRS to force the release of correspondence between the two groups that he claims will provide smoking-gun evidence.
+
+Read More IRS: Sorry, but It’s Just Easier and Cheaper to Audit the Poor Congress asked the IRS to report on why it audits the poor more than the affluent. Its response is that it doesn’t have enough money and people to audit the wealthy properly. So it’s not going to.
+
+Land Trust Alliance CEO Andrew Bowman called the notion of such a conspiracy “absurd.” As he put it: “Taxpayers are being bilked. The intent of Congress is being violated. And the future viability of land conservation is endangered. The egregious profiteering the IRS has tracked … must end.”
+
+At the urging of Bowman’s group, bipartisan congressional sponsors have, for the past three years, proposed legislation that would kill most syndications by limiting their profitability. It would bar deductions that exceed two and a half times the investment for any easement partnership that owned the land for less than three years.
+
+In July, Congress’ Joint Committee on Taxation projected that passage of the latest incarnation, the “Charitable Conservation Easement Program Integrity Act of 2019,” would, if enacted, produce $7.1 billion in additional tax revenue through 2021. The bill has yet to get out of committee.
+
+Paul Kiel contributed to this report. Correction, Jan. 3, 2020: This story originally misstated the founding year for the Partnership for Conservation. It was 2016, not 2017.
