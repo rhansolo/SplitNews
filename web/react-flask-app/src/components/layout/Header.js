@@ -9,9 +9,9 @@ const Header = (props) => {
         <a href="/" className="navbar-brand">
           {props.branding}
         </a>
-        <div>
-          <i className="fas fa-question"></i> About
-        </div>
+        <Link to="/about" className="nav-link">
+          <i className="fas fa-question"></i> <b><span className="text-dark">About</span></b>
+        </Link>
       </div>
     </nav>
   );

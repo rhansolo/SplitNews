@@ -44,3 +44,7 @@ input {
 .card {
   border-width: 6px;
 }
+
+html * {
+  font-family: Georgia
+}
