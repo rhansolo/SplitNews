@@ -1,0 +1,5 @@
+As day four of a globe-spanning cyberattack brought with it a marked slowdown in the spread of infected computers, governments and companies started to count the costs.
+
+Hundreds of thousands of users were infected by a strain of so-called ransomware, called WannaCry, that scrambled files of victims and demanded ransom via bitcoin to decrypt them again. The malware spread around the globe Friday, before slowing over the weekend.
+
+By...

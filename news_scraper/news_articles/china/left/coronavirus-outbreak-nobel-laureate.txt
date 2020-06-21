@@ -1,0 +1,89 @@
+Michael Levitt, a Nobel laureate and Stanford biophysicist, began analyzing the number of COVID-19 cases worldwide in January and correctly calculated that China would get through the worst of its coronavirus outbreak long before many health experts had predicted.
+
+Now he foresees a similar outcome in the United States and the rest of the world.
+
+While many epidemiologists are warning of months, or even years, of massive social disruption and millions of deaths, Levitt says the data simply don’t support such a dire scenario — especially in areas where reasonable social distancing measures are in place.
+
+“What we need is to control the panic,” he said. In the grand scheme, “we’re going to be fine.”
+
+Advertisement
+
+Here’s what Levitt noticed in China: On Jan. 31, the country had 46 new deaths due to the novel coronavirus, compared with 42 new deaths the day before.
+
+Newsletter Get our free Coronavirus Today newsletter Sign up for the latest news, best stories and what they mean for you, plus answers to your questions. Enter Email Address Sign Me Up You may occasionally receive promotional content from the Los Angeles Times.
+
+Although the number of daily deaths had increased, the rate of that increase had begun to ease off. In his view, the fact that new cases were being identified at a slower rate was more telling than the number of new cases itself. It was an early sign that the trajectory of the outbreak had shifted.
+
+Think of the outbreak as a car racing down an open highway, he said. Although the car is still gaining speed, it’s not accelerating as rapidly as before.
+
+Advertisement
+
+“This suggests that the rate of increase in the number of deaths will slow down even more over the next week,” Levitt wrote in a report he sent to friends Feb. 1 that was widely shared on Chinese social media. And soon, he predicted, the number of deaths would be decreasing every day.
+
+Three weeks later, Levitt told the China Daily News that the virus’ rate of growth had peaked. He predicted that the total number of confirmed COVID-19 cases in China would end up around 80,000, with about 3,250 deaths.
+
+This forecast turned out to be remarkably accurate: As of March 16, China had counted a total of 80,298 cases and 3,245 deaths — in a nation of nearly 1.4 billion people where roughly 10 million die every year. The number of newly diagnosed patients has dropped to around 25 a day, with no cases of community spread reported since Wednesday.
+
+Advertisement
+
+Now Levitt, who received the 2013 Nobel Prize in chemistry for developing complex models of chemical systems, is seeing similar turning points in other nations, even those that did not instill the draconian isolation measures that China did.
+
+He analyzed data from 78 countries that reported more than 50 newcases of COVID-19 every day and sees “signs of recovery” in many of them. He’s not focusing on the total number ofcases in a country, but on the number of new cases identified every day — and, especially, on the change in that number from one day to the next.
+
+“Numbers are still noisy, but there are clear signs of slowed growth.”
+
+Advertisement
+
+In South Korea, for example, newly confirmed cases are being added to the country’s total each day, but the daily tally has dropped in recent weeks, remaining below 200. That suggests the outbreak there may be winding down.
+
+In Iran, the number of newly confirmed COVID-19 cases per day remained relatively flat last week, going from 1,053 last Monday to 1,028 on Sunday. Although that’s still a lot of new cases, Levitt said, the pattern suggests the outbreak there “is past the halfway mark.”
+
+Advertisement
+
+Italy, on the other hand, looks like it’s still on the upswing. In that country, the number of newly confirmed cases increased on most days this past week.
+
+In places that have managed to recover from an initial outbreak, officials must still contend with the fact that the coronavirus may return. China is now fighting to stop new waves of infection coming in from places where the virus is spreading out of control. Other countries are bound to face the same problem.
+
+Levitt acknowledges that his figures are messy and that the official case counts in many areas are too low because testing is spotty. But even with incomplete data, “a consistent decline means there’s some factor at work that is not just noise in the numbers,” he said.
+
+Advertisement
+
+In other words, as long as the reasons for the inaccurate case counts remain the same, it’s still useful to compare them from one day to the next.
+
+The trajectory of deaths backs up his findings, he said, since it follows the same basic trends as the new confirmed cases. So do data from outbreaks in confined environments, such as the one on the Diamond Princess cruise ship. Out of 3,711 people on board, 712 were infected, and eight died.
+
+This unintended experiment in coronavirus spread will help researchers estimate the number of fatalities that would occur in a fully infected population, Levitt said. For instance, the Diamond Princess data allowed him to estimate that being exposed to the new coronavirus doubles a person’s risk of dying in the next two months. Most people have an extremely low risk of death in a two-month period, so that risk remains extremely low even when doubled.
+
+Advertisement
+
+Nicholas Reich, a biostatistician at the University of Massachusetts Amherst, said the analysis was thought-provoking, if nothing else.
+
+“Time will tell if Levitt’s predictions are correct,” Reich said. “I do think that having a wide diversity of experts bringing their perspectives to the table will help decision-makers navigate the very tricky decisions they will be facing in the upcoming weeks and months.”
+
+Levitt said he’s in sync with those calling for strong measures to fight the outbreak. The social-distancing mandates are critical — particularly the ban on large gatherings — because the virus is so new that the population has no immunity to it, and a vaccine is still many months away. “This is not the time to go out drinking with your buddies,” he said.
+
+Advertisement
+
+Getting vaccinated against the flu is important, too, because a coronavirus outbreak that strikes in the middle of a flu epidemic is much more likely to overwhelm hospitals and increases the odds that the coronavirus goes undetected. This was probably a factor in Italy, a country with a strong anti-vaccine movement, he said.
+
+But he also blames the media for causing unnecessary panic by focusing on the relentless increase in the cumulative number of cases and spotlighting celebrities who contract the virus. By contrast, the flu has sickened 36 million Americans since September and killed an estimated 22,000, according to the CDC, but those deaths are largely unreported.
+
+Levitt fears the public health measures that have shut down large swaths of the economy could cause their own health catastrophe, as lost jobs lead to poverty and hopelessness. Time and again, researchers have seen that suicide rates go up when the economy spirals down.
+
+The virus can grow exponentially only when it is undetected and no one is acting to control it, Levitt said. That’s what happened in South Korea last month, when it ripped through a closed-off cult that refused to report the illness.
+
+Advertisement
+
+“People need to be considered heroes for announcing they have this virus,” he said.
+
+The goal needs to be better early detection — not just through testing but perhaps with body-temperature surveillance, which China is implementing — and immediate social isolation.
+
+While the COVID-19 fatality rate appears to be significantly higher than that of the flu, Levitt says it is, quite simply put, “not the end of the world.”
+
+Advertisement
+
+“The real situation is not as nearly as terrible as they make it out to be,” he said.
+
+Dr. Loren Miller, a physician and infectious diseases researcher at the Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center, said it’s premature to draw any conclusions — either rosy or bleak — about the course the pandemic will take.
+
+“There’s a lot of uncertainty right now,” he said. “In China they nipped it in the bud in the nick of time. In the U.S. we might have, or we might not have. We just don’t know.”

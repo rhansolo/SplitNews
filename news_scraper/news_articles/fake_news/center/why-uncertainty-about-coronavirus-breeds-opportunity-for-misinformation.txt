@@ -1,0 +1,83 @@
+Americans right now face a dual challenge: to protect themselves and others from the new illness COVID-19, which is highly contagious and potentially deadly, as well as from the dangers of misinformation about the virus.
+
+Because so much is still unknown about the disease, disseminating perfectly accurate information about its spread and symptoms has proved challenging for public health officials around the world. As scientific knowledge about the threat has evolved, so has the guidance by officials.
+
+“Uncertainty is inherent to the problem,” said Kate Starbird, an associate professor at the University of Washington and co-founder of the Center for an Informed Public. “We don’t know certain basic things about the virus, and we don’t know when certain treatments are going to be available.”
+
+Confusion about the virus has played out even at the highest levels of power in the U.S., where President Donald Trump and members of the White House coronavirus task force have offered conflicting narratives about the severity and spread of the virus, as well as potential treatments for it.
+
+At a news conference last week, Trump suggested that people could ingest or inject disinfectant to fight COVID-19, which medical and scientific experts warned was not proven and could be fatal. He also floated without evidence a theory that sunlight may be used to kill the virus inside of the body. The president later said he was being sarcastic — but poison control centers around the country reported an uptick in calls from people who were seeking clarity on the issue or concerned after they ingested disinfectants.
+
+This is not the first time the president has touted an unproven treatment for coronavirus during a news conference. A few weeks earlier, Trump doubled down on a claim that hydroxychloroquine, a common anti-malarial drug, can be used to effectively prevent and treat COVID-19. “They say taking it before the fact is good,” he said, adding: “What do you have to lose?”
+
+The answer, according to American Medical Association president Dr. Patrice Harris, is your life. She warned in an interview with CNN last weekend that “there could be deaths” if individuals take a drug that has not been approved by the FDA to treat COVID-19. At least one man in the U.S. reportedly died recently from ingesting a form of the drug chloroquine that’s used as an aquarium cleaner, after believing it could help protect him and his wife from coronavirus. Several other countries — including Nigeria — reported deaths from chloroquine poisoning after the president endorsed it.
+
+Beyond the possible direct health risk, research testing the effectiveness of the drugs hydroxychloroquine and chloroquine as an antidote for the virus has been limited and inconclusive. The National Institutes of Health has launched clinical trials looking at the drug as a potential therapy for COVID-19, but Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, has stressed that it is not considered a treatment for COVID-19, and any evidence that it is effective at this point is anecdotal.
+
+READ MORE: What you need to know about hydroxychloroquine and coronavirus
+
+Two former FDA commissioners, including one who served under Trump, have reportedly criticized an emergency authorization by the agency that allows the use of the two drugs for COVID-19, saying that the move seems to be a reaction to the president advocating for its use, rather than based on scientific evidence.
+
+While so many around the world are dying from the pandemic, preventable deaths due to unsubstantiated recommendations or remedies are more likely when people share and repeat false information about COVID-19. In fact, we may be more susceptible to misinformation. Here’s what experts say about why that happens and what can be done to identify and counter it.
+
+What types of misinformation surrounding the virus are most common?
+
+Scientists believe novel coronavirus originated in a seafood and poultry market in Wuhan, China, at the end of 2019, before exploding into a full-on pandemic by mid-March. At the same time, misinformation and disinformation about the virus were spreading rapidly across social media platforms such as Twitter and Facebook, which a team of researchers at Carnegie Mellon University have been tracking since the beginning of the year.
+
+Over the past few weeks, they’ve tracked dozens of stories touting cures or preventative measures regarding COVID-19 that are inaccurate, as well as stories containing false information about the nature of the virus (i.e. those suggesting that COVID-19 is just like the seasonal flu). They’ve also identified stories pushing conspiracy theories about the origins of the virus.
+
+There has also been confusion on social media about emergency measures that states are taking to slow the spread of COVID-19, creating fears about impending lockdowns and the availability of resources in certain areas.
+
+Kathleen M. Carley, a computer science professor who leads the team, noted that a number of these inaccurate posts are shared as satire, but are not interpreted that way by everyone reading them. A study published in 2018 found that false news travels on social media six times faster than true news, and has the potential to reach an exponentially higher number of people.
+
+She also noted that any time a politician or celebrity shares false information with their large audiences about COVID-19, it makes it harder for health officials to ensure the public has accurate information.
+
+Sen. Tom Cotton, R-Ark., for example, repeatedly shared an unproven theory that the coronavirus originated in a biosafety lab in Wuhan. He voiced this belief on American networks with millions of viewers, such as Fox News, as well as before the Senate.
+
+“I do think that when you have either politicians or celebrities retweeting and reposting disinformation, it’s going to last longer, and it’s going to be harder to debunk,” Carley said.
+
+She noted that other countries are sharing misinformation or disinformation regarding the virus, too: The State Department recently summoned China’s ambassador to Washington after the country’s foreign ministry spokesman repeated a theory on Twitter that COVID-19 was brought to China by the U.S. Army. In the United Kingdom, there have been more than 30 acts of arson and vandalism of cellphone towers across the country, the New York Times reported on Friday, after a conspiracy theory spread on social media that linked the spread of coronavirus to 5G technology.
+
+“When elected officials give incorrect information, they spread that incorrect information,” said Joe Uscinski, a political scientist at the University of Miami specializing in the study of conspiracy theories. He echoed that the president’s own touting of inaccurate or unproven theories — such as the suggestion that chloroquine will cure COVID-19 — only adds to the public confusion.
+
+Most Americans believe in popular and unfounded conspiracy theories, and people who lean right politically are no more susceptible than those who lean left. But Trump has shared debunked or fringe conspiracy theories numerous times — about President Barack Obama’s birth, Russian interference in the 2016 election and QAnon, among others. “Trump is particularly prone to spreading conspiracy theories because he built a coalition of support among conspiracy-minded people,” said Uscinski, adding, “He needs to stop.”
+
+In an interview with Science Magazine last month, Fauci, who is acting as the top adviser on the coronavirus task force, indicated that Trump sometimes shares information about COVID-19 “in a way that I would not express it, because it could lead to some misunderstanding about what the facts are about a given subject.” He added, however, that the president does listen to what he says on “substantive issues.”
+
+Why we’re more susceptible to misinformation right now
+
+For weeks, COVID-19 has dominated news coverage, inundating the public with near constant updates about the virus and its widespread impact as scientists’ understanding of it has changed in real-time.
+
+“We don’t have experts on COVID-19, because it literally just emerged four months ago,” said Dhavan Shah, the director of the Mass Communication Research Center at the University of Wisconsin-Madison. “The facts are shifting so quickly.”
+
+Most official guidance still cites fever, cough and shortness of breath as the main symptoms of the virus, but some research released toward the end of March suggests that the temporary loss of one’s sense of smell may also indicate that someone is infected. Early data also gave the impression that the elderly were most in danger of contracting a serious version of the virus. While still true, a fuller picture has shown that a significant number of younger people are being hospitalized with the virus, too.
+
+With what Shah called the “unique challenge” for public health officials trying to stay up to date, it’s no surprise that people are seeking out any information to make sense out of the confusion, leading some to dubious sources or claims.
+
+WATCH: How Russia-linked bots and trolls use tragedy to sow confusion
+
+“A lot of it is accidental,” said Leysia Palen, a professor of computer science at the University of Colorado who specializes in crisis informatics. “People share something without malicious intent.”
+
+Kate Starbird of the Center for an Informed Public, agreed that often people who share misleading information about the virus are often just trying to help themselves and others. “There’s a difference between the creator and the people that spread it,” Starbird said. “There’s actually an act of altruism with the spread of some rumors of misinformation.”
+
+Still, Uscinski said he’s been surprised by how many Americans have bought into certain conspiracy theories about COVID-19. “It’s likely that people are anxious and this is largely the only topic on the news,” he said. “People who have this mindset are going to be exposed to” misinformation.
+
+High anxiety in the U.S. about the 2014 Ebola epidemic in Africa drove both the generation of fake news, as well as unvetted claims made by traditional news sources. An American nurse who had been a front-line worker in Sierra Leone was the target of some untrue claims, and she ended up leaving the state where she lived because of the scrutiny.
+
+How to share information about COVID-19 responsibly
+
+Media experts and researchers say there are things you can do to identify misinformation before sharing it yourself.
+
+First, prioritize information coming directly from the Centers for Disease Control and Prevention, the World Health Organization, and state and local officials about the spread and response to COVID-19. Both the CDC and WHO provide daily reports on the number of confirmed virus cases, as well as up-to-date resources and research on the disease. While it can be difficult to sift through information on social media, announcements coming directly from the social media accounts of your governor, for example, can likely be trusted.
+
+Social media companies are also now taking action to prioritize information coming from state and federal officials and remove misinformation about the virus. If you visit Facebook for updates about COVID-19, try checking its dedicated page on the topic before scrolling through your timeline. Twitter and Instagram should also direct you to official information about the virus when you search for COVID-19 in these platforms. You can also report information on your feed that seems inaccurate.
+
+Be aware that any cures that look too good to be true are probably false, said Kathleen Carley: “If something’s really trending a lot, check it against a real medical site,” such as the CDC or the WHO. While a clinical trial for a COVID-19 vaccine is already in the works, it will be a while before anything is widely available to the public. In the meantime, the best guidance to avoid contracting and spreading the virus is to frequently and thoroughly wash your hands, practice social distancing as much as possible, but wear a mask when you have to be in public spaces, and avoid close contact with people who are sick, according to the CDC.
+
+Kate Starbird says she’s seen a lot of people trying to “leverage online information spaces to gain attention,” so be wary of posts that seem “incentivized to sensationalize.”
+
+Dhavan Shah added that the responsibility to relay accurate information about COVID-19 should not fall entirely on the shoulders of the general public. News organizations, other types of media outlets and public officials should be thinking carefully about how they relay information about the virus, particularly if it gives credence to falsehoods.
+
+For people around the world, reliable information can be prophylactic against this deadly foe. But, said Shah, “If you deny the science of the facts, the reality’s going to show up on your doorstep in a month and a half.”
+
+Wyatt Mayes contributed reporting.

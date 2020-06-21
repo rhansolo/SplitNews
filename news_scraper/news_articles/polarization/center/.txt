@@ -1,109 +1,101 @@
-Voting And Elections Divide Republicans And Democrats Like Little Else. Here's Why
+Quick Take
 
-Enlarge this image toggle caption Ron Harris/AP Ron Harris/AP
+Social media posts falsely claim donations made on the Black Lives Matter website go “directly” to the Democratic Party, because the group uses ActBlue Charities — an online fundraising platform. Donations go to the Black Lives Matter Global Network Foundation. The funds first pass through a nonprofit that sponsors the group.
 
-Republicans and Democrats seldom agree on much in 21st century politics — but one issue that divides them more than ever may be voting and elections.
+Full Story
 
-The parties didn't only battle about whether or how to enact new legislation following the Russian interference in the 2016 election. They also differ in the basic ways they perceive and frame myriad aspects of practicing democracy.
+As the Black Lives Matter movement captures national attention, websites and social media posts are spreading a false claim about donations made to a leading Black Lives Matter organization.
 
-Republicans' and Democrats' vastly different starting points help explain why the politics over voting and elections have been and likely will remain so fraught, through and beyond Election Day this year.
+An Instagram page for the website WokeHub.com claimed, for example, that “donations made to Black Lives Matter website go directly to the DNC” and that BlackLivesMatter.com “appears to be an international money laundering program used by the Democratic National Committee.” A similar claim appeared on the conspiracy theory website InfoWars.com.
 
-Sometimes it seems as if the politicians involved barely live in the same country. It has become common for one side to discount the legitimacy of a victory by the other.
+Conservative personality Candace Owens also put the claim before her more than 1 million followers on Instagram, where she claimed “BLACK LIVES MATTER FUNDING GOES DIRECTLY TO WHITE DEMOCRATS AND THEIR VARIOUS INITIATIVES TO GET DEMOCRATS INTO OFFICE.”
 
-And the coronavirus pandemic, which has scrambled nearly everything about life in the United States, makes understanding it all even more complicated. Here's what you need to know to decode this year's voting controversies.
+But the claims — perhaps worsened by public confusion over the structure of the organization, which we’ll explain later — are based on a distortion of facts regarding the nonprofit ActBlue, which provides fundraising infrastructure to Democratic campaigns and progressive organizations.
 
-The Rosetta stone
+ActBlue and BlackLivesMatter.com
 
-The key that unlocks so much of the partisan debate about voting is one word: turnout.
+There are a number of groups that use the phrase “Black Lives Matter” in their name. There is a “Black Lives Matter Foundation,” for example, whose president confirmed to us that it is not related to the organization behind BlackLivesMatter.com — which is at the center of the viral claims.
 
-An old truism holds that, all other things held equal, a smaller pool of voters tends to be better for Republicans and the larger the pool gets, the better for Democrats.
+BlackLivesMatter.com is operated by an umbrella Black Lives Matter organization called the Black Lives Matter Global Network. The effort started in 2013 following the acquittal of George Zimmerman in the killing of Trayvon Martin.
 
-This isn't mathematically ironclad, as politicians learn and relearn regularly. But this assumption is the foundation upon which much else is built.
+To collect donations, the website uses ActBlue Charities, a 501(c)(3) organization that specifically makes the platform available to charitable organizations.
 
-Traditionally, Republicans have tended to support higher barriers to voting and often focus on voter identification and security to protect against fraud. All the same, about half of GOP voters back expanding vote by mail in light of the pandemic.
+Owens’ Instagram post features a video showing that BlackLivesMatter.com uses ActBlue for its donations. It then shows an OpenSecrets.org breakdown of expenditures by ActBlue made in the 2020 cycle; the top recipients are the presidential campaigns of Sen. Bernie Sanders, former Vice President Joe Biden, and Sen. Elizabeth Warren.
 
-Democrats tend to support lowering barriers and focus on making access for voters easier, with a view to encouraging engagement. They support expanding votes via mail too.
+But the video misrepresents how ActBlue works. ActBlue isn’t itself donating money. It’s just the online platform that campaigns and groups use to solicit and collect donations.
 
-The next fight, in many cases, is about who and how many get what access via mail.
+Campaign finance experts told us that it’s false to say that donations to the Black Lives Matter group are going to the Democratic National Committee, or to Democratic presidential campaigns, simply because the website uses ActBlue.
 
-All this also creates a dynamic in which many political practitioners can't envision a neutral compromise, because no matter what philosophy a state adopts, it's perceived as zero-sum.
+“ActBlue lets candidates and liberal nonprofit organizations set up their separate accounts,” Michael Malbin, director of the nonpartisan Campaign Finance Institute, told us in a phone interview. “There’s no crossing from one account to another. If you give the money to Sanders, it does not go to Biden.”
 
-Or as former Wisconsin Gov. Scott Walker, a Republican, told NPR, there are no "fair" maps in the discussion about how to draw voting districts — because what Democrats call "fair" maps are those, he believes, that favor them.
+Malbin — a professor of political science at the University at Albany, State University of New York — said candidates and organizations use ActBlue “for the ease of transactions.”
 
-No, say voting rights groups and many Democrats — the only "fair" way to conduct an election is to admit as many voters as possible. Georgia Democrat Stacey Abrams, who has charged authorities in her home state with suppressing turnout, named her public interest group Fair Fight Action.
+“ActBlue has no discretion over” where to direct individuals’ contributions, he said. The money “you see coming through ActBlue is coming through it, not from it.”
 
-Access vs. security
+A similar platform used for Republican fundraising efforts, WinRed, launched in 2019.
 
-The pandemic has added another layer of complexity with the new emphasis it has put on voting by mail. President Trump says he opposes expanding voting by mail, and his allies, including White House press secretary Kayleigh McEnany, call the process rife with opportunities for fraud.
+“When you donate on an ActBlue or ActBlue Charities page, the donation is earmarked for the group listed on the form,” Caleb Cade, a spokesperson for ActBlue, told us in an email. “We pass along the contribution directly to the receiving campaign or entity. We do not choose the recipient of the contribution, the donor does.”
 
-Even so, Trump and McEnany both voted by mail this year in Florida, and Republican officials across the country have encouraged voting by mail.
+In a statement to FactCheck.org, the Black Lives Matter Global Network’s managing director, Kailee Scales, said that the claims about the money being routed to Democrats are part of “an organized disinformation campaign against BLM, from actors clearly trying to blunt the growing support for this movement.”
 
-Democrats, who have made election security and voting access a big part of their political brand for several years, argue that the pandemic might discourage people from going to old-fashioned polling sites.
+“All contributions to the DNC are publicly reported to the FEC and review of FEC reports will confirm there has never been any donation from this organization,” she said.
 
-If there's rough agreement about that away from the White House, there are many disputes about the specifics — what practices will be permitted based on what the parties perceive as beneficial for them.
+The Operations of the Black Lives Matter Global Network
 
-A study by Stanford University found that voting by mail yielded a small but roughly equal increase in turnout between the parties.
+The claims seem to have flourished amid confusion over the structure of the Black Lives Matter Global Network, which is incorporated in Delaware.
 
-It isn't clear yet how much voting by mail might expand by Election Day, but it's the subject of lawsuits across the country; apart from the politics, absentee ballot-printing is a boutique business and its capacity will be tested — as may that of the Postal Service.
+The ActBlue donations page on the website specifically says that the money given will “benefit Black Lives Matter Global Network.”
 
-How common is voter fraud?
+Technically, the network also has structured a foundation — the Black Lives Matter Global Network Foundation — which is “fiscally sponsored” by a global nonprofit called Thousand Currents, according to Jenesha de Rivera, director of finance and administration at Thousand Currents.
 
-It exists, but it's very rare.
+The partnership between the network and the nonprofit (formerly the International Development Exchange) was announced in 2016. The nonprofit organization said it would provide “fiduciary oversight, financial management, and other administrative services to BLM.”
 
-Despite anecdotal cases of people voting fraudulently in person or suspicious ballots appearing in the mail, most of the time, in most places, the way elections in the U.S. are processed is legitimate.
+Cade, the ActBlue spokesperson, confirmed that the donations made through ActBlue go to Thousand Currents for Black Lives Matter.
 
-Since the pandemic, some Republican officials at the state level have acknowledged that the party's language around fraud may now be putting voting at risk by amplifying fraud concerns out of proportion.
+Fiscal sponsorships are common.
 
-Read more from NPR's Miles Parks about the integrity of voting by mail.
+“Using a fiscal sponsorship arrangement offers a way for a cause to attract donors even when it is not yet recognized as tax-exempt under Internal Revenue Code Section 501(c)(3),” according to the National Council on Nonprofits. “In essence the fiscal sponsor serves as the administrative ‘home’ of the cause. Charitable contributions are given to the fiscal sponsor, which then grants them to support the cause.”
 
-Trump sometimes says that large numbers of people vote illegally in the United States, but a panel he appointed to investigate that ostensible problem could not substantiate it. Listen to an interview with a member of that commission.
+Black Lives Matter Global Network Foundation “is an organization within Thousand Currents,” de Rivera said in a phone interview, “so it can accomplish its charitable purpose prior to receiving its approval from the IRS for its own 501(c)(3).”
 
-Still, anecdotal cases of fraud crop up across the country.
+De Rivera said the foundation has applied to become its own 501(c)(3). We asked the Black Lives Matter group for a copy of its Form 1023, which is used to apply for that designation, but didn’t hear back. An IRS spokesperson said copies are only publicly available if the organization is approved for 501(c)(3) status.
 
-Voter suppression
+On the claims that money is being given to Democratic campaigns, de Rivera said that Thousand Currents’ own 501(c)(3) status would be “in jeopardy” if charitable donations made through the organization were rerouted to political campaigns.
 
-Activists frequently call out what they term suppression.
+According to the IRS, “all section 501(c)(3) organizations are absolutely prohibited from directly or indirectly participating in, or intervening in, any political campaign on behalf of (or in opposition to) any candidate for elective public office. Contributions to political campaign funds or public statements of position (verbal or written) made on behalf of the organization in favor of or in opposition to any candidate for public office clearly violate the prohibition against political campaign activity.”
 
-In a dispute this spring in Nevada, for example, Democrats sued to stop the state from sending mail-in ballots only to people who had voted in recent elections rather than to all registered voters.
+A Thousand Currents audit for 2019 shows that, as of June 2019, the organization held nearly $3.4 million in net assets for Black Lives Matter. It had released nearly $1.8 million to the group in the last fiscal year.
 
-Democrats said the state's plan would disenfranchise some citizens by leaving them out of the primary; Republicans argued that states' voter rolls are often inaccurate and that sending out ballots to everyone could lead to the ballots getting lost or winding up in the wrong hands — opening up the prospect for fraud.
+The audit also provides a breakdown of how the foundation (referred to as the “fiscal project” under a statement of functional expenses, according to de Rivera) spent that $1.8 million in buckets — including on consultants and salaries.
 
-Voter rolls are often the focus of disputes for these reasons.
+Speaking generally about the issue of fiscal sponsorships, Benjamin Leff, a law professor at American University who specializes in the regulation of nonprofits, told us by phone that “the sponsoring organization is responsible” for ensuring “that the sponsored organization spends the money in a way that is consistent with the law.” He said the sponsored organization does not have to file its own Forms 990.
 
-People die, move — and move out of state — and so authorities periodically need to delete names. How frequently that happens, and for what reasons, can become controversial and the kernel of legal and political warfare between the parties.
+And, Leff said in an email, because ActBlue Charities is also a 501(c)(3), it is his “understanding … that both ActBlue Charities and Thousand Currents have a legal obligation to make reasonable efforts to ensure that the funds they receive are spent consistent with 501(c)(3) restrictions.”
 
-Likewise with voter identification documents.
+On June 11, the Black Lives Matter Global Network Foundation said in a press release that, thanks to donations, it would make $6.5 million available through grants that will be available to “all chapters affiliated” with it.
 
-In Texas, for example, the Republican-dominated state legislature deemed that handgun licenses were acceptable identification at the polls — but student IDs, even those issued by the state's own universities, were not.
+Editor’s note: FactCheck.org is one of several organizations working with Facebook to debunk misinformation shared on social media. Our previous stories can be found here.
 
-For all the discussion about the effect of voter ID laws, however, a study last year found that whatever impact those laws might have is offset by increased organization and activism by nonwhite voters — leading to no change in registration or turnout.
+Sources
 
-Another battleground is early and absentee voting. Rules vary by state, with some requiring more explanation than others as to what's permissible.
+“ActBlue Expenditures.” OpenSecrets.gov. Accessed 11 Jun 2020.
 
-Bitter lessons
+Cade, Caleb. Spokesperson, ActBlue. Email to FactCheck.org. 11 Jun 2020.
 
-The parties today have arrived at this moment after years of what they would argue were bad experiences with elections at the hands of their opponents.
+De Rivera, Jenesha. Director of finance and administration, Thousand Currents. Phone interview with FactCheck.org. 12 Jun 2020.
 
-Republicans, among other things, sometimes point to what they believe was cheating in the 1960 presidential race. Alleged Democratic chicanery, in this telling, threw the results to John F. Kennedy and cost the race for Richard Nixon.
+“Fiscal Sponsorship for Nonprofits.” National Council of Nonprofits. Accessed 11 Jun 2020.
 
-Fraudulent IDs, undocumented immigrants voting, people being "bused in" on Election Day remain consistent themes when Republicans talk about elections.
+“IDEX and Black Lives Matter announce global partnership.” Thousand Currents. 6 Sep 2016.
 
-Democrats look to the decades of Jim Crow discrimination that kept many black voters out of elections.
+Leff, Benjamin. Law professor, American University. Phone interview with FactCheck.org. 12 Jun 2020.
 
-More recently, they look at the Supreme Court's 2000 decision that handed the outcome of that election to George W. Bush over Al Gore. The court halted the counting of ballots that Democrats argued could have changed Florida's results, swinging the state to Gore.
+Malbin, Michael. Director, Campaign Finance Institute. Phone interview with FactCheck.org. 11 Jun 2020.
 
-Abrams' group perceives what it calls a deliberate campaign by the establishment to purge Georgia voter rolls of mainly black or Democratic voters.
+Pappas, Alex. “WinRed, new GOP donor platform, reaps impeachment windfall, rakes in millions since probe launch.” Fox News. 1 Oct 2020.
 
-Problems with voting in Georgia's primary in June underscored those problems and that history, Abrams and other critics said.
+Persily, Nathaniel. Law professor, Stanford University. Email to FactCheck.org. 11 Jun 2020.
 
-Matters of principle
+“The Restriction of Political Campaign Intervention by Section 501(c)(3) Tax-Exempt Organizations.” IRS. Accessed 12 Jun 2020.
 
-Many party leaders describe at having arrived at their positions based upon principle. Republicans are more likely to argue that casting a vote is a privilege of citizenship to be earned and safeguarded with restrictions and security.
-
-They also point to what they call the principles of federalism and the need for people to be engaged at the state and local level with the conduct of elections — not for broad mandates from Washington.
-
-Democrats are more likely to argue that voting is a right and that the barriers to casting a ballot should be as low as practical. President Lyndon Johnson and Democrats in the 1960s used the Voting Rights Act and federal power to dismantle racist state laws designed to prevent African Americans from voting, but those actions were later weakened by the Supreme Court.
-
-Some current Democrats, including Massachusetts Sen. Elizabeth Warren, have called for new action by Congress and the federal government that could involve new funding, legislation and administration from Washington.
-
-Whatever the outcome of this year's election, these disputes over elections themselves likely will continue well into the future.
+“Thousand Currents and Subsidiary Consolidated Financial Statements.” Squar Milner. 30 Jun 2019.

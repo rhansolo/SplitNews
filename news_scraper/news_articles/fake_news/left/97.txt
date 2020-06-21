@@ -1,0 +1,67 @@
+What can we learn from Chinese statistics, and can we trust those numbers?
+
+Numbers have long defined Chinese politics
+
+Chinese officials pay particular attention to numbers, especially key statistical measures such as GDP growth, fiscal revenue and investment, which have long been core parts of the Communist Party’s system for evaluating officials. Positive evaluations unlocked bonuses, promotions and other rewards for officials that met specific targets.
+
+AD
+
+China’s system of limited, quantified vision focused on these indicators out of a belief that close monitoring would generate effort and good results. Decades of rapid economic growth testify to the system’s success — but also gave officials incentives to misrepresent the truth and falsify statistics or look to achieve them through wasteful means.
+
+AD
+
+Here’s an example. Research I published in 2016 shows that provinces reported jumps in GDP growth around the times local officials came up for promotion, but they weren’t reporting parallel levels of highly correlated statistics like electricity usage. Chinese citizens, business executives and academics had wondered about falsification, but in recent years, cases have been exposed in which local governments admitting falsified statistics. In a working paper with Jiang Junyan, we construct an index of falsification that closely tracks these cases.
+
+What does that say about China’s coronavirus statistics?
+
+AD
+
+First off, this research highlights the importance of numbers in Chinese political discourse — across a wide bureaucracy, the covid-19 figures serve as the measure of performance. And past findings suggest there are reasons to pay attention to a number of possibilities, including the strong incentives for distortions in officially released data.
+
+AD
+
+The primary reason to be skeptical of official Chinese coronavirus statistics is that the initial reporting of the outbreak was suppressed. Local authorities in Wuhan intentionally hid the outbreak, as did national authorities.
+
+President Xi Jinping reportedly launched a national response on Jan. 7 but did not make a public statement until Jan. 20.
+
+AD
+
+Many in China will probably never forget or forgive this betrayal, despite subsequent successes in containing the outbreak. Last week, in an effort to reverse one very public misstep, Wuhan officials issued a posthumous apology to Li Wenliang for the admonishment the Wuhan doctor received after trying to spread word about the illness that would subsequently take his life.
+
+Undercounting infections and deaths
+
+What else do we know about Chinese coronavirus statistics? Total confirmed case statistics out of China probably underestimate total cases of infection. This is true everywhere, of course, but more so in China than most places. In part, this is understandable — Wuhan’s health-care workers did not have the capacity to test widely in the middle of a total health-care system collapse.
+
+AD
+
+AD
+
+If asymptomatic cases were included, experts say the total number of cases in Hubei province could be much higher. An article in the journal Science estimates that 86 percent of Hubei’s cases were undocumented by the time authorities extended the lockdown to Wuhan and other cities on Jan. 23.
+
+It is also likely that officials reported lower numbers of deaths from covid-19, the disease caused by the coronavirus. Especially once the central government’s propaganda mission to win the “people’s war” against the virus became clear, numbers shifted to achieve that vision. Such shifts would probably be subtle — not hundreds or thousands of hidden deaths, but instead excluding deaths that could be attributed to other types of pneumonia or heart failure, for instance.
+
+The bigger picture is still remarkable
+
+AD
+
+AD
+
+What’s more significant in China’s statistics are the limited number of coronavirus hot spots. It appears as if China had just one hot spot, the city of Wuhan and Hubei province, and community-level transmission never exploded anywhere else. Italy, Iran and the United States, by comparison, are all seeing community spread with numerous hot spots.
+
+Lunar New Year appears to have saved China rather than condemned it. While the holiday typically is associated with billions of trips, the vast majority involve people moving to their hometowns, not the kind of interconnected networks of travel that make contact tracing difficult to impossible.
+
+Normal economic activity quiets down during the Lunar New Year holiday in a way that encouraged staying at home. People have supplies prepared in advance; offices and factories are already closed. By linking severe social isolation policies to this extended holiday period, China seems to have been able to keep the virus from exploding in the country’s other megacities.
+
+AD
+
+AD
+
+Through severe restrictions on movement, enforced social distancing and widespread testing, China was able to “flatten the curve” and significantly slow the spread of the coronavirus.
+
+Even if no new local cases is an exaggeration, China’s efforts have clearly kept the virus in check. Businesses are reopening and the government is lifting restrictions on movement. Yet even with these statistics, the government is still acting with an abundance of caution, as it has yet to reschedule its annual twin sessions and schools in many cities, including Beijing, remain closed.
+
+AD
+
+Jeremy L. Wallace is an associate professor of government at Cornell University. He is the author of “Cities and Stability: Urbanization, Redistribution, and Regime Survival in China” (Oxford University Press, 2014).
+
+AD

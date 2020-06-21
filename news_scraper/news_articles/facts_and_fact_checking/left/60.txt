@@ -1,0 +1,61 @@
+• While expressing cautious optimism, experts say we’ll know more about the drug and its possible drawbacks once it is tested and used more widely.
+
+• However, the trial did not show a significant decrease in the mortality rate from using the drug.
+
+• A recent clinical study of the drug remdesivir found that recovery time for coronavirus patients sped up by 31% while using the drug. That’s good news, given that physicians currently have limited options for treating COVID-19 patients.
+
+At a time when good news about the coronavirus pandemic is hard to find, one hopeful word has landed on a lot of people’s lips: remdesivir.
+
+The drug, produced by Gilead Sciences, was unsuccessfully deployed against Ebola virus in recent years. It has attracted new interest after the novel coronavirus appeared in China late last year, spurring a rush of research into possible therapies and cures.
+
+On April 29, the National Institute of Allergy and Infectious Diseases, headed by Dr. Anthony Fauci, released results of a study of remdesivir, and while the results have not yet been peer-reviewed, they were positive.
+
+The study looked at 1,063 patients who were hospitalized with serious coronavirus complications. It compared those who received the drug against others who received a placebo, finding that patients who received remdesivir recovered 31% faster than the patients given a placebo.
+
+At the White House, Fauci told reporters that "the data shows that remdesivir has a clear-cut, significant, positive effect in diminishing the time to recovery." Fauci added that although the 31% improvement "doesn't seem like a knockout 100%, it is a very important proof of concept because what it has proven is that a drug can block this virus."
+
+Evelyn Ling, a clinical instructor at the Stanford University school of medicine who’s working on a remdesivir trial, told NPR that the treatment is "very promising," especially given that patients "currently don't have any great options right now," she says. "Every day you're in ICU, that's a lot of stress on the body, that's a lot of recovery time needed. So I think if you could shorten that, I think that's great for our patients."
+
+In fact, Fauci indicated that the success rate was strong enough that giving patients a placebo rather than remdesivir posed ethical challenges.
+
+The Food and Drug Administration has said it is working with Gilead on how to proceed. Regulatory approval could be on a fast track, but it hasn’t happened yet.
+
+"I want them to go as quickly as they can," President Donald Trump said. "We want everything to be safe, but we would like to see very quick approvals, especially with things that work."
+
+Experts greeted the news with optimism, but also caution.
+
+Mark E. Rupp, a professor in the section of infectious diseases at the University of Nebraska Medical Center, told PolitiFact that the initial results are "very encouraging," but he added that much more needs to be learned.
+
+"We just hit a single and we’re on base, but it’s not a home run," Rupp said. "We’re still in the early innings of the game."
+
+Here are some of the issues driving that caution.
+
+There have been conflicting results so far
+
+A smaller remdesivir trial in China with 237 patients did not produce similarly positive results. However, the researchers ended the study after having trouble finding recruits, and for that reason, Fauci dismissed it as "not an adequate study."
+
+The fact that there have been multiple trials with conflicting results makes it "complicated" for scientists to draw firm conclusions at this point, said Betsy Hirsch, an assistant professor at the University of Minnesota College of Pharmacy.
+
+The urgency of the coronavirus pandemic has thrown a wrench into the normally cautious process of testing and approving drugs.
+
+Details about different studies of remdesivir have leaked out in bits and pieces, often without peer review, which "speaks to how unusual the drug development and research process is with COVID," said Joel F. Farley, a professor at the University of Minnesota College of Pharmacy.
+
+The clinical trial did not show a significant decline in the death rate
+
+The patients in the study who received remdesivir had a mortality rate of 8%. The patients who received a placebo had a mortality rate of 11.6%. That’s an improvement, but not one that scientists deem big enough to be significant.
+
+"The data showing that there’s a protective effect against death is not yet available," said Theo Vos, a professor at the University of Washington’s Institute for Health Metrics and Evaluation.
+
+Wider use could uncover possible problems with the drug
+
+The urgent need for a treatment for COVID-19 has accelerated the process of getting wider use of remdesivir. But that doesn’t mean that the drug’s use can’t be fine-tuned, or that we know all of the risks. The wider the use, the more we’ll know.
+
+"Are there subgroups that benefit more than others?" Rupp said. "What’s the best dose and the best duration? Should it be used in combination with other agents? Can it be used to prevent disease? Are there rare side effects or toxicity?"
+
+Ally Dering-Anderson, a clinical associate professor at the University of Nebraska College of Pharmacy, brought up the example of the prescription drug Vioxx, which was initially seen as "a godsend" for some people with severe arthritis.
+
+"The initial studies were optimistic and the patients who ultimately got prescriptions for the drug were very happy with the pain relief," she said. "Then, enough people had received the drug that the rare problems began to emerge — those that science couldn’t find in smaller groups of people using the drug. Ultimately, Vioxx was removed from the market, because we found that we couldn’t predict who would be harmed."
+
+Dering-Anderson said we don’t know yet whether there are certain kinds of patients who are appropriate candidates for remdesivir and others who are not.
+
+"Research is a deliberative process," she said. "Even when we want to go quickly, we have to follow the process so that we don’t miss something vital."

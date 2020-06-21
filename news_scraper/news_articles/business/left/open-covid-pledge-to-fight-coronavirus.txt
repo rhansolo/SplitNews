@@ -1,0 +1,19 @@
+A global group of scientists and lawyers announced their efforts to make their intellectual property free for use by others working on coronavirus pandemic relief efforts—and urged others to do the same—as part of the "Open Covid Pledge."
+
+Mozilla, Creative Commons, and Intel are among the founding members of this effort; Intel contributed to the pledge by opening up its portfolio of over 72,000 patents, according to a press release.
+
+Participants are asked to publicly take the pledge by announcing it on their own websites and issuing a press release.
+
+"Immediate action is required to halt the COVID-19 Pandemic and treat those it has affected," the pledge states. "It is a practical and moral imperative that every tool we have at our disposal be applied to develop and deploy technologies on a massive scale without impediment. We therefore pledge to make our intellectual property available free of charge for use in ending the COVID-19 pandemic and minimizing the impact of the disease."
+
+From there, people and companies are asked to adopt a license detailing the terms and conditions their intellectual property will be available; while pledgers are permitted to write their own license based on their needs, the organizers wrote "Open COVID License 1.0" as a template for immediate use, which grants usage rights to anyone working toward "minimizing the impact of the disease, including without limitation the diagnosis, prevention, containment, and treatment of the COVID-19 Pandemic." The license is effective until one year after the World Health Organization declares the pandemic to be over.
+
+Other participating organizations and institutions include Berkeley and UCSF's Innovative Genomics Institute, Fabricatorz Foundation, and United Patents.
+
+“Scientists and researchers need the freedom to make Covid-19 innovations and inventions without the threat of being sued by intellectual property owners," Intel’s General Counsel, Steve Rodgers, said in a press release. "On behalf of Intel employees around the world, and especially our inventors who have worked so hard to create Intel’s intellectual property, we encourage intellectual property holders around the world to join us in this pledge.”
+
+“These unprecedented times call for creativity and generous sharing of knowledge,” Jennifer Doudna, Executive Director of the Innovative Genomics Institute of UC Berkeley and UCSF, which took the pledge, said. “Enabling individuals and organizations across the world to work on solutions together, without impediments, is the quickest way to end this pandemic.”
+
+
+
+Update 4/8, 10:55 p.m.: A previous version of this article incorrectly stated that Stanford, Harvard and MIT took the Open Covid Pledge. This article is now updated.

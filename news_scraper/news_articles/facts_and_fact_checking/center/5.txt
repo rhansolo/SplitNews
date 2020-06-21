@@ -1,0 +1,291 @@
+Summary
+
+In announcing that he has been taking hydroxychloroquine to prevent COVID-19, President Donald Trump made a series of inaccurate, unsubstantiated or misleading statements related to the drug, which remains an unproven treatment against the coronavirus:
+
+Trump said he started taking hydroxychloroquine because he thinks “it’s good” and has “heard a lot of good stories.” But there is no published data showing that the medication protects against infection with the coronavirus, and experts recommend such use only within clinical trials.
+
+As part of his justification for taking hydroxychloroquine, the president repeatedly said that “many” frontline workers take the drug for COVID-19 prevention. It’s unclear how many people do take the drug for prevention, or prophylaxis, but several physicians told us they were not aware of the practice at their institutions.
+
+Trump insisted that there only has been one “bad survey” of hydroxychloroquine for COVID-19. That’s false. Numerous studies, including the best evidence to date, do not suggest that hydroxychloroquine is beneficial for COVID-19 patients.
+
+The president called an unpublished study that used Veterans Affairs data and found no benefit to using hydroxychloroquine “phony” and “false,” and accused the authors of being politically motivated. There is no evidence of political bias, and while the study has not been peer-reviewed, its results are consistent with other published papers.
+
+Trump was also not transparent about the safety risks of hydroxychloroquine, saying “it doesn’t hurt people” and “you’re not going to get sick or die.” While severe side effects of the drug are rare, they have been reported to the Food and Drug Administration.
+
+Trump claimed Rick Bright, former director of the agency charged with overseeing the production and purchase of drugs to counter public health threats, must have been “a believer at one point” in hydroxychloroquine because he “signed the application” for emergency use of the drug. Bright, however, said he did so under pressure and “didn’t have a choice.”
+
+Analysis
+
+The president has long touted hydroxychloroquine, an antimalarial drug also used to treat lupus and rheumatoid arthritis, as a COVID-19 treatment, despite a lack of evidence that it’s safe and effective for the disease.
+
+In recent weeks, Trump had backed off his promotion of the drug, as a string of studies have detailed uncommon but potentially serious side effects and failed to find that the medication is doing much for patients.
+
+Guidelines from the National Institutes of Health, last updated on May 12, find “insufficient clinical data to recommend either for or against” the use of hydroxychloroquine for COVID-19, while the FDA has cautioned against the use of the drug for COVID-19 outside of hospitals or clinical trials, given the risk of dangerous heart rhythm problems.
+
+But at the end of a May 18 meeting with representatives of the restaurant industry at the White House, Trump surprised reporters by claiming that he had been taking a hydroxychloroquine pill each day for the last week and a half as a preventive, or prophylactic, measure.
+
+“A couple of weeks ago, I started taking it,” he said. “Because I think it’s good. I’ve heard a lot of good stories. And if it’s not good, I’ll tell you right — you know, I’m not going to get hurt by it.”
+
+When asked if his doctor had recommended it, Trump said he proposed the idea and the White House doctor agreed.
+
+Dr. Sean Conley, the president’s physician, released a memo later that night, noting that two weeks prior, a member of Trump’s support staff tested positive for COVID-19, and that after “numerous discussions” about hydroxychloroquine with the president, the pair “concluded the potential benefit from treatment outweighed the relative risks.”
+
+The memo did not reveal any details of Trump’s course of prophylaxis, nor did it explicitly state that Conley prescribed hydroxychloroquine for the president.
+
+White House Press Secretary Kayleigh McEnany, however, told CBN News in an interview two days later that Conley prescribed the drug, and Trump had taken it.
+
+On May 20, Trump said that he would be ending the pills “in a day or two.”
+
+No Evidence Hydroxychloroquine Prevents COVID-19
+
+While Trump may believe hydroxychloroquine is “good,” it’s not known if the drug works as a COVID-19 preventive.
+
+“There are no data that pre-exposure prophylaxis is effective to prevent coronavirus,” said University of Minnesota infectious disease specialist Dr. David Boulware in a tweet shortly after Trump’s announcement. “It may be. It may not be. We do not know.”
+
+He added, “The only way I would recommend taking #hydroxychloroquine is within a clinical trial.”
+
+Boulware is leading a clinical trial that aims to find out if hydroxychloroquine prevents COVID-19 after a person has been exposed, or what’s called post-exposure prophylaxis. Other colleagues are working on prevention prior to exposure, or pre-exposure prophylaxis.
+
+Boulware told us in an email that there is no published data on hydroxychloroquine for either kind of prophylaxis, although many researchers are looking into it.
+
+“There are approximately a dozen trials planned or active worldwide which are investigating this question,” he said, noting that his university would be the first to report results, with the post-exposure findings coming very soon.
+
+Update, June 3: Boulware’s trial, which was published in the New England Journal of Medicine on June 3, found that giving hydroxychloroquine within four days of exposure did not prevent COVID-19. The study included 821 participants and tested hydroxychloroquine against a placebo.
+
+Boulware did not think anyone should take hydroxychloroquine outside of a clinical trial, both for the sake of the trials — so scientists can actually determine whether it works — and for safety reasons.
+
+“The more people participate in a clinical trial, the faster we will know the answer,” he said. “Outside of a clinical trial, there could be groups who are harmed by the medicine, such as those with pre-existing heart conditions.”
+
+Dr. H. Michael Belmont, a rheumatologist running a hydroxychloroquine pre-exposure prophylaxis trial at New York University Langone Health, also said hydroxychloroquine should only be used within a clinical trial.
+
+“We would regret using it in a haphazard way and not being able to conclude whether it had any benefit,” he said. “If you just use it indiscriminately, without a controlled group, you will lose the opportunity to demonstrate, once and for all, whether it did have some benefit or whether it did not.”
+
+Belmont was also concerned that increased interest in hydroxychloroquine outside of a trial could pose problems for his rheumatic disease patients. “I don’t want there to be another run on the drug,” he said, “creating unnecessary shortages for those diseases for which the drug is FDA-approved and clinical trials clearly demonstrate a benefit.”
+
+Belmont said his trial, which is still enrolling health care workers, has 45 to 60 more days to go, plus extra time for data analysis, so the results won’t be known for some time.
+
+Within a month, though, he said he may have some preliminary answers about how protective hydroxychloroquine might be through a different study he’s doing on lupus patients, in which he will assess whether patients who are taking hydroxychloroquine for their disease are any less susceptible to developing COVID-19 than those who aren’t.
+
+Already, he said, it’s clear that hydroxychloroquine isn’t 100% protective, although he stressed there could still be a partial effect.
+
+“We can absolutely confirm at NYU that lupus patients on hydroxychloroquine do develop infection, he said. “Sadly, we’re aware of at least two fatal cases.”
+
+Those results mirror those of the COVID-19 Global Rheumatology Alliance’s patient registry, which we previously reported on when Trump falsely claimed in early April that “people with lupus” who take hydroxychloroquine “aren’t catching this horrible virus.”
+
+The group has since published a paper in Annals of the Rheumatic Diseases reporting that as of April 17, the registry included 80 COVID-19 patients with lupus, 64% of whom were taking hydroxychloroquine or the related drug chloroquine prior to infection, with no difference in hospitalization rates or advanced care, such as ventilation, for those on versus off the drug.
+
+Use of Hydroxychloroquine Among Frontline Workers
+
+One of Trump’s constant refrains surrounding hydroxychloroquine is that the drug is being widely used by doctors and other frontline workers for COVID-19 prevention.
+
+“You’d be surprised at how many people are taking it, especially the frontline workers,” Trump said, just before announcing he was taking it, too. “A lot of doctors take it,” he later said twice.
+
+The following day, Trump claimed in a cabinet meeting that the drug “is used by thousands and thousands of frontline workers,” and in remarks to the press after a policy lunch, Trump went so far as to say, “Many frontline workers won’t go there unless they have the hydroxy.”
+
+We cannot know what all workers are doing, and there are now numerous clinical trials for health care workers to determine if hydroxychloroquine is an effective preventive. But several physicians told us that they did not know of many fellow health care workers who were taking the drug.
+
+Dr. Bob Wachter, the chair of the University of California, San Francisco’s department of medicine, said he didn’t know of “any clinician” taking hydroxychloroquine to prevent COVID-19.
+
+The University of Minnesota’s Boulware also said he didn’t know of “any colleagues” who were taking the drug outside of a clinical trial, although he acknowledged that he was at an academic medical center “where doctors believe in data.”
+
+Dr. Neil Schluger, a pulmonologist and critical care specialist at Columbia University, likewise said he had not heard of workers taking hydroxychloroquine, and that at his medical center, the drug would only be used in a clinical trial.
+
+Belmont said that back in March, when hydroxychloroquine was first being put forward and New York City was experiencing a surge in COVID-19 cases, he thought there might be a few physicians seeking out the drug. But he did not believe it could be happening much after New York state instituted an executive order putting restrictions on hydroxychloroquine prescribing.
+
+Not Just One ‘Bad’ Study
+
+In defending hydroxychloroquine, Trump repeatedly claimed there was only one negative study of the drug, despite the fact that the bulk of the current evidence fails to show effectiveness against COVID-19. He also mischaracterized the study and stated, without evidence, that the authors of the paper were politically motivated.
+
+“And if you look at that phony report that was put in, that report on the hydroxy — was given to people that were in extraordinarily bad condition — extraordinarily bad, people that were dying,” Trump said. “The only negative I’ve heard was the study where they gave it — was it the VA? With, you know, people that aren’t big Trump fans gave it,” he added, later calling the study a “very unscientific report.”
+
+The following day, Trump made similar comments, although he didn’t specify the study. “And if you look at the one survey, the only bad survey, they were giving it to people that were in very bad shape. They were very old, almost dead,” he said. “It was a ‘Trump enemy’ statement.”
+
+An hour later, in a cabinet meeting, Trump returned to the same topic, identifying the study as “a phony study put out by the VA.”
+
+Trump, May 19: There was a false study done where they gave it to very sick people — extremely sick people, people that were ready to die. It was given by, obviously, not friends of the administration. And the study came out. The people were ready to die. Everybody was old, had bad problems with hearts, diabetes, and everything else you can imagine. So they gave it. So, immediately, when it came out, they gave a lot of false information, just so you understand.
+
+Much of the president’s description of the study, which was posted to the preprint server medRxiv on April 21 and has not yet been peer-reviewed, isn’t accurate. But even more important, it’s largely irrelevant because subsequent studies reaching similar conclusions about hydroxychloroquine have been published in highly respected journals.
+
+“The general conclusions of the study are consistent with other larger studies that have gone through peer review and that have been published in very reputable journals,” said Schluger, himself the senior author of one such paper, published in the New England Journal of Medicine.
+
+The preprint Trump singled out analyzed the outcomes of 368 patients hospitalized at VA medical centers for COVID-19, looking back after the fact and comparing what happened to those who took hydroxychloroquine with those not on the drug, as well as those who took hydroxychloroquine together with the antibiotic azithromycin.
+
+After adjusting for as many factors as possible, including existing health conditions — almost none of which were more common in patients receiving hydroxychloroquine — the authors found an association of increased overall mortality in the patients who took hydroxychloroquine alone, and no evidence that hydroxychloroquine, with or without azithromycin, helped patients avoid ventilators.
+
+The authors, who have affiliations at the University of South Carolina and the University of Virginia, were upfront that their study should not be the final word on hydroxychloroquine, writing: “Data from ongoing, randomized controlled studies will prove informative when they emerge. Until then, the findings from this retrospective study suggest caution in using hydroxychloroquine in hospitalized Covid-19 patients.” We reached out to the corresponding authors, but did not hear from them.
+
+While the patients were sick enough to be hospitalized, 80% of all patients survived, Schluger said, “so it’s not like they were all on death’s door and you were giving this medicine all to hopelessly ill patients.” That was also true of his study and of another similar large observational study published in the Journal of the American Medical Association, he said.
+
+Those two studies, plus two recent publications in the journal BMJ, Schluger suggested, should be the studies people are paying attention to, although he said the preprint using the VA data “looks like a pretty solid piece of work,” and appeared to be “a straightforward analysis of what they found.”
+
+Schluger’s study assessed more than 1,400 hospitalized patients in New York City, finding “the risk of intubation or death was not significantly higher or lower among patients who received hydroxychloroquine than among those who did not.”
+
+The JAMA study, which included around the same number of patients hospitalized with COVID-19 in New York state, similarly concluded that “treatment with hydroxychloroquine, azithromycin, or both was not associated with significantly lower in-hospital mortality.”
+
+“There you have two studies that between them report data on almost 3,000 patients, and concluded that they could find no association between hydroxychloroquine administration and the outcome that was looked at — death, or [the] need to be on a ventilator,” Schluger said.
+
+Additionally, two studies published in BMJ earlier this month do not support the use of hydroxychloroquine for COVID-19. One, a randomized controlled trial of 150 patients hospitalized with mild to moderate disease in China, did not find the drug helped reduce the chance that patients would test positive for the virus within 28 days — and patients receiving hydroxychloroquine reported more side effects, although most were minor.
+
+The other, an observational study in France of around 180 patients who were admitted to the hospital for COVID-19 pneumonia and required oxygen, found no associated reduction in death or transfer to an intensive care unit with the use of hydroxychloroquine. Eight patients, or 10% of those getting the drug, experienced changes on their electrocardiograms, or EKGs, that required them to discontinue the medication.
+
+Thus, while Trump claims “a lot of good things have come out about the hydroxy,” that’s hardly an accurate representation of the existing literature.
+
+“The overwhelming majority of published studies provides very little evidence or almost no evidence of a beneficial effect of hydroxychloroquine,” said Schluger.
+
+To be clear, it has not been proven that hydroxychloroquine provides no benefit to COVID-19 patients. But as Belmont told us, “There’s enough data to argue that if there is a benefit for active treatment, it would be mild or modest at best.”
+
+Large randomized controlled trials, which are underway, will be able to give a definitive answer.
+
+Safety Omissions
+
+When discussing hydroxychloroquine, Trump has repeatedly avoided any mention of potential harms, despite widely disseminated concerns from the FDA and other governmental agencies.
+
+Citing hydroxychloroquine’s long history as a malaria and lupus drug, Trump said on May 18 that even if it doesn’t work for COVID-19, “you’re not going to get sick or die,” and asked, as he has before, “What do you have to lose?”
+
+The following day, the president said hydroxychloroquine “doesn’t hurt people.” And when he was told the FDA has said the drug should not be used outside of a hospital or research study, he replied, “No, that’s not what I was told. No.”
+
+Trump may not have been told, but that is exactly what the FDA has advised. On April 24, the agency released a drug safety communication, saying it is “aware of reports of serious heart rhythm problems in patients with COVID-19 treated with hydroxychloroquine or chloroquine, often in combination with azithromycin,” and that it “cautions against” the use of the drugs “for COVID-19 outside of the hospital setting or a clinical trial.”
+
+Specifically, the FDA said the adverse events “included abnormal heart rhythms such as QT interval prolongation, dangerously rapid heart rate called ventricular tachycardia and ventricular fibrillation, and in some cases, death.”
+
+Schluger said the concern is that a potentially lethal arrhythmia that would cause the heart to beat in a way that it doesn’t pump blood. It would present as sudden death — “someone literally would just drop dead,” he said.
+
+It is true that this complication is rare, and most people who take low doses of hydroxychloroquine, such as lupus patients, have no major issues when taking the drug. Belmont, for instance, said that he does not regularly screen his rheumatoid patients for heart rhythm abnormalities with an EKG because the problem is so infrequent. But that doesn’t mean the drug is risk free, as Trump frequently suggests.
+
+Notably, the FDA’s emergency use authorization, or EUA, for hydroxychloroquine only covers hospitalized COVID-19 patients “for whom a clinical trial is not available, or participation is not feasible.” This means that while hydroxychloroquine can still be prescribed off-label by a physician, as it appears was done for Trump, the president would not be eligible to get his tablets from the national stockpile.
+
+Trump’s Attacks on Rick Bright
+
+At a May 14 House hearing, Rick Bright said he was removed as director of the Biomedical Advanced Research and Development Authority, or BARDA, because he “resisted efforts to promote and enable broad access to an unproven drug, chloroquine, to the American people without transparent information on the potential health risks.”
+
+Trump has sought to portray the former BARDA director as a hypocrite because Bright signed the emergency use authorization application to allow the use of chloroquine phosphate and hydroxychloroquine sulfate to treat COVID-19 in the United States.
+
+But Bright said he did so only as a compromise measure to avert the much wider use of the controversial drug being vigorously pushed by his superiors in the Trump administration. We asked the White House to respond to Bright’s assertion and his account of what had taken place, and we received no response.
+
+Trump attacked Bright at the May 18 roundtable with restaurant industry leaders at the White House.
+
+Trump, May 18: So you had a phony whistleblower. And this other guy with the hydroxychloroquine — okay? — well, he — he went out and he’s the one that approved the hydroxychloroquine. He’s the one that signed the application.
+
+At the same session, Trump repeated the point.
+
+Trump, May 18: And then we have this crazy whistleblower, this fake whistleblower get out and try and, you know, knock it, who is — who signed the application. He — he did all the — he did the signing. He was a believer at one point, I assume. Otherwise, he shouldn’t have signed it. No matter who told him to, he shouldn’t have signed it.
+
+That same day, the president tweeted: “So the so-called HHS Whistleblower was against HYDROXYCHLOROQUINE. Then why did he make, and sign, an emergency use authorization?”
+
+During a May 17 interview on CBS’ “60 Minutes,” Bright said emphatically that he did not share Trump’s view that hydroxychloroquine could be a “game-changer” in the battle against the novel coronavirus. The vaccine expert said that “the limited data available told us that it could be dangerous. It could have negative side effects. And it could even lead to death.”
+
+Interviewer Norah O’Donnell asked Bright why, given his concerns about the drug, he had signed the EUA application. Referring to his efforts to prevent far wider use than such an order allowed, Bright responded, “I was given a directive. I didn’t have a choice, other than to leave at that time. And I went along and signed that letter knowing that we had contained access to that drug. ”
+
+Bright was transferred April 20 from his position as BARDA director and removed as deputy assistant secretary for preparedness and response. He was given a lesser position at the National Institutes of Health.
+
+In a statement issued on April 22, Bright said, “I believe this transfer was in response to my insistence that the government invest the billions of dollars allocated by Congress to address the Covid-19 pandemic into safe and scientifically vetted solutions, and not in drugs, vaccines and other technologies that lack scientific merit. I am speaking out because to combat this deadly virus, science — not politics or cronyism — has to lead the way.”
+
+Trump and Health and Human Services Secretary Alex Azar pushed back. Speaking outside the White House before a trip to Pennsylvania on May 14, Trump dismissed Bright as a “really disgruntled, unhappy person.” Azar said: “And on hydroxychloroquine, Dr. Bright literally signed the application for an FDA authorization of it. Literally, he’s the sponsor of it. So, this just — his allegations do not hold water. They do not hold water.”
+
+In a whistleblower complaint, Bright, who has said that the administration was too slow in responding to the pandemic, gave a detailed account of what he said were his efforts to resist massive pressure to greenlight the widespread use of hydroxychloroquine in treating COVID-19.
+
+Bright’s complaint, May 5: Dr. Bright resisted efforts to fall into line with the Administration’s directive to promote the broad use of chloroquine and hydroxychloroquine and to award lucrative contracts for these and other drugs even though they lacked scientific merit and had not received prior scientific vetting. Dr. Bright’s refusal to do so, along with his communication with members of Congress, the White House, and the press about these issues, which revealed HHS leadership to be disengaged and dismissive of the emerging threat, proved to be Dr. Bright’s undoing.
+
+In March, Bayer offered to donate 3 million chloroquine pills to the Strategic National Stockpile, Bright said in his complaint. “Unfortunately,” the complaint says, “the scientific evaluations did not support the utility of the Bayer donations.”
+
+On March 23, according to the complaint, “Dr. Bright received an urgent directive from HHS General Counsel Bob Charrow, passed down from the White House, to drop everything and make the chloroquine donated by Bayer widely available to the American public. Mr. Charrow told Dr. Bright that Secretary Azar was directing BARDA to establish a Nationwide Expanded Access Investigational New Drug (IND) protocol for chloroquine, which would provide significantly greater access to the drug than would an EUA.”
+
+The broader measure would allow use of the drug “outside a hospital setting and without close physician supervision,” the complaint said.
+
+The following day, the director of the Center for Drug Evaluation and Research, Dr. Janet Woodcock, called Bright and strongly recommended that BARDA submit an application for an EUA instead of an expanded access protocol. Given the concerns about hydroxychloroquine, that approach would allow closer monitoring of and better protection for patients.
+
+Bright and Woodcock ultimately convinced their colleagues, and the FDA helped BARDA draft an EUA. Bright edited the request letter to clarify that although he was being directed to sign the EUA request, it was not at his or BARDA’s behest, according to the complaint.
+
+At the same roundtable with restaurant industry leaders, Trump suggested that Bright might have partisan motives for his criticism of the administration and hydroxychloroquine.
+
+Trump, May 18: He also happens to be — if you look — see whether or not — I won’t put it on me; I’ll put it on you. See whether or not he was a big contributor to the Democrats. See whether or not he wanted the Democrats to win.
+
+
+
+A search of Federal Election Commission data on OpenSecrets.org showed no evidence that Bright had made any contributions to Democrats.
+
+Update, June 3: We initially updated the story to include an observational study of hydroxychloroquine in COVID-19 patients published in the Lancet on May 22. But because of methodological and data integrity concerns raised after publication, we removed mention of the study from the story.
+
+Editors Note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through our “Donate” page. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104.
+
+Sources
+
+Robertson, Lori et. al. “An April Filled with Repeats.” FactCheck.org. 7 May 2020.
+
+McDonald, Jessica. “Trump Hypes Potential COVID-19 Drugs, But Evidence So Far Is Slim.” FactCheck.org. 25 Mar 2020.
+
+“Remarks by President Trump, Vice President Pence, and Members of the Coronavirus Task Force in Press Briefing.” White House. Transcript. 23 Apr 2020.
+
+Geleris, Joshua et. al. “Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19.” N Engl J Med. 7 May 2020.
+
+Mahévas, Matthieu. “Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data.” BMJ. 2020; 369.
+
+Chorin, Ehud et. al. “QT Interval Prolongation and Torsade De Pointes in Patients with COVID-19 treated with Hydroxychloroquine/Azithromycin.” Heart Rhythm (2020).
+
+Mercuro, Nicolas J. et al. “Risk of QT Interval Prolongation Associated With Use of Hydroxychloroquine With or Without Concomitant Azithromycin Among Hospitalized Patients Testing Positive for Coronavirus Disease 2019 (COVID-19).” JAMA Cardiol. Published online 1 May 2020.
+
+“Chloroquine or Hydroxychloroquine.” COVID-19 Treatment Guidelines. NIH. Accessed 21 May 2020.
+
+“FDA cautions against use of hydroxychloroquine or chloroquine for COVID-19 outside of the hospital setting or a clinical trial due to risk of heart rhythm problems.” FDA Drugs Safety Communication. 24 April 2020, accessed 21 May 2020.
+
+“Coronavirus (COVID-19) Update: FDA Reiterates Importance of Close Patient Supervision for ‘Off-Label’ Use of Antimalarial Drugs to Mitigate Known Risks, Including Heart Rhythm Problems.” Press release. FDA. 24 April 2020.
+
+“Remarks by President Trump in a Roundtable with Restaurant Executives and Industry Leaders.” White House. Transcript. 18 May 2020.
+
+“READ: Trump’s physician releases letter on President taking hydroxychloroquine.” CNN. 18 May 2020.
+
+“White House Press Secretary Kayleigh McEnany Says Hydroxychloroquine Critics Are ‘Fear Mongering.’” CBN News. 20 May 2020.
+
+“Remarks by President Trump in a Meeting with Governor Hutchinson of Arkansas and Governor Kelly of Kansas.” White House. Transcript. 20 May 2020.
+
+Boulware, David (@boulware_dr). “There are no data that pre-exposure prophylaxis is effective to prevent coronavirus. It may be. It may not be. We do not know. The only way I would recommend taking #hydroxychloroquine is within a clinical trial. We began a clinical trial on April 6 to test this exact question.” Twitter. 18 May 2020.
+
+Boulware, David. Professor of Medicine, Division of Infectious Diseases and International Medicine, University of Minnesota. Emails to FactCheck.org. 18 May 2020.
+
+“Post-exposure Prophylaxis / Preemptive Therapy for SARS-Coronavirus-2 (COVID-19 PEP).” ClinicalTrials.gov, NCT04308668. Accessed 21 May 2020.
+
+“Pre-exposure Prophylaxis for SARS-Coronavirus-2.” ClinicalTrials.gov, NCT04328467. Accessed 21 May 2020.
+
+Boulware, David R., et. al. “A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19.” New England Journal of Medicine. 3 June 2020.
+
+Belmont, H. Michael. Professor, Department of Medicine, NYU Grossman School of Medicine. Phone interviews with FactCheck.org. 18 May 2020 and 19 May 2020.
+
+“COVID-19 PrEP HCW HCQ Study.” ClinicalTrials.gov, NCT04354870. Accessed 21 May 2020.
+
+Kiely, Eugene. “Trump’s False Coronavirus Claim About Lupus Patients.” FactCheck.org. 6 Apr 2020.
+
+Konig, Maximilian F. et. al. “Baseline use of hydroxychloroquine in systemic lupus erythematosus does not preclude SARS-CoV-2 infection and severe COVID-19.” Annals of the Rheumatic Diseases. Published Online First: 7 May 2020.
+
+“Remarks by President Trump in Cabinet Meeting.” White House. Transcript. 19 May 2020.
+
+“Remarks by President Trump After Senate GOP Policy Lunch | U.S. Capitol.” White House. Transcript. 19 May 2020.
+
+Wachter, Robert. Chair, Department of Medicine, University of California, San Francisco. Email to FactCheck.org. 20 May 2020.
+
+Schluger, Neil. Chief, Division of Pulmonary, Allergy and Critical Care Medicine, Columbia University. Phone interview with FactCheck.org. 20 May 2020.
+
+“COVID-19 Pandemic and Professional Practice, Important Information for Licensees Impacted by COVID-19.” Office of the Professions, New York State Education Department. Accessed 21 May 2020.
+
+Tang, Wei et. al. “Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial.” BMJ 2020; 369.
+
+Rosenberg, Eli S. et. al. “Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State.” JAMA. Published online 11 May 2020.
+
+Magagnoli, Joseph et. al. “Outcomes of hydroxychloroquine usage in United States veterans hospitalized with Covid-19.” medRxiv. Apr 2020.
+
+“Remarks by President Trump, Vice President Pence, and Members of the Coronavirus Task Force in Press Briefing.” White House. Transcript. 5 Apr 2020.
+
+Hinton, Denise M. “Re: Request for Emergency Use Authorization For Use of Chloroquine Phosphate or Hydroxychloroquine Sulfate Supplied From the Strategic National Stockpile for Treatment of 2019 Coronavirus Disease.” FDA EUA. 28 Mar 2020.
+
+“Frequently Asked Questions on the Emergency Use Authorization (EUA) for Chloroquine Phosphate and Hydroxychloroquine Sulfate for Certain Hospitalized COVID-19 Patients.” FDA. Accessed 21 May 2020.
+
+Bright, Rick. Addendum to the Complaint of Prohibited Personnel Practice and Other Prohibited Activity by the Department of Health and Human Services. 5 May 2020.
+
+Shear, Michael D. and Haberman, Maggie. “Health Dept. Official Says Doubts on Hydroxychloroquine Led to His Ouster.” New York Times. 22 Apr 2020.
+
+Trump, Donald (@realDonald Trump). “So the so-called HHS Whistleblower was against HYDROXYCHLOROQUINE. Then why did he make, and sign, an emergency use authorization?” Twitter. 18 May 2020.
+
+“60 Minutes.” Transcript. CBS News. 17 May 2020.
+
+“Remarks by President Trump Before Marine One Departure.” White House. Transcript. 14 May 2020.
+
+Center for Responsive Politics. Donor Lookup. www.opensecrets.org. Accessed 20 May 2020.

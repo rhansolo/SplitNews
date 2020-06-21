@@ -1,0 +1,77 @@
+Bergstrom and West developed the syllabus as a corrective to the widespread problem of BS, and they made it easy to distribute to other teachers and students. More than 70 universities have contacted them to use course materials.
+
+AD
+
+AD
+
+“The problem is not new. BS has been around forever. But it’s the way that technology has exploded that has really scaled up the amount of information and the amount of BS and how much we’re required to filter,” said Carrie Diaz Eaton, a professor of computational studies at Bates College in Lewiston, Maine, who tweaked the syllabus to work in statistics in the programming language R.
+
+The class focuses on a pernicious form of misinformation that can be especially misleading: the kind that comes cloaked in data and figures.
+
+“We grant this unwarranted authority to numbers. Numbers feel hard and crisp and sort of unquestionable,” said Bergstrom, a computational biologist. “We wanted to show our students that you don’t have to have a master’s degree in statistics or computer science to be able to call bullshit on this stuff.”
+
+AD
+
+AD
+
+A right-wing media site, for example, blared in a headline that several thousand DACA beneficiaries (undocumented children shielded from deportation by an Obama-era policy) have committed crimes against U.S. citizens, Bergstrom said. “But it’s an extremely low percentage of DACA recipients,” he pointed out. “Which means they’re being accused of crimes at substantially lower rates — massively lower rates — than American citizens. Of course the article doesn’t say that.”
+
+The course includes training in practical skills, with no advanced mathematical knowledge required. West and Bergstrom said they have taught defense against BS to librarians and to high-schoolers, who “love calling bullshit on adults,” Bergstrom observed.
+
+The class teaches students that a thing can be true and also BS. Whole Foods sells a product advertised as “non-GMO” Himalayan pink salt, to pluck an example from the course’s @Callin_bull Twitter account. Technically speaking, the claim is true: the pink salt was made without genetic modification. But it’s also BS, because salt, a mineral, doesn’t have any genes to modify.
+
+In one lecture, West uses “Spurious Correlations,” a project made by a Harvard Law School student. The website pairs unrelated trends, based on actual data, that have no meaningful relationship. Except they happen to show a mathematical correlation — the decrease in Kentucky’s marriage rate happens to correspond with a nationwide drop in drownings on fishing trips, for instance. The point: Statistical correlations are useful tools, but students should ask whether the relationships make sense.
+
+The professors have had a long history of mutual BS-calling while trying to test the limits of each other’s scientific conclusions. West was a graduate student in Bergstrom’s laboratory more than a decade ago, and they have written numerous research papers about patterns in how scientists publish their work, including the observation that male scientists cite themselves far more frequently than female scientists self-cite.
+
+AD
+
+AD
+
+Reviewing thousands of journal articles and scientific grants, West said, has honed their ability to sniff out data-driven BS.
+
+Meanwhile, they increasingly saw misinformation in their lives outside work. The professors worried about their students’ exposure to BS. “When we had print media, the stuff that we consumed was predominantly filtered through professional editors,” Bergstrom said. But social media has made all of us “the gatekeepers of what’s worth seeing for our colleagues, our friends and our families.”
+
+They designed the course as an online syllabus without knowing whether they could teach it themselves, because the professors are in different departments with different academic requirements — and there was also some friction with the university committee that decides names and course descriptions.
+
+The website includes tools to disarm BS. Here are a few: Bar charts, but not necessarily line graphs, should include zero on their axes; there’s no guarantee a scientific paper is correct, but publication in a well-known and peer-reviewed journal is a sign the research was legitimate; computers can generate realistic human faces although algorithms struggle with hair, backgrounds and symmetrical glasses. The latter forms the basis of their spinoff project, Which Face is Real, a website where users can test their ability to distinguish bona fide humans from an AI’s creation.
+
+West and Bergstrom are not the first to teach people how to recognize and fight BS. Journalist Darrell Huff wrote “How to Lie With Statistics” in 1954. Astronomer Carl Sagan published “The Demon-Haunted World” in 1995, in which he offered to readers a “baloney detection kit.” Sagan encouraged readers to look for multiple sources of verification, for instance, and to test every link in an argument’s chain.
+
+AD
+
+AD
+
+Princeton University philosopher Harry Frankfurt published an influential 1986 essay, “On Bullshit,” in which he theorized that BS is distinct from a lie. Truth and falsehood are beside the point of BS, Frankfurt concluded. Its purveyor means to persuade. “It is impossible for someone to lie unless he thinks he knows the truth,” he wrote. “Producing bullshit requires no such conviction.”
+
+West and Bergstrom’s definition follows from Frankfurt’s: BS “involves language, statistical figures, data graphics and other forms of presentation intended to persuade by impressing and overwhelming a reader or listener, with a blatant disregard for truth and logical coherence.” To call BS is to publicly repudiate “something objectionable.”
+
+The professors’ syllabus went viral, and in the flood of attention, the university gave the professors permission to teach the course. When registration opened for the first “Calling Bullshit” class, in the spring semester of 2017, its 160 seats filled in under a minute, West said.
+
+AD
+
+AD
+
+They are developing an open online course, and they have shared their lessons in public events to reach an audience beyond the typical college-age student. Recent studies have shown that those vulnerable to sharing misinformation online are older than 65 and disproportionately conservative.
+
+Not everyone at these lectures is a fan. “When we give public talks, we’ve had plenty of individuals come up and challenge us,” West said, including supporters of the conspiracy theorist Alex Jones and those who reject the science of vaccines.
+
+Carol Harding, a recent Bates College senior who majored in political science, was a student in Diaz Eaton’s course last fall. “We talked a lot about Fermi estimation, which is essentially taking whatever instance you’re talking about and using rough generalizations and calculations that you can do in your head,” Harding said. Named after the Nobel Prize-winning physicist Enrico Fermi, this gut-check technique requires little more than common sense, a pen and a cocktail napkin. Fermi estimation provides a reasonable approximation, not a precise answer.
+
+AD
+
+AD
+
+Diaz Eaton asked her students to combat misinformation they’d encountered in the community. Harding chose to examine the “characterization, in Maine, of Lewiston being particularly dangerous.” Which, she knew, was false.
+
+The city, Maine’s second most populous, has a high percentage of Somali refugees in a state that is one of the nation’s whitest. There have been problems with hate speech on campus, Diaz Eaton said, and Lewiston’s mayor recently resigned after his racist text messages leaked.
+
+Harding was enrolled in a class run by Lewiston police officers, which gave her access to local crime statistics. She produced several graphs showing the reality of crime in Lewiston: from 1985 to 2017, rates decreased in the city. Twenty-three other cities and towns in Maine have higher crime rates. “Twenty-fourth is pretty good for one of the largest cities in Maine,” Diaz Eaton said. “I mean, there’s not that many cities in Maine.”
+
+AD
+
+AD
+
+She printed anti-BS fliers, with a visualization of the crime rates, and passed them out around campus. Her fellow students received them with surprise. The local police station liked her graphics so much that it asked for a copy.
+
+Hers was the kind of thoughtful correction West and Bergstrom want to promote. “There are facts out there that exist,” West said. “We’re not trying to create, you know, a new generation of nihilists.”

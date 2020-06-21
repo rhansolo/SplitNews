@@ -1,0 +1,45 @@
+Job seekers at a job fair in Uniondale, N.Y., in 2014 (Shannon Stapleton/Reuters)
+
+A $600 boost to unemployment benefits was a clumsy solution to a stupid problem, and it cannot continue once we reopen.
+
+NRPLUS MEMBER ARTICLE T hree Republican senators raised an alarm in late March: Congress’s multi-trillion-dollar coronavirus bill would boost unemployment benefits by $600 a week — such a large amount that many people would make more if they were laid off than they would if they continued working.
+
+It turned out there was a stupid, embarrassing backstory behind this provision. States administer unemployment benefits using antiquated computer systems, and they couldn’t process a new benefit formula that was even mildly complicated. If lawmakers wanted to hike unemployment benefits during the worst part of the crisis — a time when government policy was deliberately idling much of the work force — they had to pick a flat amount to add to the existing benefits, and $600 was chosen because it would make the average unemployment benefit equal to the average wage.
+
+Advertisement
+
+Sometimes you have to make the best of a bad situation, and this was the solution that presented itself. But these benefits expire at the end of July, Congress has to decide what comes next, and the bill the Democratic House passed would extend these payments until next January. That is a terrible idea, and the Republican-led Senate needs to figure out something better.
+
+As a new paper from three economists at the University of Chicago demonstrates, the $600 boost fails to help workers in an equitable fashion and creates terrible incentives. It would be a poor fit for our coming circumstances, in which states are reopening and the economy should gradually improve. If, in this next phase, we want to keep the unemployment system a bit more generous than it usually is, we will have to either make the boost smaller or force states to implement a formula that actually makes sense.
+
+Advertisement
+
+The list of problems the paper uncovers is staggering. The $600 benefit makes unemployment insurance more remunerative than work for two-thirds of eligible workers. The median worker can get 134 percent of what he earned before. (If you’re wondering how this can happen when the average payout is set to equal the average wage, it boils down to the difference between a median and a mean; see the discussion on the report’s first page.)
+
+Advertisement
+
+People who get laid off usually get a raise, in other words, while those who keep working in essential jobs don’t. The sectors of the economy that are seeking workers, such as delivery services, have to compete with these lavish unemployment benefits. Those earning the lowest wages face the strongest disincentives to work, as the extra money can make unemployment pay nearly triple what they made before. Some industries are affected more than others, with food service, already hammered by the pandemic, faring especially poorly. And different states — with different occupational mixes and different costs of living, but the same $600 boost — fare quite differently, with the median New Mexico worker able to pull in 171 percent of what he made before while the median Maryland laborer gets “only” 129 percent.
+
+Advertisement
+
+It’s one thing to muddle through a few difficult months, in which we didn’t want people to work, with such a system. It’s quite another to live with it for most of a year.
+
+So if not $600, then what? One option would be to balance out this bad incentive by adding a good one. The House bill gives “hazard pay” to those in essential jobs, and a recent proposal from Mitt Romney would heavily subsidize bonuses to such workers. Another option would be to let the boost expire, sending a clear, unforgiving signal to the unemployed that they are expected to get back to work despite the ongoing health crisis and a still-struggling economy.
+
+Advertisement
+
+Advertisement
+
+But there’s a middle ground too, as the University of Chicago paper makes clear: Find a different formula.
+
+The easiest one is a boost smaller than $600. But this is far from ideal. If you cut the payment to $300, for example, 42 percent of workers would still make more than they made before, while a quarter of workers would get less than 60 percent of what they made before. A bigger boost would worsen the former problem, a smaller boost the latter one. In other words, when your formula options are limited to the form “plus $X,” you can’t make unemployment benefits reliably approximate previous earnings.
+
+A better idea is to use a formula that directly takes into account workers’ previous wages. For example, if we added 45 percent of workers’ previous earnings to their unemployment benefits, three-quarters of workers would get at least 80 percent of their previous earnings, and only a few would get more than 100 percent. Or we could just set unemployment benefits to some fixed percentage of previous earnings and be done with it.
+
+But that just brings us back to the stupid backstory behind the $600 payment. Even with a little more lead time than they had during the previous round of COVID-19 relief, states might not be able to handle it. Here’s how a recent FiveThirtyEight piece describes the problem:
+
+That would require a more complex calculation by state unemployment insurance agencies — one they might be unwilling or unable to implement. “In a perfect world, I would prefer to give people a percentage of their income,” said Heidi Shierholz, a senior economist at the left-leaning Economic Policy Institute. “But we might not be set up to do it.” . . . And Daniel Zeitlin, the director of policy at Washington state’s unemployment office, said that while he didn’t think it was impossible, any change would be difficult for a system already under tremendous stress.
+
+If I were in Congress, my own inclination would be to play hardball: Tell the states they can figure out how to get their computer systems to do math by the end of July, or they can lose the added benefits entirely. Maybe toss them some money to hire programmers. I hear Neil Ferguson is looking for a new gig and knows Fortran.
+
+But whatever we decide, we can’t keep paying people extra to stay home for the entire rest of the year. We’re reopening, like it or not, and we need a safety net appropriate to our new circumstances.

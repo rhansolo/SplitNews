@@ -1,0 +1,35 @@
+China-based hackers are suspected of breaking into the computer networks of the U.S. government personnel office and stealing identifying information of at least 4 million federal workers, American officials said Thursday.
+
+The Department of Homeland Security said in a statement that data from the Office of Personnel Management and the Interior Department had been compromised.
+
+"The FBI is conducting an investigation to identify how and why this occurred," the statement said.
+
+The hackers were believed to be based in China, said Sen. Susan Collins, a Maine Republican.
+
+Collins, a member of the Senate intelligence committee, said the breach was "yet another indication of a foreign power probing successfully and focusing on what appears to be data that would identify people with security clearances."
+
+A U.S. official who declined to be identified said the data breach could potentially affect every federal agency. One key question is whether intelligence agency employee information was stolen. Former government employees are affected as well.
+
+"This is an attack against the nation," said Ken Ammon, chief strategy officer of Xceedium, who said the attack fit the pattern of those carried out by nation states for the purpose of espionage.
+
+The information stolen could be used to impersonate or blackmail federal employees with access to sensitive information, he said.
+
+The Office of Personnel Management is the human resources department for the federal government, and it conducts background checks for security clearances. The OPM conducts more than 90 percent of federal background investigations, according to its website.
+
+The agency said it is offering credit monitoring and identity theft insurance for 18 months to individuals potentially affected. The National Treasury Employees Union, which represents workers in 31 federal agencies, said it is encouraging members to sign up for the monitoring as soon as possible.
+
+In November, a former DHS contractor disclosed another cyberbreach that compromised the private files of more than 25,000 DHS workers and thousands of other federal employees.
+
+DHS said its intrusion detection system, known as EINSTEIN, which screens federal Internet traffic to identify potential cyber threats, identified the hack of OPM's systems and the Interior Department's data center, which is shared by other federal agencies.
+
+It was unclear why the EINSTEIN system didn't detect the breach until after so many records had been copied and removed.
+
+"DHS is continuing to monitor federal networks for any suspicious activity and is working aggressively with the affected agencies to conduct investigative analysis to assess the extent of this alleged intrusion," the statement said.
+
+Rep. Adam Schiff, ranking Democrat on the House intelligence committee, called the hack "shocking, because Americans may expect that federal computer networks are maintained with state of the art defenses."
+
+Get the Monitor Stories you care about delivered to your inbox. By signing up, you agree to our Privacy Policy
+
+Ammon said federal agencies are rushing to install two-factor authentication with smart cards, a system designed to make it harder for intruders to access networks. But implementing that technology takes time.
+
+Senate Intelligence Committee Chairman Richard Burr, R-N.C., said the government must overhaul its cybersecurity defenses. "Our response to these attacks can no longer simply be notifying people after their personal information has been stolen," he said. "We must start to prevent these breaches in the first place."

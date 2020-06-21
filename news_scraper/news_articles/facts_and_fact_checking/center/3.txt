@@ -1,0 +1,73 @@
+How charts and graphs could be influencing our reactions to the pandemic
+
+Factually is a newsletter about fact-checking and accountability journalism, from Poynter’s International Fact-Checking Network & the American Press Institute’s Accountability Project. Sign up here.
+
+Perceiving the curve
+
+Presentation matters when it comes to representing the scope of coronavirus cases. A study published by the London School of Economics shows one type of graphic representation could be creating confusion.
+
+A research team made up of academics from the LSE and Yale University found that logarithmic graphs used to show the curve of COVID-19 infections can confuse the public. The researchers found evidence this may lead some to downplay the severity of the disease.
+
+The team took two groups of participants and presented one with a standard linear graph (where the distance between points on the vertical axis is constant), and the other with a logarithmic graph (where the difference increases exponentially).
+
+Both groups were asked questions to test their comprehension of their respective graphs. For example, they were asked whether there was a greater increase in COVID-19 deaths in the first week of April versus the second.
+
+The researchers found the linear graph group had a better understanding of what the graph was actually saying, answering 84% of their comprehension questions correctly versus 41% for the logarithmic scale group. That gap was even wider when the participants were presented with data from a hypothetical infection (92% vs. 10%).
+
+The graphs also influenced the groups’ policy preferences. The linear group showed greater concern for the virus’s impacts, and supported keeping businesses closed longer.
+
+Proponents of using the logarithmic scale argue it provides a more accurate representation of the exponential growth of COVID-19’s spread, but the Yale and LSE researchers say their findings show it is impeding the public’s understanding of the severity of COVID-19.
+
+We’ve previously shared COVID-19 resources such as Johns Hopkins University’s site, but there are more institutions using creative methods to promote a better understanding of the impact of COVID-19:
+
+91-DIVOC
+
+The brainchild of Wade Fagen-Ulmschneider, a University of Illinois associate professor of computer science, this resource enables users to switch between logarithmic and linear scales to understand both the overall growth of the virus and its human impact. It allows users to toggle among total numbers of deaths, infections and recoveries as well as each category’s seven-day averages.
+
+COVID ActNow
+
+This resource is a collaboration among data scientists, epidemiologists and public health policy experts. It gives users a traffic-light response when they click on their U.S. states to show which are ready to open based on three criteria: 1) infection rate 2) testing rate 3) and hospital capacity.
+
+Information Is Beautiful
+
+This resource relies on a logarithmic graph for case and death totals, but it is also useful for reviewing other aspects of the disease. One infographic compares the incubation period to other diseases, and another compares the infection and lethality rate of COVID-19 to other diseases. A third compares the effectiveness of different face-mask materials for protecting against COVID-19.
+
+– Harrison Mantas, IFCN
+
+. . . technology
+
+Twitter this week said that its policy of taking down false information about COVID-19 does not extend to an article from a fringe doctors’ group that claims — without evidence — that the antimalarial drug hydroxychloroquine has a “90 percent chance of helping” COVID-19 patients, The Verge reported. President Donald Trump’s campaign manager tweeted the article after the president revealed he was taking the drug. In his Popular Information newsletter, Judd Legum has a rundown of the physicians group’s prior claims.
+
+
+
+. . . politics
+
+The Atlantic magazine dedicated its June cover to the conspiracy theory-driven group QAnon, part of a larger project called Shadowland about conspiracy thinking in America. “In the face of inconvenient facts, it has the ambiguity and adaptability to sustain a movement of this kind over time,” wrote executive editor Adrienne LaFrance. “For QAnon, every contradiction can be explained away; no form of argument can prevail against it.”
+
+
+
+Armenia, Azerbaijan and Georgia, three former Soviet republics that have long been torn by ethnic and regional tensions, are now facing a steady stream of disinformation about the spread of COVID-19, the Atlantic Council reported. Much of the disinformation involves propaganda directly from Moscow, according to experts on the ground in the Caucasus, including a Russian-backed individual who “impersonated trusted Georgian health authorities in order to discredit pro-democracy activists and foment unrest.”
+
+
+
+. . . science and health
+
+A COVID-19 vaccine hasn’t even been developed yet, but anti-vaxxers are already against it, Time Magazine’s Tara Law reported. So far, she said, the campaign has relied on techniques they have always used, including “discrediting public health officials, raising concerns about vaccine safety, and making claims that vaccination is primarily profit-driven.” Will the movement have an effect on the population if and when a vaccine becomes available? Dartmouth Professor Brendan Nyhan told Law the most effective message will come from people or groups that are trusted by society.
+
+Doctors feel an obligation to counter misinformation about COVID-19 where a lot of it lives: on social media, The Wall Street Journal’s Georgia Wells reported. She also wrote that Twitter is aiming “to amplify medical voices on the platform,” and that since mid-March the platform has verified hundreds of COVID-19 experts including scientists and academics.
+
+Journalists with a science background are having a moment. Among them is FactCheck.org’s Jessica McDonald, who this week took apart President Trump’s claim that the COVID-19 virus will just “go away without a vaccine,” as well as his son Eric’s assertion that the virus will “magically all of a sudden go away” after the November election.
+
+Trump’s views on the coronavirus, as well as other health and science matters, has often run counter to those of scientists, so it isn’t surprising that several epidemiologists in McDonald’s piece found the president’s claim to be unfounded.
+
+But McDonald took her inquiry beyond that, exploring the models scientists have developed to project what the virus will do under certain circumstances, talking to them about how similar viruses have behaved in the past and being honest about what we still don’t know about the virus itself.
+
+What we liked: McDonald starts with a simplistic and baseless assertion from the president. But her fact-check is a rich – if sobering – explanation of all the factors that go into a virus’ life cycle – the virus itself, human behavior, the strength of our immune systems and how soon a vaccine can be developed.
+
+– Susan Benkelman, API
+
+Misinformation is something that only other people believe, right? Lisa Fazio, an assistant professor of psychology and human development at Vanderbilt University, explained how we can all get caught by it. Max Feldman, an election expert at New York University’s Brennan Center for Justice, has identified eight falsehoods that could undermine the 2020 election. Two national security experts detailed Russia and China’s disinformation operations for the Brookings Institution. Dictionary.com is seeking to help us all by parsing the difference between misinformation and disinformation. A volunteer army of “elves” from the Czech Republic is banding together to fight internet trolls, misinformation and coordinated propaganda.
+
+That’s it for this week! Feel free to send feedback and suggestions to factually@poynter.org. And if this newsletter was forwarded to you, or if you’re reading it on the web, you can subscribe here. Thanks for reading.
+
+Harrison and Susan
