@@ -1,0 +1,19 @@
+Tesla is getting ready to introduce a long rumored lower-cost, longer-lasting battery for its electric vehicles in China sometime later this year or early next year, according to a new report from Reuters. The battery — which has been colloquially called a “million mile” battery in reference to how long it can last in a car before breaking down — is being co-developed with Chinese battery giant Contemporary Amperex Technology Co. Ltd (CATL) and was designed in part by battery experts recruited by Tesla CEO Elon Musk.
+
+Tesla is already the industry leader when it comes to squeezing range out of lithium-ion batteries in electric cars, and it’s expected to reveal more about the new technology at an upcoming “Battery Day” for investors. Musk told investors and analysts earlier this year that the information “will blow your mind. It blows my mind.” The company originally planned to hold the event in April, but has had to reschedule it until at least late May thanks to the COVID-19 pandemic. The company held a similar event focused on self-driving technology in April 2019.
+
+Musk told investors the tech will “blow your mind”
+
+The battery is expected to lower the cost per kilowatt hour (the unit of energy most commonly used to measure the capacity of the battery packs in modern electric vehicles) to under $100. Many experts believe that reaching that mark would allow Tesla or other automakers to sell electric vehicles for the same prices as gasoline-powered ones, thereby making them far more accessible. General Motors is also trying to hit that mark in its work with battery maker LG Chem, as it recently shared during its own big “EV Day” event in March, though the automaker is not expected to get there until the mid-2020s.
+
+General Motors said last month that its new generation of batteries will use 70 percent less cobalt, an expensive and precious material that is often mined by workers who are subject to brutal conditions. Musk has long sought to remove cobalt from the equation entirely, and Tesla is getting closer to doing that in its work with CATL, according to Reuters.
+
+Information about Tesla’s next-generation batteries has steadily trickled out over the last year or so thanks to the experts Musk hired and their public works, like patents, academic papers, and university presentations. The group has been funded by Tesla since 2016, according to Reuters.
+
+Tesla has also bought up a small handful of companies that are contributing to its battery advancements, like Maxwell Technologies. And its former CTO, JB Straubel, is leading a battery recycling company called Redwood Materials that Reuters says is an “affiliate” of Tesla’s.
+
+Information about the advancement has been building for months
+
+These acquisitions, along with the collaboration with CATL, could help Tesla blunt any deterioration of its relationship with longtime battery partner Panasonic. The Japanese giant has helped Tesla create batteries at its Gigafactory in Nevada for years, and it also operates inside the former SolarCity plant in New York where it helps Musk’s company make solar panels. But Panasonic is ending its involvement at the New York factory at the end of this month and will be out of the plant in June.
+
+That Tesla is reportedly planning to bring the technology to China first demonstrates the nation’s importance when it comes to electric vehicles. It’s not only the leader in electric vehicle sales, but it’s home to a big chunk of the EV supply chain, too. Tesla also recently opened a new Gigafactory in Shanghai. It’s the first foreign automaker to run a wholly owned automotive factory in the country, after the Chinese government relaxed its rules in 2018.

@@ -1,0 +1,57 @@
+WASHINGTON — Given the unsupported claims President Donald Trump has made for two years about the FBI's Russia investigation — calling it a witch hunt cooked up by his political opponents — the conclusion by the Justice Department watchdog that the probe was justified was big news.
+
+But the other major findings of the inspector general's report — that there were serious problems with the way the FBI obtained a secret national security warrant to spy on a Trump campaign aide — were also noteworthy, if somewhat overshadowed by the bigger headlines.
+
+For years, civil liberties activists have been warning that the process for obtaining secret warrants to spy on Americans under the Foreign Intelligence Surveillance Act was dangerously flawed, in part because it is one-sided. The government tells judges behind closed doors why the spying is justified, and there is nobody in the room representing the target to question that evidence.
+
+Carter Page arrives at the courthouse on the same day as a hearing regarding Michael Cohen at the United States District Court Southern District of New York, April 16, 2018 in New York City. Drew Angerer / Getty Images file
+
+In response, defenders of the process have said: That's exactly why the FBI and Justice Department are extraordinarily careful and meticulous in how they present evidence to the FISA court, which is no rubber stamp.
+
+The report by Inspector General Michael Horowitz severely undercuts that assertion, at least when it comes to the FBI's applications for surveillance of Carter Page, a Trump foreign policy adviser who was never charged with a crime.
+
+The report found an FBI process so badly managed, so rife with errors, that the bureau's director immediately issued a statement saying he was already implementing reforms.
+
+Download the NBC News app for breaking news and politics
+
+Some FBI personnel "did not comply with existing policies, neglected to exercise appropriate diligence, or otherwise failed to meet the standard of conduct that the FBI expects of its employees — and that our country expects of the FBI," Director Christopher Wray said in a statement. "We are vested with significant authorities, and it is our obligation as public servants to ensure that these authorities are exercised with objectivity and integrity. Anything less falls short of the FBI's duty to the American people."
+
+Attorney General William Barr also criticized the FBI, accusing the bureau of "gross abuses" and "intrusive techniques" in an interview with NBC News on Tuesday in which he also suggested the FBI may have investigated the Trump campaign in "bad faith."
+
+Let our news meet your inbox. The news and stories that matters, delivered weekday mornings. This site is protected by recaptcha
+
+Because the criticism of the FBI was politically beneficial to Trump, Democrats who are normally quick to seize on abuses of national security power were notably muted. One group that was not was the nonpartisan American Civil Liberties Union, whose national security director, Hina Shamsi, expressed alarm.
+
+"When the Justice Department's Inspector General finds significant concerns regarding flawed surveillance applications concerning the president's campaign advisers, it is clear that this regime lacks basic safeguards and is in need of serious reform," she said in a statement. "While the report found that there wasn't an improper purpose or initiation of the investigation, it also found significant problems that are alarming from a civil liberties perspective."
+
+The flawed process outlined in the report, she said, "demonstrates how the secrecy shrouding the government's one-sided FISA approval process breeds abuse. The concerns the inspector general identifies apply to intrusive investigations of others, including especially Muslims, and far better safeguards against abuse are necessary."
+
+"The system requires fundamental reforms, and Congress can start by providing defendants subjected to FISA surveillance the opportunity to review the government's secret submissions," she added. "The FBI must also adopt higher standards for investigations involving constitutionally protected sensitive activities, such as political campaigns."
+
+The IG report found 17 significant errors or omissions in four applications for surveillance on Page, which, in the end, was portrayed as yielding little relevant information.
+
+"We concluded that the failures… represent serious performance failures by the supervisory and non-supervisory agents with responsibility over the FISA applications," the report says. "These failures prevented (the Justice Department) from fully performing its gatekeeper function and deprived the decision makers the opportunity to make fully informed decisions. Although some of the factual misstatements and omissions we found in this review were arguably more significant than others, we believe that all of them taken together resulted in FISA applications that made it appear that the information supporting probable cause was stronger than was actually the case."
+
+In the most serious case, a low-level FBI lawyer altered an email to make it seem as if Page was not a CIA source, when in fact he was — something he confirmed to NBC News in an email Monday. That key fact might have cast his contacts with Russians in a different light, the IG found.
+
+The IG report said the FBI relied heavily on a dossier compiled as part of a Democratic-funded opposition research campaign by a former British spy, Christopher Steele, while failing to inform the court that questions had arisen about Steele's credibility.
+
+For example, an FBI source validation review found that Steele, who had worked with the bureau in the past, provided information that was only "minimally corroborated." But the FBI didn't tell that to the FISA court, the report says.
+
+The FBI interviewed one of the sources who made claims about Page in the Steele dossier. The source contradicted some of what Steele had written, but the FBI didn't tell that to the court.
+
+That same source said Steele overstated the level of certainty around the notorious story about Trump's supposed sexual dalliance at the Ritz-Carlton hotel in Moscow. The source called it unconfirmed rumor and speculation.
+
+The report said responsibility for the failures extends high up the FBI's management chain.
+
+"That so many basic and fundamental errors were made by three separate, handpicked teams on one of the most sensitive FBI investigations that was briefed to the highest levels within the FBI, and that FBI officials expected would eventually be subjected to close scrutiny, raised significant questions regarding the FBI chain of command's management and supervision of the FISA process."
+
+Wray said some FBI employees could be disciplined. He said the bureau is "making concrete changes to ensure that our FISA protocols, verifications, layers of review, record-keeping requirements, and audits are more stringent and less susceptible to mistake or inaccuracy," adding, "These new processes will also ensure that the FISA Court and the Department of Justice (DOJ) are apprised of all information in the FBI's holdings relevant to a determination of probable cause."
+
+Wray is also changing the rules on who has to approve sensitive investigations, such as those into political campaigns, he said, and on how the bureau handles confidential sources.
+
+The FBI director for much of the period in question, James Comey, focused his public comments mainly on the IG's debunking of Trump conspiracy theories, some of which were aimed at him.
+
+He said little about what the IG portrayed as a significant failure on his watch.
+
+"The report found lots of mistakes — that's really significant and really unfortunate," Comey said on MSNBC. "But that's why you do IG reports."

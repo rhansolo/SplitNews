@@ -1,0 +1,31 @@
+Internet users would be forced to pay a new federal tax on their monthly bills if the government approves regulations recently endorsed by President Obama, a member of the Federal Communications Commission predicts.
+
+Commissioner Mike O'Reilly addressed what's known as "net neutrality" at a Washington seminar on Friday. He spoke after Obama backed stricter rules by calling for preventing service providers from charging more for speedier service and for regulating them like telecommunications companies under a decades-old law.
+
+That law requires telecommunications companies to pay into the FCC’s “Universal Service Fund” -- and would likely require the same of Internet companies. But O'Reilly says history clearly shows that the fees would quickly be “passed off” to customers, just like they are now on monthly phone bills.
+
+“Consumers of these services would face an immediate increase in their Internet bills,” O'Reilly said Friday during the seminar held by the non-partisan Free State Foundation. “Let’s accept a truism: Consumers pay [the fund], not companies.”
+
+O'Reilly, a Republican on the five-member commission, also quoted scholar and net neutrality guru Tim Wu in saying, “Ultimately, consumers always pay for everything, no matter what we say otherwise.”
+
+Ohio GOP Rep. Bob Latta, vice chairman of the House Communication and Technology Subcommittee, on Monday supported O'Reilly's concerns.
+
+"By pushing unnecessary regulations forward, the FCC would be increasing the cost of Internet service for all users, hurting consumers and job creators," he told FoxNews.com. "This is a mistake. And the FCC should take the lesson of its predecessors and keep its hands off the Internet.”
+
+The ongoing debate about net neutrality -- the ideal that Internet service providers should provide equal access to all content providers -- resurfaced in January when a federal appeals court struck down parts of a 2010 FCC order. The commission then embarked on a new effort to write open-Internet rules, with the public comment period ending in September.
+
+Last week, Obama put his political weight behind the issue, asking the independent agency to apply the “strongest possible rules" on Internet service providers.
+
+“We cannot allow [them] to restrict the best access or to pick winners and losers in the online market place,” he said. “I believe the FCC should reclassify consumer broadband service under Title II.”
+
+However, he also said there could be some exceptions in applying the roughly 110 pages of rules. Commission Chairman Tom Wheeler champions net neutrality but reportedly is also considering a smaller application of existing law, a four-paragraph-long section of the 1996 Telecommunications Act.
+
+O'Reilly made clear he was not rebutting Obama’s arguments but said the FCC couldn’t simple “wave a magic wand” to make some regulations disappear. O'Reilly also argued against the idea that the changes, if enacted, would bring more payers to the fund, which theoretically would result in everybody paying less.
+
+“I understand the argument,” O'Reilly said. But “I am very confident that, based on my conversations, the commission intends to go on a spending spree with regards to USF.”
+
+He said two major federal telecommunications programs that receive money from the fund -- E-Rate for school libraries and Lifeline for the poor -- are expected to be expanded by “many billions of dollars and shatter the USF collection and spending levels of this year.” (Appearing to bolster that argument, Wheeler on Monday, according to the Associated Press, called for another $1.5 billion in spending on E-Rate, predicting it would result in a small $1.90 a year extra fee on phone bills.)
+
+O'Reilly, a former Capitol Hill staffer, also said the timing of Obama’s pitch and the overall renewed debate would be “ironic,” if Congress in the coming weeks extends the Internet Tax Moratorium, which prevents state and local access fees and taxes.
+
+“There is near unanimity in Congress that state or local taxes on Internet access would directly deter the ability of consumers to obtain and utilize the Internet," he said. "If that is an accepted premise, the same concept should apply to the net neutrality debate and its certainty to increase consumer bills.”

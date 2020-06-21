@@ -1,0 +1,69 @@
+Welcome to Political Confessional, a column about the views that Americans are scared to share with their friends and neighbors. In an increasingly polarized political climate, adherence to party or ideological orthodoxy seems de rigueur. Social media serves only to amplify that perception at times.
+
+But Americans’ political views are often idiosyncratic and sometimes offensive, and they rarely adhere neatly to any particular party line. In this column, we want to dig into Americans’ messy opinions on politics, morality and social mores. We hope that this exercise gives readers a glimpse into the minds of those with whom they might disagree — or agree! If you have a political belief that you’re willing to share with us, fill out this form — we might get in touch.
+
+This week we talked to Owen, a 37-year-old white man in California. He wrote that he is “open to mass surveillance if it can lead to a world where a much higher percent of crimes are caught, leading to better public safety and, ideally, shorter [or] lighter sentences (because you don’t need as big a threat of punishment to deter people from crimes if the likelihood of catching them is very high).”
+
+This interview has been edited and condensed for clarity.
+
+Clare Malone: How did you come to this position?
+
+Owen: I first started thinking about this after I heard a Radiolab episode that was about a period where, I think, Mexican cities were monitored by overhead drones that were taking a picture of the entire city maybe every 30 seconds. If a murder was committed, they could then go backwards in time and could say, “OK, here’s when we think the murder happened, here’s a car that showed up just before, here’s where that car went, here’s some other cars that recently committed some crimes and look, they all ended up in the same place. It looks like we found a gang.” And they were actually able to bust significant gangs through the ability to have a picture of the entire city every 30 seconds.
+
+It just made the benefits of that type of surveillance very tangible, and it got me thinking, “Well, the benefits there are so obviously good, and if we could just get a lot of the stuff around law enforcement right — which is obviously an ‘if’ — then the public benefits are so large.”
+
+It brings up all these other questions around racial justice [and] law enforcement: Are we actually policing the crimes we want to police? Is there still this rich-poor divide where rich, mostly white people get away with stuff and people of color do not? Those are all still open questions, but the idea that we would give up on this potential just because surveillance is icky … seems like there’s some baby being thrown out with the bathwater there.
+
+All that said, in the wrong hands, surveillance is the tool of the oppressor. If you look at what’s going on in China, it’s super scary, and it’s enough to make me think, OK, maybe I should be backing off here, not dabbling in these waters.
+
+CM: I want to drill down into what kind of mass surveillance you’re thinking of. Are you thinking about a London-style system where you have video cameras everywhere? Should authorities be able to access your phone? How far do you think it should be able to go?
+
+Owen: What we think of as public space, I think it’s OK if we have our eye on because in many public streets, we have security cameras in one place or another.
+
+CM: What if your workplace, without you realizing it, has cameras?
+
+Owen: That’s getting into the middle of the gradient where I’m not exactly sure. I think the workplace is maybe more public than private. I think I’m maybe more OK with visual surveillance than audio surveillance. People should be able to say what they want without thinking, “The government is going to get me,” unless I’m talking seriously about committing violence. And then, how do you know I’m talking seriously about committing violence?
+
+When it gets into private communications, I think maybe those should be totally private, but then you’re allowing people to conspire.
+
+CM: So you lean toward: “People’s private communications stay private?”
+
+Owen: Yes.
+
+CM: What about the creepiness quotient? How do you answer to that?
+
+Owen: The creepiness factor is real. I think a lot of it comes down to: “Do you trust the creeper? Do you trust the person at the other end of the camera?” Government surveillance, when you don’t trust the government, is uncomfortable.
+
+CM: Do you trust the government?
+
+Owen: I am a comfortably middle-class white person and I haven’t had many interactions where I’m like, “Uh oh, this policeman might fuck me up right now,” whereas I have black friends where that’s something they have to think about all the time.
+
+CM: You mentioned before that there were racial and social justice issues that come up. A lot of what you’re talking about sounds like broken windows policing to me. How would you answer to that?
+
+Owen: And that’s crossed my mind, and it makes me super uncomfortable. Who ends up getting policed when you do stuff like this? I like to think of it as something completely neutral, almost an algorithmic system where the robot watches all and just identifies crime, whoever’s doing it. But we’ve seen all these examples where someone creates an AI [artificial intelligence system], and depending on what you expose the AI to, the AI becomes racist.
+
+CM: Do you feel unsafe in your neighborhood or city?
+
+Owen: That’s not where it started, honestly. I generally feel pretty safe. Now I have a kid and another on the way. I think a little more about, “Is my kid going to be safe?” But I generally don’t walk around too worried about it. But it feels like the potential is there to largely do away with gangs. There are some parts of the country where that’s a serious issue.
+
+CM: Have you talked to anyone about this?
+
+Owen: Most of my friends are liberal. I think the general reaction is, “No, you can’t do that. The government surveilling everyone is clearly a bad idea.” I mentioned it to a black friend of mine and he said, “Yeah, you do that, and the camera is going to be over the black neighborhood, and it’s going to be the thing that makes it way easier to police black people for random shit.”
+
+CM: Do you remember how you felt about the Edward Snowden revelations of mass surveillance a few years ago?
+
+Owen: I was totally pro-Snowden. It didn’t feel like the government was really making the case for what it was doing. I think if you want to mass surveil, it should be a totally open thing, where you’re talking about what you’re surveilling and why, and what the benefits are.
+
+CM: Do you think your notion of privacy has changed at all in the last few years?
+
+Owen: Sure. Because it isn’t a core issue for me, it’s more wet clay than most issues are in my mind. You could show me a study that said: “The state tried surveillance, and it was a total nightmare, and they locked everyone up.” That might sway me back the other way — this tool is too powerful for any government, and let’s just lean hard in the privacy direction and hope for the best.
+
+And before, you asked me if I trust the government, and I certainly don’t trust this administration, and I don’t trust the American electorate to constantly produce politicians that I do trust. What I do trust is a good system of checks and balances and incentives; that part is very important, too. If you don’t have the ability to audit the surveilers, you’re asking people to trust the government en masse, but also then you’re saying everyone who enters the government has to achieve that level of trust, which is crazy.
+
+CM: You’re saying you don’t trust this administration — would you trust a Democratic administration more? Because the Snowden revelations occurred during the Obama administration.
+
+Owen: I would trust a Democratic administration more. But I actually think this might work better as a municipal thing. Your legislators are your neighbors, to a degree. There’s more accountability.
+
+There’s this little mini-movement of progressive prosecutors — and that’s mostly happening at the city level — and it feels like the things they can get done at the city level are more difficult to get done on the state or federal level.
+
+And a bit of a side note, but the progressive prosecutor movement seemed to be buoyed by all the Black Lives Matter stuff. A major part of that was [that] all the violence against people of color by the police is now being recorded because everyone has a phone on them. And you get all these horrifying videos that are impossible to ignore. Statistics — you can brush off and move on with your day. But if you see the Eric Garner video — what if there was no Eric Garner video? I feel like the ability to see some of this stuff has pushed us in a more social justice-y direction, in a really good way.

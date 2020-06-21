@@ -1,0 +1,43 @@
+Last June, the government technology trade publication MeriTalk launched a petition regarding then-US Federal Chief Information Officer Tony Scott. The petition was not demanding Mr. Scott’s resignation but rather asked the next president to keep him on after the election.
+
+“Tony Scott has made countless contributions to government IT through his strong leadership, continued efforts to improve existing initiatives and initiate new ones, as well as his fearless pursuit of federal excellence,” MeriTalk wrote. “When the current administration ends early next year, we don’t want to see this effective leader leave his post.”
+
+More than 500 government officials and private IT professionals signed the petition, according to a MeriTalk spokesperson. But despite Scott’s wide popularity in the tech community and his expressed desire to continue working as chief information officer, President Trump did not bring back Scott nor his right-hand man, Chief Information Security Officer Greg Touhill.
+
+Over a month has past since Inauguration Day, but neither the CIO or the CISO position has been nominated by Mr. Trump, despite not needing a Senate vote to confirm the nominee. Acting CIO Margie Graves currently fills the role.
+
+The absence of a CIO for more than a month with no progress in sight for a permanent replacement is worrying many cybersecurity and tech experts, including Scott.
+
+“It's kind of like stopping maintenance in the apartment you own,” he told Passcode. “You can stop painting walls or stop replacing the water heater. You can bring a lot of money to the bottom line if you stop spending. But if we instead replaced and ran modern platforms, if we invested in the right places, we can save up to half in maintenance – around $30 billion per year.”
+
+Indeed, the leadership vacuum makes it harder for the government to update IT infrastructure, which costs $85 billion per year to operate, putting the system at a greater risk and increases the likely hood of a successful breach, some experts say.
+
+“The federal government is a very big ship to steer,” says Todd Helfrich, a vice president at the cybersecurity firm Anomali. “I would hate to see moments lost because the steer is so big and change comes so slow. I am afraid momentum can be lost without a leader in charge.”
+
+Scott, a former CIO for Microsoft and VMWare, became the third US CIO in February 2015. Soon after he joined, the government discovered the Office of Personnel Management breach that exposed the sensitive personal information of 21 million government employees and their families.
+
+Two months later, in June 2015, Scott initiated a 30-day Cybersecurity Sprint to improve resiliency across the IT infrastructure that made a significant improvement on its resiliency from hackers.
+
+“In terms of upgrading cybersecurity infrastructure, you didn't see much progress on anything until Tony Scott did the 30-day Cyber Sprint,” says James Scott, a senior fellow at Institute for Critical Infrastructure Technology. (No relation to Tony Scott.) “It takes a ton of leadership to push stuff like that. It was very high-impact.”
+
+Tony Scott and Mr. Touhill – a retired brigadier general who joined Scott’s team in September 2016 as the first-ever US CISO – continued to advance basic cybersecurity initiatives before their time was up. One of the last efforts was to push the percentage of federal agencies using multifactor authentication by the end of 2016 to nearly 100 percent.
+
+Touhill says they reached 98.6 percent, a very significant jump from just 20 percent earlier in the year. “We raised the cost for the adversaries to access us and our information,” he says.
+
+So far in the Trump administration, little has been done for cybersecurity. Trump planned to sign an executive order in January to improve departments’ cyber defenses and commission an administration-wide review to assess hacking risks but was scrapped last minute. At the annual RSA cybersecurity conference in San Francisco in mid-February, Trump’s administration was a no-show.
+
+At a Passcode event during the conference, however, former White House Homeland Security Adviser Lisa Monaco said there are signs the Trump administration may follow the Obama playbook on cybersecurity issues. She also noted that she briefed her successor, Tom Bossert, on digital security policies and ongoing efforts in the White House to improve the government's cybersecurity posture.
+
+Mr. Bossert joins the White House from the Atlantic Council think tank in Washington where he was a fellow in the organization's Cyber Statecraft Initiative. He was also national security aide in the George W. Bush administration.
+
+Before moving into the White House, Trump appointed former New York City Mayor Rudy Giuliani as a cybersecurity advisor. He also has Paypal founder Peter Thiel at his helm as a technology confidant. Both Messrs. Giuliani and Thiel, however, remained mum since the inauguration regarding cybersecurity issues in the US government.
+
+Thiel, Giuliani, and the White House did not respond to Passcode’s request for comment.
+
+One possible sign of progress in appointing a CIO and CISO came Feb. 16, when the Senate narrowly confirmed Republican congressman Mick Mulvaney as the director of the Office of Budget and Management (OBM). Mr. Mulvaney made a reputation as a hardline fiscal conservative who hoped to significantly cut military spending and Social Security. Within the White House command chain, both the CIO and CISO report directly to the director of the OBM, who report to the President.
+
+While it is unclear Mulvaney will gut the $85 billion the government spends on IT, Scott warned that a short-term cut will likely backfire in the long term. Budget for IT will not be altered until October, when the 2018 fiscal year starts.
+
+Despite the new administration letting them go, both Scott and Touhill hoped Trump would nominate an experienced, astute veteran in the IT industry that can remain apolitical in a politically charged environment.
+
+“A good IT is good IT, regardless if there is a D or a R in the back,” says Scott.

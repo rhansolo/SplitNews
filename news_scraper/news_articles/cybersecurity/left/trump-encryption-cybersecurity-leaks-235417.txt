@@ -1,0 +1,89 @@
+Poisonous political divisions have spawned an encryption arms race across the Trump administration, as both the president’s advisers and career civil servants scramble to cover their digital tracks in a capital nervous about leaks.
+
+The surge in the use of scrambled-communication technology — enabled by free smartphone apps such as WhatsApp and Signal — could skirt or violate laws that require government records to be preserved and the public’s business to be conducted in official channels, several ethics experts say. It may even cloud future generations’ knowledge of the full history of Donald Trump’s presidency.
+
+Advertisement
+
+“The operative word is accountability. You cannot hold an agency or someone accountable if records are not kept and made available,” said John Carlin, a former Democratic Kansas governor who served as the archivist of the National Archives from 1995 to 2005. “If there is a hearing or investigation someday and no access to records, there is not much you can do.”
+
+White House press secretary Sean Spicer has pointedly warned his staff that using encrypted apps would violate a law requiring the preservation of presidential records, POLITICO reported Sunday.
+
+Conservative advocacy groups also denounce the use of encrypted technologies by career employees, comparing it to Hillary Clinton’s use of a private email server when she was secretary of State. The House Science Committee has demanded an inquiry into the use of encryption by employees at the Environmental Protection Agency — although it has shown no similar curiosity about use of encryption in the White House.
+
+“It’s stunning that it’s still going on in light of the Clinton email scandal,” said Judicial Watch President Tom Fitton, who has been critical of the use of encrypted messaging by both civil servants and the White House. “It’s no different than what she was doing.”
+
+Defenders of federal workers say interest in encryption has skyrocketed as career employees ponder how to respond to an administration they fear will break the law and punish dissent in pursuit of a radical agenda. Jon Brod — the co-founder of Confide, a company that offers an encrypted messaging program of the same name — said the company has seen a surge in use of its app following the election.
+
+People in the government are finding many uses for encryption, including internal conversations and leaks to the news media.
+
+The nonprofit Project on Government Oversight, for instance, says it has been approached by more than 70 workers from various agencies, all of whom want information on their rights as workers and whistleblower protections. These workers are meeting at nighttime and on the weekends at homes in the D.C. area to discuss their potential resistance to Trump, using encrypted messaging apps for their personal communications, said Danielle Brian, the group's executive director.
+
+She said the employees want to know what to do if they see something illegal happening at their agencies, how to report misdeeds to Congress or inspectors general, and what is protected under whistleblower laws. The demand is so great that POGO plans to hire a full-time employee to train workers across the country on how to report problems, keep their jobs and use encrypted messages to communicate and organize outside of work.
+
+In addition to the EPA, employees at the State Department, the Department of Homeland Security, the Department of Transportation and other agencies are using encrypted messaging apps, POLITICO has learned.
+
+“We are responding to an increasing level of anxiety in the federal workplace about free speech rights and civil liberties,” said POGO's Brian, who has attended three private sessions to offer advice on government workers’ legal protections. “This is a whole new world for us.”
+
+Federal workers told POLITICO they've adopted encrypted apps because they fear being targeted by Trump's political allies.
+
+"It’s very scary," one career civil servant said in an interview, requesting anonymity to avoid possible retaliation. "You don’t know who to trust.”
+
+Trump has made no secret of his desire to uncover the sources of the many leaks that have roiled the first month of his presidency. “The spotlight has finally been put on the low-life leakers!” he wrote on Twitter earlier this month. “They will be caught!”
+
+The hunt for leaks has swept up the White House communications staff, where Spicer has begun quietly cracking down on the use of encrypted apps. POLITICO reported Sunday that Spicer recently checked White House staffers’ phones and warned them against using apps like Confide, which deletes messages as soon as they’re read, and Signal, which also has an optional setting to automatically delete messages.
+
+The crackdown came after some political appointees in Trump’s White House began using the encrypted apps so they can have covert conversations with journalists and their colleagues. But it remains unclear if top White House officials can completely halt the use of the apps. And at least some staff were still using them as of earlier this month, sources say.
+
+"To my knowledge, no one in the [White House] is using the Confide app or any other similar app and we go to great lengths to preserve all records," a White House official told POLITICO in an email late last week.
+
+However, a BuzzFeed reporter determined that Spicer and White House aide Hope Hicks had once downloaded the Confide app, the site reported this month after using a feature that lets users find contacts who have already signed up. Spicer told BuzzFeed he used Confide only once "months ago."
+
+The White House official told POLITICO that Hicks "does not use the app and deleted it from her phone." The official did not respond to follow-up questions about how the White House knows other staff aren't using the app.
+
+Trump staffers are keenly aware of the risks of their internal communications going public, having faced widespread leaking from their own ranks during the campaign — and having seen the damaging fallout from last year's dumps of hacked emails from Democrats such as Clinton campaign chairman John Podesta.
+
+Yet ethics experts argue that the use of encrypted messaging apps by White House staff for official business would be a clear violation of the law. "At a minimum, the White House ought to explain what record preservation steps it is taking," said Norm Eisen, former ethics czar under ex-President Barack Obama and co-founder of the group Citizens for Responsibility and Ethics in Washington. "If they refuse to answer those questions, it is fair to assume they are at risk of violating the law."
+
+For both the Trump team and the career employees, encrypted apps like Signal, WhatsApp, Confide and Wickr make it easier to communicate in secret by leaving would-be snoops with unreadable strings of text — thwarting any hackers or government investigators who might get hold of the messages. That’s on top of the strong encryption offered by devices such as the latest iPhones, which the FBI has complained it can’t crack even in drug or terrorism investigations.
+
+It’s unclear whether the career employees are breaking any laws. While it is illegal for federal employees to hold secret discussions to conduct government business, several workers insisted in interviews that they use the apps only for personal communications.
+
+A spokeswoman at the National Archives, which maintains the government’s records, said in an email that “personal opinions by and between agency employees, even about senior agency officials, would not likely meet the definition of a federal record” that must be preserved.
+
+But experts say the nature of encryption technology makes it difficult to tell what the employees are discussing. Conservative groups are exploiting that fact to target federal workers who are critical of Trump.
+
+"Any effective regulation of federal employee behavior is heavily predicated on learning that that misconduct has occurred,” said Dan Metcalfe, the former director of the Justice Department’s Office of Information and Privacy, who spent more than two decades guiding federal agencies on Freedom of Information Act issues. “That’s the only way you can regulate it after the fact.”
+
+White House staffers are bound by the Presidential Records Act, a post-Watergate law that requires the preservation of official government records. It allows public access to those documents after a waiting period that can stretch from five to 12 years.
+
+Other federal employees must abide by the Federal Records Act, which similarly requires the preservation of government documents. But the law allows more speedy public access to those documents through Freedom of Information Act requests.
+
+The Federal Records Act was amended in 2014 to include all electronic messages, including text messages, voice mails and messaging apps. July 2015 guidance to federal agencies from the National Archives specifically mentions WhatsApp as an example of an application whose messages must be preserved if they pertain to government business.
+
+But even if the technology is new, attempts to skirt federal records laws aren’t.
+
+“This is just another variation on the theme,” Fitton said about the use of encrypted messaging apps to communicate. “It’s not a new issue issue. It’s just a new flavor. It doesn’t matter the technology because the agencies are required to maintain these records. You can delete text messages and emails too.”
+
+Staffers in Republican and Democrat administrations alike often keep sensitive information out of emails, preferring phone conversations, which largely aren’t subject to record keeping laws. The Reagan, George H.W. Bush and Clinton administrations strongly resisted calls to preserve their email records (the Reagan White House adopted a rudimentary form of email in the 1980s), resulting in a years-long legal battle.
+
+George W. Bush administration officials faced criticism for using non-government email accounts. And Obama administration officials were caught using alternative email addresses that obscured their identities.
+
+Indeed, resistance to preserving records dates back to the early days of the country. Martha Washington and Thomas Jefferson famously burned their correspondence with their spouses, for example, keeping many of their private thoughts out of reach of later generations.
+
+But the wide availability of encrypted messaging makes secrecy easier than ever.
+
+“It’s certainly easier to circumvent public records laws in a written format now than it ever has been,” said Mark Rumold, a senior staff attorney at the Electronic Frontier Foundation, a nonprofit group that pushes for government transparency.
+
+Republicans in Congress are increasingly frustrated, worrying that career employees are secretly undercutting Trump’s policies.
+
+After POLITICO reported this month that several EPA employees were using Signal, House Science Chairman Lamar Smith (R-Texas) asked the agency’s inspector general to look into the issue. Several right-leaning groups have filed FOIA requests seeking EPA employees’ communications using Signal.
+
+But Smith and other Republicans have not publicly committed to investigate encryption at the White House. A spokeswoman for Rep. Jason Chaffetz (R-Utah), chairman of the House Oversight Committee, declined to comment when asked whether he is looking into the issue.
+
+Some Democrats counter that federal workers should be protected, citing whistleblower laws that shield workers from retribution if they report law-breaking or gross mismanagement.
+
+Reps. Ted Lieu (D-Calif.) and Rep. Don Beyer (D-Va.) even released a guide that underscores federal workers’ rights. The guide appears to endorse the use of encrypted apps, calling them a “safe bet.”
+
+In an interview, Lieu said, “I just want to make clear to federal employees, Congress passed an entire law protecting whistleblowers."
+
+Tim Starks contributed to this story.

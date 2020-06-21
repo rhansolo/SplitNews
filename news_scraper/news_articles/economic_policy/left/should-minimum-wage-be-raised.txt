@@ -1,0 +1,113 @@
+For at least the last 25 years, labor economists have been compiling reams of evidence trying to answer one big question: Do minimum wage laws cost us jobs?
+
+In introductory economics courses, students are typically taught that setting price floors — on milk, oil, or labor — causes supply to exceed demand. In the case of labor, what that means is that if there’s a minimum wage, employers’ demand for workers falls (because they cost more), and the supply of workers increases (because they’re promised more money) — meaning there’s unemployment, with all the costs and suffering that entails.
+
+For a long time, that’s how the theory went. But in 1993, economists Alan Krueger and David Card brought hard data to bear on the question and published a groundbreaking paper that forced economists to reconsider the issue.
+
+They surveyed more than 400 fast-food restaurants in New Jersey and eastern Pennsylvania to see if employment growth was slower in New Jersey following an increase in the minimum wage. They found no evidence that it was.
+
+Card and Krueger expanded their results into a well-regarded book, Myth and Measurement (1995), and the empirical literature on the question exploded after that.
+
+In the ensuing quarter-century, economic research has put to rest what had been a fundamental assumption — that low minimum wages always cause major disemployment in the short run. Instead, researchers have discovered a gamut of results. Some have found real employment effects (if short of seriously disruptive effects as previously assumed), but a new evidence review finds that most studies have found small or no effects.
+
+The comprehensive review of the evidence on minimum wages, conducted by Arindrajit Dube for the British government, seeks to summarize the current evidence base, a quarter-century after Card and Krueger’s pioneering work. Dube, a professor of economics at UMass Amherst, is one of the leading experts on the effects of minimum wage laws within economics, and his research has typically found small employment effects, if any, from the policy.
+
+In his new paper, Dube finds that the average effect on employment across the studies he reviews is very close to zero — that is, in most of the high-quality studies he reviews, a few outliers aside, the number of jobs cost by minimum wage laws is negligible. They raise wages without much downside.
+
+The review also builds on a paper in the Quarterly Journal of Economics by Dube, Doruk Cengiz, Attila Lindner, and Ben Zipperer that examined 138 different changes in the minimum wage from 1979 to 2016. The paper found that on average, “overall number of low-wage jobs remained essentially unchanged over the five years following the increase.” Moreover, the paper identifies a macroeconomic quirk in the late 1980s/early 1990s that, once accounted for, helps resolve some disagreement in the literature.
+
+The paper certainly doesn’t put to rest the debate over minimum wage studies. Skeptics remain. There is still disagreement about the scale of employment effects, and about what new minimum wage laws setting minimums as high as $15 an hour could do.
+
+We also don’t know everything about why minimums don’t seem to cause a huge amount of job loss. Firms seem to pass on some of the costs to consumers, and in some cases have “monopsony” power: if employees have only a handful of potential employers to choose from, those employers can get away with paying workers less, because they have fewer exit options.
+
+In some ways, this is the most vital research field at the moment. “It’s much more interesting to think of the minimum wage as a flashlight into the labor market than to always wind up debating the employment effect,” Suresh Naidu at Columbia says.
+
+But we do know a fair bit more than we did in 1993, and the evidence we have now suggests that in many cases minimum wages are a net good for workers — even if a few workers lose jobs, those costs are significantly outstripped by increased wages for workers who keep their jobs. Whether that will remain true with minimums of $15 or more, especially in rural areas, remains to be seen.
+
+What the new evidence review says
+
+Dube’s new review was conducted at the request of a surprising source: the Conservative government of the United Kingdom. The Conservative cabinet has proposed gradually raising the country’s minimum wage to £10.50 an hour (about $15) by 2024, whereas Labour wants to raise it to £10 an hour ($14.28) immediately. In sharp contrast to the US, the debate there is about the speed and level of minimum wage increases, rather than on whether or not they occur at all.
+
+Dube thus focuses heavily on the UK’s own experience launching a national minimum wage in 1998, exactly 60 years after the US set a national minimum. But he also reviews the evidence in the US, including more recent studies in cities like Seattle, Chicago, Washington DC, Oakland, San Francisco, and San Jose, as well as studies examining minimum wage increases in Hungary and Germany. Dube collects 55 estimates of the minimum wage’s impact on employment across the world, including 36 estimates from the US, and two estimates for the US and UK that he produced for the report.
+
+Throughout he seeks to estimate the “own-wage elasticity” (OWE) in each context: the increase in wages for a given group caused by an increase in the minimum wage, divided by the change in that group’s probability of employment caused by the minimum wage increase. An OWE of negative 1, for instance, is a “break-even” number: If wages for, say, fast food workers rise 10 percent following a minimum wage increase, then an OWE of -1 suggests odds of employment would fall 10 percent in turn.
+
+The median study looking at a broad group of low-wage workers estimates an “elasticity” of -0.04; that is, a 25-percent increase in average wages for a given group due to a minimum wage increase should lead to a 1 percent decline in employment for that group. That’s a really small effect, and one that suggests the benefits of a modest minimum wage hike should swamp the costs.
+
+Studies looking at smaller groups of workers more likely to be bound by a minimum wage, like teenagers, find bigger effects: if you include studies looking at any size of group, the average OWE is -0.17. But that still implies that disemployment effects are swamped by higher wages.
+
+That evidence base is enough for many labor economists, like Harvard’s Larry Katz, to conclude that we know reasonably well that modest minimum wage increases do more good than harm. “I’ve had many students on both sides of these debates,” Katz says. “When [minimum wages] affect non-traded goods sectors, which is largely true in the US, they clearly increase the wages for low-wage workers impacted. They seem to have very modest impacts on employment.”
+
+The evolution of minimum wage studies
+
+Dube’s review is the latest salvo in a contentious debate that has evolved in interesting directions. When modern minimum wage research began in the 1990s, there were two dominant approaches.
+
+One approach, pioneered by Card and Krueger, compared border counties in neighboring states, one of which increased the minimum wage and one of which didn’t. The other, used by UC Irvine’s David Neumark and the Fed Board of Governors’ William Wascher, tracked employment in full states over time, to see if employment fell in the wake of a minimum wage increase. The two methodologies tended to get different results: Card and Krueger, of course, found no employment effects, while Neumark and Wascher tended to find substantial job loss following minimum wage increases.
+
+Each approach, however, had drawbacks. Card and Krueger’s approach focused on one specific case — New Jersey’s minimum wage hikes — that might not generalize to the country as a whole. The minimum wage increase also might have forced Pennsylvania employers to raise their wages in response, which could make Pennsylvania a bad control group: it’s not unaffected by the minimum wage increase in New Jersey, it’s also affected.
+
+The Neumark/Wascher approach, by contrast, relied on comparisons between states that might otherwise be very different. There are a million reasons why, say, employment might have grown more slowly in California following a minimum wage increase than in Arizona. Neumark and Wascher generally used few “control” variables in an effort to keep the comparison clean and avoid “over-controlling” and accidentally ignoring effects that are due to the minimum wage, but critics argued this could lead them to erroneously blame the minimum wage for job losses that were totally unrelated.
+
+The varying approaches could lead to different evidence reviews drawing quite different conclusions. A 2007 paper by Neumark and Wascher concluded that the “most credible” studies found that the minimum wage costs a substantial number of jobs. Meanwhile, a paper by Dale Belman and Paul Wolfson first published in 2015 found that most credible research estimates minimal effect on jobs.
+
+One thing that happened between 2007 and 2015 is that economists devised better methods. Researchers led by Dube have pioneered a new method of border-county comparisons that extends nationally: starting in a 2010 paper, Dube, T. William Lester, and Michael Reich compared “all contiguous county-pairs in the United States that are located on opposite sides of a state border,” a vast expansion of the general Card-Krueger approach. That creates a much larger sample and enables a nationwide study, rather than one limited to just, say, New Jersey.
+
+That study found no noticeable effect on employment. It also tested for spillovers — an increased minimum wage in one state raising wages in the state next door — and found they were negligible.
+
+More recently in their 2019 Quarterly Journal of Economics paper, Dube, Cengiz, Lindner, and Zipperer find that much of the disagreement between the Card/Krueger and Neumark/Wascher approaches is attributable to a quirk in the late 1980s and early 1990s. During that period, blue states experienced an economic downturn relative to red states that predated the biggest blue state minimum wage increases; that made it look like minimum wages were lowering employment growth, when what was really happening was that blue states both had lower employment growth and separately increased their minimum wages.
+
+“In our QJE paper we showed that the specifications under argument (lot of controls, little controls) actually all suggest little job loss in the post 1995 period; and that this appears to be driven by the quirky 80s boom/bust,” Dube told me. “None of us knew this until recently. This is actually progress.”
+
+What skeptics argue
+
+But new research arguing for substantial disemployment effects has emerged too. Jonathan Meer of Texas A&M and Jeremy West of UC Santa Cruz in a 2016 paper found that while short-run employment isn’t affected by increases in the minimum wage, states that raised their minimums saw slower job growth in subsequent years.
+
+This makes some intuitive sense: you might expect a coffee shop that sees its wage minimum rise from $9 to $12, say, to not actively lay off any employees, but to hire fewer people in the future. Meer and West argued that focusing on employment levels, rather than rates, produced much of the disagreement in the literature up to that point, because it made estimates sensitive to what trends in employment existed before the minimum wage increase.
+
+This led to a fierce back and forth between Meer and West and Dube. Dube in a 2013 study argued that the job growth slowdown in Meer and West showed up disproportionately in manufacturing, where wages are too high to be affected by the minimum wage, suggesting that their model picked up some noise that wasn’t related to the minimum wage at all — and added that using his methodology to look at employment growth, you didn’t find any effects at all.
+
+Meer and West countered that when you add appropriate controls, the industries seeing slower job growth aren’t weird or surprising; a recent paper by Doruk Cengiz using machine learning to decompose the employment effects that Meer and West discuss suggests they’re mostly among higher-wage individuals, which bolsters Dube’s critique.
+
+Another skeptic, UC San Diego’s Jeffrey Clemens, had one paper included in Dube’s review. Written with Michael Wither, it estimated significant job losses due to the 2007 increase in the federal minimum wage amidst the Great Recession.
+
+Clemens argues that other important studies did not get sufficient emphasis in Dube’s review. He names, for instance, a paper by MIT’s John Horton where an online labor market — it’s not Amazon’s Mechanical Turk, but that’s a good comparison — randomly imposed minimum wages for some firms posting jobs, and not others. The firms with minimums reduced hiring and hours worked, pivoting away from low-productivity workers to high-productivity ones. That’s a true experiment, and one that suggests some disemployment effects.
+
+Clemens also points to a Danish study examining youth employment. Denmark’s union-negotiated minimum wages kick in at age 18, and, sure enough, the study finds that employment drops by a third when 17-year-olds turn 18, suggesting large-scale unemployment due to a minimum wage.
+
+Dube actually did include this one in his study, but notes it’s a very different policy from a broad-based minimum wage. “Employers can costlessly substitute higher paid, slightly older workers for identical but lower-paid, slightly younger ones,” in Denmark, he says. “There is very clear reason why you’d expect more job loss in this context, but there is no equivalent for this for, say, a broad based minimum wage policy.”
+
+The online and Denmark studies use extremely credible designs that are arguably better than most of the cross-border or cross-state comparisons that dominate minimum wage research. But they lack “external validity”: it’s not clear that an online task marketplace is a good model for the US labor market, to say the least, and the Denmark example has the problems that Dube notes.
+
+A $15 minimum wage
+
+Another study that Dube includes in his review deserves special comment.
+
+Seattle, Washington was one of the first major cities to vote to gradually increase its minimum wage to $15 an hour, and the University of Washington has been conducting a large-scale ongoing study to see what effect that hike has. The most recent report from the study suggests that increasing the minimum to $13 an hour reduced work hours, but raised wages by enough that low-income workers as a whole were better off on average. That doesn’t mean that all low-income workers were better off, though, and the study suggests that many had to find work outside Seattle to supplement their incomes.
+
+An earlier study from the project found much larger negative effects on employment. That study came under intense criticism for data limitations (it doesn’t include employers with locations both in Seattle and outside, because the part of Washington outside of Seattle serves as the control group). The effects it estimated were extremely large relative to other studies in the literature, and many labor economists like Harvard’s Lawrence Katz don’t find the research reliable. “The Seattle study is completely uninformative because there’s no comparison group for Seattle,” Katz says. “It’s the fastest growing labor market we’ve basically ever seen.”
+
+Reliable or not, the Seattle studies have gotten outsized attention because they represent the first wave of studies on the new mega-increases in the minimum wage following the Fight for $15 movement. California, DC, Illinois, Maryland, Massachusetts, New Jersey, and New York are all gradually increasing their minimums to $15 an hour; even more rural/lower-wage states like Arkansas, Maine, and Missouri are gradually increasing their minimums to $11 or $12.
+
+Dube notes in his review that the best evidence we have suggests minimal job impacts on minimum wages of up to 60 percent of the median wage. The median hourly wage in El Centro, California is about $15.50, meaning the $13 an hour minimum (effective January 1 of next year) is over 80 percent of the median wage there. The effects there might be very different.
+
+Dube addresses this concern in his review, noting that a recent study looking at counties that have already raised their minimum wages to over 80 percent of the median wage still found minimal effects.
+
+But there’s sure to be additional research as the new wages are phased in, and everyone in the debate, from Dube to Meer, thinks there’s some point where the disemployment effects become too large. What we don’t know is if any wage increases passed to this point will reach that level.
+
+“Most of the $15 minimum wage proposals are phased in over multiple years and are probably like $11/$12 today,” Katz notes. “If you told me we’re going to $15 tomorrow I would worry about low-wage states. If you told me over five, six, seven years, I’m not super-worried.”
+
+Clemens and AEI’s Michael Strain are doing precommitted studies on the minimum wage — where they agree to use a certain kind of analysis ahead of time — to ensure they don’t change analytical method to get a specific result later. So far they’ve found mixed results, with bigger job losses from bigger increases and little effect from smaller increases in the minimum wage. And they’re hardly the only ones who will be looking.
+
+This debate will rage for a while
+
+It’s easy to become pessimistic about the prospect that new research can dissolve old disagreements. Economists Zubin Jelveh, Bruce Kogut, and Suresh Naidu have found that you can predict, pretty accurately, most economists’ views on whether the minimum wage costs jobs based on their existing political leanings.
+
+That doesn’t mean that the researchers working on the question are dishonest — everyone agrees that Dube, Neumark, etc. are all incredibly smart conscientious researchers who just happen to disagree on this topic. But it does reflect that there are structural forces at work here. There are big monied interests opposed to minimum wage increases, and smaller but real monied interests (specifically unions) supportive of them, and that political economy naturally leads to a polarized knowledge base over time.
+
+“You’ve got to make some normative judgments, which make economists really uncomfortable,” Strain says. Is it worth accepting a risk of higher disemployment for higher wages overall — which seems to be a reliable result of minimum wage increases? How high a risk of disemployment are you willing to accept so that the workers who don’t get laid off get raises?
+
+At this point, personally, I think the trade-off at most margins suggests a higher minimum wage is a good idea. As Dube’s review suggests, most estimates of the employment elasticity aren’t close to -1, despite some studies finding effects in that range. That’s a wonky way of saying that even if employment falls, it falls by less than wages rise by, and as such the benefits for low-wage workers seem to swamp any employment effects.
+
+I’ve very open to that changing as minimums get higher. But we do seem to have learned something very important since the initial Card/Krueger wave: the old assumption that minimum wages are always unacceptably distortionary doesn’t really hold water. They’re often beneficial and at what point they stop being beneficial is something we can test empirically rather than relying just on theory.
+
+Sign up for the Future Perfect newsletter. Twice a week, you’ll get a roundup of ideas and solutions for tackling our biggest challenges: improving public health, decreasing human and animal suffering, easing catastrophic risks, and — to put it simply — getting better at doing good.
