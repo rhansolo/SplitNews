@@ -1,0 +1,291 @@
+A mix of legacy drug makers and small startups have stepped forward with plans to develop vaccines or treatments that target the infection caused by the novel coronavirus.
+
+COVID-19, which was first detected in December in Wuhan, China, has since sickened nearly 4.6 million people worldwide and killed more than 300,000, as of mid-May.
+
+The Food and Drug Administration has issued two emergency-use authorizations for COVID-19 treatments, including one for hydroxychloroquine sulfate and chloroquine phosphate in March to treat COVID-19 patients and one for Gilead Sciences Inc.’s remdesivir on May 1. No drugs or vaccines have received FDA approval.
+
+Read more of MarketWatch’s coverage of COVID-19.
+
+In the U.S., many of the publicly traded companies that are initiating development have received funding from two organizations: the Biomedical Advanced Research and Development Authority, or BARDA, which is a division of the Department of Health and Human Services, and the National Institute of Allergy and Infectious Diseases, or NIAID, a division of the National Institutes of Health. Some companies have also received funding from Coalition for Epidemic Preparedness Innovations, or CEPI, a global organization based in Oslo that has provided millions of dollars in funding to vaccine makers. Other companies are funding trials by themselves or through life-sciences-company partnerships.
+
+These are some of the companies developing treatments or vaccines in the U.S. for COVID-19, as of early May. (An earlier version of the article included several adjuvant platform technologies that are used to aid the development process and a privately held company, but they have since been removed to focus on public companies.)
+
+Amgen and Adaptive Biotechnologies
+
+Type: Antibody treatment
+
+Stage: Preclinical
+
+Background: The very early-stage collaboration between Amgen Inc. AMGN, +3.63% and Adaptive Biotechnologies Corp. ADPT, +0.35% seeks to discover antibodies that can be used to prevent or treat COVID-19. Financial terms of the exclusive collaboration will be completed “in the coming weeks,” the companies said April 2. “There may well be more than one generation of antibody therapeutics entering the clinic,” Amgen R&D EVP David Reese told investors on an earnings call.
+
+Also in the works: Amgen will test Otezla as a COVID-19 therapy treating respiratory distress in late-stage patients, with the company saying April 30 that it plans to put the oral psoriasis drug into trials “in the coming weeks.”
+
+Year-to-date stock performance: Amgen’s stock is down 1.9%; Adaptive’s is up 10.3%.
+
+Altimmune
+
+Type: Vaccine
+
+Stage: Preclinical
+
+Name: AdCOVID
+
+Background: Altimmune Inc. ALT, +1.37% said March 30 it is partnering with University of Alabama at Birmingham to develop a single-dose, intranasal COVID-19 vaccine. They said they plan to put the vaccine candidate into Phase 1 trials in the third quarter. The preclinical company is also developing vaccines for anthrax and the flu.
+
+Year-to-date stock performance: Shares of Altimmune have gone up 60.8%.
+
+BioNTech and Pfizer
+
+Type: mRNA vaccine
+
+Stage: Phase 1/2
+
+Name: BNT162 program
+
+Background: Pfizer Inc. PFE, +0.54% announced March 17 it would help develop and distribute BioNTech SE’s BNTX, +0.82% COVID-19 vaccine candidate, though the deal excludes China. The 360 patients in the U.S. trial had started to receive the first doses of the four vaccine candidates included in the study as of May 5. Dosing in 200 participants in the German trial began April 23. As part of the deal, Pfizer will pay $185 million upfront, with additional possible future milestone payments of up to $563 million. Mikael Dolsten, Pfizer’s chief scientific officer, said during an April 28 earnings call that the companies expect the first round of trial data in May or June, with the vaccine candidate moving into “expanded trials that could allow emergency use or accelerated approval coming in the fall, possibly October.”
+
+BioNTech is also testing the vaccine in collaboration with Shanghai Fosun Pharmaceutical Group Co. Ltd. in China.
+
+Pfizer and BioNTech for several years have said they are working on mRNA-based influenza vaccines.
+
+Year-to-date stock performances: Shares of BioNTech have soared 47.6%; Pfizer’s stock is down 1.7%.
+
+CytoDyn
+
+Type: Treatment
+
+Stage: Phase 2 and Phase 2b/3 clinical trials
+
+Name: leronlimab
+
+Background: CytoDyn Inc. CYDY, +15.00% , a preclinical biotechnology company based in Vancouver, is testing its experimental drug leronlimab in two types of COVID-19 patients. The investigational therapy hasn’t been approved for any indications; for COVID-19, it is being proposed as a treatment for mild-to-moderate respiratory complications that occur in patients with the disease as well as severely and critically ill patients.
+
+The randomized, double-blind, placebo-controlled study will test the efficacy and safety of leronlimab in 75 patients. CytoDyn had been studying the experimental therapy as a treatment for people with HIV and a form of metastatic breast cancer.
+
+Year-to-date stock performance: CytoDyn’s stock has soared 213.0%.
+
+Gilead Sciences
+
+Type: Treatment
+
+Stage: Emergency use authorization
+
+Name: remdesivir
+
+Background: Gilead Sciences Inc. GILD, +4.63% is a longtime drugmaker best known for developing the first major cure for hepatitis-C in Sovaldi, a therapy that changed the standard of care for that disease but also kicked off the national debate about drug pricing. The company has experience developing and marketing HIV drugs, including Truvada for pre-exposure prophylaxis (PrEP), its preventive HIV medicine.
+
+It received an emergency-use authorization from the Food and Drug Administration in the U.S. on May 1 based on preliminary results from two clinical trials: one conducted by the NIAID, and one by Gilead. In the NIAID trial, COVID-19 patients taking the drug had a median recovery time of 11 days, compared with 15 days for those patients taking placebo. NIAID director Dr. Anthony Fauci has said the drug is now considered the standard of care; however, other experts have had mixed responses to the data. Dr. Eric Topol, director of the Scripps Research Translational Institute, said he thinks the drug is effective based on the preliminary data that has been made public. “It’s just not that potent,” he said via email.
+
+The drug was also used in two randomized, controlled clinical trials in China. Results from one trial, which was stopped early, found the drug didn’t produce “statistically significant clinical benefits,” according to findings published in The Lancet.
+
+Gilead in late March had to halt individual compassionate use requests for remdesivir as outbreaks worsened in the U.S., having provided the investigational therapy to 1,000 patients. “The system cannot support and process the overwhelming number of applications we have seen with COVID-19,” Gilead CEO Daniel O’Day said March 28.
+
+The company told investors on May 1 it may spend up to $1 billion this year to develop and manufacture remdesivir, and it aims to have 500,000 treatment courses by October and 1 million by the end of 2020.
+
+Gilead’s notable clinical trials:
+
+1. The National Institute of Allergy and Infectious Diseases trial has enrolled patients in a randomized, double-blind, placebo-controlled Phase 3 trial evaluating 1,063 hospitalized patients with COVID-19 at 68 sites worldwide, including at three sites in Singapore and South Korea, according to the NIAID. However, the majority of the study locations are in the U.S. The study began Feb. 21 and is expected to conclude April 1, 2023. Preliminary results from this trial were used to inform the EUA.
+
+2. A Gilead-sponsored randomized, open-label Phase 3 trial is testing remdesivir in 1,600 patients with moderate COVID-19. It previously said it would enroll 600 participants. The trial started enrolling patients in March, with results to come in May. The clinical trial listing states the study is taking place in 13 countries, including Hong Kong, Singapore, South Korea and the U.S.
+
+3. A Gilead-sponsored randomized, open-label Phase 3 trial is evaluating remdesivir in 6,000 patients with severe COVID-19. The drugmaker previously said it planned to include 400 participants in the trial. The trial started enrolling patients in March, and early results based on 397 patients included in the initial phase of the study were used to inform the EUA. The clinical trial listing states the study is taking place in Hong Kong, Singapore, South Korea and the U.S.
+
+Results: The EUA followed two weeks of clinical trial data leaks that sent the company’s stock soaring or tumbling depending on the news. Stat News reported April 16 that University of Chicago Medicine researchers saw “rapid recoveries” in 125 COVID-19 patients remdesivir, though that data isn’t part of the full clinical trial data set. A week later, Stat and the Financial Times reported that a draft of the clinical trial results for remdesivir showed that the drug didn’t speed up improvement in patients in China or prevent them from dying. The summary was reportedly published by accident on the World Health Organization’s (WHO) website and then taken down.
+
+What’s next: The drugmaker plans to donate 1.5 million vials, about 140,000 10-day courses of treatment, of the drug through June. It also said May 5 that it plans to contract with pharmaceutical manufacturers abroad to ensure access to remdesivir outside of the U.S. The Institute for Clinical and Economic Review, a group that assesses the cost-effectiveness of medicines, said Gilead would need to charge $10 for a course of treatment to recoup its costs, but could be priced as high as $4,500 per course of treatment to be considered effective.
+
+Year-to-date stock performance: Shares of Gilead are up 21.2%.
+
+GlaxoSmithKline
+
+Type: Vaccine, treatment
+
+Name: AS03 adjuvant system for vaccines
+
+Background: GlaxoSmithKline GSK, +0.36% is another leading vaccine maker, having brought to market vaccines for human papillomavirus (HPV) and the seasonal flu, among others. It has announced a string of wide-reaching collaborations during the pandemic, most notably a deal with Sanofi to jointly develop a vaccine candidate. (Sanofi is also working with BARDA on a separate vaccine program.) As part of this agreement, Sanofi’s S-protein COVID-19 antigen will be paired with GlaxoSmithKline’s adjuvant technology; the companies expect to launch clinical trials in the second half of the year. Terms of the agreement are expected to be completed this month.
+
+Also in the works: GSK said Feb. 3 that the CEPI-funded University of Queensland will have access to its vaccine adjuvant platform technology, which is believed to both strengthen the response of a vaccine and limit the amount of vaccine needed per dose. A separate deal with Clover Biopharmaceuticals Inc., a Chinese biotechnology company, which was announced in February, is also using its adjuvant technology in combination with its vaccine candidate, COVID-19 S-Trimer, in preclinical studies. Dr. Thomas Breuer, chief medical officer for GSK Vaccines, is leading work on vaccines and the adjuvant platform.
+
+Separately, GSK and Vir Biotechnology Inc. announced a deal in early April, in which GSK made a $250 million equity investment in Vir as the two companies work together to develop two of Vir’s experimental therapies, VIR-7831 and VIR-7832, expected to go to Phase 2 clinical trials sometime in 2020.
+
+Year-to-date stock performance: Shares of GSK have tumbled 11.3%.
+
+Heat Biologics
+
+Type: Vaccine
+
+Stage: Preclinical
+
+Background: Heat Biologics Inc. HTBX, -4.69% has previously announced that it is developing a vaccine for the novel coronavirus with the University of Miami Miller School of Medicine. It disclosed March 17 in a financial filing that its COVID-19 vaccine candidate had been added to the World Health Organization’s “draft landscape” of 41 candidate vaccines. “We are finalizing completion of the vaccine and plan to commence preclinical testing this quarter,” Heat CEO Jeff Wolf said in an April 29 statement.
+
+The company also recently joined the Alliance for Biosecurity, which may help it “secure government funding to support its rapid development, production, and distribution” of its COVID-19 vaccine, according to Maxim Group analysts.
+
+Year-to-date stock performance: Heat’s stock has gained 14.8%.
+
+Inovio Pharmaceuticals
+
+Type: DNA-based vaccine
+
+Timeline: Phase 1 clinical trial
+
+Name: INO-4800
+
+Background: Another CEPI grantee (with roughly $17 million in total awards), Inovio Pharmaceuticals Inc. INO, -0.48% is testing its vaccine candidate in a Phase 1 clinical trial at two sites in the U.S.: the Perelman School of Medicine at the University of Pennsylvania and the Center for Pharmaceutical Research in Kansas City, Mo.
+
+Inovio develops immunotherapies and vaccines but hasn’t yet had a product approved for treatment. For INO-4800, preclinical testing was performed between Jan. 23 and Feb. 29. The company began clinical trials in the U.S. with up to 40 participants in April, dosing the first patient on April 6. Inovio said it expects to have the first results from the trial in the fall and to have 1 million doses of the vaccine ready for additional clinical trials or emergency use by the end of the year.
+
+Inovio on March 12 announced a $5 million grant from the Bill & Melinda Gates Foundation to test a delivery device for its vaccine candidate. In late March, Inovio said that Ology Bioservices Inc., a contract development and manufacturing organization, had received a $11.9 million contract from the Department of Defense to support future potential manufacturing of Inovio’s vaccine candidate for military personnel.
+
+Year-to-date stock performance: Shares of Inovio have soared 209.5%.
+
+Johnson & Johnson
+
+Type: Vaccine
+
+Stage: Preclinical
+
+Background: Johnson & Johnson JNJ, +0.29% announced Feb. 11 that it was working with BARDA to test its vaccine candidate, with each party providing $1 billion for research and development and the public-health organization funding the Phase 1 trials.
+
+“We are also in discussions with other partners, that if we have a vaccine candidate with potential, we aim to make it accessible to China and other parts of the world,” Dr. Paul Stoffels, J&J’s chief scientific officer, said in a statement.
+
+On March 13, J&J said it started preclinical testing on multiple candidates in collaboration with Beth Israel Deaconess Medical Center in Boston, and by March 30 it had identified a lead vaccine candidate. The company said it is scaling up its vaccine manufacturing capabilities in the U.S. and abroad as part of its commitment to bring “an affordable vaccine to the public on a not-for-profit basis for emergency pandemic use.”
+
+The company aims to put its lead vaccine candidate in a Phase 1 clinical trial in September, the company said March 30, and it may have investigational doses of the vaccine available by early 2021 for emergency use.
+
+Also in the works: J&J said in February that it had partnered with BARDA on a project that aims to screen existing antiviral medications, including experimental or approved therapies, that may be effective against COVID-19. Similar to GSK, J&J’s AdVac and PER. C6 technologies are used to improve the development process for a vaccine and were also used to develop J&J’s experimental Ebola vaccine.
+
+Year-to-date stock performance: Shares of J&J are up 2.6%.
+
+Moderna
+
+Type: RNA-based vaccine
+
+Stage: Phase 1
+
+Name: mRNA-1273
+
+Background: Moderna Inc. MRNA, +2.15% received funding from CEPI in January to develop an mRNA vaccine against COVID-19. On Feb. 24, it said it had shipped the first batch of mRNA-1273 to the NIAID for a Phase 1 clinical trial in the U.S.
+
+Clinical trials: The first patient in the Phase 1 trial received a dose of the vaccine candidate on March 16. The study is expected to enroll 45 healthy adult patients, between the ages of 18 and 55 years old, in an open-label Phase I clinical trial to test mRNA-1273 as a vaccine for COVID-19. Participants will be followed for one year. The trial, which is expected to conclude June 1, 2021, will be conducted at Kaiser Permanente Washington Health Research Institute in Seattle. CEPI funded the manufacturing of the investigational vaccine for the first phase of the trial, which is evaluating different doses for safety and immune response. A Phase 2 trial is expected to begin in the second quarter.
+
+In mid-April, Moderna said it will receive up to $483 million in BARDA funding to support its vaccine development program. “We believe that we would be able to supply millions of doses a month in 2020 and with further investments, tens of millions a month in 2021, if the vaccine candidate is successful in the clinic,” Moderna CEO Stéphane Bancel said at the time.
+
+Year-to-date stock performance: Moderna’s shares have gained 146.8%.
+
+Novavax
+
+Type: Vaccine
+
+Stage: Phase 1 clinical trial
+
+Name: NVX-CoV2373
+
+Background: Novavax Inc. NVAX, +9.24% , a preclinical biotechnology company, announced Feb. 26 that it had several vaccine candidates in preclinical animal studies. By April 8, the company said it had identified a COVID-19 vaccine candidate, and it plans to initiate a Phase I clinical study in mid-May. The first phase of the placebo-controlled study will enroll 130 healthy adults; the first round of data from that study is expected in July.
+
+In March the company said it had received $4 million from CEPI to develop a COVID-19 vaccine and that Emergent BioSolutions Inc. would support contract development and manufacturing for the experimental vaccine.
+
+Year-to-date stock performance: Its stock has gained 334.4%.
+
+Regeneron Pharmaceuticals
+
+Type: Prevention and treatment
+
+Stage: Preclinical
+
+Name: REGN-COV2
+
+Background: On Feb. 4, Regeneron Pharmaceuticals Inc. REGN, +7.79% announced it is working on developing monoclonal antibodies as treatments for COVID-19, and during a May 5 earnings call it disclosed the name of the treatment, REGN-COV2. The company’s VelocImmune platform uses genetically engineered mice with humanized immune systems in preclinical testing. “We are aiming to have hundreds of thousands of prophylactic doses ready for human testing by end of August,” a spokesperson said. Christos Kyratsous, vice president of infectious disease R&D and viral vector technology, is running the project.
+
+Clinical trials are expected to begin in June.
+
+Year-to-date stock performance: Regeneron’s shares are up 37.0%.
+
+Regeneron Pharmaceuticals and Sanofi
+
+Type: Treatment
+
+Stage: Phase 2/3 clinical trial
+
+Name: Kevzara
+
+Background: The FDA approved Kevzara, a treatment developed by Regeneron and Sanofi SNY, +1.73% , as a therapy for rheumatoid arthritis in 2017 as part of a recently concluded longstanding R&D partnership between the two companies.
+
+Clinical trials: Regeneron and Sanofi said March 16 they had started a Phase 2/3 trial testing Kevzara as a treatment for patients who have been hospitalized with severe COVID-19 infections. This randomized, double-blind, placebo-controlled trial is expected to enroll up to 400 patients and will take place at 16 sites in the U.S. New York’s Mount Sinai Hospital, the first site, has started enrolling patients, according to a company spokesperson.
+
+The aim is to evaluate if the drug lessens patient fevers and their need for supplemental oxygen. The Phase 3 trial will evaluate if Kevzara prevents deaths and reduces need for mechanical ventilation, supplemental oxygen, or hospitalization. Early results from a small 21-person trial in China that haven't been peer-reviewed found that some patients who were taking a similar drug, Roche Holdings’ Actemra, reported reductions in fever, and 7% of them had a reduced need for supplemental oxygen within days of starting treatment.
+
+Results: On March 30, the companies said the first patient in their global trial had been treated. However, in late April, the companies said they would limit the Phase 3 trial to only include patients defined as critical, which includes those requiring mechanical ventilation, high-flow oxygenation, or being cared for in an intensive care unit, given that sicker patients seemed to show some improvement while taking the drug. The next phase of the study will also only include a higher dose of the drug (400 milligrams) and the placebo, and not the lower dose of 200 milligrams used in the mid-stage trial.
+
+Roche
+
+Type: Treatment
+
+Stage: Phase 3 clinical trial
+
+Name: Actemra
+
+Background: Roche Holdings AG’s ROG, +1.73% Actemra was first approved in 2010 as a rheumatoid arthritis drug. The Swiss drugmaker has initiated a Phase 3 clinical trial evaluating Actemra as a treatment for patients with COVID-19 who have been hospitalized with severe pneumonia. Roche began enrolling around 330 patients in early April, at 55 sites in the U.S. and elsewhere in the world. The company plans to examine patient mortality and need for mechanical ventilation or an intensive care unit stay among other primary and secondary endpoints. On April 3, the first patients in the trial, which is in partnership with BARDA, were treated, a Roche spokesperson said by email. Results are expected in early summer, the company said April 22.
+
+Also in the works: Roche has developed a diagnostic and an antibody test for COVID-19. Both have received EUAs from the FDA.
+
+Year-to-date stock performance: Roche’s stock is down 1.3%.
+
+­
+
+Sanofi
+
+Type: Vaccines
+
+Stage: Preclinical
+
+Name: No name yet
+
+Background: Starting Feb. 18, Sanofi is working with BARDA to test a preclinical vaccine candidate for severe acute respiratory syndrome (SARS) for COVID-19 using its recombinant DNA platform. A spokesperson said Sanofi aims to put a vaccine into a Phase 1 clinical trial between March 2021 and August 2021. It announced a separate program with Translate Bio Inc. TBIO, -5.14% on March 27 to develop a mRNA vaccine.
+
+The French drugmaker has a long history of producing vaccines in its Sanofi Pasteur business and acquired this candidate through its 2017 acquisition of Protein Sciences for $750 million. It previously worked with the organization on flu vaccines. Scientists in Meriden, Ct., are working on the vaccine; David Loew, Sanofi Pasteur’s EVP, is leading the project.
+
+Year-to-date stock performance: Shares of Sanofi are down 0.7%.
+
+Takeda Pharmaceutical
+
+Type: Antibody treatment
+
+Stage: Preclinical
+
+Name: TAK-888
+
+Background: Japanese drugmaker Takeda Pharmaceutical Co. Ltd. TAK, -0.85% 4502, +0.80% said March 4 that it plans to test hyperimmune globulins for people who are at high risk for infection.
+
+As part of its research, which will be performed in Georgia, Takeda said it would need access to plasma from people who have recovered from COVID-19 or those who have received a vaccine if one is developed. Dr. Rajeev Venkayya, president of Takeda’s vaccine business, is the co-lead of the company’s COVID-19 response team. In April, Takeda and CSL Behring CSLLY, -0.22% said they formed an alliance to develop a plasma-derived treatment for COVID19. Biotest AG and Octapharma also joined the alliance.
+
+Also in the works: Like J&J, Takeda plans to examine whether other therapies, both experimental or with regulatory approval, may have treatment potential.
+
+Year-to-date stock performance: Shares of Takeda are down 10.0%.
+
+Vaxart
+
+Type: Vaccine
+
+Stage: Preclinical
+
+Background: Vaxart Inc. VXRT, +1.16% was one of the first companies to announce plans to develop a vaccine when it did so Jan. 31. In March, the clinical-stage company announced that Emergent BioSolutions will help develop and manufacture its oral vaccine candidate.
+
+“We believe an oral vaccine administered using a room temperature-stable tablet may offer enormous logistical advantages in the rollout of a large vaccination campaign,” Vaxart CEO Wouter Latour said in a March 18 news release.
+
+The company plans to start a Phase 1 clinical trial in the U.S. in the second half of 2020, a company executive said. As of March 31, it has five vaccine candidates for preclinical testing.
+
+Year-to-date stock performance: Vaxart’s stock is up 621.8%.
+
+Vir Biotechnology
+
+Type: Treatments
+
+Stage: Preclinical
+
+Name: VIR-2703 (also called ALN-COV), VIR-7831 and VIR-7832
+
+Background: Vir Biotechnology Inc. VIR, +11.09% has two preclinical treatment candidates, VIR-7831 and VIR-7832, and on May 4 said it had identified a treatment candidate as part of a partnership with Alnylam Pharmaceuticals Inc. ALNY, +6.14% . The companies said they aim to file for an investigational new drug application by the end of 2020, before the proposed inhaled treatment or prevention therapy would enter trials.
+
+Also in the works: In many ways, Vir has been one of the most prolific partners in the biotech field during the pandemic. The preclinical company is run by George Scangos, the former CEO of Biogen Inc. BIIB, +4.11% . Starting Feb. 25, it said it was collaborating with Shanghai-based WuXi Biologics to test monoclonal antibodies as a treatment for COVID-19. If the treatment is approved, WuXi will commercialize it in China, while Vir will have marketing rights for the rest of the world. It later announced a partnership with Biogen to help develop and manufacture its monoclonal antibodies as a potential treatment for COVID-19. Biogen will handle clinical manufacturing of Vir’s antibodies, the company said. Vir later announced a research agreement with Generation Bio as part of its COVID-19 antibody development program. Most recently, it announced the equity investment from GSK.
+
+Year-to-date stock performance: Vir shares have jumped 138.2%.

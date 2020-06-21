@@ -1,0 +1,21 @@
+“Combining a test that is designed to detect current infection with a test that detects infection at some point in the past is just really confusing and muddies the water,” Hanage told us.
+
+Read: Why the coronavirus is so confusing
+
+The CDC stopped publishing anything resembling a complete database of daily test results on February 29. When it resumed publishing test data last week, a page of its website explaining its new COVID Data Tracker said that only viral tests were included in its figures. “These data represent only viral tests. Antibody tests are not currently captured in these data,” the page said as recently as May 18.
+
+Yesterday, that language was changed. All reference to disaggregating the two different types of tests disappeared. “These data are compiled from a number of sources,” the new version read. The text strongly implied that both types of tests were included in the count, but did not explicitly say so.
+
+The CDC’s data have also become more favorable over the past several days. On Monday, a page on the agency’s website reported that 10.2 million viral tests had been conducted nationwide since the pandemic began, with 15 percent of them—or about 1.5 million—coming back positive. But yesterday, after the CDC changed its terms, it said on the same page that 10.8 million tests of any type had been conducted nationwide. Yet its positive rate had dropped by a percent. On the same day it expanded its terms, the CDC added 630,205 new tests, but it added only 52,429 positive results.
+
+This is what concerns Jha. Because antibody tests are meant to be used on the general population, not just symptomatic people, they will, in most cases, have a lower percent-positive rate than viral tests. So blending viral and antibody tests “will drive down your positive rate in a very dramatic way,” he said.
+
+The absence of clear national guidelines has led to widespread confusion about how testing data should be reported. Pennsylvania reports negative viral and antibody tests in the same metric, a state spokesperson confirmed to us on Wednesday. The state has one of the country’s worst outbreaks, with more than 67,000 positive cases. But it has also slowly improved its testing performance, testing about 8,000 people in a day. Yet right now it is impossible to know how to interpret any of its accumulated results.
+
+Read: Should you get an antibody test?
+
+Texas, where the rate of new COVID-19 infections has stubbornly refused to fall, is one of the most worrying states (along with Georgia). The Texas Observer first reported last week that the state was lumping its viral and antibody results together. On Tuesday, Governor Greg Abbott denied that the state was blending the results, but the Dallas Observer reports that it is still doing so.
+
+While the number of tests per day has increased in Texas, climbing to more than 20,000, the combined results mean that the testing data are essentially uninterpretable. It is impossible to know the true percentage of positive viral tests in Texas. It is impossible to know how many of the 718,000 negative results were not meant to diagnose a sick person. The state did not return a request for comment, nor has it produced data describing its antibody or viral results separately. (Some states, following guidelines from the Council of State and Territorial Epidemiologists, report antibody-test positives as “probable” COVID-19 cases without including them in their confirmed totals.)
+
+Georgia is in a similar situation. It has also seen its COVID-19 infections plateau amid a surge in testing. Like Texas, it reported more than 20,000 new results on Wednesday, the majority of them negative. But because, according to The Macon Telegraph, it is also blending its viral and antibody results together, its true percent-positive rate is impossible to know. (The governor’s office did not return a request for comment.)

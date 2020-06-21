@@ -1,0 +1,39 @@
+While there is no evidence hackers intercepted or tampered with the results, a security firm consulted by ProPublica found that the app lacks key safeguards.
+
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+A glitch in the smartphone app used to count and report votes from individual precincts continues to delay results from Monday’s Iowa caucuses. But a closer look shows that the app had a potentially graver problem that apparently did not come into play: its vulnerability to hacking.
+
+The IowaReporterApp was so insecure that vote totals, passwords and other sensitive information could have been intercepted or even changed, according to officials at Massachusetts-based Veracode, a security firm that reviewed the software at ProPublica’s request. Because of a lack of safeguards, transmissions to and from the phone were left largely unprotected.
+
+Chris Wysopal, Veracode’s chief technology officer, said the problems were elementary. He called it a “poor decision” to release the software without first fixing them. “It is important for all mobile apps that deal with sensitive data to have adequate security testing, and have any vulnerabilities fixed before being released for use,” he said.
+
+Get Our Top Investigations Subscribe to the Big Story newsletter.
+
+The weaknesses reinforce concerns about political parties managing elections, especially in an era of heightened sensitivity to digital security issues — and about the Iowa Democratic Party’s actions in particular. Party officials, who touted the new technology as a fast way to tally votes, may have given short shrift to assuring not only the app’s effectiveness but also its security, experts said.
+
+There’s no evidence that hackers intercepted or tampered with caucus results. An attack would have required some degree of sophistication, but it would have been much easier to pull off had a precinct worker used an open Wi-Fi hotspot to report votes instead of a cell data plan.
+
+Still, the turmoil over counting the votes in Iowa has raised fresh doubts about the election’s integrity. “It absolutely hurts confidence overall because you have folks looking at this and saying: ‘Did my vote matter? Did it count?’” said Amber McReynolds, the former elections director in Denver and now CEO of the National Vote at Home Institute. “And they’ll ask those questions again in November.”
+
+The Iowa Democratic Party referred questions about testing and vulnerabilities to the app’s maker, Shadow Inc. Mandy McClure, the party’s spokeswoman, said all “electoral data and results have been exported from the application and are in the process of being verified through the paper record.”
+
+Gerard Niemira, Shadow’s CEO, said in a statement to ProPublica that “we are committed to the security of our products, including the app used during the Iowa caucuses. While there were reporting delays, what was most important is that the data was accurate and the caucus reporting process remained secure throughout.
+
+“Our app underwent multiple, rigorous tests by a third party, but we learned today that a researcher found a vulnerability in our app. As with all software, sometimes vulnerabilities are discovered after they are released.” He added that no “hack or intrusion” occurred during the caucuses, and that “the integrity of the vote in Iowa was not compromised in any way.” The app is not currently in use, he said.
+
+The app was plagued with data-reporting problems and curious error messages, according to screenshots published by Motherboard, which was first able to download and install a copy of the app this week. The app’s failure prevented some precinct workers from transmitting local election results to the state’s Democratic Party. Because there wasn’t enough backup staffing, officials encountered long delays to phone in tallies. Some still have not been posted.
+
+The U.S. Department of Homeland Security offered to test the app for the Iowa Democratic Party, but the party never took the government up on it, according to a U.S. official familiar with the matter who was not authorized to speak publicly. The official said the party did participate in a dry run, known as a tabletop exercise. The party did not respond to requests for comment on this issue.
+
+Political parties have less training and experience in administering the vote than do state and county governments, which will manage most of the upcoming primaries along with the general election. Government agencies must adhere to state and federal information security standards, which do not necessarily apply to parties. The Nevada State Democratic Party, which paid Shadow Inc. $58,000 in August for “technology services,” said it will not employ the app during its Feb. 22 caucuses.
+
+ProPublica obtained a version of the app from an Iowa precinct chair and sent it to Veracode for review this week. ProPublica is not publishing the specific problems with the app to avoid giving a detailed blueprint to hackers, should a similar version of the software be used again.
+
+“This is an extremely serious vulnerability,” said J. Alex Halderman, a University of Michigan computer science professor and chief scientist at the security firm Censys. “An adversary could exploit it to intercept and change caucus results as they were being submitted through the app. Such a change would probably be caught eventually, if officials carefully compared paper return sheets from each location to the computerized results, but it still would have cast doubt on the whole process in peoples’ minds.”
+
+In 2015, Halderman and another researcher found a similar security issue in one of Australia’s online voting platforms. That problem, he said, would have allowed an attacker to change votes during transmission.
+
+“With all the attention that’s supposed to be going into election security, it’s shocking that code with this problem made it into production,” Halderman said. “It’s total amateur hour.”
+
+Read More Iowa’s Lesson: Political Parties Are Not as Good as Government Officials at Counting Votes Most primaries are run by state and local governments. But caucuses are different — and Iowa shows how that can be a problem.

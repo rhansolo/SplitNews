@@ -1,0 +1,57 @@
+2020 Political Campaigns Are Trying To Avoid A 2016-Style Hack
+
+Enlarge this image toggle caption Scott Olson/Getty Images Scott Olson/Getty Images
+
+Paranoia is the best strategy for political campaigns when it comes to digital security. After all, who can forget the massive hack of the Hillary Clinton campaign's emails during the last presidential election and its embarrassing consequences?
+
+The reelection campaign of Maine Sen. Angus King took this to heart. Lisa Kaplan, King's digital director, regularly sent out fake emails to her staff to "see who would click on them." Those emails during the 2018 campaign looked real — but they were not.
+
+The goal was to keep staff members on their toes so they wouldn't fall for emails from real hackers intent on damaging the campaign.
+
+"We would try to get them to do things like change their password for their email or change their password for the database we were using," Kaplan said.
+
+It's this kind of attention to detail and seriousness about security that political veterans and party officials are urging on candidates and their staffs. Starting next week, the first votes in the 2020 Democratic presidential primaries will be cast. Even more campaigns — from congressional races to local contests for mayor and city council — are gearing up for November's election.
+
+Communication is the lifeblood of any political campaign, but it can also be the thing that sinks it if messages get hacked or manipulated. Email and social media accounts can be taken over. Sensitive or embarrassing documents can be leaked, and false information can really damage a campaign.
+
+Campaigns are especially vulnerable because they operate like startups: They're created from the ground up and add staff quickly. People move in and out of jobs quickly and bring in new phones and laptops.
+
+"Campaigns are effectively startups, but their risk profile is more like established large businesses," said Mark Risher, who works on account security at Google.
+
+Additional risk comes from staffers using personal cellphones, computers and email accounts to work on sensitive material.
+
+That rapid, often chaotic growth creates openings for hackers.
+
+"You have almost every worst-case scenario," said Mary Dickinson, a co-founder of U.S. CyberDome, a nonprofit offering free cybersecurity services to campaigns.
+
+"You can't really do effective training because you've got people coming on board all the time," she said. And since it's normal for people to bring their own devices into the campaigns, "you've got used devices that are not scrubbed being brought into the food chain," Dickinson said.
+
+The most infamous hack of a campaign happened in 2016, when Russians broke into the Gmail account of Hillary Clinton's campaign chair, John Podesta. Some of the emails were embarrassing, such as Clinton's paid speeches to Wall Street banks.
+
+The Russians got into Podesta's email account through a phishing attack — where hackers send emails disguised to look like they're from a familiar sender or from a known entity like a bank. They try to trick people into handing over passwords.
+
+Phishing is "very, very cheap to perpetrate [and] very, very easy to scale," Risher said. "The attackers get to keep trying again and again until they succeed, and the target only has to make a mistake once."
+
+Nearly four years after the Clinton campaign email hack, phishing attacks haven't changed much, Risher said.
+
+"The attackers are still mostly using the same techniques that were effective in 2016, 2017, 2018. They haven't evolved because they haven't needed to," he said.
+
+Despite ample evidence that political figures are targets, they remain vulnerable. A recent national survey by Google and the Harris Poll asked politicians about their cybersecurity risks. Forty percent said they've had an account compromised in a phishing attack. And 60% said they haven't significantly updated the security of their accounts since 2016.
+
+So what should campaigns do to get serious about security?
+
+At the top of the list is taking basic precautions to protect email and other accounts.
+
+That includes multifactor authentication, which requires people to enter not just a password but also a code sent to their smartphone or from a special hardware key. Experts also recommend using password managers and communicating on encrypted messaging apps, like Signal and Wickr.
+
+2020 Election: Secure Your Vote How To Spot 2020 Election Disinformation How To Spot 2020 Election Disinformation Listen · 7:02 7:02
+
+It is not just candidates and staff who should be tightening up their online security but also the people operating in the periphery who might be helping out the campaign.
+
+"You have a spouse that could be vulnerable; you have children; you have the candidate's best friend who's also the finance chair," said Michael Kaiser, president of Defending Digital Campaigns, another nonprofit that connects campaigns with free and discounted cybersecurity services and training.
+
+If any of the campaign helpers have access to private information and they get hacked, their accounts can be used to target the candidate.
+
+Experts say the focus in 2020 is not just on reducing risk but on planning how to respond if a cyberattack happens.
+
+Otherwise, candidates will be battling adversaries not only at the ballot box but in their inboxes too.

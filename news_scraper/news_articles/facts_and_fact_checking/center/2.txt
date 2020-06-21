@@ -1,0 +1,181 @@
+In the days leading up to President Donald Trump’s first campaign rally since the World Health Organization declared a pandemic, Trump and his supporters are making false and misleading claims about COVID-19 cases, hospitalizations and testing:
+
+In a tweet, Trump claimed that the U.S. testing program “is so much bigger and more advanced than any other country (we have done a great job on this!) that it shows more cases.” Although the U.S. has completed the highest number of coronavirus tests, it still lags behind other nations in tests per capita, and a higher proportion of tests have also come back positive.
+
+National Economic Council Director Larry Kudlow inaccurately said in a television interview that “hospitalizations may be going up, but that’s because elective procedures are now permitted.” COVID-19 hospitalization figures, which are increasing in some locales, are limited to those with COVID-19 diagnoses.
+
+Vice President Mike Pence, Trump and Kudlow all suggested that the uptick in COVID-19 cases seen in some states is driven by increases in testing. Testing accounts for some of the rise, but doesn’t explain all of it.
+
+Oklahoma, the site of Trump’s rally, has seen an increase in the number of people who are “currently hospitalized” with confirmed cases of COVID-19, state data shows. But GOP Sen. James Lankford of Oklahoma falsely said of his state: “We continue to see hospitalizations decline.”
+
+Similarly, Pence wrongly said that COVID-19 cases in Oklahoma have “declined precipitously.” The state Health Department reports that “Oklahoma has begun experiencing over the past two weeks an increase in the number of cases,” reaching a new single-day high on June 16.
+
+Trump is set to speak at a rally in Tulsa, Oklahoma, on June 20.
+
+Trump’s Testing Tweet
+
+In a June 15 tweet, Trump once again bragged about America’s ability to test for the coronavirus, leaving the misleading impression that better testing is responsible for the country’s large number of cases.
+
+“Our testing is so much bigger and more advanced than any other country (we have done a great job on this!) that it shows more cases,” he said. “Without testing, or weak testing, we would be showing almost no cases.”
+
+Later in the day, Trump repeated the sentiment, saying in a roundtable at the White House, “If you don’t test, you don’t have any cases. If we stopped testing right now, we’d have very few cases, if any.”
+
+To some extent he’s right — if there were less testing, then the reported number of cases would be lower, although of course those infections would still exist.
+
+But experts say Trump is wrong to claim that the U.S. is more advanced on testing “than any other country.”
+
+“The US may have done the most tests, but not the highest # of tests per capita. And our positivity is higher than many other countries,” Jennifer Nuzzo, a senior scholar at the Johns Hopkins Center for Health Security, said on Twitter in response to the president’s tweet.
+
+“In summary: we still haven’t done enough testing for the size of our epidemic, which is largest in world,” she added.
+
+As we have explained before, the total number of tests completed is not necessarily reflective of how well a country is meeting the challenge of diagnosing its COVID-19 patients. Typically, a superior indicator is tests per capita, which takes into account a country’s population. And even better is the test positivity rate, or the proportion of tests that are positive, which can show how much testing has been done relative to the size of an outbreak.
+
+As of June 14 — the latest data available when Trump made his claim — the U.S. had completed just over 23.5 million tests, according to the COVID Tracking Project.
+
+That is the largest number of total tests performed by a single country, per statistics collected by Our World in Data. But it is not the top per-capita rate. On that metric, 16 other nations best the U.S., including Iceland, Denmark, Russia, Italy and Australia.
+
+And with nearly 9% of all tests having come back positive, the U.S. is not even close to being in the vanguard for low test positivity: The U.S. ranks behind at least 50 other nations.
+
+As we’ve mentioned before, there are limitations with the figures compiled by Our World in Data, since different countries report their testing statistics differently. So the numbers may not be directly comparable, but they are widely viewed as the best available international data on the subject.
+
+A Johns Hopkins website that uses slightly different calculations based on daily averages — which Nuzzo told us was done because different countries are in different stages of their pandemics — also shows the U.S. lagging behind numerous other countries on per-capita tests, test positivity or both.
+
+The website notes that countries’ testing programs “should be scaled to the size of their epidemic, not the size of the population” and says the positivity rate “is the most reliable way to determine if a government is testing enough.”
+
+The World Health Organization suggested on May 12 that nations achieve a 5% or lower test positivity rate for at least two weeks before considering loosening public health measures.
+
+The cumulative test positivity rate in the U.S. has yet to go that low, although the U.S. is close to reaching that two-week benchmark, as data from the COVID Tracking Project demonstrates.
+
+The national number, however, still obscures vast differences in locations across the country. A Johns Hopkins data visualization shows that as of June 16, 34 states plus Washington, D.C., have had 5% or fewer tests come back positive, as averaged over the past seven days, while 16 states and Puerto Rico are still above that level.
+
+Kudlow’s False Hospitalization Claim
+
+In an interview on CNN about COVID-19, Kudlow inaccurately attributed rising hospitalization numbers in some parts of the country to elective procedures. Those figures are specific to people diagnosed with COVID-19, and therefore are unaffected by elective procedures.
+
+Kudlow also suggested that increased testing was responsible for the uptick in cases. But more testing only partially explains the trends.
+
+Kudlow made his remarks in a June 14 interview on CNN’s “State of the Union” with Jake Tapper.
+
+He first acknowledged that some places in the U.S. have recently seen a rise in the number of COVID-19 infections.
+
+“We have had an increase in cases in some states. I don’t want to hide that. That’s a fact,” he said. “I think Texas, North Carolina, and South Carolina and Florida. There have been some small metropolitan areas that have had an increase.”
+
+But then he pointed out that testing has increased, and said that hospitalizations were up because of elective procedures now being allowed.
+
+“Now, remember, Jake, we are now testing at about a hundred times the rate we were back in March, when the pandemic first exploded,” Kudlow said. “[H]ospitalizations may be going up,” he added, “but that’s because elective procedures are now permitted. And maybe, most importantly, Jake, although the case rate has increased a bit, we’re not talking about a second round here.”
+
+But hospitalizations are not up in some areas because of elective procedures. “States should be tracking COVID-related hospitalizations,” said Johns Hopkins’ Nuzzo in an email to FactCheck.org, “not all hospitalizations.”
+
+And indeed, they are, although not all states report hospitalizations or document them over time. Texas posted a record-high of 2,287 “COVID-19 hospitalizations” on the day Kudlow made his remarks — a tally that has since climbed to 2,518, according to the state dashboard.
+
+The number is the sum of all “lab-confirmed” COVID-19 patients in hospitals across the state’s trauma service areas, which has risen nearly 40% since Memorial Day.
+
+State data in Arkansas also shows a surge since the end of May, with 214 “currently hospitalized COVID-19 patients” as of June 16 — approximately double the number two weeks ago.
+
+North Carolina, too, has seen a steady rise in the number of COVID-19 hospitalizations for the past month. The state notes that the figures reflect the “current hospitalizations due to COVID-19,” which are self-reported by hospitals.
+
+There is another hospital metric — bed use rates, or hospital capacity — that could change as hospitals reopen and begin to do more surgeries. As Nuzzo said, “Bed availability is another element to track and that would be influenced by the resumption of elective procedures.”
+
+But even if that is what Kudlow meant — and we asked the White House for clarification, but didn’t hear back — it isn’t what he said.
+
+Upticks in COVID-19 Cases Not Just Due to More Testing
+
+Kudlow’s more fundamental claim, which Trump echoed and Pence also suggested, is that the increases some states are now seeing in their COVID-19 cases are because of expanded testing.
+
+The New York Times reported on June 15 that Pence told governors in a private call to “make sure and continue to explain to your citizens the magnitude of increase in testing,” and that in “most of the cases where we are seeing some marginal rise in number, that’s more a result of the extraordinary work you’re doing.”
+
+In the call, Pence also repeated Kudlow’s false claim that “because people are going back to hospitals and elective surgery and getting ordinary care, hospitalization rates may be going up.”
+
+At a roundtable the same day, the vice president said, “We really believe that the vast majority of new cases is a reflection, as you said, of a dramatic increase in testing.”
+
+He then gave the example of California, which he said had flat hospitalization and test positivity numbers. “And in those areas where — just a few states — where we’re seeing positive rates go up, we’ll be talking to governors today, in states like Georgia and Arizona and Texas, about deploying additional CDC personnel to help them identify where those outbreaks are occurring and how we can mitigate those efforts.”
+
+“With more than 22 million tests having been performed across the country, we — we continue to see overall that what’s called a positive test rate remains very stable in the country,” he continued. “As we said earlier, Mr. President, there is a few states where the positivity rate is climbing, and we’re working very closely with those governors to identify that.”
+
+Pence is right that at least for now, the nation’s test positivity rate hasn’t gone up, and that California’s increased COVID-19 caseload is likely explained by bolstered testing.
+
+But that’s not true everywhere — and it’s not just a “few” states that have reported growth in their test positivity rates.
+
+“It is true that the number of cases reflects not just how many cases there are in the community, but also testing capacity,” Caroline Buckee, an epidemiologist at Harvard T.H. Chan School of Public Health, told us during a press call. But, she added, “I think that the signals that we’re seeing from across the country are real, and they correspond to what we knew would happen when society started to open up, which is that we get more mixing, and we’ll start to see the emergence of the virus spreading again.”
+
+Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, told the Wall Street Journal in a June 16 interview that while more testing leads to more cases, higher positivity rates in many states “cannot be explained by increased testing.”
+
+“Testing positivity is going UP in nearly half of US states, which is a sign that increasing case numbers is not just due to more testing,” noted Nuzzo in a tweet.
+
+Test positivity is an important metric because it should stay steady or decrease if increased testing is behind a higher number of identified cases. An increasing percentage of positive tests, as long as testing hasn’t dropped off, indicates a surge in infections.
+
+According to a Johns Hopkins data visualization that tracks the weekly change in states’ test positivity numbers, many of the states with increases in the percentage of positive tests are located in the South.
+
+Caitlin Rivers, an assistant professor at Johns Hopkins Bloomberg School of Public Health, noted that testing could explain some — but not all — of the upticks.
+
+“Are increased case counts partially attributable to increased testing?” she asked in a tweet. “Probably in part. But in places where hospitalizations and the % of tests that come back positive is high or rising, those are sure signs of trouble.”
+
+In a June 11 call with reporters, Dr. Tom Inglesby, the director of the Center for Health Security at Johns Hopkins, also emphasized looking at the hospitalization figures to understand what is happening — a point he later iterated in a Twitter thread.
+
+“In Texas, if you look at the numbers in detail, you can see that hospitalization rate is going up. Similarly, in Arizona, ICU beds, hospitalization rates for COVID patients are going up. So those are real changes,” he said. “There are more sick people than there were a month ago, substantially more.”
+
+He said California, though, did not have the same concerning trends. “In California, even though the number of daily cases is higher on a day-to-day basis than it was weeks ago, the overall hospitalization rate on their dashboard is stable,” he said. “So that would suggest perhaps there’s more testing going on in California and maybe they’re finding more mild and moderate cases, but they aren’t seeing a rise in the number of very sick people.”
+
+“Other states like Florida aren’t reporting hospitalization,” he added. “So you can’t really make any determinations without having access to that data.”
+
+Many public health experts suspect that reopening policies are behind the rise in some states, although Inglesby noted that not all states have experienced increases.
+
+“In some cases, some states that have reopened have not had sharp rises. I think as reopening goes forward, we’ll be able to know more,” he said. “But what we do know is that this virus transmits person to person, the more activity that’s allowed that is based on close personal interaction, the more opportunities there will be for transmission.”
+
+Buckee said it was too early to know what will happen for certain, but that the rising number of cases in some places will likely lead to more severe illnesses and deaths, even if it hasn’t shown up yet.
+
+“I think that there’s no question that we’re going to see a surge in hospitalizations and deaths in places like Arizona, due to that uptick in cases,” she said. “It’s just a matter of waiting for a few weeks.”
+
+Cases that happen now, she said, will result in deaths in about three weeks.
+
+In addition to the increase in cases, she said many of the states in the southeastern U.S. have worrying demographic factors as well, which put those populations at higher risk.
+
+“The concern is not just the policies and the reopening and spreading of the virus, but the significant risks of morbidity and mortality in those populations,” she said. “We know that African American communities are being hit particularly hard, diabetes is a risk factor, and so on. Those are all going to mean that we expect more illness and more death from COVID.”
+
+Oklahoma’s ‘COVID-19 Current Hospitalizations,’ Cases Increase
+
+On ABC’s “This Week,” Sen. Lankford of Oklahoma was asked whether the president should postpone his Tulsa rally due to health concerns.
+
+“I do not believe so, actually,” Lankford said. “We’ve gone through phase one, phase two, and phase three. We continue to see hospitalizations decline, deaths decline in Oklahoma.”
+
+The senator is right about COVID-19 deaths, but not about hospitalizations.
+
+In its most recent Weekly Epidemiology and Surveillance Report for the week of June 5 through June 11, the Oklahoma Department of Health said there has been an increase in COVID-19 cases and hospitalizations.
+
+Oklahoma Department of Health, June 12: Oklahoma has begun experiencing over the past two weeks an increase in the number of cases and hospitalizations due to COVID-19, though the number of deaths have remained approximately the same and the percentage of positives remains low at 3.7%. The increase in the number of cases is caused by both ongoing community transmission and outbreaks that affect specific populations. The threat of COVID still exists and we anticipate it to grow.
+
+For the two-week reporting period, from June 1 to June 12, the number of “COVID-19 Cases Currently Hospitalized” increased from 69 to 86, according to separate Executive Order Reports that the state Health Department publishes every weekday.
+
+As of June 15, there were 98 current hospitalizations — the highest since May 7, when there were 113 people hospitalized with confirmed cases of COVID-19, according to the Carlson School of Management at the University of Minnesota, which tracks hospitalization data for 42 states, including Oklahoma.
+
+Prior to Lankford’s appearance on “This Week,” the Executive Order Reports showed a one-day drop on June 11, from 97 to 86. But, until the June 11 drop, there were six straight days of more COVID-19 hospitalizations, the reports show.
+
+The most recent weekly epidemiology report also said there were 719 confirmed cases for the week ending June 11, an increase of 12.9% from the previous week, while deaths had declined 11.6%.
+
+Despite the current uptick in COVID-19 hospitalizations, there are still far fewer than there were in mid-April, according to the Carlson School of Management’s hospitalization tracking website. The Sooner State recorded the highest number of hospitalizations on April 13, when 194 people were hospitalized with confirmed cases of COVID-19, according to the university website.
+
+(Technical note: The state also issues “situation update” reports every weekday that provide “current hospitalizations,” which the state Health Department says represent “a combination of hospitalized positive cases and hospitalized persons under investigation.” The Carlson School’s website reports “only the confirmed cases of hospitalizations” when a state provides the data, as Oklahoma does, according to Pinar Karaca-Mandic, a professor of health care risk management and a project team leader. We, too, are using only confirmed cases for this story.)
+
+Oklahoma has been slowly reopening its businesses since April 24, when it entered what Gov. Kevin Stitt called phase 1 of a three-phase plan. The state fully opened for business on June 1.
+
+“Under Phase 3, businesses may resume unrestricted staffing at their worksites by observing proper CDC-recommended social distancing protocols and are recommended to continue increased cleaning and disinfecting practices,” according to a press release issued by the governor’s office. “Individuals should minimize time spent in crowded environments and continue following CDC guidelines regarding social distancing.”
+
+Despite the state’s advice to “minimize time spent in crowded environments,” Trump said he expects to fill the BOK Center, which seats about 19,000, and is looking for a second location to increase capacity for the event.
+
+“We have a 22,000-seat arena, but I think we’re going to also take the convention hall next door, and that’s going to hold 40,000,” Trump said during a Cabinet meeting on June 15. “So we’ll have 22,000 plus 40,000. … [I]t’s an amazing — nobody has ever heard numbers like this. I think we’re going to have a — we’re going to have a great time.”
+
+At the same Cabinet meeting, Pence expressed confidence about Oklahoma’s ability to host the rally, in part because COVID-19 cases in the state have “declined precipitously.”
+
+Pence, June 15: The number of cases in Oklahoma — it’s declined precipitously, and we feel very confident going forward with the rally this coming weekend.
+
+That’s false. As we stated earlier, the state reports that the number of COVID-19 cases is now on the rise in Oklahoma.
+
+In its weekly epidemiology report for May 29 through June 4, the state Health Department said there had been “637 confirmed cases in the past week 8.0% increase from the week before (May 22-28).” A week later, the department said that from June 5 to June 11 there had been “719 confirmed cases in the past week 12.9% increase from the week before (May 29-June 4).”
+
+A day after Pence’s remarks, the state recorded a single-day high of 228 new cases on June 16, as well as four deaths.
+
+As of June 11, at the time of the last weekly report, the state had 7,626 confirmed cases. As of June 16, Oklahoma had 8,645 confirmed cases — an increase of 1,019 cases, the daily state data shows.
+
+Update, June 18: The article was updated to include comments about testing from NIAID Director Anthony Fauci.
+
+Editor’s note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through our “Donate” page. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104.

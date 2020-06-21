@@ -1,0 +1,9 @@
+The end, not the means
+
+Like much of our understanding of human irrationality, the outcome bias was first observed in the 1980s, with a seminal study of medical decision-making.
+
+Participants were given descriptions of various scenarios, including the risks and benefits of the different procedures, and then asked to rate the quality of the doctors’ judgement.
+
+The participants were told about a doctor’s choice to offer a patient a heart bypass, for instance – potentially adding many more years of good health, but with a small chance of death during the operation. Perhaps predictably, the participants judged the doctor’s decision far more harshly if they were told the patient subsequently died than when they were told that the patient lived – even though the benefits and risks were exactly the same in each case.
+
+The outcome bias is so deeply ingrained in our brains that it’s easy to understand why they would feel that the doctor should be punished for the patient’s death. Yet the participants’ reasoning is not logical, since there would have been no better way for the doctor to have weighed up that evidence – at the time of making the decision there was every chance the operation would have been a success. Once you know about the tragedy, however, it’s hard to escape that nagging feeling that the doctor was nevertheless at fault – leading the participants to question his competence.
