@@ -1,8 +1,11 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { HashRouter as Router, Route } from "react-router-dom";
+
 
 import Header from "./components/layout/Header";
 import Search from "./components/Search";
+import Summary from "./components/results/Summary";
+import Articles from "./components/results/Articles";
 
 import { Provider } from "./context";
 
@@ -10,6 +13,7 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+
   return (
     <Provider>
       <Router>
@@ -17,6 +21,8 @@ function App() {
           <Header branding="SplitNews" />
           <div className="container">
             <Route exact path="/" component={Search} />
+            <Route exact path="/" component={Summary} />
+            <Route exact path="/" component={Articles} />
           </div>
         </div>
       </Router>
