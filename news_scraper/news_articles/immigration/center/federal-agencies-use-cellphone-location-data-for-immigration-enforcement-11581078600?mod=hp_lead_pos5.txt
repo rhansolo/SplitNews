@@ -1,0 +1,5 @@
+WASHINGTON—The Trump administration has bought access to a commercial database that maps the movements of millions of cellphones in America and is using it for immigration and border enforcement, according to people familiar with the matter and documents reviewed by The Wall Street Journal.
+
+The location data is drawn from ordinary cellphone apps, including those for games, weather and e-commerce, for which the user has granted permission to log the phone’s location.
+
+...

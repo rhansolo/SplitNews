@@ -1,0 +1,549 @@
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+By March 14, London Breed, the mayor of San Francisco, had seen enough. For weeks, she and her health officials had looked at data showing the evolving threat of COVID-19. In response, she’d issued a series of orders limiting the size of public gatherings, each one feeling more arbitrary than the last. She’d been persuaded that her city’s considerable and highly regarded health care system might be insufficient for the looming onslaught of infection and death.
+
+“We need to shut this shit down,” Breed remembered thinking.
+
+Three days later in New York, Mayor Bill de Blasio was thinking much the same thing. He’d been publicly savaged for days for not closing the city’s school system, and even his own Health Department was in revolt at his inaction. And so, having at last been convinced every hour of delay was a potentially deadly misstep, de Blasio said it was time to consider a shelter-in-place order. Under it, he said, it might be that only emergency workers such as police officers and health care providers would be allowed free movement.
+
+“I think it’s gotten to a place,” de Blasio said at a news conference, “where the decision has to be made very soon.”
+
+Help Us Report on Coronavirus Are you a public health worker, medical provider, elected official, patient or other COVID-19 expert? Help make sure our journalism is responsible and focused on the right issues. Note: If you develop emergency warning signs for COVID-19, such as difficulty breathing or bluish lips, get medical attention immediately. The CDC has more information on what to do if you are sick.
+
+In San Francisco, Breed cleaned up her language in a text to California Gov. Gavin Newsom. But she was no less emphatic: The city needed to be closed. Newsom had once been San Francisco’s mayor, and he had appointed Breed to lead the city’s Fire Commission in 2010.
+
+Newsom responded immediately, saying she should coordinate with the counties surrounding San Francisco as they too were moving toward a shutdown. Breed said she spoke to representatives of those counties on March 15 and their public health officials were prepared to make the announcement on their own. On March 16, with just under 40 cases of COVID-19 in San Francisco and no deaths, Breed issued the order banning all but essential movement and interaction.
+
+“I really feel like we didn’t have a lot of good options,” Breed said.
+
+In an interview, California Health and Human Services Secretary Dr. Mark Ghaly said it was critical to allow Northern California counties to rely on their own experts, act with a degree of autonomy and thus perhaps pave the way for the state to expand on what they had done. And three days after San Francisco and its neighboring counties were closed, Newsom, on March 19, imposed the same restrictions on the rest of California.
+
+Breed, it turns out, had sent de Blasio a copy of her detailed shelter-in-place order. She thought New York might benefit from it.
+
+New York Gov. Andrew Cuomo, however, reacted to de Blasio’s idea for closing down New York City with derision. It was dangerous, he said, and served only to scare people. Language mattered, Cuomo said, and “shelter-in-place” sounded like it was a response to a nuclear apocalypse.
+
+Moreover, Cuomo said, he alone had the power to order such a measure.
+
+For years, Cuomo and de Blasio, each of whom has harbored national political ambitions, had engaged in a kind of intrastate cold war, a rivalry that to many often felt childish and counterproductive. When de Blasio finally decided to close the city’s schools, it was Cuomo who rushed to make the public announcement, claiming it as his decision.
+
+“No city in the state can quarantine itself without state approval,” Cuomo said of de Blasio’s call for a shelter-in-place order. “I have no plan whatsoever to quarantine any city.”
+
+Cuomo’s conviction didn’t last. On March 22, he, too, shuttered his state. The action came six days after San Francisco had shut down, five days after de Blasio suggested doing similarly and three days after all of California had been closed by Newsom. By then, New York faced a raging epidemic, with the number of confirmed cases at 15,000 doubling every three or four days.
+
+Health officials well understood the grim mathematics. One New York City official said of those critical days in March: “We had been pretty clear with the state about the implications of every day, every hour, every minute.”
+
+As of May 15, there were nearly 350,000 COVID-19 cases in New York and more than 27,500 deaths, nearly a third of the nation’s total. The corresponding numbers in California: just under 75,000 cases and slightly more than 3,000 deaths. In New York City, the country’s most populous and densest, there had been just under 20,000 deaths; in San Francisco, the country’s second densest and 13th most populous, there had been 35.
+
+New York City remains the epicenter of the United States’ coronavirus outbreak with just under 20,000 deaths as of May 15. (Peter van Agtmael/Magnum Photos)
+
+The differing outcomes will be studied for years, as more is learned about the virus, its unique qualities, its varying strains, its specific impact on certain populations, and the role of factors like poverty, pre-existing health problems and public transportation in its spread and lethality.
+
+California, if twice as populous as New York, does not have nearly as many people living on top of one another; despite San Francisco’s density, it does not have millions of people packed into subways and buses the way New York City does. New York City is home to far more African Americans, a population hit hard by the virus.
+
+But the timing of New York’s shutdown undeniably played a role in the dire human toll the virus has exacted. In April, two prominent experts said in a New York Times opinion article that their research showed that had New York imposed its extreme social distancing measures a week or two earlier, the death toll might have been cut by half or more.
+
+It’s an assessment shared by Dr. Tom Frieden, the former head of New York City’s Health Department. “Days earlier & so many deaths could have been prevented,” Frieden tweeted in April.
+
+Asked if Cuomo questioned the accuracy or integrity of the findings on how many deaths might have been prevented with an earlier imposition of the statewide shut down, a spokesman wrote:
+
+“Our job is to make policy decisions based on the facts and data we have at the time and that’s exactly what we did. We needed the public’s buy-in, which is what happened, and how we ultimately flattened the curve.”
+
+In recent days, Cuomo has said he wished he had been quicker to see the threat, “blow the bugle” and take action, only to all but instantly shift tone and cast blame everywhere: at international and U.S. health agencies; at the federal government; at news organizations.
+
+“Governors don’t do global pandemics,” Cuomo said.
+
+In an interview, a senior Cuomo administration official, authorized to speak but not be named, defended the timeliness of New York’s response to the virus. He said the administration had closely followed a variety of models showing the evolving scope and impact of the spread and had calibrated its actions accordingly. The governor, he said, had conducted an orderly unwinding of a giant economy and a state of 20 million people. Each measured step — closing schools, gradually reducing the state’s daily workforce — had been undertaken to limit panic and gain the public’s compliance with developments that could upend lives and diminish and damage a great city.
+
+The official asserted that, from the discovery of the first positive COVID-19 case in the state on March 1 to the shutdown on March 22, New York had acted faster than any other state.
+
+“Three weeks, 20 million people,” the official said. “Insane.”
+
+The official noted that California’s first case surfaced on Jan. 26, its first death occurred March 4 and its statewide shutdown went into effect March 19, a span of almost two months.
+
+San Francisco’s California Street, usually filled with cable cars, on March 18 under a shelter-in-place order. (Josh Edelson/AFP via Getty Images)
+
+But a range of health officials and scientists interviewed by ProPublica say creating such timelines misses the central issue: No later than Feb. 28, federal officials warned the country that a deadly pandemic was inevitable. It is from that point forward, they say, that any individual state’s actions should be judged.
+
+Of the models showing how earlier action might have spared lives, the Cuomo administration official insisted that the governor’s decisions had been guided by the data.
+
+“We could have closed in November,” the official said. “When there were no cases. For nothing.”
+
+“We followed the models,” he said. “We followed your goddamn models. All the models were wrong.”
+
+There was certainly one model that proved prescient, and it had been made public by late February.
+
+Marc Lipsitch, a Harvard professor of epidemiology and the director of the Center for Communicable Disease Dynamics, created one of the first modeling tools used in the U.S. for the COVID-19 pandemic. The model was available to both city and state officials in New York in February, a full week before the first confirmed New York case. The state said the Lipsitch model was not one they looked at for guidance. The city did make use of it, and concluded that just a couple of dozen sick people in New York could ultimately produce more than 100,000 cases by the middle of April, which is quite close to what happened.
+
+COVID-19 patients arrive at the Wakefield Campus of the Montefiore Medical Center in the Bronx on April 6. (John Moore/Getty Images)
+
+In an interview, Lipsitch offered no opinion on New York’s actions, but emphasized that models are meant to be but one source of helpful information to guide policy makers. They don’t predict the future, and using them to do so is misguided.
+
+“For any decision-maker to say they relied exclusively on models to make decisions about what to do and when and how,” he said, “is an abdication of responsibility.”
+
+For New York and California, the clock for quick and prudent action in the fight against COVID-19 began ticking no later than Jan. 17, when the federal government announced it would begin screening passengers arriving in both states from China. The virus had been found outside China and would soon be discovered in dozens of countries. New York and California were known destinations for a steady stream of weekly travelers from China. The Jan. 26 announcement of California’s first case surprised no one.
+
+If California’s lower infection and death totals could owe to a wide variety of still undetermined factors, the state’s efforts, especially its partnership with San Francisco, were marked by both cooperation and a degree of daring. The elected officials turned to their health experts for advice, and they trusted and followed it.
+
+Breed, in particular, was quick to see the limited utility of waiting for confirmed cases to drive policy choices. The testing had begun late; there were too few tests available; they would never be able to accurately capture the existence and spread of the disease.
+
+An examination of New York’s response paints a different picture.
+
+Burials on Hart Island in New York City on April 9. (Andrew Theodorakis/Getty Images)
+
+While New York’s formal pandemic response plan underscores the need for seamless communication between state and local officials, the state Health Department broke off routine sharing of information and strategy with its city counterpart in February, just as the size of the menace was becoming clearer, according to both a city official and a city employee. “Radio silence,” said the city official. To this day, the city employee said, the city can’t always get basic data from the state, such as counts of ventilators at hospitals or nursing home staff. “It’s like they have been ordered not to talk to us,” the person said.
+
+The city official also said that after the city had been assisting the state in identifying and responding to outbreaks in city nursing homes, the state two weeks ago abruptly told the city its help wasn’t needed. More than 5,000 nursing home residents in New York have died of COVID-19.
+
+Asked about the city’s claims, a Cuomo administration official insisted the state was working “hand in glove” with all local health departments.
+
+For his part, de Blasio spent critical weeks spurning his own Health Department’s increasingly urgent belief that trying to contain the spread of the virus was a fool’s errand. The clear need, as early as late February, was to move to an all-out effort at not being overrun by the disease, which meant closing things down and restricting people’s movements. The frustration within the department grew so intense, according to one city official, plans were discussed to undertake a formal “resistance”; the department would do what needed to be done, the mayor’s directives be damned.
+
+Breed, San Francisco’s mayor, issued a local emergency order granting her wide powers to confront the virus before there was a single confirmed COVID-19 case in the city. There were nearly 100 in New York before de Blasio issued a similar order.
+
+A hill in San Francisco’s Bernal Heights neighborhood on March 29. (Caroline Gutman)
+
+Freddi Goldstein, a spokeswoman for de Blasio, said that any organized rebellion at the Health Department was news to the administration, and that de Blasio had been “nothing but upfront, honest and blunt with New Yorkers from the start.”
+
+“Everyone underestimated the threat because the information we had was greatly limited from the start,” Goldstein said.
+
+In California, state health officials did their own modeling of the outbreak, while New York’s state health officials acknowledged to ProPublica that they did not and instead relied only on publicly available data, some of it first-rate, some suspect.
+
+New York’s pandemic preparedness and response plan, first created in 2006 and running to hundreds of pages, predicted the state’s health care system would be overwhelmed in such a situation, and it highlighted two vital necessities: a robust and up-to-date state stockpile of emergency equipment and protective gear, and a mechanism for quickly expanding the number of hospital beds available.
+
+Despite repeated requests, New York state health officials would not say what was in the state’s stockpile at the start of 2020, but it clearly wasn’t adequate. Cuomo publicly lamented the lack of such resources almost from the start of the crisis. One senior health executive said he recalled Cuomo being frustrated early on by the state’s stockpile, asking: “What’s in it? Is it expired?”
+
+As for expanding hospital capacity, it was not until March 16 that Cuomo designated a task force to engineer greater numbers of beds, demanding a 50% increase in capacity in 24 hours.
+
+“You could make an argument that it should have happened a month before,” said Michael Dowling, the chief executive officer of Northwell Health, the largest hospital organization in the state and one of the health care leaders Cuomo appointed to the task force.
+
+It took another two weeks before Cuomo announced he had created a “command center” that would get a handle on emergency supplies and available beds at hospitals across the state so that such resources could be directed at places of need. It had been a month since the state’s first case.
+
+As for the state pandemic plan that laid out how hospital expansion should happen, Northwell’s Dowling said that he’d never seen the document and did not know of its existence.
+
+“I can’t recall in the last 15 years a discussion with the state about what would need to be done in a pandemic,” Dowling said in an interview.
+
+The state’s performance once New York fell under siege from the disease has also been challenged. State Health Commissioner Howard Zucker — one of a half-dozen advisers who made up Cuomo’s brain trust during the crisis — has been pilloried by the local press for his decision to allow nursing home residents who tested positive for the disease to be returned to those homes. The administration reversed its position this week.
+
+Meanwhile, the New York State Nurses Association has sued the state Health Department and its commissioner for failing to adequately equip front-line medical workers with protective wear and allowing hospitals to order nurses sickened by the virus back to work.
+
+In the lawsuit, the association laid out what its own survey had shown about the harm that had come to its members because of shortages in protective equipment. Some 70% of the nurses who responded to the survey said they had been exposed to the virus at work; 11% said they had tested positive for the disease.
+
+In a statement, Jonah Bruno, a Health Department spokesman, said: “The State of New York continues to take every step necessary to ensure that health care workers, particularly those who are sampling and providing direct care, have the support and supplies needed to address this unprecedented public health emergency. Throughout the course of this pandemic response, we have sent healthcare facilities approximately 29 million masks, 475,000 eye shields, 16 million gowns, and 446,000 pairs of gloves.”
+
+“This Isn’t Our First Rodeo”
+
+In New York, the inevitable arrived March 1 when a Queens woman became the first in the state to test positive for COVID-19. She had recently returned from Iran, where the virus had been rocketing through the country for weeks, killing almost 1,000 and sickening 23 members of Parliament.
+
+Cuomo took the news in stride.
+
+“There is no cause for surprise — this was expected,” he said in announcing the test result. “As I said from the beginning, it was a matter of when, not if.”
+
+The next day, the state’s second case surfaced. A lawyer in New Rochelle, just miles north of New York City, had tested positive. The circumstances were far more disturbing: The man had not traveled beyond his daily commute to his Manhattan office, certainly not to any known COVID-19 hot spots such as China or Italy. He’d been infected in the U.S. by an unknown person, a phenomenon in the world of infectious disease known as “community spread.”
+
+New York’s first two cases came as health officials, around the globe and in the U.S., were sounding heightened alarms. Five days before New York’s first positive test, Dr. Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the federal Centers for Disease Control and Prevention, said publicly that COVID-19 had thus far met two of the three factors needed to be classified as a pandemic: illness resulting in death and sustained person-to-person spread.
+
+Community spread, Messonnier said, was now happening in Italy, Iran, Hong Kong, South Korea, Taiwan and elsewhere. If COVID-19 began spreading in U.S. localities, she said, shutting down schools, limiting businesses and banning mass gatherings would have to be quickly considered.
+
+In those first days of March, Cuomo and his administration were, in the words of one official, “trying to get their sea legs.” Countries around the world had taken a variety of steps to limit the spread of the disease, starting aggressive testing and contact tracing programs, as well as closing schools and businesses, and forcing people to stay in their homes except for emergencies. But in Washington, President Donald Trump had for weeks been minimizing the threat of COVID-19, calling growing concerns about it a Democratic hoax one day, predicting its miraculous disappearance another.
+
+It had become evident by then to local officials like Cuomo in New York and Newsom in California that it was going to be up to them to navigate the crisis on their own with advice from their experts and advisers.
+
+In early February, with the virus raging mostly in China, Cuomo struck a note of caution, aimed at calming what he considered unreasonable fear of the new virus. The seasonal flu was a graver worry, he said. New Yorkers needed, in his words, to preserve a sense of reality.
+
+By late February, Cuomo seemed to have begun apprehending the growing threat. He had company. Frieden, who had served as the New York City health commissioner for a decade and had helped oversee the response to the H1N1 flu pandemic in 2009, wrote publicly that COVID-19 was already approaching the category of “severe” pandemic. Frieden argued that more aggressive, even radical, interventions to limit people’s interaction had to be on the table.
+
+The Cuomo administration official said that by then Cuomo’s designated inner circle — his health commissioner, his budget director, his closest aide and an old hand who would return to Cuomo’s side from his position in academia — were conferring every day, dozens of times.
+
+Cuomo on Feb. 26 announced that the state’s highly regarded laboratory had developed a test for the virus, and he was seeking federal approval to begin using those tests. He said the state Health Department had $40 million to hire additional staff as well as procure equipment “and any other resources necessary to respond to the potential novel coronavirus pandemic.”
+
+And so when the March 2 news of community spread surfaced in New Rochelle, Cuomo urged calm. The state, he proudly noted, had successfully confronted a wide variety of health scares over the years.
+
+“We are fully coordinated, and we are fully mobilized, and we are fully prepared to deal with the situation as it develops,” Cuomo said.
+
+“This isn’t our first rodeo.”
+
+New York had a detailed plan on preparing for and responding to a pandemic, first produced by the state Health Department in 2006. After 9/11, the federal government had funded state and local efforts meant to better protect the country from a wide variety of threats, from terrorism to hurricanes to biowarfare to infectious disease outbreaks. New York used the money and the moment to address a possible pandemic.
+
+New York’s plan anticipated that a flu-like disease would likely sicken large numbers of people and overwhelm the health care system; and since outbreaks could occur simultaneously throughout the country, localities would need to rely on their own resources to respond. It noted that health care workers and first responders would be at high risk of illness, further straining the health system.
+
+But while the report’s subsequent pages of charts and subsections tackle a raft of issues — legal authorization to impose limits on public events; the creation of an “incident command system” that would coordinate efforts from a range of state agencies — there are few specifics on what officials should do to prevent or mitigate the potential calamities the report presciently predicted.
+
+The document simply says it’s up to hospitals and local authorities to develop plans that turn the document’s vision for adding hospital beds and protecting health care workers and first responders into reality.
+
+Dowling, the Northwell CEO and a trusted adviser to Cuomo who said he didn’t even know the document existed, said, “A plan on a piece of paper that doesn’t have an operational part means nothing,” Dowling said.
+
+Asked about Dowling’s remarks, and whether hospital officials statewide were aware of the plan, Bruno, the Health Department spokesman, said “representatives from all responding services to the multi-service plan meet several times throughout the year to review and update the plan.”
+
+Stanley Brezenoff, a legendary New York public servant who was head of New York City’s Health and Hospitals Corporation under Mayor Ed Koch, and who has been called on in times of crisis by mayors and governors, said the state’s response plan seemed noble enough on its face.
+
+“It’s one thing to have a kind of check-the-boxes planning,” Brezenoff said. “But it needs to go to the next level and become concrete. If we need 200 more hospital beds, what does that entail? Plans, tabletop exercises. These can easily fall into empty exercises. Turning them into being useful is the challenge.”
+
+State Health Department officials have said that the plan had been useful in 2009 during the H1N1 pandemic, a threat that turned out to be less damaging than first feared, and that it had been regularly updated since. Bruno said the department had participated in a variety of drills with federal and local authorities meant to better prepare for a pandemic.
+
+The document is emphatic on several points, not least the need for a state stockpile of emergency equipment.
+
+One former senior Health Department official said he remembers the creation of the stockpile around the time the 2006 plan was issued. He said he recalled it contained things like medicine for the common flu, but he didn’t think it included sophisticated equipment such as ventilators.
+
+The former official said the federal money that had funded the response plan and the initial stockpile soon dried up. There was always another crisis for the federal government to be financing.
+
+“The threat diminishes, the dollars go away, the focus drops,” the official said. “It’s a cyclical routine. The stockpile was in theory a costly enterprise to do. Your backstop was always the federal stockpile.”
+
+But while the state’s plan makes clear its obligation to be adequately prepared, Cuomo over many weeks sought to portray the federal government as the culprit for the crisis in shortages of protective gear and medical equipment such as ventilators.
+
+“I can’t say to a hospital, ‘I will send you all the supplies you need, I will send you all the ventilators you need,’” he said at one point. “We don’t have them. It’s not an exercise. It’s not a drill. It’s just a statement of reality.”
+
+Trump has dismissed such claims as little more than poor excuses.
+
+“The complainers should have been stocked up and ready long before this crisis hit,” he said in a tweet.
+
+A Cuomo administration spokesman refused to say if the governor had ever read the state’s pandemic plan or if he was satisfied with what was in the state’s stockpile. The administration also refused to make Zucker, the health commissioner, available for an interview.
+
+Dowling, the Northwell executive, said he had talked with Cuomo about the state stockpile during the crisis. Asked if he knew what was in it, Dowling said bluntly, “Not enough.”
+
+“Forgive Them, for They Know Not What They Do”
+
+By March 5, the number of COVID-19 infections in New York City were doubling every five or six days, and officials within the city’s Health Department had become increasingly frustrated at what they regarded as the mayor’s failure to comprehend the size and nature of the crisis. That day, he’d issued a press release expressing confidence that the city could still “beat this thing.”
+
+But some within the department felt there was hope of a breakthrough. The following day, March 6, de Blasio’s most senior aides were to be briefed on the disease model created by Lipsitch at Harvard. Lipsitch had worked with the city Health Department during the 2009 H1N1 pandemic, helping figure out such things as if, when and how to close schools. He was a trusted source.
+
+A city official told ProPublica the department had used Lipsitch’s model to do what it called “a Monte Carlo simulation,” which is what it sounds like: a series of random numbers punched into the model to see the range of possibilities. The official said that the median result out of 50 speculative runs was this: If as few as 25 infected people had arrived from Wuhan, the major Chinese city where the pandemic began, in January, New York would experience “epidemic disease transmission,” perhaps as many as 100,000 cases by April.
+
+It was hardly reckless speculation. Flights from China to New York had gone on daily for nearly three weeks after the first cases were detected in Wuhan and before the authorities began screening arriving passengers. Italy’s first case surfaced on Feb. 20, but flights to New York from that country and others in Europe continued until March 16.
+
+The briefing didn’t work.
+
+“He does not want to believe transmissions are occuring silently,” the city official wrote at the time of de Blasio. “That things might blow up.”
+
+New York’s Bryant Park subway station is disinfected on May 9 to control the spread of the coronavirus. (Michael Nagle/Redux)
+
+The disconnect between de Blasio and his own Health Department played out — perhaps decisively — in late February and early March. The events of those days have been reconstructed through notes kept at the time by the city official alarmed by what they were seeing — the diminishment and disregarding of one of the world’s most respected local health departments.
+
+The official’s notes show that late February was the first opportunity for de Blasio to have absorbed what his department was warning about. It didn’t go well.
+
+“He said all the wrong things,” the official wrote after a Feb. 26 news conference.
+
+To many in the Health Department, de Blasio’s Feb. 26 appearance was an opportunity for the mayor to level with New Yorkers and prepare them for a true pandemic and its consequences. The virus was likely spreading unseen among people in contact with travelers. Relying on the results of the handful of tests the city had sent to the CDC to set policy was not enough. Aggressive “mitigation” efforts — closing schools or limiting mass transit — needed to be considered, and the millions of people who would be affected needed to be prepared for those possibilities.
+
+De Blasio said at the briefing that he was taking the threat with deadly seriousness, that he was confident he could add 1200 hospital beds if needed, and that people at risk of having been exposed should get tested and seek care.
+
+But he also talked about how there were no confirmed cases in the city, how the seven tests that had been done were all negative, how the city had plenty of time to ramp up its response if things changed. The city official watched disbelieving.
+
+“Awful press conference,” the city official wrote. “He doesn’t seem to appreciate the fact that hospitals have been hit real bad in China and South Korea by COVID-19. Many patients and healthcare workers have been infected. Our message to providers has been to ‘protect your patients and staff’ by preventing hospital outbreaks, as happened catastrophically in Toronto in 2003 with SARS. The mayor is sending a horrible message that can give permission to providers to be complacent.”
+
+The official noted that the New York City Health Department is a revered institution, with an international reputation for its size, resources and expertise. Discouraged and angry that its talent and commitment were being blunted, the official noted how the department’s commissioner had been humiliated by de Blasio in a formal meeting, reduced to tears. Both she and her top deputies, the official wrote, later spent too much of their time at the side of a mayor making public health policy on the fly.
+
+Taken together, the official’s contemporaneous notes, later shared with ProPublica, read like a disturbing diary of what the official came to see as a slow motion leadership disaster.
+
+On Feb. 28, the official noted that the CDC had “made the pivot” to treating the COVID-19 threat as a full-blown pandemic. Why New York’s leaders, Cuomo and de Blasio, had yet to do similarly was beyond understanding. An onslaught was all but inevitable. The public would be rightly furious to be surprised by it.
+
+“It’s incredible that the government hasn’t made the pivot yet to prepare the public for the likelihood that things are about to get very bad,” the official wrote. “Once public credibility is lost, it’s next to impossible to regain.”
+
+Goldstein, de Blasio’s spokeswoman, disputed the idea that the mayor was ignoring or at odds with his top health officials, saying “their guidance was in lockstep with his.” She maintained that the lack of widespread testing had hindered the administration’s efforts.
+
+“The issue was that we had one hand tied behind our back until after we had our first confirmed case, which we now know was likely weeks after the virus was spreading throughout the city. We were not given the tools we needed to properly detect the spread in the five boroughs, which left us with limited understanding for some time into the crisis.”
+
+Asked about whether the mayor was briefed on the Lipsitch model, the one shared with the city in February suggesting the city could see tens of thousands of cases within weeks, Goldstein said she didn’t know.
+
+The city official’s notes show that the Health Department into early March remained confounded by the mayor’s continued talk about prevailing against the threat.
+
+“He doesn’t get it,” the official wrote. “Not convinced that there’s a volcano about to blow beneath us and thinks we need to beat this thing through ongoing containment efforts.”
+
+On March 5, the notes became darker. The official said de Blasio had gagged the Health Department commissioner and her top deputy for infectious diseases for the last three days, ordering them to effectively endorse decisions he was making on his own. The official took a dim view of a mayoral press release claiming that “disease detectives” would be chasing down every case and ordering the infected into quarantine as fantasy.
+
+“The hospital networks are looking to us for information and support, but we’re hampered by the official stances,” the official wrote. “More like China and Iran than what the city is used to getting.”
+
+There were people in the Health Department who knew what was needed, the official said. They went unheeded.
+
+The mayor, the official wrote, should be “employing a risk communication strategy that prepared the public for what we think will happen, that encouraged them to get ready for this — as we do with hurricanes — to figure out how to support the most vulnerable in our family, neighborhood, community, to get prepared for a time when one’s life might get disrupted, to be sure that one has 1-2 months of medications, etc.”
+
+“Then, I’d get people ready for a time when the healthcare system may not function as it typically does, when hospitals will need to care for potentially thousands of severely ill patients when there’s a shortage of beds and ventilators, when there may be hospital outbreaks, when it may be hard to be seen by an outpatient provider. In short, we’d be preparing the public and health care community for a pandemic.”
+
+The next day, March 6, after the failed briefing of de Blasio’s most senior aides on the disease model’s implications, the official wrote: “The inmates truly have taken over the asylum.”
+
+“There is growing internal opposition and coalescence of determination to resist,” the official said of people within the Health Department, regardless of the mayor’s mistaken micromanaging. The official anticipated that it would be “a tough balancing act,” and that officials within the department would try to do what was needed “without getting fired.”
+
+The department’s defiance quickly intensified, the official noted, saying that people at the “highest levels” were “mobilizing” to deliver an “ultimatum” to City Hall: “either pivot to pandemic planning today or they start to deal with a health department that won’t follow his orders.”
+
+Cuomo, the city official said, did not help matters when he at the same time ordered all health departments statewide to quarantine people who might have come in contact with an infected person or traveled to a country with an outbreak. The city was ordered to provide housing with single rooms and private bathrooms for such people. To the official, it was yet another waste of precious time, energy and resources chasing the lost idea that the virus could be contained.
+
+“Forgive them,” the official wrote, “for they know not what they do.”
+
+The city’s Health Department was not alone in despairing of the mayor’s handling of the crisis.
+
+On March 9, a letter was sent to de Blasio and his health commissioner by 18 academics and community leaders demanding that the mayor seriously begin to consider closing schools and curtailing business hours. The signers included at least four distinguished professors at major schools of public health as well as the presidents of several organizations devoted to African American and Latino health and justice.
+
+Those who signed the letter saw a particular threat to minority and poor communities, who are sicker and often rely on the local public hospital as their only source of care.
+
+City employees fill cars with meals to be delivered to the elderly and others who cannot leave their homes in Brooklyn on April 14. (Spencer Platt/Getty Images)
+
+“What is the plan for them?” the letter asks. “There is no virtue in being a late adopter for these crucial interventions.”
+
+There was no disagreement within the Health Department. Frustration had turned to fury.
+
+Several top officials developed a plan to have one of the department’s most senior leaders effectively dare the mayor to fire him by going live on television and expressing the urgent need to close schools and issue more serious restrictions immediately.
+
+Goldstein, de Blasio’s spokeswoman, said to her knowledge no one at the department had threatened to quit. She could not say if the mayor had seen the March 9 letter. She again maintained the mayor had followed the federal government’s guidance on the threat and how to test for it. She said it is now clear that advice was wrong, and that New York should have been focusing on people arriving in New York from Europe, not China.
+
+On May 14, The New York Times reported that de Blasio’s failure to heed his own Health Department’s concerns was attributable in part to his reliance on the advice of Dr. Mitchell Katz, the head of the city’s Health and Hospitals Corporation. The Times uncovered a March 10 email from Katz to de Blasio’s top aides in which he downplayed the impact of social distancing measures.
+
+There was “no proof that closures will help stop the spread,” Katz wrote in the email, according to the Times.
+
+“We have to accept that unless a vaccine is rapidly developed, large numbers of people will get infected,” Katz wrote, the Times reported. “The good thing is greater than 99 percent will recover without harm. Once people recover they will have immunity. The immunity will protect the herd.”
+
+Goldstein did not dispute the report, saying that de Blasio relied on a variety of advice, including his Health Department’s.
+
+That is not how it was seen within the Health Department, according to the city official’s notes. De Blasio, the official wrote, wasn’t listening at all to his own most experienced experts.
+
+“I don’t know what else to say,” the city official wrote of the mayor in early March. “Every message that we want to get to the public needs to go through him, and they end up getting nixed. City Hall continues to sideline and neuter the country’s premier public health department.”
+
+“We’re getting introductions into congregate settings and hospitals, which is an indication that we’re well into community transmission.”
+
+“We’re fucked.”
+
+William Murray, 7, in Brooklyn on March 27, while his school is closed to slow the spread of COVID-19. (Alice Proujansky)
+
+“This Is Ridiculous”
+
+London Breed admits some wishful thinking when first confronted with the specter of COVID-19.
+
+“I was kind of like, ‘Stop talking about it,’” the San Francisco mayor said in a recent interview with ProPublica. “Like, you know, like in my mind, I’m like, stop talking about it. It’s not going to hit. It’s like I knew it was coming, but I was trying to will it not to hit.”
+
+But from January on, her chief of staff, Sean Elsbernd, would scarcely let a day go by without bringing it up. Elsbernd and the director of public health, Dr. Grant Colfax, reminded Breed that her city had one of the largest Chinese American communities in the country. They thus paid close attention as the numbers of infected grew exponentially in Wuhan and the virus made its way across Europe.
+
+Colfax was particularly well-suited to recognize the threat early. He was inspired to enter the medical profession some 30 years earlier by the devastating impact of HIV/AIDS on the gay community in the San Francisco Bay Area. Before Breed chose him to lead her Health Department, Colfax had worked in the Obama White House from 2012 to 2014, where he was the director of the Office of National AIDS Policy. The San Francisco Department of Public Health had been involved in response efforts to Ebola and SARS. He was plugged into the world-renowned epidemiology community in the area.
+
+So in January, Breed saw him as a natural fit to lead a kind of improvised cabinet that would advise her on the threat of COVID-19.
+
+Colfax’s briefings for Breed pretty quickly turned ominous. Colfax began to share distressing figures with her, drawn from data publicly released by the World Health Organization and Johns Hopkins University in Baltimore. He’d later draw on models from the University of California schools in Berkeley and San Francisco to help understand how many beds would be necessary for treatment, but even without such local forecasting, it was clear to Colfax that the coronavirus could exact a heavy toll on the city.
+
+Breed remembers the briefings vividly. The projections were like something out of a movie. She still feels the fear and confusion as she describes what she learned in those early days.
+
+“We just didn’t have what we needed. We didn’t have what we needed in terms of testing. We didn’t have what we needed in terms of PPE [personal protective equipment], and I just couldn’t believe that we were in a situation like that even though we knew something like this was coming,” she said.
+
+She remembers confronting Colfax and his staff with her disbelief. In her mind, if there were ever an ideal place to get sick, it was San Francisco. There were prestigious hospitals. Biotech research labs. And, as Breed put it, “all these little medical places on the corners everywhere in the city.”
+
+“All of this here in San Francisco and we don’t have the ability to handle this situation if we do nothing? That was what set off an alarm for me,” Breed recalled.
+
+She thought of her own grandmother, who had raised her in a housing project in the city’s Western Addition.
+
+“Just imagine people showing up to the hospital, like if my grandmother, who is not alive today, but let’s say if she were and I took her to San Francisco General because she had the virus and she couldn’t hardly breathe. And she was turned away because they didn’t have a bed for her,” Breed said.
+
+On Jan. 27, Breed and her team established an Emergency Operations Center, pairing clinicians with emergency responders to identify and respond to the city’s needs under the guidance of multiple city agencies. Over the coming weeks, they would figure out where the city could place additional hospital beds and create makeshift hospitals if necessary. They developed strategies to defuse the threat by spreading out people living in congregate settings like homeless shelters and assisted living facilities. Still, Colfax was worried that the city was not moving fast enough.
+
+Fog rolls into San Francisco from the Marina District on April 29. (Laura Morton)
+
+On Sunday, Feb. 23, Colfax said he was heading home from a weekend away in the Sierras. As his partner drove and the California landscape zipped by along I-80, Colfax reviewed data on his cellphone in the passenger seat. What he saw leapt off the screen: There was the attack rate, which is how quickly the virus spreads among an at-risk population; the death rate, which is how many people die once they get it; and then, perhaps most alarming, the lack of treatment options, which showed how quickly it could overwhelm a health system.
+
+“This is not an incremental process,” he said he realized. “And it became really clear to me that we needed to act faster than the virus,” he said. “It wasn’t as though jurisdictions were saying, ‘Oh, we overreacted.’”
+
+Before he even got home, he called a meeting with his staff from the car and arranged to meet the mayor the following day, Monday, Feb. 24. He told his staff they would need to persuade her to issue a local emergency order.
+
+Breed did not resist. Such a step, though drastic, would allow her to respond to an unseen virus the same way she would a very visible disaster, like an earthquake. If that’s what Colfax deemed necessary, that’s what she would do.
+
+“They are the experts in this world, and so with every decision I’ve made, I had to feel confident in the science and the facts and the data,” she said. “They’re the ones who understand this stuff and know what’s going on and what it can do. And I trusted them.”
+
+Any city employee from that point on would be activated as a disaster service worker, which meant they could be redeployed to tasks that might range from monitoring hotels temporarily housing the homeless to feeding people who have been quarantined to distributing information to San Francisco residents on how best to protect themselves.
+
+She would not have to wait on legislative or bureaucratic approval to spend city money to address such concerns. It would cut a lot of red tape, but it would come with significant risk: The city’s economy revolves around tourism, which was already suffering. Conventions had been canceled. Chinatown, which Breed said was already a “ghost town” at that point, had been the site of several xenophobic attacks. Would this amplify panic? Stigma? Violence?
+
+“As much as it pains me to have to go this route,” she said of her thinking at the time, “it was necessary because we knew that it was coming to San Francisco. We just didn’t know when, and we had to be ready because … we just weren’t moving fast enough.”
+
+She issued the order on Feb. 25, the day before de Blasio’s reassuring press conference in New York. De Blasio would not issue New York City’s emergency order for another 16 days, waiting until March 12 when the number of cases reached 95.
+
+“Although there are still zero confirmed cases in San Francisco residents, the global picture is changing rapidly, and we need to step up preparedness,” Breed said in her announcement. “We see the virus spreading in new parts of the world every day, and we are taking the necessary steps to protect San Franciscans from harm.”
+
+She has acknowledged there was some backlash from economic leaders and Bay Area sports fans, but she stood fast and, over the ensuing weeks, made increasing use of her emergency powers. She issued a series of increasingly cautious, restrictive measures: On March 6, she issued an order recommending that people ages 60 and older stay home as much as possible and told San Francisco employers to eliminate nonessential travel; on March 9, she authorized $5 million in funding to reduce risk of exposure for the homeless and people living on the margins; on March 11, gatherings of 1,000 or more were banned; by March 13, that number was reduced to 100.
+
+That weekend, Colfax absorbed more bad news. He was in awe of the now infamous graphical representations of viral spread. The curves showing spread did not move along a gradual ridge, but in sharp spikes. Colfax explained that part of what drives that spike upward so quickly is that people can spread the virus without knowing it.
+
+“I remember very distinctly looking at the John Hopkins website and just seeing the same damn curve that we saw in Wuhan,” he said in an interview. “The same damn curve [in Italy] and then, you know, very similar curves that were developing in Spain. So I called my staff again on Sunday and said, ‘Look, you know we have been given the gift of time.’ And that’s where I said, ‘You know, we’ve got to think about shutting down restaurants.’”
+
+Breed was starting to come to that conclusion on her own. For her, the revelatory moment came out of frustration. By March 13, she had issued three consecutive orders at the behest of her advisers over about two weeks limiting public gatherings to increasingly smaller numbers.
+
+“It got to a point where I’m like, this is ridiculous,” she said. “There’s no data that helps to make that decision. I’m not going to keep announcing these arbitrary numbers of the events that we have in the city. That it needs to be reduced to 50 or five or what have you.”
+
+She was also looking warily at one county to the south, Santa Clara, which at that time already had more than 100 known cases and had issued a local emergency order two weeks prior to San Francisco.
+
+For her, the direction was clear: Shut it down.
+
+But she knew she couldn’t do it on her own. Unlike their counterparts in New York, Newsom and Breed have a strong rapport. They have shared staff and policy ideas. Jason Elliott, one of Newsom’s senior advisers, had worked in Breed’s office.
+
+“I’m always yelling at him about something to do,” she said of Elliott with a laugh. “They’re very supportive of us. I don’t have this ‘you better not’ kind of tension.”
+
+In an interview, California Health and Human Services Secretary Dr. Mark Ghaly said the Newsom administration was having daily conversations with the public health officers in San Francisco and the surrounding cities and counties in advance of the shelter-in-place orders and that in those conversations, they decided it was important for the counties “to demonstrate they could go with a more stringent order than the state.”
+
+“It felt like it was the right move at the time,” Ghaly said.
+
+He said that the entire state took the same step days later “because it does turn out that every day seems to make a difference in how quickly we were able to respond and control this sort of transmission.”
+
+He said that the limitations imposed in San Francisco and the surrounding area seemed to help Californians adjust to the idea they’d face the same hardships.
+
+“It was actually a decision that, although heavy and hard to make, we made with a great deal of confidence,” he said. “We knew that it would be sort of heard with a lot of scrutiny. But honestly, in retrospect, we’re very pleased with how California reacted pretty much immediately.”
+
+“A True Phenomenon”
+
+In New York, where alarm would lead to action on its own trajectory, Cuomo was most closely concerned with testing. He’d mobilized the state lab to develop one, and in early March he would strike a deal with 28 private labs to produce as many as possible.
+
+Testing, a Cuomo administration official said, offered the best tool for tackling the basic questions: where the virus was and how fast it was moving.
+
+Events in and around New Rochelle, the scene of the second case in New York, provided some of that evidence. Members of the sickened man’s family tested positive, then members of his synagogue. By March 5, there were 18 cases in Westchester County, home to New Rochelle and directly north of New York City.
+
+Cuomo was unfazed. Even a touch piqued.
+
+“The facts do not merit the level of anxiety we are seeing,” he said. “The number will increase because it is math. The more people you test, the more positives you are going to find. I’m a little perturbed about the daily angst when the number comes out and the number is higher. Perturbed meaning, I’m perturbed that people get anxious every time the number goes up. The number has to go up if you continue to test.”
+
+There were, however, growing numbers of experts and elected officials in the U.S. who had already been questioning the strategy of waiting for test results and acting in targeted ways. To them, the likelihood was that the virus already was everywhere.
+
+On March 8, Frieden weighed in again. Frieden, after his stint as health commissioner in New York City, had run the CDC in the Obama administration and is considered a leading authority on public health.
+
+“Last week, I noted that we were in the calm before the storm,” he wrote. “Now, the storm has started in the United States and is gathering strength.”
+
+On March 2, Cuomo convened an interagency state task force to create and execute a strategy for combating COVID-19, with every department from homeland security to administrative services represented. Melissa DeRosa, Cuomo’s closest aide, was placed on the task force, as was Zucker, the state’s health commissioner. Zucker’s department had the experts and had written the state’s pandemic response plan.
+
+More than a week later, on March 10, Cuomo decided there had been enough positive tests to take action in New Rochelle. Westchester County had 100 cases, many of them believed to be traceable to the lawyer who had turned up positive on March 2.
+
+Cuomo closed the local schools and cordoned off the city, even calling in the National Guard. In an interview, the Cuomo administration official said the move amounted to a dramatic response to real numbers of cases. It felt calibrated and appropriate.
+
+“This is unique. We’ve not seen this elsewhere,” he said of the spread in Westchester County. “It’s a true phenomenon.”
+
+The cause for wider alarm was not great, Cuomo emphasized.
+
+“As the number of positive cases rises,” Cuomo went on, “I am urging all New Yorkers to remember the bottom line: We talk about all this stuff to keep the public informed — not to incite fear — and if you are not a member of the vulnerable population, then there is no reason for excess anxiety.”
+
+The Cuomo administration official said the governor had not meant to downplay what was happening in Westchester County. He had merely been struck by the implications of a single man’s illness, calling the lawyer a “super spreader,” and saying Cuomo regarded the events as unique in the U.S.
+
+ProPublica spoke with a half a dozen epidemiologists who said the events in New Rochelle could have been an opportunity for Cuomo to have acted more boldly and broadly. Instead of treating the threat as isolated to Westchester County, Cuomo could have seen a sign of wider infection in tightly packed New York City that hadn’t been detected because of inadequate testing.
+
+“What made anyone in New York think it wasn’t going to get hit, and hit hard?” asked Rupak Shivakoti, an epidemiologist at Columbia. When you’re dealing with a pandemic’s exponential growth in the number of infections, he said, “even a week makes a huge difference.”
+
+More radical steps were already being taken elsewhere. Italy ordered its national lockdown on March 9. Spain did the same a week later, barring children from setting foot outside their homes. On March 13, Los Angeles closed its public schools.
+
+Recent disease models now estimate that, by the time of the first confirmed cases on March 1 and March 2, at least 10,000 people in New York were infected with the coronavirus.
+
+The Cuomo administration official said that from the beginning their team had made use of a variety of disease spread models in their deliberations on what actions to take and when. He said Zucker, the health commissioner, had taken the lead in analyzing the models
+
+In San Francisco and California, officials had looked at similar models, as well as ones state and local officials had commissioned, and decided their value was not in guiding incremental decisions, but in making clear the daunting big picture: a possible tidal wave of cases. One waited for concrete evidence at one’s peril.
+
+In New York, the city Health Department both made use of the modeling tool created by Lipsitch at Harvard and separately partnered with Columbia University’s Mailman School of Public Health to create a model. But Jeff Shaman, who oversaw the modeling work at Columbia, said the state didn’t contact him until March 20 to make use of the tool.
+
+The people responsible for equipping Cuomo and his health commissioner with expert analysis are the scientists at the state Health Department.
+
+“If you have a state Health Department, you damn well better have someone intimately familiar with disease modeling,” Shaman said.
+
+Bruno, the Health Department spokesman, said the state’s epidemiology team at the department was highly accomplished.
+
+Whatever was coming to Cuomo from the state Health Department, one New York City official said it didn’t reflect the input of city health experts. The state had chosen to effectively do without the help of the city Health Department, the official said. While the state’s own pandemic response plan underscored the necessity for state and local health departments to be working together, the city official said the state had opted for “radio silence” in its dealings with the city.
+
+The official said early on, the two departments had worked closely and in sync. They conducted joint webinars for health care providers to keep them informed and guide them in their preparations.
+
+“There was an amazing trust,” the city official said. “Then, in late February, the switch flipped. All communication ended. We were left to work in a black box.”
+
+City health officials were disinvited from subsequent planning meetings with health care providers. Calls and emails were ignored. Information sharing in the midst of a pandemic halted.
+
+The city official said city health workers asked their state counterparts what had caused the sudden lack of communication and cooperation. It was out of character for people the city had worked with intimately for years. Their counterparts would not or could not say, but the city official concluded it had been ordered from the governor’s office.
+
+“It was,” the city official said, “smoke from another fire.”
+
+In the coming weeks, the lack of a collaborative relationship between city and state officials played out in real ways. Nursing homes, all overseen by the state, had become scenes of misery and death as the virus swept through the aging populations. Initially, the state asked the city’s help in identifying and then responding to the increasingly dire outbreaks. The city took on responsibility for monitoring 25 nursing homes and offered to help coordinate any interventions.
+
+And then, again, the partnership foundered.
+
+“We were told our help wasn’t needed,” the city official said. “A lot of switches being flipped. And all in the same direction.”
+
+“The Panic We Are Seeing Is Outpacing the Reality of the Virus”
+
+Deeper into March, Cuomo appears to have come to the conclusion he needed to act more boldly. On March 11, he told New Yorkers they only needed to worry if they were among the vulnerable population, the aged or people with other serious diseases. But the very next day, he banned mass gatherings of more than 500 people. Three days after that, he warned of a wave of COVID-19 cases that could “crash our health care system.”
+
+Even then, though, in pleading for more federal help with testing and maybe building emergency hospital capacity, his message was mixed.
+
+“While again I want to remind people that the facts do not warrant the level of anxiety that is out there, we will continue working closely with every level of government to mitigate the impact of this virus and protect the public health.”
+
+No one ProPublica spoke with for this article failed to appreciate the size of the decisions Cuomo faced. To shut down New York was to do immeasurable economic harm and upend the lives of more than 20 million people, as it appears to have done. That harm could well prove lasting, consigning New York to a damaged and diminished stature for years.
+
+“Gubernatorial leadership is important. The moment was made for someone like Cuomo,” said Chris Koller, president of the Milbank Memorial Fund, a health policy organization in New York. “That said, a leader plays the hand he’s been dealt. He was dealt a pretty crappy hand because of the failures at the federal level.”
+
+Brezenoff, the former New York City official who ran the city’s public hospitals under Mayor Ed Koch, said when fate deals a political leader the worst possible cards, it’s crucial not to make things even worse.
+
+“I respect the complexity of what they were facing,” Brezenoff said. “Lots of things to weigh and not an enviable position. Personalities, governing styles, they do play a part in all that. And their implications can be magnified in circumstances like these.”
+
+The Cuomo administration said what they sought to achieve from March 15 to March 22 was an “orderly winding down” of one of the country’s most populous states and an enormous economy. They feared the effects of a sudden announcement that New York was locking down its populace.
+
+“You go too fast, and you scare the hell out of people,” the Cuomo official said.
+
+Cuomo ordered all New York schools closed on March 15. The administration told local governments to keep 25% of their workforces at home, then, 50%, then 75%. The official said Zucker was a critical adviser on those decisions.
+
+“He was very forceful about the health aspects of social isolation,” the official said of Zucker.
+
+The Cuomo administration official said they were balancing all sorts of information and risks in moving the state toward closure.
+
+In mid-March, the work of the modelers inclined the governor and his aides to consider more extreme measures, even a shutdown. He said, though, that some local officials and business owners pushed back against the idea of shutting down. The administration, he said, believed that the effectiveness of a shutdown would depend on the willingness of people to go along.
+
+“Turn the valve, isolate hot spots, wind things down,” the official said. “It’s a big undertaking. You want people to comply.”
+
+Newsom, of course, had to balance taking dramatic action to limit the spread of the virus with the needs of business interests in his state, too. California, which would have the world’s fifth largest economy if it were its own nation, is home to crucial segments of the nation’s oil and gas and food industries.
+
+In an email, the Newsom administration said those sectors were designated as part of the essential workforce during the state’s shutdown because of their importance to public health and safety. The administration said it had been in frequent contact with business and labor leaders across the state, talking individually to groups representing grocers, growers, farmworkers and Chevron.
+
+The Newsom administration would not answer a question about whether it had communicated its shelter-in-place strategy with Cuomo.
+
+With New York City’s schools closed, de Blasio on March 17 raised the possibility of asking everyone in the city to shelter in place.
+
+The Cuomo official said de Blasio’s talk was “freaking people out.” If the most drastic sorts of constraints on the public were to be ordered, it would be done with deliberation.
+
+On March 19, Cuomo announced what he called “the ultimate step.” He issued an executive order requiring “that all nonessential businesses statewide must close in-office personnel functions.” Cuomo said he was temporarily banning “all nonessential gatherings of individuals of any size for any reason.”
+
+It would be another two days before the order went into effect.
+
+“We know the most effective way to reduce the spread of this virus is through social distancing and density reduction measures,” Cuomo said. “I have said from the start that any policy decision we make will be based on the facts, and as we get more facts we will calibrate our response accordingly.”
+
+“Again, I want to remind New Yorkers that the panic we are seeing is outpacing the reality of the virus,” Cuomo added, “and we will get through this period of time together.”
+
+ProPublica asked Denis Nash, a professor of epidemiology at the CUNY Graduate School of Public Health and Health Policy, to evaluate the Cuomo administration’s repeated boast: that it had acted faster than any other state in moving from the discovery of the first case to the closing of the state.
+
+Nash said the claim was misleading, and that the administration’s measure is irrelevant. The more telling metric is the timing of action in relation to spread. One way to calculate that, he said, would be deaths per million, which was about 10 times higher in New York than in California by the time officials decided to close down the state.
+
+Funeral Director Lily Sage Weinrieb transfers remains from a New York City hospital on April 23. Before the pandemic, her funeral home averaged 30 to 40 clients per month. Now that number has quadrupled. (Misha Friedman/Getty Images)
+
+“There is no question that California timed its response better,” he said.
+
+Nash was one of 18 experts who tried to get the city to act sooner in a formal letter to de Blasio.
+
+“As early as the first week of March, the governor and the mayor were being told from all around them that there was active community transmission happening in New York and they needed to take action,” he said. “They knew. And it seems disingenuous to now claim they were the fastest.”
+
+This Isn’t Italy
+
+In recent days, both Cuomo and de Blasio have talked about the importance of looking candidly at the deadly events that have unfolded in New York, of identifying mistakes and better preparing for future disasters, including a potential second wave of COVID-19.
+
+But it remains to be seen how searching that look back will be.
+
+De Blasio, for instance, again seemed to insult his Health Department when he last week assigned oversight of the city’s critical contact tracing program to Katz, the city hospital executive who had expressed skepticism in March about the need for the city to close down.
+
+The contact tracing effort, under which the city will try and systematically hunt down people at risk of having been infected, will be a vital part of any effort to open New York back up. The Health Department has always done this work, but now it will be answerable to Katz.
+
+De Blasio has said the arrangement will help make the effort more efficient and less expensive.
+
+As for Cuomo, he has swerved from what seemed like moments of personal reckoning to harsh assaults on others he blames for New York’s dire outcomes.
+
+“If you don’t understand how it happened last time and you don’t learn the lessons of what happened last time, then you will repeat them, right?” Cuomo said at a May 8 news briefing. “And there’s a chance this virus comes back. They talk about a second wave. They talk about a mutation. And if it’s not this virus, another public health issue. And I think we have to learn from this.”
+
+Yet at the same briefing, Cuomo laid out a narrative of the disaster that seeks to blame the CDC and others for failing to make clear one of the great threats to New York came not from China, but from those infected in Europe.
+
+“Nobody was saying, ‘Beware of people coming from Europe.’ We weren’t testing people coming from Europe,” Cuomo said. “We weren’t telling anyone at the time if you have a European visitor or European guest, make sure they get tested. They walked right through the airport.”
+
+The narrative, of course, fails to note people were not just flying from Europe to New York, but to California and other cities and states. And it seems to portray New York, its health departments and government officials, as somehow innocent bystanders, incapable of having themselves seen the threat from Europe and factored that in their response. That Italy and Spain were being overwhelmed by the virus was hardly a secret.
+
+As for his own state’s actions, Cuomo today appears to see little reason for regret or apology.
+
+At one media briefing in April, as New Yorkers died by the hundreds daily, Cuomo made a bold claim.
+
+“Today, we can say that we have lost many of our brothers and sisters, but we haven’t lost anyone because they didn’t get the right and best health care that they could,” he said. “The way I sleep at night is I believe that we didn’t lose anyone that we could have saved, and that is the only solace when I look at these numbers and I look at this pain that has been created that has to be true.”
+
+Cuomo just last week seemed to double down on the sentiment.
+
+“I don’t think New Yorkers feel or Americans feel that government failed them here,” he said in an interview. “I think they feel good about what government has done. ... Their health care system did respond. This was not Italy, with all due respect. ... There were not people in hallways who didn’t get health care treatment.”
+
+“Government didn’t cause or allow anyone to die.”
+
+Sean Campbell, Joshua Kaplan and Caroline Chen contributed reporting.
+
+Clarification, May 19, 2020: This story has been updated to clarify that the San Francisco Department of Public Health was involved in response efforts to Ebola and SARS.

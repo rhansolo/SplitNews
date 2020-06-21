@@ -1,0 +1,183 @@
+Thomas Caldwell was a veteran in his 60s with a soft physique, oval glasses, no income, and a history of mental illness. “I’ve been schizophrenic all my life, hearing voices,” he once said in a courtroom. He didn’t have a license to sell firearms, but that hadn’t stopped him. In 2015, according to prosecutors, police found a Glock in a Milwaukee drug house and quickly linked it to him. He’d purchased it only the day before.
+
+Months later, an agent with the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) confronted Caldwell about the pistol. According to the ATF, he said he had been purchasing guns from a licensed dealer, then reselling many of them through Armslist.com, a website that connects sellers with buyers looking for anything from a pistol to an AR-15.
+
+If Caldwell wanted to sell guns, the ATF warned him, there was a proper way to do it. Without obtaining a federal firearms license, he was breaking the law and potentially putting weapons into the hands of criminals.
+
+Caldwell didn’t listen, and he managed to turn flipping guns into a substantial business, prosecutors later said. Between December 2015 and May 2018, he made cash deposits into his bank account totaling more than $19,000, all from gun sales. Even after his initial run-in with authorities, he kept up the practice for years. In 2017, Madison police found a Taurus 9mm pistol during an investigation, then traced it back to a purchase Caldwell had made two weeks before.
+
+Eventually, the ATF found that 11 guns recovered by police during investigations had been purchased by Caldwell. Since the ATF’s 2015 warning, he’d bought 95 handguns and 11 rifles from 57 different sellers. Caldwell posted more than 200 listings for guns on the website, according to prosecutors, sometimes explicitly noting the weapons were brand-new and unfired.
+
+According to prosecutors, he had said that a license was “too much paperwork”
+
+Officials believed the short “time to crime” — the gap between a sale and when it’s recovered at a crime scene — meant Caldwell had become a known source for criminals. A prosecutor would later say a tragedy was “inevitable.” As the Chicago Tribune noted last year, authorities declined to say why he wasn’t charged much earlier.
+
+Two years after he first came to the attention of the ATF, agents organized an undercover sting, buying a Walther .40-caliber pistol from Caldwell on Armslist. But while Caldwell was still under investigation, he sold a weapon on Armslist and, months later, the gun somehow arrived in Chicago. When it did, Police Commander Paul Bauer responded to a call in the Loop and caught up with a suspect. In the struggle that followed, Bauer was shot six times and killed with the gun.
+
+Caldwell, according to the ATF, described selling guns as an addiction. Police executed a search warrant on his home and uncovered 44 firearms as they kept building their case. Owning a lot of guns is not in itself a crime, and undeterred, Caldwell sold another gun to an undercover investigator on Armslist a month later.
+
+He pleaded guilty to illegally selling guns in 2018, nearly three years after first being warned by the ATF. According to prosecutors, he had said that a license was “too much paperwork.”
+
+Caldwell isn’t the only frequent user of Armslist. Over the years, the website has become a major destination for firearm buyers and sellers. The site can be used legally, and its terms of use explicitly direct users to follow applicable firearms laws. Critics, however, say the site’s operators have taken a hands-off approach to moderating the content on their platform that fuels violence and allows private sellers to bypass getting a federal firearms license.
+
+Law enforcement faces legal barriers to policing rogue sellers like Caldwell, but the law has also put Armslist itself out of reach. The same legal protections meant to help the internet flourish have also ensured the guns keep flowing.
+
+“To protect the good actors, you have to write a standard that allows people to be pretty terrible actors too,” says James Grimmelmann, professor of law at Cornell University. “The challenge is how do you distinguish the good from the terrible actors.”
+
+Under federal law, it’s legal for people to sell guns without a background check. It’s only when they become “engaged in the business” of selling guns that they are required by law to obtain a license from the ATF and run checks on every sale.
+
+So when does selling guns turn from a hobby into a full-fledged business enterprise? It’s difficult to tell. One person might, for example, inherit dozens of antiques and sell them without issue. But another person might buy a handful of guns from a registered seller, flip them in private sales without conducting background checks, and be deemed engaged in the business.
+
+Executive actions made during the second term of the Obama presidency were supposed to tighten the definition of “engaging in the business.” They state that those “who utilize the Internet or other technologies must obtain a license, just as a dealer whose business is run out of a traditional brick-and-mortar store.” At the time, critics argued that the actions were “legally meaningless” and that they amounted to little more than “political theater.”
+
+“The president and Congress often charge administrative agencies with very broad and ambitious tasks, and they rarely provide sufficient funding to actually carry them out,” said Timothy Lytton, a distinguished professor of law at Georgia State University who specializes in safety regulation and gun violence.
+
+The ambiguity of federal law — and the fact it is rarely enforced — leaves it open to exploitation. And Armslist is home to many sellers whose activity falls in a gray area.
+
+The Verge and The Trace scraped more than 2 million Armslist listings from December 2016 through March 2019 to identify users who may be skirting the law through high-volume sales.
+
+“If someone calls you up and says, ‘Hey, I’d like to buy a gun,’ you should be able to check if the person can have a gun”
+
+We searched the text of listings for phone numbers and isolated the numbers that appeared most frequently. Armslist encourages users to communicate through direct messages on the website, but some sellers may include direct contact information in their posts.
+
+We identified more than 700 phone numbers that appeared in 10 or more listings. The most used phone number belonged to a seller in South Carolina who was associated with more than 300 listings on Armslist during the period of time covered by our scraping. (The user denied posting ads on the site, but confirmed their phone number, which was included as contact information on each ad.) Thirty-eight other phone numbers appeared in 50 or more posts on the site.
+
+To determine if sellers were licensed to conduct sales, we compared the contact information in the ads against the publicly available list of federal firearms licenses, which contains registered sellers’ names, addresses, and phone numbers. Only 14 of the phone numbers attached to a high volume of ads appeared in the ATF’s database.
+
+The Trace and The Verge called every phone number linked to 25 or more listings — nearly 150 in total. We spoke to 10 sellers altogether. None of those sellers said they had a license to deal firearms. Two acknowledged that they used Armslist to turn a profit on sales, while the rest reported using the site primarily to offload firearms in their private collections. “Obviously if you get something and you know can get more for it, you’re probably just going to turn around and sell it again,” one user said.
+
+All of the users we spoke with said they vetted prospective buyers in some way, whether by reading through the person’s online presence or simply getting a sense of the person while negotiating a sale. But only a handful said they took customers to a licensed firearms dealer to perform a background check before making a sale.
+
+One user from Florida, whose phone number was connected to nearly 50 listings, said he didn’t conduct background checks on sales. But he wished that there was an easy way to review the history of a potential buyer. The user said that some people reaching out through Armslist didn’t pass a gut check for a firearm transfer.
+
+“If someone calls you up and says, ‘Hey, I’d like to buy a gun,’ you should be able to check if the person can have a gun,” the Florida user said. “I want to be a responsible gun owner.”
+
+The number of posts from a user doesn’t necessarily match the number of gun sales, and the tool couldn’t account for duplicate posts. However, for every user we spoke with, we confirmed that their phone numbers appeared in multiple non-duplicate posts on the site.
+
+We described our findings to law enforcement officials to get a sense of whether this constituted evidence of sellers being “engaged in the business.”
+
+A man was convicted of engaging in the business of selling guns without a license, while serving as an FBI agent
+
+In a statement, an ATF spokesperson said the agency looks at each case to see “whether there is sufficient evidence of willful misconduct” to prove a violation. “The volume of sales is only one factor in evaluating whether someone is unlawfully engaged in the business, particularly since federal law expressly allows individuals to sell their personal firearms collections without a license,” the spokesperson said. “Numerous additional factors, such as the intent of the seller, must be considered.”
+
+To build a case, prosecutors must demonstrate that a person was willfully taking illegal action — that a seller knew what they were doing was wrong and flouted the law anyway.
+
+“People who break this law should be prosecuted,” says Thomas Chittum, assistant director of field operations at the ATF. “But it’s a challenging law to prosecute because of the willfulness requirement and because it’s very fact-intensive, and sometimes those facts aren’t readily available.”
+
+Prosecutors have relied on the volume of online listings as evidence in past cases. In 2010, a man was convicted of engaging in the business of selling guns without a license, while serving as an FBI agent. He had posted nearly 300 online gun ads over more than three years and collected more than $118,000 in firearm sales.
+
+United States Attorney for the District of Minnesota Erica MacDonald stifled laughter when asked whether prosecutors might want to scrutinize a seller who had posted hundreds of listings. “Yeah,” she said.
+
+Guns are sold online in many ways. Retailers like Bass Pro Shops, Brownells, or BudsGunShop.com sell their firearms through company websites, but buyers pick up the guns from licensed dealers. There are also online marketplaces, like GunBroker and GunsAmerica, where the websites directly participate in the transaction in some way and allow for firearm transfers to flow through federal license holders. Then there are places like Armslist that function as an online classified section tailored to guns, and all transactions are done peer to peer.
+
+The idea for Armslist formed in the summer of 2007, when Jonathan Gibbon was a student at the US Air Force Academy, he told the website Human Events. He saw that Craigslist had banned gun listings and thought he could step in to fill the void. So he connected with his classmate Brian Mancini at a Fourth of July party and they put together a basic version of the site.
+
+Someone looking to offload a gun can put up a listing on Armslist in minutes and then simply wait for prospective buyers to reach out. With a few clicks, sellers can say where they’re selling their gun, the make and build, how much it costs, and include an email address for queries. The process is as easy as buying a chair on Craigslist. Many of the users we spoke with said the site’s simplicity is a big part of its draw.
+
+When a buyer visits a listing, they can learn nearly everything they’d want to know about their new firearm. Up top, there are pictures of the gun from multiple angles, along with the manufacturer and caliber size. They just need to click on the “contact seller” button to move forward and complete the sale. In some cases, sellers will include a personal cell number.
+
+“It connects firearm owners and enthusiasts, helping people to find deals on firearms and gear in their local area,” Gibbon told Human Events in 2010. “Imagine a gun show that never ends, but you need an internet connection.”
+
+Looking for a pistol? Machine gun and silencer? Rocket launcher? Armslist users are willing to sell you one.
+
+Since its founding, Armslist has gone on to become one of the most popular gun advertising websites. The site offers nearly any kind of gun you could imagine. Looking for a pistol? Machine gun and silencer? Rocket launcher? Armslist users are willing to sell you one.
+
+Once you find what you’re looking for, just contact the seller and arrange a meetup to finish the transaction. The transfer can take place in a gun store, home, or parking lot. There are no rules on where the handover needs to happen, as long as the timing works for both parties. The process is flexible enough for even the busiest online gun buyer.
+
+The business has also become notorious for giving firearm access to people prohibited from owning guns. In a paper published in 2019, researchers with the University of Minnesota scraped more than 4.9 million Armslist listings from the website and found that less than 10 percent mentioned a background check.
+
+In 2011, Demetry Smirnov, a Russian immigrant living in Canda, illegally purchased a handgun on Armslist and later used it to murder a woman who spurned his romantic advances. Mohammod Youssuf Abdulazeez, a naturalized US citizen who became a radicalized jihadist, used weapons acquired through Armslist to kill five US service members in Chattanooga, Tennessee in 2015. In 2018, a woman who used Armslist to traffic guns was sentenced to 18 months in prison, but before her sentencing, one of her former firearms was used to shoot a police officer in Boston. And last year, federal prosecutors brought a case against an Alabama resident who admitted to trafficking guns acquired through Armslist to New York, California, and Mexico, after he watched a documentary film on gun trafficking in 2016.
+
+Gun selling that bypasses the background check system through private transactions is commonly called the gun show loophole — in this case, the gun show just happens to be online. There are only a couple of restrictions: if the seller believes that the gun might be going to a person who is prohibited from owning a firearm or is from outside of their state, they cannot legally make the sale.
+
+There are no laws that explicitly target the sale of firearms over the internet, and all online sales are supposed to be held to the same legal standards as sales that occur at physical locations. Machine guns, silencers, and other firearms and accessories regulated under the National Firearms Act require fingerprinting and registration with the ATF. Licensed federal firearms dealers are required to perform background checks and maintain records of gun sales.
+
+Advocates and the US government have been studying the sale of firearms and gun accessories through Armslist and other online websites for years, but little has changed in terms of how they operate. In February 2019, the advocacy group Everytown For Gun Safety contacted 150 sellers on Armslist to buy firearms undercover. More than 65 percent of these sellers indicated that they would not require a background check to complete the sale. (Everytown’s charitable arm provides funding to The Trace.)
+
+When the ATF finds someone it believes to be illegally selling guns, the agency might, in lieu of immediate prosecution, send a warning letter demanding the person stop selling. A warning letter can lay the groundwork for a case showing a suspect knew what they were doing was over the line, Chittum says. It can also act as a deterrent for illegal gun sellers, when prosecutors can’t take every case.
+
+“The fact that he kept doing it after getting a letter from ATF was kind of a head scratcher”
+
+Lytton says that warning letters are a commonly used tactic across regulatory bodies, and are a low-cost tool to enforce federal standards, which can be especially useful if the agency doesn’t have the resources to mount a full investigation. But they have an obvious drawback: the addressee may choose to ignore them.
+
+Around 2014, in one case in Minnesota, a man named Eitan Feldman began buying and reselling guns, often purchasing them from a registered dealer and then flipping them on Armslist, according to prosecutors. Guns he’d sold started turning up at crime scenes: police said they linked shots fired at a Minneapolis home to a pistol Feldman had bought a week earlier, and during a marijuana trafficking investigation, recovered a revolver Feldman had bought three months before. The ATF executed a search warrant on his house, finding shotguns that Feldman had legally purchased and then posted for sale on Armslist, sometimes within days of buying them.
+
+In 2015, ATF agents personally handed Feldman a written warning saying he appeared to be a “dealer in firearms” under the law and informed him that he could face criminal prosecution if he continued. Still, he kept selling guns, flipping six semi-automatic pistols and a semi-automatic rifle over the next few months, according to court records. “The fact that he kept doing it after getting a letter from ATF was kind of a head scratcher,” says Assistant US Attorney for the District of Minnesota Benjamin Bejar, who prosecuted the case.
+
+Feldman was eventually charged with illegally selling firearms. “Most defendants whom I sentence have not had the courtesy of having the federal government hand them a written warning and give them a chance to stop,” the judge said during the hearing. He was sentenced to 18 months’ imprisonment in 2016.
+
+But whether illegal sellers are warned or not, the consequences can be devastating.
+
+Christopher Henderson and John Phillips, according to court records, made a business out of buying guns in the South, where gun restrictions are loose, and then reselling them up north. The two would buy from sellers on Armslist in Kentucky, rolling through the state in a white Dodge Challenger, then drive them back to Chicago. A broker working with Henderson and Phillips would then resell the weapons, often on Facebook. Soon after, the guns would turn up at crime scenes.
+
+In 2017, about nine miles away from where Commander Paul Bauer was killed, a 15-year-old boy named Xavier Soto was murdered. Prosecutors later linked the gun used in the killing — a Taurus pistol — to a purchase Henderson made through Armslist.
+
+Both of the men were sentenced for illegal sales. At Henderson’s sentencing, Soto’s sister gave an emotional account of her brother’s short life.
+
+“Our lives will never be the same,” she told the court through tears. “These alleged individuals supplied a weapon that was used to murder a 15-year-old boy.”
+
+When she dialed 911 after an assault in October 2012, Zina Daniel Haughton said her husband, Radcliffe Haughton, had been violent for years. Police took her to a Holiday Inn for the night, her family later said in court papers, but he showed up at her work the next day with a knife and slashed the tires of her car.
+
+Zina soon asked for a restraining order against Radcliffe. She explained to a Wisconsin court: he had an explosive temper, threatening to throw acid on her face. “I don’t want to die,” she said in a hearing. The judge granted the restraining order, which barred her husband from owning a gun.
+
+Two days after her testimony, Radcliffe Haughton found and purchased a semi-automatic handgun on Armslist from a private seller who didn’t run a background check. Haughton made the buy from the front seat of the seller’s car, according to the family, in a McDonald’s parking lot. The next day, he entered the suburban Milwaukee salon where Zina worked and opened fire. He killed three people, including Zina, before turning the gun on himself.
+
+In the aftermath, Armslist faced questions about its role. Had the company effectively facilitated a mass shooting? Yasmeen Daniel, Zina’s daughter, was at the spa when her mother was killed, and filed suit against Armslist in 2015, arguing that the shooting could’ve been stopped.
+
+But the same law that shields major social media companies like Facebook from liability for terrorist content produced by their users also protects Armslist from being sued when bad actors use their platform. Section 230 of the Communications Decency Act is widely seen as the law that made the modern internet possible, paving the way for web forums, social media, and much more.
+
+”If you required a license for each tweet that gets posted, that would make Twitter impossible”
+
+The act protects website operators from being sued over what their users post. If someone writes a defamatory tweet, for example, the person being defamed can’t sue Twitter for letting it happen.
+
+”If you required a license for each tweet that gets posted, that would make Twitter impossible,” says Grimmelmann, the Cornell professor. “It doesn’t make firearm sales impossible.”
+
+Armslist relied on Section 230 for its defense in the Daniel case. The company’s lawyers argued that the website can’t be held liable for unlawful sales. “Under this theory, Armslist could go in, look at an ad, and say, ‘Oh, it’s an ad from the same seller who illegally sold 10 guns in the case that was famous last year, and wow, it looks like this ad is illegal,’” Grimmelmann says. ‘“We don’t care. We’re not going to touch it.’”
+
+The lawsuit’s counter argument was straightforward: Armslist wasn’t just a bystander on the sidelines while sales happened, but a participant. The design of the site, the suit argued, allowed buyers to search specifically for sellers who wouldn’t do a background check, giving people who were barred from owning guns an easy way to buy one. The suit said the website relied on a business model that “put guns in the hands of prohibited purchasers.”
+
+The Daniel family’s suit has faced mixed judgments from the courts. After one court dismissed the suit, an appeals court reversed the decision, allowing it to proceed. A second appeal, this time from Armslist, elevated the case to Wisconsin’s Supreme Court, which decided that Armslist was protected under the Communications Decency Act. Most recently, in November of last year, the Supreme Court of the US declined to hear the case, leaving in place the Wisconsin Supreme Court’s ruling.
+
+The intersection of internet speech law and gun rights policy has scrambled some usual political divides. After the Wisconsin Supreme Court decision, the Cato Institute, a libertarian think tank, said that changes to 230 would cause “real and permanent” damage to the Second Amendment. The nonprofit Electronic Frontier Foundation, which argues for civil rights online, filed a brief in the case in favor of Armslist, arguing that finding the website liable would “severely curtail free expression online.”
+
+The brief put the nonprofit at odds with groups like the nonprofit Cyber Civil Rights Initiative, which argues that the law was meant to protect good Samaritans, not to give cover to anyone who runs a website with third-party activity regardless of the consequences.
+
+“The fact that Armslist is still in business after all the lawsuits it’s faced is pretty remarkable”
+
+The Wisconsin Supreme Court disagreed, noting in its decision that Armslist couldn’t be held responsible even if it knew its site would be used to break the law. So long as a website can be used for legal purposes, it didn’t matter that it was used for illegal activity, too.
+
+Seen from one angle, the battle over Armslist looks like a microcosm of the larger war over Silicon Valley power and accountability. Should Facebook, for example, face consequences for failing to fact-check political ads? Both Republicans and Democrats have taken aim at Section 230 recently, worried about the broad legal shield it gives the tech industry.
+
+Eric Goldman, a professor at the Santa Clara University School of Law who has written about the benefits of 230, said the court that ruled against Armslist “just kind of went off the rails,” and he argues that chipping away at protections in the law will lead to legal problems for smaller sites.
+
+”The key point of Section 230 was that Congress wanted sites to have the freedom to try and police against bad content, and not fear that they would be liable for anything they miss,” Goldman says. “If they’re held to a 100 percent standard, then they wouldn’t do it at all.”
+
+Some people might want to see Armslist go, he says, but other sites will also lose legal protections without 230. “The fact that Armslist is still in business after all the lawsuits it’s faced is pretty remarkable,” he says. “Without Section 230 they would’ve been gone a long time ago.”
+
+The power of the law isn’t limitless, however. Federal prosecutors could shut down the website and indict its owners under criminal charges if they believed the law was broken.
+
+”One of the standard tropes in the field is that Section 230 creates a lawless zone,” Goldman says. “Anyone who says that is factually wrong. Section 230 does not restrict federal criminal prosecutions.”
+
+But Mary Anne Franks, president of the Cyber Civil Rights Initiative, says the law has effectively given a special legal shield to online activity that wouldn’t be protected in physical space. “If it wouldn’t be speech if it was offline, it shouldn’t be speech if it’s online,” she argues.
+
+”Punching somebody in the face is not speech, even though it might be very expressive,” she says. “What Section 230 has done is seduce courts into not making that kind of analysis. Instead, they assume that if it’s happening online then it’s speech, and then they go to the next step.”
+
+Franks questions whether the stakes have truly hit home for defenders of a broad interpretation of the statute. “We have a case in Armslist which is really a question of life or death, and they don’t seem to think that that’s relevant,” she says.
+
+After pleading guilty for illegally selling guns on Armslist, Thomas Caldwell had his sentencing hearing in November 2018. While he faced charges for illegal gun sales, the killing of Commander Paul Bauer loomed over the proceedings. Caldwell’s defense team pleaded for probation, saying Caldwell had been through enough: his “digital legacy will connect him forever” with the murdered officer, his attorneys wrote to the court.
+
+The prosecution disagreed, and pushed for prison time. A prosecutor told the judge that Caldwell had disregarded a warning from the ATF. They needed to make clear that was unacceptable. “Next time an ATF agent delivers one of those warning letters, I want them also to be able to be in the position to deliver a story. ‘Look what happened to Thomas Caldwell,’” the prosecutor said. To add emotion to their argument, the prosecution called for the testimony of someone who knew Bauer well: Northeastern Illinois University Police Chief John Escalante.
+
+Escalante grew up with Bauer from the age of seven. The two went to the same grade school, the same college, and then joined the Chicago Police Department together. Escalante always thought Bauer was the responsible one. In college, Bauer was the serious student, Escalante said, while he was “a little bit more of a partier” and was “politely asked” not to return after two years. But as luck would have it, in 1986, they entered the police department within one month of each other. “We spent the next 30 years chasing each other around the streets of Chicago as Chicago police officers,” he said.
+
+Escalante remembered getting the call from an officer he knew on the force. He told Escalante that he should sit down, and delivered the news that Bauer had been shot.
+
+When Escalante learned that the gun had made its way from Wisconsin to Chicago through Armslist, he wasn’t surprised. Escalante rose through the ranks of the Chicago Police Department and was, for a time, its interim superintendent. He’d seen the toll of illegal gun sales on the city. “It’s happened too many times and now it happened to my good friend Paul and it shouldn’t have,” he said.
+
+At Caldwell’s sentencing, Escalante said he was looking back at “every text, every email” with Bauer for moments that made him laugh. He didn’t mention Armslist, but focused on “accountability,” and “those that put the guns into the hands of those that commit the violence.”
+
+Escalante said that he’d struggled to say Bauer had died. “You die of old age, you die of sickness, you die from accidents, but when someone fires multiple rounds into your body, that’s not dying,” he told the court, “that’s a murder.”
+
+This story was published in partnership with The Trace, a nonprofit newsroom covering gun violence.
+
+Update, 2:30PM ET, January 17th: In a statement sent following publication, an attorney for Armslist said “courts have consistently ruled that Armslist.com falls squarely within the ‘safe harbor’ of Section 230” and that the company both “fully complies” with all laws and regularly assists law enforcement. “The gist of the opposition to Armslist lies in opposition to the private ownership of firearms,” the statement said.
