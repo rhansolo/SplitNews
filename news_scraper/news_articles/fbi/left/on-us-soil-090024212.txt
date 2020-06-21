@@ -1,0 +1,191 @@
+On Dec. 29, 2016, the Obama administration announced that it was giving nearly three dozen Russian diplomats just 72 hours to leave the United States and was seizing two rural East Coast estates owned by the Russian government. As the Russians burned papers and scrambled to pack their bags, the Kremlin protested the treatment of its diplomats, and denied that those compounds — sometimes known as the “dachas” — were anything more than vacation spots for their personnel.
+
+The Obama administration’s public rationale for the expulsions and closures — the harshest U.S. diplomatic reprisals taken against Russia in several decades — was to retaliate for Russian meddling in the 2016 presidential election. But there was another critical, and secret, reason why those locations and diplomats were targeted.
+
+Both compounds, and at least some of the expelled diplomats, played key roles in a brazen Russian counterintelligence operation that stretched from the Bay Area to the heart of the nation’s capital, according to former U.S. officials. The operation, which targeted FBI communications, hampered the bureau’s ability to track Russian spies on U.S. soil at a time of increasing tension with Moscow, forced the FBI and CIA to cease contact with some of their Russian assets, and prompted tighter security procedures at key U.S. national security facilities in the Washington area and elsewhere, according to former U.S. officials. It even raised concerns among some U.S. officials about a Russian mole within the U.S. intelligence community.
+
+“It was a very broad effort to try and penetrate our most sensitive operations,” said a former senior CIA official.
+
+American officials discovered that the Russians had dramatically improved their ability to decrypt certain types of secure communications and had successfully tracked devices used by elite FBI surveillance teams. Officials also feared that the Russians may have devised other ways to monitor U.S. intelligence communications, including hacking into computers not connected to the internet. Senior FBI and CIA officials briefed congressional leaders on these issues as part of a wide-ranging examination on Capitol Hill of U.S. counterintelligence vulnerabilities.
+
+These compromises, the full gravity of which became clear to U.S. officials in 2012, gave Russian spies in American cities including Washington, New York and San Francisco key insights into the location of undercover FBI surveillance teams, and likely the actual substance of FBI communications, according to former officials. They provided the Russians opportunities to potentially shake off FBI surveillance and communicate with sensitive human sources, check on remote recording devices and even gather intelligence on their FBI pursuers, the former officials said.
+
+“When we found out about this, the light bulb went on — that this could be why we haven’t seen [certain types of] activity” from known Russian spies in the United States, said a former senior intelligence official.
+
+The compromise of FBI systems occurred not long after the White House’s 2010 decision to arrest and expose a group of “illegals” – Russian operatives embedded in American society under deep non-official cover – and reflected a resurgence of Russian espionage. Just a few months after the illegals pleaded guilty in July 2010, the FBI opened a new investigation into a group of New York-based undercover Russian intelligence officers. These Russian spies, the FBI discovered, were attempting to recruit a ring of U.S. assets — including Carter Page, an American businessman who would later act as an unpaid foreign policy adviser to Donald Trump’s 2016 presidential campaign.
+
+The breaches also spoke to larger challenges faced by U.S. intelligence agencies in guarding the nation’s secrets, an issue highlighted by recent revelations, first published by CNN, that the CIA was forced to extract a key Russian asset and bring him to the U.S. in 2017. The asset was reportedly critical to the U.S. intelligence community’s conclusion that Russian President Vladimir Putin had personally directed the interference in the 2016 presidential election in support of Donald Trump.
+
+President-elect Donald Trump speaks, with Vice President-elect Mike Pence by his side, on Nov. 9, 2016. (Photo: Jabin Botsford/The Washington Post via Getty Images) More
+
+Yahoo spoke about these previously unreported technical breaches and the larger government debates surrounding U.S. policies toward Russia with more than 50 current and former intelligence and national security officials, most of whom requested anonymity to discuss sensitive operations and internal discussions. While the officials expressed a variety of views on what went wrong with U.S.-Russian relations, some said the United States at times neglected to appreciate the espionage challenge from Moscow, and paid a significant price for a failure to prioritize technical threats.
+
+“When I was in office, the counterintelligence business was … focused entirely on its core concern, which is insider threats, and in particular mole hunting,” said Joel Brenner, the head of U.S. counterintelligence and strategy from 2006 to 2009. “This is, in fact, the core risk and it’s right that it should be the focus. But we were neither organized nor resourced to deal with counterintelligence in networks, technical networks, electronic networks.”
+
+The discovery of Russia’s newfound capacity to crack certain types of encryption was particularly unnerving, according to former U.S. officials.
+
+“Anytime you find out that an adversary has these capabilities, it sets off a ripple effect,” said a former senior national security official. “The Russians are able to extract every capability from any given technology. ... They are singularly dangerous in this area.”
+
+More
+
+The FBI’s discovery of these compromises took place on the heels of what many hoped would be a breakthrough between Washington and Moscow — the Obama administration’s 2009 “reset” initiative, which sought to improve U.S.-Russia relations. Despite what seemed to be some initial progress, the reset soon went awry.
+
+In September 2011, Vladimir Putin announced the launch of his third presidential campaign, only to be confronted during the following months by tens of thousands of protesters accusing him of electoral fraud. Putin, a former intelligence officer, publicly accused then-Secretary of State Hillary Clinton of fomenting the unrest.
+
+It was around this time that Putin’s spies in the United States, operating under diplomatic cover, achieved what a former senior intelligence official called a “stunning” technical breakthrough, demonstrating their relentless focus on the country they’ve long considered their primary adversary.
+
+A December 2011 protest in Moscow against the alleged rigging of parliamentary polls. (Photo: Kirill Kudryavtsev/AFP/Getty Images) More
+
+That effort compromised the encrypted radio systems used by the FBI’s mobile surveillance teams, which track the movements of Russian spies on American soil, according to more than half a dozen former senior intelligence and national security officials. Around the same time, Russian spies also compromised the FBI teams’ backup communications systems — cellphones outfitted with “push-to-talk” walkie-talkie capabilities. “This was something we took extremely seriously,” said a former senior counterintelligence official.
+
+The Russian operation went beyond tracking the communications devices used by FBI surveillance teams, according to four former senior officials. Working out of secret “listening posts” housed in Russian diplomatic and other government-controlled facilities, the Russians were able to intercept, record and eventually crack the codes to FBI radio communications.
+
+Some of the clandestine eavesdropping annexes were staffed by the wives of Russian intelligence officers, said a former senior intelligence official. That operation was part of a larger sustained, deliberate Russian campaign targeting secret U.S. government communications throughout the United States, according to former officials.
+
+The two Russian government compounds in Maryland and New York closed in 2016 played a role in the operation, according to three former officials. They were “basically being used as signals intelligence facilities,” said one former senior national security official.
+
+An estate in Oyster Bay, N.Y., one of two Russian diplomatic compounds seized by the Obama administration in late 2016 as punishment for Moscow’s alleged interference in the U.S. election. (Photo: Alexander F. Yuan/AP) More
+
+Russian spies also deployed “mobile listening posts.” Some Russian intelligence officers, carrying signals intelligence gear, would walk near FBI surveillance teams. Others drove vans full of listening equipment aimed at intercepting FBI teams’ communications. For the Russians, the operation was “amazingly low risk in an angering way,” said a former senior intelligence official.
+
+The FBI teams were using relatively lightweight radios with limited range, according to former officials. These low-tech devices allowed the teams to move quickly and discreetly while tracking their targets, which would have been more difficult with clunkier but more secure technology, a former official said. But the outdated radios left the teams’ communications vulnerable to the Russians. “The amount of security you employ is the inverse of being able to do things with flexibility, agility and at scale,” said the former official.
+
+A former senior counterintelligence official blamed the compromises on a “hodgepodge of systems” ineffective beyond the line of sight. “The infrastructure that was supposed to be built, they never followed up, or gave us the money for it,” said the former official. “The intelligence community has never gotten an integrated system.”
+
+The limitations of the radio technology, said the former senior officials, led the FBI’s surveillance personnel to communicate on the backup systems.
+
+“Eventually they switched to push-to-talk cellphones,” said a former counterintelligence executive. “The tech guys would get upset by that, because if they could intercept radio, they might be able to intercept telephones.”
+
+That is indeed what happened. Those devices were then identified and compromised by Russian intelligence operatives. (A number of other countries’ surveillance teams — including those from hostile services — also transitioned from using radios to cellphones during this time, noted another former official.)
+
+The FBI seal outside the bureau's headquarters in Washington. (Photo: Yuri Gripas/AFP/Getty Images) More
+
+U.S. intelligence officials were uncertain whether the Russians were able to unscramble the FBI conversations in real time. But even the ability to decrypt them later would have given the Russians critical insights into FBI surveillance practices, including “call signs and locations, team composition and tactics,” said a former intelligence official.
+
+U.S. officials were also unsure about how long the Russians had been able to decipher FBI communications before the bureau realized what was happening. “There was a gap between when they were really onto us, and when we got onto them,” said a former senior intelligence official.
+
+Even after they understood that the Russians had compromised the FBI teams’ radios, U.S. counterintelligence officials could not agree on how they had done it. “The intel reporting was they did break our codes or got their hands on a radio and figured it out,” said a former senior intelligence official. “Either way, they decrypted our comms.”
+
+Officials also cautioned, however, that the Russians could only crack moderately encrypted communications, not the strongest types of encryption used by the U.S. government for its most sensitive transmissions. It was nonetheless “an incredible intelligence success” for the Russians, said the former senior official.
+
+While the Russians may have developed this capability by themselves, senior counterintelligence officials also feared that someone from within the U.S. government — a Russian mole — may have helped them, said former officials. “You’re wondering, ‘If this is true, and they can do this, is this because someone on the inside has given them that information?’’ said another former senior intelligence official.
+
+Vladimir Putin, then Russia's prime minister, in September 2011, around the time he announced he would stand for president in 2012. (Photo: Yana Lapikova/AFP/Getty Images) More
+
+Russia has a clear interest in concealing how it gets its information, further muddying the waters. According to a former senior CIA officer who served in Moscow, the Russians would often try to disguise a human source as a technical penetration. Ultimately, officials were unable to pinpoint exactly how the Russians pulled off the compromise of the FBI’s systems.
+
+Mark Kelton, who served as the chief of counterintelligence at the CIA until he retired in 2015, declined to discuss specific Russian operations, but he told Yahoo News that “the Russians are a professionally proficient adversary who have historically penetrated every American institution worth penetrating.”
+
+This remains a core worry for U.S. spy hunters. The number of ongoing espionage investigations into U.S. government personnel — at the CIA, the FBI and elsewhere — including those potentially recruited by Russia, “is not a little, it’s a lot,” said another former senior counterintelligence official.
+
+Once the compromises of FBI communications devices were confirmed, U.S. officials scrambled to minimize the exposure of mobile surveillance team operations, quickly putting countermeasures in place, according to former senior officials. There was a “huge concern” about protecting the identities of the individuals on the teams — an elite, secret group — said the former senior counterintelligence official. U.S. officials also conducted a damage assessment and repeatedly briefed select White House officials and members of Congress about the compromise.
+
+After the FBI discovered that its surveillance teams’ cellphones had been compromised, they were forced to switch back to encrypted radios, purchasing different models, according to two former officials. “It was an expensive venture,” said one former counterintelligence official.
+
+But the spying successes went both ways. The U.S. intelligence community collected its own inside information to conclude that the damage from the compromises had been limited, partly due to the Russians’ efforts to keep their intelligence coup secret, according to a former senior intelligence official. “The Russians were reticent to take steps [that might reveal] that they’d figured it out,” the former senior official said.
+
+More
+
+Even so, the costs to U.S. intelligence were significant. Spooked by the discovery that its surveillance teams’ communications had been compromised, the FBI worried that some of its assets had been blown, said two former senior intelligence officials. The bureau consequently cut off contact with some of its Russian sources, according to one of those officials.
+
+At the time of the compromise, some of the FBI’s other Russian assets stopped cooperating with their American handlers. “There were a couple instances where a recruited person had said, ‘I can’t meet you anymore,’” said a former senior intelligence official. In a damage assessment conducted around 2012, U.S. intelligence officials concluded the events may have been linked.
+
+The impact was not limited to the FBI. Alerted by the bureau to concerns surrounding Russia’s enhanced interception capabilities, the CIA also ceased certain types of communications with sources abroad, according to a former senior CIA official. The agency “had to resort to a whole series of steps” to ensure the Russians weren’t able to eavesdrop on CIA communications, the former senior official said. There was a “strong hint” that these newly discovered code-breaking capabilities by Russia were also being used abroad, said another former senior intelligence official.
+
+The CIA has long been wary of Russian spies’ eavesdropping efforts outside of the United States, especially near U.S. diplomatic facilities. U.S. officials have observed Russian technical officers repeatedly walking close to those compounds with packages in their hands, or wearing backpacks, or pushing strollers, or driving by in vehicles — all attempts, U.S. officials believe, to collect information on the different signals emanating from the facilities. While the tools used by the Russians for these activities were “a bit antiquated,” said a former senior CIA official, they were still a “constant concern.”
+
+It’s not unusual for intelligence officers operating from diplomatic facilities, including the United States’s own operatives, to try and intercept the communications of the host nation. “You had to find ways to attack their surveillance,” said Rolf Mowatt-Larssen, former head of counterintelligence at the Department of Energy and a former CIA officer who first served in Moscow in the 1980s. “The Russians do everything in the U.S. that we did in Moscow.”
+
+Indeed, the focus on cracking radio communications was no different.
+
+“We put extraordinary effort into intercepting and monitoring the FSB surveillance radio networks for the purpose of understanding whether our officers were under surveillance or not,” said another former senior CIA officer who also served in Moscow.
+
+Entrance to a Russian diplomatic compound in Maryland that was shuttered in late 2016 in retaliation for alleged election hacking. (Photo: Brian Witt/AP) More
+
+The discovery of the Russians’ new code-breaking capabilities came at a time when gathering intelligence on Russia and its leaders’ intentions was of particular importance to the U.S. government. U.S. national security officials working on Russia at the time received rigorous security training on how to keep their digital devices secure, according to two former senior officials. One former U.S. official recalled how during the negotiations surrounding the reset, NSC officials, partially tongue in cheek, “would sometimes say things on the phone hoping [they] were communicating things to the Russians.”
+
+According to a former CIA official and a former national security official, the CIA’s analysts often disagreed about how committed Russia was to negotiations during the attempted reset and how far Putin would go to achieve his strategic aims, divergences that confused the White House and senior policy makers.
+
+“It caused a really big rift within the [National Security Council] on how seriously they took analysis from the agency,” said the former CIA official. Senior administration leaders “went along with” some of the more optimistic analysis on the future of U.S.-Russia relations “in the hopes that this would work out,” the official continued.
+
+Those disagreements were part of a “reset hangover” that persisted, at least for some inside the administration, until the 2016 election meddling, according to a former senior national security official. Those officials clung to the hope that Washington and Moscow could cooperate on key issues, despite aggressive Russian actions ranging from the invasion of Ukraine to its spying efforts.
+
+“We didn’t understand that they were at political war with us already in the second term once Putin was reelected and Obama himself was reelected,” said Evelyn Farkas, the former deputy assistant secretary of defense for Russia, Ukraine, and Eurasia during the Obama administration.
+
+More
+
+As high-level hopes for the U.S.-Russia “reset” withered, concerns about the threat of Russian spying made their way to Capitol Hill. Top officials at the FBI and CIA briefed key members of Congress on counterintelligence issues related to Russia, according to current and former U.S. officials. These included briefings on the radio compromises, said two former senior officials.
+
+Mike Rogers, a former Republican lawmaker from Michigan who chaired the House Permanent Select Committee on Intelligence from 2011 to 2015, alluded to counterintelligence concerns at a conference earlier this year in Washington, D.C.
+
+One of those concerns was a massive intelligence failure related to the secret internet-based communications system the CIA used to communicate with agents. The extent of that failure, first reported publicly by Yahoo News in 2018, got the attention of Congress earlier.
+
+But the problems were broader than that issue, according to Rogers.
+
+“Our counterintelligence operations needed some adjustments,” said Rogers, adding that he and his Democratic counterpart from Maryland, Dutch Ruppersberger, requested regular briefings on the subject from agency representatives. “We started out monthly until we just wore them out, then we did it quarterly to try to make sure that we had the right resources and the right focus for the entire community on counter[intelligence].”
+
+Rogers later told Yahoo News that his request for the briefings had been prompted by “suspected penetrations, both physical and technical, which is the role of those [Russian and Chinese] intelligence services,” but declined to be more specific.
+
+The former committee chairman said he wanted the intelligence community to make counterintelligence a higher priority. “Counterintelligence was always looked at as the crazy uncle at the party,” he said. “I wanted to raise it up and give it a robust importance.”
+
+More
+
+The briefings, which primarily involved counterintelligence officials from the FBI and CIA and were limited to the committee leadership and staff directors, led to “some useful inquiries to help focus the intelligence community,” Rogers said. The leaders of the Senate Select Committee on Intelligence were also included in some of the inquiries, according to Rogers and a current U.S. government official.
+
+Spokespeople for the current House and Senate intelligence committees did not respond to a request for comment. The FBI and CIA declined to comment. The Russian Embassy in Washington, D.C. did not respond to a request for comment.
+
+The briefings were designed to “get the counterintelligence house in order,” said Jamil Jaffer, senior counsel at the House intelligence committee from 2011 to 2013, and to ensure that Congress and the intelligence agencies were “on the same page” when it came to such matters. “There were some concerns about what the agencies were doing, there were some concerns about what Congress knew, and all of these issues, of course, had China-Russia implications.”
+
+Rogers and Jaffer declined to provide further details about what specific counterintelligence issues the committee was addressing, but other former officials indicated that worries weren’t limited to the compromise of FBI radio systems. Senior U.S. officials were contemplating an even more disturbing possibility: that the Russians had found a way to penetrate the communications of the U.S. intelligence community’s most sensitive buildings in and around Washington, D.C.
+
+Suspected Russian intelligence officers were seen conspicuously loitering along the road that runs alongside the CIA’s headquarters, according to former senior intelligence officials. “Russian diplomats would be sitting on Route 123, sometimes in cars with diplomatic plates, other times not,” a former senior intelligence executive said. “We thought, they’re out doing something. It’s not just taking down license plates; those guys are interrogating the system.”
+
+Though this behavior dated back at least to the mid-2000s, former officials said those activities persisted simultaneously with the compromise of the FBI’s communication system. And these were not the only instances of Russian intelligence operatives staking out locations with a line of sight to CIA headquarters. They were “fixated on being in neighborhoods” that gave them exposure to Langley, said a former senior official.
+
+FBI headquarters in Washington, D.C. (Photo: Getty Images) More
+
+Over time, U.S. intelligence officials became increasingly concerned that Russian spies might be attempting to intercept communications from key U.S. intelligence facilities, including the CIA and FBI headquarters. No one knew if the Russians had actually succeeded.
+
+“The question was whether they had capabilities to penetrate our comms at Langley,” said a former senior CIA official. In the absence of any proof that that was the case, the working theory was that the Russian activities were provocations designed to sow uncertainty within the CIA. “We came to the conclusion that they were trying to get into our heads,” the former senior official said.
+
+A major concern was that Russian spies with physical proximity to sensitive U.S. buildings might be exfiltrating pilfered data that had “jumped the air gap,” i.e., that the Russians were collecting information from a breach of computers not connected to the Internet, said former officials.
+
+One factor behind U.S. intelligence officials’ fears was simple: The CIA had already figured out how to perform similar operations themselves, according to a former senior CIA officer directly familiar with the matter. “We felt it was pretty revolutionary stuff at the time,” the former CIA officer said. “It allowed us to do some extraordinary things.”
+
+While no one definitively concluded that the Russians had actually succeeded in penetrating Langley’s communications, those fears, combined in part with the breach of the bureau’s encrypted radio system, drove an effort by U.S. intelligence officials around 2012 to fortify sensitive Washington-area government buildings against potential Russian snooping, according to four former officials.
+
+At key government facilities in the Washington area, entire floors were converted to sensitive compartmented information facilities, or SCIFs. These are specially protected areas designed to be impenetrable to hostile signals intelligence gathering.
+
+The normal assumption was that work done in a SCIF would be secure, but doubts arose about the safety of even those rooms. “The security guys would say, your windows are ‘tempested’”—that is, protected against the interception of emissions radiating from electronic equipment in the building —“you’re in a SCIF, it’s fine,” a former senior counterintelligence executive recalled. “The question was, ‘Is it true?’”
+
+Increasingly, U.S. officials began to fear it was not.
+
+New security practices were instituted in sensitive government facilities like the FBI and CIA headquarters, according to former officials. “It required many procedural changes on our part to make sure we were not susceptible to penetrations,” said a former senior CIA official. These included basic steps such as moving communication away from windows and changing encryption codes more frequently, as well as more expensive adjustments, said four former officials.
+
+Revelations about the Russian compromise of the radio systems, recalled a former senior intelligence official, “kick-started the money flowing” to upgrade security.
+
+More
+
+While the breaches of the FBI communications systems appeared to finally spur Congress and the intelligence agencies to adopt steps to counter increasingly sophisticated Russian eavesdropping, it took the Putin-directed interference in the 2016 election to get the White House to expel at least some of those officials deemed responsible for the breaches, and to shut down the facilities that enabled them.
+
+Even then, the decision was controversial. Some in Washington worried about retribution by the Russians and exposure of American intelligence operations, according to a former senior U.S. national security official directly involved in the discussions. The FBI consistently supported expulsions, said another former national security official.
+
+More than two years later, the Russian diplomatic compounds used in the FBI communications compromises remain shuttered. The U.S. government has prevented many of the Russian spies expelled by the United States from returning, according to national security experts and senior foreign intelligence officials. “They are slowly creeping back in, but [the] FBI makes it hard,” said a senior foreign intelligence official. “The old guard is basically screwed. They need to bring in a whole new generation.”
+
+Former FBI Director Robert Mueller leaves a meeting with members of the Senate Judiciary Committee in June 2017. (Photo: Chip Somodevilla/Getty Images) More
+
+In the meantime, those familiar with Russian operations warn that the threat from Moscow is far from over. “Make no mistake, we’re in an intelligence war with the Russians, every bit as dangerous as the Cold War,” said a former senior intelligence officer. “They’re trying all the time ... and we caught them from time to time,” he said. Of course, he added, “you don’t know what you don’t know.”
+
+That’s the same message that special counsel Robert Mueller tried to convey during the highly contentious hearings to discuss his report on Russian interference in the 2016 election. “They are doing it as we sit here, and they expect to do it during the next campaign,” Mueller told lawmakers on the House Intelligence Committee about covert Russian involvement in U.S. politics.
+
+But a number of observers believe Mueller’s message about the threat from Russia was largely lost amid a partisan battle on Capitol Hill over President Trump.
+
+During his Washington conference appearance earlier this year, Rogers, the former chair of the House Intelligence Committee, also lamented that the current politicized state of the intelligence committees would make spy agencies more hesitant to admit their failures.
+
+“They're not going to call you to say, 'I screwed up.' They're going to say, 'God, I hope they don't find that,’” he said. “That's what's going to happen. I'll guarantee it's happening today.”
+
+_____
+
+Download the Yahoo News app to customize your experience.
+
+Read more from Yahoo News:
