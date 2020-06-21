@@ -46,7 +46,24 @@ def textsummarize(body, size):
 
     return temp
 
+def leftandright(biases):
+    returnlist = []
+    leftstring = ""
+    for i in biases[0]:
+        leftstring = leftstring + i['body']
+    returnlist.append(textsummarize(leftstring, .05))
 
+
+    central = ""
+    for i in biases[1]:
+        central = central + i['body']
+    returnlist.append(textsummarize(central, .05))
+
+    rightstring = ""
+    for i in biases[2]:
+        rightstring = rightstring + i['body']
+    returnlist.append(textsummarize(rightstring, .05))
+    return returnlist
 
 def search(term):
     subscription_key = "82439de0d47c4c80924cdda033e1c8d0"
@@ -65,6 +82,7 @@ def search(term):
 
 
     fullstack = get_bias(urllist)
+    hugefirstreturnthing = leftandright(fullstack)
     ret_urls = []
     for q in fullstack:
         for site in q:
@@ -94,8 +112,7 @@ def search(term):
         finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
         finaldict[i['url']][5] = textsummarize(i['body'], .3)
-    print(json.dumps(list(finaldict.values())))
-    print("DUMBASS AEIHGEGH")
-    return list(finaldict.values())
+    
+    return (hugefirstreturnthing, list(finaldict.values()))
 
 
