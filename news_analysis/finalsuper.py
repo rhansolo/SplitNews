@@ -7,7 +7,8 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from heapq import nlargest
-
+from bias_detector import get_bias
+import json
 
 def textsummarize(body, size):
     text = body
@@ -42,7 +43,8 @@ def textsummarize(body, size):
     summary = nlargest(select_length, sentence_scores, key = sentence_scores.get)
     final_summary = [word.text for word in summary]
     temp = ' '.join(final_summary)
-    print(temp)
+
+    return temp
 
 
 
@@ -63,30 +65,37 @@ def search(term):
 
 
     fullstack = get_bias(urllist)
-
+    ret_urls = []
+    for q in fullstack:
+        for site in q:
+            ret_urls.append(site['url'])
+    print("heyo")
     totalinformation = []
     for i in search_results['value']:
         totalinformation.append(i)
 
     finaldict = {}
     for i in range(len(urllist)):
+        if urllist[i] not in ret_urls:
+            continue
         if urllist[i] not in finaldict.keys():
-            finaldict[urllist[i]] = (totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", "")
+            finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", ""]
     for i in fullstack[0]:
-        finaldict[i['url']][3] = -1
+        finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
         finaldict[i['url']][5] = textsummarize(i['body'], .3)
 
     for i in fullstack[1]:
-        finaldict[i['url']][3] = 0
+        finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
         finaldict[i['url']][5] = textsummarize(i['body'], .3)
 
-    for i in fullstack[1]:
-        finaldict[i['url']][3] = 1
+    for i in fullstack[2]:
+        finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
         finaldict[i['url']][5] = textsummarize(i['body'], .3)
-
-    return finaldict.values()
+    print(json.dumps(list(finaldict.values())))
+    print("DUMBASS AEIHGEGH")
+    return list(finaldict.values())
 
 
