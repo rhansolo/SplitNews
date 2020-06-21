@@ -11,6 +11,10 @@ def home():
 def get_current_time():
     return {'time': time.time()}
 
+@app.route('/time2')
+def get_current_time2():
+    return '<p>' + str(time.time()) + '</p>'
+
 if __name__ == '__main__':
     app.debug = True
     app.run()
