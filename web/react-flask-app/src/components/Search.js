@@ -47,7 +47,7 @@ class Search extends Component {
                 <SearchBar
                   label="Search"
                   name="search"
-                  placeholder="Enter keywords or an article title"
+                  placeholder="Enter keywords or an article title..."
                   value={search}
                   onChange={this.onChange}
                   error={errors}
