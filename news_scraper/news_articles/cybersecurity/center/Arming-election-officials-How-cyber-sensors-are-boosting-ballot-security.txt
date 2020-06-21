@@ -1,0 +1,89 @@
+As Americans go to the polls in an early voting season that is smashing records in multiple states for midterm elections, Brian Calkin and his analysts are on watch 24/7, looking for cyberthreats from their center near Albany, N.Y. “We are always looking, always monitoring,” Mr. Calkin says. A 12-foot by 16-foot interactive map on the wall displays in real time cyberthreat alerts as they are issued across the country. The alerts are triggered by cybertraffic detection devices called Albert sensors that have been positioned in the election systems of participating jurisdictions in at least 47 states. The center opened in March, and the sensor coverage is not yet comprehensive. But would-be election hackers can’t know with certainty where the sensors are. One is located in Florida’s Citrus County, where elections supervisor Susan Gill says she and her staff treat every ballot as if it were a $100 bill. “After 2016, our whole world changed with cybersecurity,” Ms. Gill says. With the help of her Albert sensor, she says she feels prepared. Gill, who has run elections for 22 years, is under no illusion about the importance of her job. “People have to have confidence in our electoral process,” she says. “Otherwise, we have lost everything.”
+
+Susan Gill has never met Anatoliy Sergeyevich Kovalev.
+
+The supervisor of elections in Florida’s Citrus County wouldn’t know Mr. Kovalev from a television repairman if he walked into her office on Election Day.
+
+That’s the problem.
+
+Kovalev is a Russian military intelligence officer assigned to Unit 74455. In 2016, he helped hack into the website of the Illinois Board of Elections and stole the files of a half-million voters, according to an indictment brought by special counsel Robert Mueller.
+
+Ms. Gill has run elections for 22 years in her county northwest of Orlando. She’s one of the most experienced election supervisors in Florida. But it is highly unlikely that Gill would be able to detect a cyber-intrusion by Kovalev and his comrades in Moscow.
+
+So she’s enlisted the help of a group of American specialists who can.
+
+“We are always looking, always monitoring,” says Brian Calkin, who runs a 24-7 cyberthreat detection center near Albany, N.Y. Officially, the center is called the Election Infrastructure Information Sharing Analysis Center (EI-ISAC).
+
+The operations center, part of the nonprofit Center for Internet Security, is staffed by 16 analysts working behind computer screens with a 12-foot by 16-foot interactive map on the wall that displays in real-time cyberthreat alerts as they are issued across the country.
+
+The alerts are triggered by cybertraffic detection devices – called Albert sensors – that have been positioned in the election systems of participating jurisdictions.
+
+Albert sensors are in place in at least 47 states and 68 counties. The center opened in March and the sensor coverage is not yet comprehensive. There are 10,000 separate election jurisdictions in the United States. But would-be election hackers can’t know with certainty where the sensors are.
+
+One of the Albert sensors is embedded in Citrus County’s election system. It enables Mr. Calkin and his colleagues to digitally look over Gill’s shoulder (from 1,200 miles away) and warn her if they detect anything suspicious.
+
+What they are looking for is an electronic signature associated with past malicious activity. For example, if Kovalev and his comrades attempt to duplicate their attack on Illinois, ideally the signature would be picked up, they would be identified, and local officials would receive a warning of a potential attack.
+
+It would then be up to local officials to take action to defend their election systems.
+
+The signatures are updated continually with input from multiple government and private sector sources.
+
+An important first step
+
+Calkin says his center is already receiving 5,000 to 6,000 alerts of potential cyber-intrusions every month. Nearly a third of them result in notifications to local election officials.
+
+“Every single alert that every sensor generates has a criticality associated with it,” Calkin says. “The analyst will then make a determination to either pick up the phone to call somebody or simply send them an email – or in some cases both.”
+
+He adds: “It happens within 10 minutes.”
+
+Election security experts praise the program as an important innovation.
+
+“This is absolutely critical,” says Maurice Turner of the Center for Democracy and Technology. In addition to providing an early warning system to local election officials, the combination of a network of disbursed sensors and the centralized operations center creates the ability to warn other jurisdictions across the country to be on the lookout for certain kinds of cyberthreats, he says.
+
+“It greatly increases the speed and volume of the information that is shared [to other jurisdictions] about potential threats,” Mr. Turner says. “That helps mitigate the impact of widespread attacks.”
+
+Some 1,400 election jurisdictions have become information-sharing partners with the cyber-intrusion center. That means that if a particularly dangerous threat is discovered by an Albert sensor, they will receive an urgent warning about that threat.
+
+There are some criticisms of the program.
+
+The sensors being deployed are not technologically sophisticated and are only as good as the operation center’s database of malicious signatures, says Parham Eftekhari of the Institute for Critical Infrastructure Technology (ICIT). He adds that the sensors will not prevent malware from activating.
+
+But he stresses that deployment of such sensors is an important first step. “Compared to where we were only a few short years ago, the fact that states are deploying [sensors] and that there is so much collaboration between the federal government, [the operations center], and state/local officials is extremely encouraging,” Mr. Eftekhari wrote in an email to the Monitor.
+
+“The trust that is being developed as a result of this process is the foundation off of which we will see the development of layered [protection] strategies that incorporate more advanced technologies,” he said.
+
+One big question looming over the operations center and its newly deployed Albert sensors is whether it would have picked up the Russian attack on Illinois in 2016.
+
+“We would have certainly seen those inbound attempts hitting their database and we would have sent a notification off and let them know about that,” Calkin says.
+
+Despite the intrusion in Illinois and other actions allegedly taken by the Russians during the 2016 election season, election security officials emphasize that no votes were lost or changed. In 2018 it will be even harder to change a vote or stall an election.
+
+“This is a huge step from where we were in 2016,” says Chris Wlaschin, a cybersecurity expert with Election Systems and Software (ES&S), which produces voting systems for customers in 42 states.
+
+“I think in the next 12 to 18 months you are going to see a huge leap in the number of jurisdictions that have these monitors installed,” he says.
+
+“The more that are out there the better understanding we have of the threats being posed against election infrastructure and the better we will be able to respond to those threats,” Mr. Wlaschin says.
+
+Restoring voter confidence
+
+At the same time, Albert sensors are by no means a silver bullet, Wlaschin and other experts warn.
+
+Election officials must put in place multiple layers of protection, including firewalls, malware, physical security, and cybersecurity training for local officials.
+
+Ultimately the threat is far broader than just protecting votes and voter information in a database. Russia’s big success in 2016, according to some analysts, was to interfere in the election in a way that caused some Americans to doubt the sanctity of their own democratic processes.
+
+“What 2016 showed is that Russia could accomplish this weakening of American democracy at very little expense,” says David Becker of the Center for Election Innovation and Research.
+
+“There are a lot of forces out there that want to tell voters that their vote doesn’t matter or won’t be counted and that they don’t really have a voice in our democracy,” Mr. Becker says.
+
+“I think voters in America should be resolved, knowing that public servants have worked hard to make sure their votes do matter and that their votes will count,” he says.
+
+Among those public servants is elections supervisor Gill, who says she and her staff treat every ballot as if it were a $100 bill.
+
+“I’m not an IT expert,” Gill concedes. “After 2016, our whole world changed with cybersecurity.”
+
+Get the Monitor Stories you care about delivered to your inbox. By signing up, you agree to our Privacy Policy
+
+Now, with the help of her Albert sensor, she says she feels prepared. “I feel like we are doing everything we can.”
+
+Gill is under no illusion about the importance of her job. “People have to have confidence in our electoral process,” she says, “otherwise we have lost everything.”

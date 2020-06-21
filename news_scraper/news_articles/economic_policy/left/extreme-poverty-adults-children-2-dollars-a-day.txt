@@ -1,0 +1,41 @@
+In discussions of poverty in the US, child poverty tends to get most of the focus.
+
+And I think there are good reasons for that. While the US has more poverty than other rich countries in general, it is a particular outlier on child poverty. In 2016, the US poverty rate for children (defined as the share living on less than half the median income) was 20.9 percent, compared to 14.2 percent in Canada, 11.8 percent in the UK, and a tiny 8.9 percent in Sweden. We’re just about the only rich country without some kind of per-child cash grant distributed to most parents.
+
+But lately I’ve started thinking that the US poverty discussion focuses a little too much around kids and not enough around childless adults.
+
+I want to be clear: I still think offering a simple cash allowance to all parents, like almost all other rich countries do, would be very good policy. It’s an elegant and popular way to cut poverty, and there are developmental benefits that don’t apply as much when you’re supporting adults without children.
+
+I’m just saying that families with kids aren’t the only ones — and perhaps aren’t even the primary ones — in need of additional assistance.
+
+I recently got a hold of an unpublished paper by sociologists David Brady and Zachary Parolin, which tried to estimate how extreme poverty in the US has changed from 1997 to 2015 (you can read a related paper from them on child poverty here).
+
+Among other things, Brady and Parolin find that the share of extremely poor households — those living on less than 10 percent of the median American income — with kids has been falling. In 2013-15, only 16.4 percent of extremely poor people lived in households with children, down from 31.6 percent in 1993-95. The rest lived in households of adults without dependent kids.
+
+What’s more, they find that extreme poverty did not rise between 1993 and 2016 for people in households with children. By contrast, it more than doubled for individuals in childless households.
+
+Why is extreme poverty concentrated in childless households?
+
+Brady and Parolin aren’t alone in finding this. And their explanation for why childless poverty is outstripping child and parent poverty as a problem is startling: food stamps (formally known as the Supplemental Nutrition Assistance Program or SNAP) have expanded much more for families with kids than for others.
+
+“Without SNAP, extreme poverty would be rising for [households] with children,” Parolin explains in an email. “With SNAP, it remains low and declines from the late 1990s onward.”
+
+The paper doesn’t identify the main reason that SNAP did so much less to reduce extreme poverty among childless people. But a significant factor is likely the Able-Bodied Adults Without Dependents (ABAWDs) rule, which imposes a time limit of three months of benefits every three years for non-disabled adults not working at least 20 hours a week.
+
+As it happens, we know a lot more about what ABAWDs does than we used to because it was waived in many places until recently, due to high unemployment in the wake of the Great Recession.
+
+A recent Urban Institute study found that in Kentucky counties where the requirement returned, food stamp enrollment among non-disabled childless adults fell by 44 percent. In counties where the requirement didn’t return, enrollment in the group was stable.
+
+The implication is clear: This requirement is incredibly effective at keeping childless adults from receiving food stamps — and thus likely contributing to miring them in poverty.
+
+Now, I don’t know that this rule specifically is behind the increase in extreme poverty. My guess is that it plays a role, but Brady and Parolin don’t single it out. That said, removing it would be a relatively simple way to ensure that more resources go to poor adults without children.
+
+And we shouldn’t stop there. Twenty-six states have general assistance programs, which offer cash assistance to childless adults. In 15, recipients have to be disabled or otherwise “unemployable,” but 11 states, including large ones like California, New York, and New Jersey, offer benefits to non-disabled adults who don’t have another source of income.
+
+These programs have gotten rarer in recent decades and stingier. Between 1998 and 2015, benefits in California fell from $324 a month to $221.
+
+A national general assistance scheme for all childless people, regardless of disability level, would be a natural way to plug this hole in the safety net. And luckily, there’s now a bill in Congress that would achieve that: The Lift Plus Act from Rep. Rashida Tlaib (D-MI) would provide a flat $3,000 per adult cash stipend each year for low-income households.
+
+If we want to take childless poverty seriously, it’s a good place to start.
+
+Sign up for the Future Perfect newsletter. Twice a week, you’ll get a roundup of ideas and solutions for tackling our biggest challenges: improving public health, decreasing human and animal suffering, easing catastrophic risks, and — to put it simply — getting better at doing good.

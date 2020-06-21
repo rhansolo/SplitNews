@@ -1,0 +1,87 @@
+Sen. Bernie Sanders and his Medicare-for-all proposal were again the targets of attacks at Tuesday’s Democratic debate in South Carolina, but the senator had a retort for opponents who doubt his single-payer plan would work: a brand-new study published in The Lancet.
+
+The study, authored by a group of Yale researchers, came to two conclusions that Sanders touted during the debate. Under Medicare-for-all, the researchers found, the United States would spend $3 trillion on health care annually, or about $460 billion less than the country spent in 2017 under the current system, and universal coverage would save almost 69,000 lives in America every year.
+
+Related 4 winners and 2 losers from the Democratic debate in South Carolina
+
+As his opponents painted his plan as too expensive and unrealistic, Sanders turned to the Lancet article to defend himself at Tuesday’s debate:
+
+I’m sure you’re familiar with the new study that just came out of Yale University, published in Lancet magazine, one of the prestigious medical journals in the world. You know what it said? Medicare-for-all will lower health care costs in this country by $450 billion a year, and save 68,000 lives of people who otherwise would have died. What we need to do is to do what every other major country on Earth does: guarantee health care to all people. Not have thousands of separate insurance plans, which are costing us some $500 billion a year to administer.
+
+It was the perfect evidence for Sanders’s message: Single-payer health care would save money and save lives. But if you dig into the numbers, it gets a little more complicated.
+
+The Yale study’s authors assume bigger savings and bigger health benefits than the other researchers who have looked at the same question. It’s certainly possible Medicare-for-all would result in lower spending and better health. But there are a ton of unknowns in how such a program would work in practice. That’s why we sometimes see wide differences in estimating what single-payer would cost.
+
+So while the Lancet study gives Sanders good talking points for the debate stage, it’s probably the rosiest projection of life under Medicare-for-all that you’re going to see. No one — not single-payer supporters or opponents — should take one study in isolation.
+
+Why Yale researchers think Medicare-for-all would save so much money
+
+In short, Sanders’s Medicare-for-all plan would set up a new government insurance plan that would cover every single American. It would replace the existing Medicare and Medicaid programs, as well as the employer-sponsored insurance that 150 million Americans currently receive. The benefits under that new government plan would be very generous: Medical care would be free when you go to the doctor or hospital, with only small copays required for prescription drugs.
+
+The case for Medicare-for-all has always been this: You cover everybody, with better benefits, and you can bring down costs because the government would suddenly have a monopoly on paying for health care. Payment rates could be reduced for doctors and hospitals, while the government would have more leverage to negotiate lower prices from drugmakers.
+
+With all that in mind, the Yale researchers expect these big savings from Medicare-for-all:
+
+$219 billion from administrative savings, because the Medicare program currently spends 2.2 percent on overhead while private insurance spends 12.4 percent
+
+$188 billion from negotiating lower prices for prescription drugs, based on the rates the Veteran Affairs Department currently pays (which are about 40 percent lower than those paid by Medicare)
+
+$100 billion from reducing payments to health care providers, by setting rates at Medicare levels (which are about 20 percent lower than private insurance and 20 to 30 percent higher than Medicaid)
+
+$78 billion from avoiding unnecessary hospitalizations and emergency room visits by improving access to primary care
+
+That all sounds great. But there are reasons to be a little cautious.
+
+First, you should know the lead author on this study, Alison Galvani, disclosed in the paper that she’s been an unpaid adviser to Sanders’s Senate office.
+
+And then there are some of the assumptions the authors make to come up with their numbers.
+
+Payment rates — again, how much providers would be paid — are a big one. If you’ll recall, there was a wonky fight between Medicare-for-all advocates and the libertarian think tank Mercatus Center last year, and it was all about payment rates. The author of the Mercatus Center’s Medicare-for-all review, which also showed savings versus the current system, had assumed the single-payer plan would pay out at Medicare rates. Just like the Lancet study.
+
+But despite relying on that assumption, he also said in his analysis that he didn’t believe it would be possible to set rates that low because of political resistance and the anticipated effect on providers. And if the payment rate were set higher, then expected savings would start to evaporate.
+
+This is really a legislative question, something that would be worked out if the time ever came to negotiate a Medicare-for-all bill in Congress. But it just highlights how much elasticity there is in projecting a health care plan’s cost. Change one number and suddenly the costs look a lot different.
+
+The same is true for the assumptions about administrative savings. The Medicare program and other countries’ national health insurance plans do run with greater efficiency than US private insurance, but the federal government might not be able to keep overhead down at 2 percent if it is suddenly responsible for everybody’s health care. The Yale authors tacitly acknowledged this point, stating that even if administrative spending is more like 6 percent, Medicare-for-all would still save money (assuming their other assumptions stay true).
+
+But there was one other assumption in the Lancet study that caused some skepticism among health policy wonks.
+
+One big reason other health care experts are skeptical of the Lancet paper
+
+One of the other big unknowns about Medicare-for-all is what people do once they get health care for free at the doctor’s office or hospital. How does medical utilization change once cost sharing is eliminated? Because while we know that right now people will sometimes skip treatment because of the cost, we also expect they will seek out care if it’s affordable.
+
+The Yale researchers did assume some new spending because of Medicare-for-all’s coverage expansion, which would provide meaningfully better benefits to the 24 percent of Americans who are either uninsured or underinsured (meaning they have an insurance plan but it does not provide full financial protection). The study expects about $191 billion in additional spending for those services.
+
+But they do not appear to anticipate any increased utilization for the other 76 percent of Americans with better health insurance. That assumption draws skepticism from others who study health care economics.
+
+The thing that jumped out to me most glaringly was the stipulation that utilization will ONLY increase among the 24% of Americans who are currently uninsured or underinsured (the yellow box has the underinsurance criteria from the cited Commonwealth Fund) pic.twitter.com/Syi2mBi5jZ — Adrianna McIntyre (@onceuponA) February 25, 2020
+
+The implication here is that going from modest cost-sharing to zero cost-sharing will have no impact on utilization. None.
+
+
+
+This is not a tenable assumption. The RAND HIE is dated, but it's not obsolete—it's backed up by a whole canon of health economics research now. — Adrianna McIntyre (@onceuponA) February 25, 2020
+
+The RAND study that McIntyre (a former Vox contributor) is referencing was conducted back in the 1970s. Its most salient finding: “Participants who paid for a share of their health care used fewer health services than a comparison group given free care.”
+
+Right now, almost all Americans have some kind of cost sharing in their health insurance, some amount they must pay out of pocket when they receive treatment. The RAND study would lead us to believe that therefore, some number of health care services are currently not being used because of that cost sharing. If cost sharing were eliminated, as Sanders is proposing, we’d expect utilization to go up — even among people who already had a good health insurance plan.
+
+This is another important variable in estimating Medicare-for-all’s costs. If the Yale researchers are correct, and most people’s health care usage remains the same, then the program could indeed be a big saver. But that’s a big if, one arguably unsupported by the available evidence.
+
+Sanders’s campaign cited the Lancet study in coming up with their financing plan for Medicare-for-all. It would raise about $17 trillion (while assuming certain other things, like states continuing to pay about as much as they currently do on Medicaid), which is less than outside economists think they need. Part of the reason for cost differences is the different assumptions made, as this Lancet paper helps illustrate.
+
+But if Medicare-for-all plays out differently in reality, then the price tag starts to look much different.
+
+It’s also hard to be sure exactly how much health coverage affects mortality
+
+The other highlight of the Lancet research was on mortality: an estimated 68,500 lives saved every year through universal coverage under Medicare-for-all. Nobody would be uninsured or underinsured, nobody would struggle to afford medical care, and so fewer people would die because they couldn’t get treatment.
+
+Much like estimated spending on Medicare-for-all, projecting the health benefits of giving so many people insurance is hard to quantify. As McIntrye and others pointed out, the earlier study that the Yale researchers relied on to come up with their own estimate had the biggest measured effect of health insurance on mortality in the academic literature. Other research found smaller effects, though the trend was still positive. It does certainly seem like giving more people health insurance saves lives.
+
+A blockbuster paper from December, analyzing patterns among people who were sent letters by the IRS urging them to sign up for insurance, found one fewer death for every 1,648 people who were contacted about enrolling in a health plan. Another recent study examining mortality and Medicaid expansion found the same general outcome, as Vox’s Tara Golshan reported:
+
+The researchers found that states that expanded Medicaid saw higher rates of enrollment and lower rates of uninsurance. Among the 55- to 64-year-olds studied, researchers found, receiving Medicaid “reduced the probability of mortality over a 16 month period by about 1.6 percentage points, or a decline of 70 percent.” Based on their findings, they estimate that states’ refusal to expand the program led to 15,600 additional deaths. This is in line with a growing body of research that shows Medicaid expansion has not only vastly increased access to health insurance, but also improved health outcomes.
+
+So in broad strokes, Sanders’s defense at the debate was legitimate. Medicare-for-all could potentially save money, if provider payment rates are kept low and there isn’t an explosion in medical demand. It should save lives, based on what we know about what happens with mortality rates once people get insurance.
+
+But it would be wise not to take the numbers too literally. There is a lot of guesswork in projecting what Medicare-for-all would cost and the effect it would have — and this is just one more set of assumptions and estimates to add to the pile.

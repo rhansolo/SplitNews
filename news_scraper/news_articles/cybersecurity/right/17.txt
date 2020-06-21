@@ -1,0 +1,19 @@
+Law enforcement officials confirmed election systems breaches in Illinois and Arizona earlier this summer that affected up to 200,000 records.
+
+The FBI is investigating how hackers compromised the personal information of voters in June. Ken Menzel, General Counsel for the Illinois Board of Elections, told Yahoo News that he was “highly confident” that records were not altered.
+
+“In the case of Arizona, the officials there say that they believe that someone downloaded a virus and may have compromised access into the system,” CNN’s Justice Correspondent Evan Perez said Monday. “The FBI is very much worried about personal information of voters that may be stolen by criminal groups that want to use it to steal money.”
+
+Authorities said both of the systems are not connected to the internet, which helps to ensure that hackers cannot change election results this November.
+
+The database breach comes just one month after the FBI sent out a “flash” alert encouraging election officials to beef up security.
+
+“This is a big deal,” said Rich Barger, chief intelligence officer for the cybersecurity firm ThreatConnect, Yahoo New reported. “Two state election boards have been popped, and data has been taken. This certainly should be concerning to the common American voter.”
+
+Michael Isikoff, Yahoo’s chief investigative correspondent who broke the story, said that reaching “hard conclusions” in terms of identifying the perpetrators would be difficult.
+
+The FBI’s flash alert did warn of Russian criminal hacker forums as one element keen to launch such attacks.
+
+Sign up for Daily Newsletters Manage Newsletters
+
+Copyright © 2020 The Washington Times, LLC. Click here for reprint permission.

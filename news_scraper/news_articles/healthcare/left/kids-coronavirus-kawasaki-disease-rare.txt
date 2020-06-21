@@ -1,0 +1,79 @@
+The journalists at BuzzFeed News are proud to bring you trustworthy and relevant reporting about the coronavirus. To help keep this news free, become a member and sign up for our newsletter, Outbreak Today .
+
+Public health officials are on high alert for a mysterious new illness likely linked to the coronavirus that is hospitalizing hundreds of kids across the US.
+
+
+
+On May 14, the Centers for Disease Control and Prevention gave the illness a name: the multisystem inflammatory syndrome in children, or MIS-C. At least 339 suspected or confirmed cases have been reported in 26 states, according to a BuzzFeed News review of data from local health departments. At least 170 of these cases — about half the total cases in the country — are under investigation in New York, ground zero for the nation’s worst coronavirus outbreak. Three kids have died.
+
+“For the first several months of this horrible pandemic, we really thought kids were not being affected,” according to Michael Anderson, president of the University of California San Francisco’s Benioff Children's Hospitals.
+
+Then in mid- to late April doctors in the United Kingdom and Italy began reporting kids of varying ages, from toddlers to teenagers, coming to the hospital with fevers, rashes, and other symptoms similar to an inflammatory illness called Kawasaki disease. In the last several weeks, cases have begun to be reported in cities like New York and Detroit as well.
+
+“Nobody read about this before. Nobody saw this coming. This is completely new,” said Jane Burns, director of the Kawasaki Disease Research Center, a collaboration between UC San Diego and Rady Children’s Hospital, “and it is absolutely incontrovertibly connected to the appearance in our communities of this coronavirus. You just can't walk away from that observation.”
+
+As with COVID-19, the disease caused by the novel coronavirus, there’s a lot experts do not know about this new syndrome, including what exactly is triggering it, who is most vulnerable, and how exactly it overlaps with Kawasaki disease. Further complicating matters, kids suspected of having it are exhibiting a wide range of symptoms, with some far more severe than others. Consequently, medical experts aren’t sure whether this is in fact a single syndrome or multiple ones.
+
+
+
+The good news, multiple pediatricians told BuzzFeed News, is the new syndrome is rare and most cases are treatable, and there’s so far been unprecedented coordination among academics, hospitals, and governments on both sides of the Atlantic Ocean to learn more.
+
+“This has really been a whole of government and whole of society response,” said Anderson, who has served as a consultant on the US government to learn more about the emerging syndrome. The United States Department of Health & Human Services, the Food and Drug Administration, National Institutes of Health, and CDC are “all working on overdrive to help the children's hospital and the pediatricians figure this out.”
+
+Here’s what we know so far about the new illness plaguing kids:
+
+The new illness is most similar to Kawasaki disease — with some crucial differences.
+
+Although no one knows exactly what triggers Kawasaki disease, it’s usually found in children who have viral infections. “We believe that the immune system has some massive reaction,” said Anderson.
+
+Commonly found in kids under 5 years old, the classic symptoms of Kawasaki disease include a high fever that lasts several days, a rash, bloodshot eyes, swollen hands and feet, and swollen lymph glands in the neck. One of the most extreme complications is the ballooning and weakening of a child’s heart, called “coronary artery aneurysms.” According to the CDC, 5,440 kids under the age of 18 were hospitalized in the US for Kawasaki disease in 2016.
+
+While children with the new MIS-C are being hospitalized with some of the same symptoms as Kawasaki disease, such as bloodshot eyes and rashes, they vary widely in age and more often experience heart complications and shock.
+
+“They have cardiovascular collapse,” said Burns of the Kawasaki Disease Research Center, “so their heart muscle is just not working.”
+
+There are also kids coming into hospitals with less severe symptoms, like prolonged fevers, abdominal pain, vomiting, and diarrhea. “Their laboratory studies are very different from what we typically see with Kawasaki disease,” said Burns, who views all these kids as experiencing “flavors of the same process with gradations of severity.”
+
+Most cases respond well to treatment.
+
+An overwhelming majority of the impacted kids are responding well to the same treatment used on patients with traditional Kawasaki disease. Specifically, the children have largely been treated with aspirin, steroids, and intravenous immunoglobulin therapy, or IVIg.
+
+“All of the children we’ve treated are getting better with steroids and IVIg. Of the 40-something we’ve had, we haven’t had anybody super sick. I know some places have,” said Steven Kernie, a pediatrician at New York’s Morgan Stanley Children’s Hospital.
+
+But in a few rare cases, children have died. New York has reported three deaths so far. According to a small case study published in the journal Lancet, out of the 8 children studied, ages 4 to 14, one died.
+
+
+
+Experts agree that the mystery illness is most likely linked to the coronavirus.
+
+Experts agree this new syndrome is very likely tied to the coronavirus since it has never been seen before this outbreak and is showing up primarily in coronavirus hot spots.
+
+Cases were first detected in Italy and the United Kingdom in the weeks following the peaks of local outbreaks. By April, European pediatricians started warning their colleagues across the Atlantic, who then started detecting cases on the East Coast and in the Midwest.
+
+On May 1, the UK’s Royal College of Paediatrics and Children’s Health released guidance on the new syndrome.
+
+The next day, hundreds of pediatric and public health experts — including officials from the CDC and the World Health Organization — gathered on a call organized by Jeffrey Burns, a pediatrician at Boston’s Children’s Hospital, to discuss cases identified so far in Europe and the US. Burns explained that the meeting was an “aha moment” for the pediatric community that the syndrome was definitely linked to the coronavirus outbreak.
+
+Since then, the CDC and the WHO both released guidance on how to identify the new syndrome.
+
+According to a few case studies out of Europe published so far, as well as accounts from US pediatricians, most of the impacted children have either tested positive for COVID-19 or have antibodies for the virus. For example, all of the some 40 kids diagnosed with MIS-C at New York’s Morgan Stanley Children’s Hospital have tested positive for the disease or related antibodies, according to Kernie. Crucially, they aren’t suffering from the respiratory problems plaguing adult victims of the pandemic.
+
+“These are children that never had any illness when they first became exposed,” said Jane Burns. “This seems to be something about the immune response to having been exposed to the virus.”
+
+The disease is serious — but so far it’s rare.
+
+“We’re not seeing thousands of kids flooding the emergency department,” UCSF’s Anderson said. “This is really rare.”
+
+Since the CDC issued a health alert for the new syndrome on May 14, at least 339 suspected or confirmed cases have been identified across 26 states, according to state and local officials that responded to questions about case counts from BuzzFeed News. The highest number of cases are in New York (170), Michigan (33), Massachusetts (24), New Jersey (19), Pennsylvania (17), Georgia (15), and Louisiana (13). Officials in California and Texas both said some cases were under investigation but declined to provide specific numbers.
+
+These numbers are changing daily, as more cases are identified and investigated, and they include children both currently in the hospital and those who have recovered.
+
+Officials in 18 states said they had zero reported cases, and a handful of states did not respond to a BuzzFeed News request for information.
+
+Multiple registries have been quickly set up worldwide to track these cases. In the US, the CDC has provided funding for a registry to track both COVID-19 and MIS-C cases in children at dozens of hospitals. The project is being run by Adrienne Randolph of Boston’s Children Hospital, who had previously set up the network to study the H1N1 influenza pandemic in kids.
+
+
+
+While experts are largely focused on the very basics of this new syndrome, such as how to define and identify it, some are starting to look to the future.
+
+“What is the impact on opening schools? What do we think the numbers could eventually be?” Anderson said. “There’s a lot of other things attached to it."

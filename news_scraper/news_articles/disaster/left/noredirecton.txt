@@ -1,0 +1,65 @@
+But there’s a problem: This is not a verified number, unlike body counts in wars. The Harvard study offers only an estimate – a midpoint along a broad range of possibilities. It is not based on death records, only estimates of deaths from people who were interviewed in a survey.
+
+In effect, the researchers took one number – 15 deaths identified from a survey of 3,299 households – and extrapolated that to come up with 4,645 deaths across the island. That number came with a very large caveat, clearly identified in the report, but few news media accounts bothered to explain the nuances.
+
+Here’s why you need to be very, very careful with this figure.
+
+The Facts
+
+Few disagree that the official death toll is far too low. The Puerto Rican government has already asked researchers at George Washington University’s Milken Institute School of Public Health to examine death certificate and mortality data to come up with a better number. That report is due to be completed in the coming months.
+
+There have been several attempts already to estimate the actual death toll. Here’s a sampling:
+
+The New York Times calculated 1,052 deaths through October.
+
+The Center for Investigative Reporting calculated 985 through October.
+
+University of Puerto Rico-Mayagüez professors calculated 822, with a 95 percent confidence range that the total was somewhere between 605 and 1,039.
+
+Pennsylvania State University professors calculated excess deaths of about 500 in September, or a total of 1,085 if the same pattern held in October. That estimate was based on six weeks of mortality records.
+
+A Latino USA analysis, using updated data from Puerto Rico’s Department of Health, calculated 1,194 excess deaths in September and October.
+
+Notice a consistent pattern? All of the estimates are roughly around 1,000 deaths, which is still about 15 times higher than the official count.
+
+These figures are also based on actual data, not estimates, though researchers have been stymied in obtaining complete November and December data because the government halted access until the completion of the formal report ordered by the government.
+
+The Harvard study took a different approach. The researchers surveyed a random sample of 3,299 households, representing 9,522 people, and obtained answers from about 93 percent. The survey participants identified 38 people who died after the hurricane through December. Of that number, three died directly from medical complications, illness or trauma because of the hurricane, and 12 died because of the interruption of medical services in the aftermath. The other 23 deaths were reported to be unrelated to the storm.
+
+From that base of survey data, the researchers extrapolated to the whole island and came up with a range of excess deaths. That range is 793 to 8,498, with a 95 percent confidence interval. This means, according to the researchers, that “if one had unlimited resources, and continued to take random samples, 95 percent of the resulting confidence intervals would include the actual death count.” The widely reported number of 4,645 is simply the midpoint and is no more or less valid than any other number in the range. (Note: the third sentence has been rewritten to directly quote from the document, as various experts have contacted The Fact Checker with differing definitions of a 95-percent confidence interval.)
+
+In response to questions, the researchers posted a document that includes this question: Does your study say that 4,645 died? The answer: “No. We provide a 95% confidence interval of 793 to 8,498, and 4,645 falls in the middle of this range.”
+
+The researchers said the confidence interval is so large because “deaths are relatively rare events,” and so many more households would need to be surveyed to narrow the range: “This was a quick study on a limited budget. With more time and resources, we would recommend a larger sample size in order to narrow the range of estimates.” They also noted they did not have access to the demographic registry data, like other researchers, because the government stopped sharing data.
+
+“Their sampling appears to be well done, but relatively small for their purpose, leading to a large margin of error,” said Roberto Rivera, a professor at the University of Puerto Rico-Mayagüez who co-wrote the study that calculated a range of 605 to 1,039 deaths. “Most reports on the new study have focused on the number 4,645. But the authors of the paper included a margin-of-error-based confidence interval: 800 to 8,500. This interval is the most important part of their results. First, it is evidence that the death toll is much greater than 64. Secondly, it shows that the margin of error is very large.”
+
+Steven Kopits of Princeton Policy Advisers, an advisory firm, is a critic of the Harvard study. He notes that the available registry data, which still is incomplete, indicates 654 excess deaths above the previous year through December. (Note: More recent data released by Puerto Rico after this fact check was published suggests the number is closer to 1,400.) On the face of it, he said, the Harvard number makes little sense because that means 3,000 bodies would be missing – when only 45 were reported as missing as of December.
+
+“With the power outage following the hurricane, residents in ill health and near death died prematurely for lack of access to life-sustaining services like respirators, dialysis and air conditioning,” he said. “These deaths were principally attributable to an extended loss of power. On the other hand, most of these people were under the care of family or professional staff, and their deaths were recorded in near real time. Virtually all those who died in 2017 have been properly accounted for. There are materially no missing bodies.”
+
+He suspects that because the “vast majority of those who died prematurely would have died in a few months even absent the hurricane,” the number of excess deaths should “decrease month by month and probably disappear entirely — from a statistical perspective — within a year.”
+
+Another critic is Donald Berry, professor of biostatistics at the University of Texas MD Anderson Cancer Center in Houston. “The results are statistically weak and nearly useless, at least insofar as number of deaths is concerned,” he said. “Another way of conveying the confidence interval 793 to 8498 is 4645+/-3852. The error is almost as big as the estimate.” He also faulted the researchers for using a different methodology — official deaths for all of Puerto Rico— as a comparison for 2016. “They should have used deaths in 2016 only the same 104 barrios they considered in 2017,” he said.
+
+In a statement about the Harvard study, GWU’s Milken Institute, which is conducting the official study for the Puerto Rican government, urged caution about the numbers. The institute noted that it will use “actual data about death,” such as death certificates, which it described as “a more accurate way to assess mortality.” The statement noted the Milken study “is expected to provide a narrower range of uncertainty around the estimated excess deaths tied to Hurricane Maria.”
+
+[Update, June 1: Under pressure, the Puerto Rican health department suddenly released the long-hidden death figures, showing an increase of 561 deaths in September over the same month in 2016, an increase of 683 deaths in October, an increase of 187 in November and a decline of 34 in December. That adds up to a 1,397 increase in that four-month period. Kopits on June 4 published an updated analysis based on the new numbers.]
+
+[Update, Aug. 7: In a research note published in the Journal of American Medical Association, Alexis R. Santos-Lozada of Pennsylvania University and a colleague reported that the inclusion of the December deaths indicated an excess death toll of 1,139. The note added that the Harvard result was “based on a survey that underestimated prehurricane mortality, overestimated posthurricane mortality, and had a large CI (confidence interval), indicating a high level of uncertainty. Future studies would benefit from careful analysis of deaths from vital records rather than surveys.”]
+
+[Update, Aug. 10: In a report to Congress, Puerto Rico estimated there were 1,427 more deaths from September to December 2017 than the average for the same time period over the previous four years. The official death toll of 64 will remain unchanged until the GWU study is completed.]
+
+[Update, Aug. 28: GWU’s Milken Institute released its report, estimating excess deaths at between 2,658 and 3,290, with a midpoint of 2,975, in the six months after the storm made landfall. This is a longer period of research than previous studies; GWU estimated 2,098 excess deaths through December (the period also covered by the Harvard study) and 1,271 for September and October (the period covered by most of the other studies). GWU said it counted until February because people continued to die at anomalous rates long after the storm, as the island struggled with infrastructure failures and political infighting. After the release of the report, the government of Puerto Rico embraced 2,975 as the official death toll.]
+
+The Bottom Line
+
+All too often, the news media grabs onto a number in an academic report and puts it in headlines, ignoring the caveats deep in the report. Given that this report is based on a survey, with potentially huge margins of error, it should be treated cautiously. Five other studies, based on preliminary death certificate data, have all come up with much lower numbers – about 1,000 in the two weeks after the storm.
+
+That’s still 15 times higher than the official count, which is bad enough. But it’s an egregious example of false precision to cite the “4,645” number without explaining how fuzzy the number really is.
+
+Given the large confidence interval for the Harvard study, it seems more likely that the true number is closer to the lower limit in the range, along the lines of previous studies – and not the number that has been so prominently in the news.
+
+Send us facts to check by filling out this form
+
+Keep tabs on Trump’s promises with our Trump Promise Tracker

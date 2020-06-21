@@ -1,0 +1,9 @@
+This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.
+
+For the free-speech absolutists out there, let me point you to a corner of the digital world that embraces its utter lack of free expression: Apple’s app stores.
+
+Apple alone decides what apps you can download on your iPhone, iPad and Mac. The company reviews every line of software code and is happy to block any app that it believes promotes harmful behavior, is in poor taste, enables surveillance, or is trying to steal money or your data.
+
+There are dangers to apps being subject to Apple’s whims. But the success of the app storefronts — and online hangouts like Snapchat that also don’t pretend to be anything-goes havens of freedom — show that the public sometimes embraces companies dictating what people can say and do inside their virtual walls. You — yes, you! — are probably not universally against digital censorship.
+
+From the day the iPhone app store opened, employees reviewed and tested apps before making them available to the public. The vetting gave people confidence that apps were safe and worthy of their consideration. Google’s Android storefront also screens apps, but is generally more permissive. Apple said last year that it reviewed 100,000 apps weekly and rejected about 40 percent.
