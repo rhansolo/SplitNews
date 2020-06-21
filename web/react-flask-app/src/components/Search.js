@@ -12,8 +12,9 @@ class Search extends Component {
     errors: "",
   }
 
-  onSubmit = (dispatch, e) => {
+  onSubmit = (dispatch, load, e) => {
     e.preventDefault();
+    load();
     const search = this.state.search;
 
     let param = {search: search};
@@ -23,7 +24,8 @@ class Search extends Component {
       return;
     }
 
-    axios.post("search/query", param).then(response => dispatch(response.data));  }
+    axios.post("search/query", param).then(response => dispatch(response.data));
+  }
 
   onChange = (e) => {
     this.setState({ [e.target.name]: e.target.value })
@@ -36,12 +38,12 @@ class Search extends Component {
     return (
       <Consumer>
         {(value) => {
-          const { dispatch } = value;
+          const { dispatch, load } = value;
           return (
             <div className="card mb-3">
             <div className="card-header">Search</div>
             <div className="card-body">
-              <form onSubmit={this.onSubmit.bind(this, dispatch)}>
+              <form onSubmit={this.onSubmit.bind(this, dispatch, load)}>
                 <SearchBar
                   label="Search"
                   name="search"

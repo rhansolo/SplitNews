@@ -8,19 +8,22 @@ class Articles extends Component {
     return (
       <Consumer>
         {(value) => {
-          const { articles } = value;
-          return (
-            <React.Fragment>
-              <h1 className="display-5 mb-2">
-                Articles
-              </h1>
-              {articles.map(article => (
-                <Article title={article.title} short={article.short} long={article.long} rating={article.rating} />
-              ))}
-            </React.Fragment>
-          );
+          const { articles, searched } = value;
+          if (searched === 2) {
+            return (
+              <React.Fragment>
+                <h1 className="display-5 mb-2">
+                  Articles
+                </h1>
+                {articles.map(article => (
+                  <Article title={article.title} short={article.short} long={article.long} rating={article.rating} />
+                ))}
+              </React.Fragment>
+            );
+          } else {
+            return null;
+          }
         }
-
         }
       </Consumer>
     )
