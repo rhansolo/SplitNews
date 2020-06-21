@@ -4,6 +4,8 @@ import { HashRouter as Router, Route } from "react-router-dom";
 
 import Header from "./components/layout/Header";
 import Search from "./components/Search";
+import Summary from "./components/results/Summary";
+import Articles from "./components/results/Articles";
 
 import { Provider } from "./context";
 
@@ -19,6 +21,8 @@ function App() {
           <Header branding="SplitNews" />
           <div className="container">
             <Route exact path="/" component={Search} />
+            <Route exact path="/" component={Summary} />
+            <Route exact path="/" component={Articles} />
           </div>
         </div>
       </Router>
