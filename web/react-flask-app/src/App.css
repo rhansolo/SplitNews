@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+input {
+  width: 100%;
+}
+
+.card {
+  border-width: 6px;
+}
+
+html * {
+  font-family: Georgia
+}

@@ -7,7 +7,7 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
 from heapq import nlargest
-from bias_detector import get_bias
+from news_analysis.bias_detector import get_bias
 import json
 
 def textsummarize(body, size):
@@ -42,11 +42,39 @@ def textsummarize(body, size):
     select_length = int(len(sentence_tokens)*size)
     summary = nlargest(select_length, sentence_scores, key = sentence_scores.get)
     final_summary = [word.text for word in summary]
-    temp = ' '.join(final_summary)
+    temp = '<ul><li>'
+    temp += '</li><li>'.join(final_summary)
+    temp += '</li></ul>'
 
     return temp
 
+def leftandright(biases):
+    returnlist = []
+    leftstring = ""
+    for i in biases[0]:
+        leftstring = leftstring + i['body']
+    if leftstring != "":
+        returnlist.append(textsummarize(leftstring, .05))
+    else:
+        returnlist.append("")
 
+
+    central = ""
+    for i in biases[1]:
+        central = central + i['body']
+    if central != "":
+        returnlist.append(textsummarize(central, .05))
+    else:
+        returnlist.append("")
+
+    rightstring = ""
+    for i in biases[2]:
+        rightstring = rightstring + i['body']
+    if rightstring != "":
+        returnlist.append(textsummarize(rightstring, .05))
+    else:
+        returnlist.append("")
+    return returnlist
 
 def search(term):
     subscription_key = "82439de0d47c4c80924cdda033e1c8d0"
@@ -65,11 +93,11 @@ def search(term):
 
 
     fullstack = get_bias(urllist)
+    hugefirstreturnthing = leftandright(fullstack)
     ret_urls = []
     for q in fullstack:
         for site in q:
             ret_urls.append(site['url'])
-    print("heyo")
     totalinformation = []
     for i in search_results['value']:
         totalinformation.append(i)
@@ -80,6 +108,7 @@ def search(term):
             continue
         if urllist[i] not in finaldict.keys():
             finaldict[urllist[i]] = [totalinformation[i]['name'], totalinformation[i]['url'], totalinformation[i]['image'], 0, "", ""]
+
     for i in fullstack[0]:
         finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
@@ -94,8 +123,7 @@ def search(term):
         finaldict[i['url']][3] = i['bias']
         finaldict[i['url']][4] = textsummarize(i['body'], .1)
         finaldict[i['url']][5] = textsummarize(i['body'], .3)
-    print(json.dumps(list(finaldict.values())))
-    print("DUMBASS AEIHGEGH")
-    return list(finaldict.values())
+    
+    return (hugefirstreturnthing, list(finaldict.values()))
 
 
