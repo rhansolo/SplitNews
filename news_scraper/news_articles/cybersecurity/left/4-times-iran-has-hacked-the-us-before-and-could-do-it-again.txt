@@ -1,0 +1,63 @@
+In 2014, Tehran hackers crippled the casinos of outspoken billionaire conservative and big-time President Trump donor Sheldon Adelson after he suggested the U.S. nuke Iran.
+
+Now, in the wake of Trump’s decision to assassinate the man widely seen as the country’s second most powerful leader, experts fear Iran is set to retaliate once again in cyberspace.
+
+The assassination of General Qassem Soleimani in a U.S. drone strike last week has led to an outpouring of grief and dire warnings of “forceful revenge” from Tehran.
+
+Iran knows that it cannot stand toe-to-toe with the U.S. when it comes to military might, but Tehran has a long history of successfully attacking American targets in cyberspace and has spent the last decade honing its skills and making preparations for a major cyberattack against critical U.S. infrastructure.
+
+"They probe American infrastructure routinely, so if they'd make up their mind that this is what they want to do, they could do something," James Lewis, senior vice president and director of the technology policy program at the Center for Strategic and International Studies, told VICE News. “They will look for vulnerable targets, that will be the smaller agencies the smaller companies.”
+
+Iran’s decision to boost its cyber capabilities was sparked by the Stuxnet attack on its Natanz uranium enrichment facility in 2007, an attack jointly conducted by the U.S. and Israel.
+
+The sophisticated malware infected the plant’s control systems forcing up to 1,000 of its centrifuges to spin out of control, hindering the ability to produce uranium for weapons.
+
+Since then Iran’s government has put significant resources into developing its own cyber army, who have shown themselves to be innovative and adept at conducting campaigns across the globe
+
+Here’s where they’ve struck the U.S. before:
+
+2010-2011 : In the wake of the Stuxnet attack, Iranian hackers responded by launching a series of distributed denial of service attacks that wreaked havoc on JP Morgan, Bank of America, and Capital One, leaving hundreds of thousands of customers unable to access their accounts for hours-long stretches over multiple days. The attacks also affected the New York Stock Exchange and the Nasdaq.
+
+: In the wake of the Stuxnet attack, Iranian hackers responded by launching a series of distributed denial of service attacks that wreaked havoc on JP Morgan, Bank of America, and Capital One, leaving hundreds of thousands of customers unable to access their accounts for hours-long stretches over multiple days. The attacks also affected the New York Stock Exchange and the Nasdaq. 2013: Iranian hackers remotely took control of the command-and-control network of a dam just outside New York. The access would have allowed the hackers to remotely release water from the dam, but the sluice gate had been manually disconnected at the time for maintenance. Seven Iranians were charged with the intrusion in 2016.
+
+Iranian hackers remotely took control of the command-and-control network of a dam just outside New York. The access would have allowed the hackers to remotely release water from the dam, but the sluice gate had been manually disconnected at the time for maintenance. Seven Iranians were charged with the intrusion in 2016. 2014 : Iranian hackers were behind an attack on one of Sheldon Adelson’s Las Vegas casinos, crippling IT systems, knocking phone systems offline and rendering computers and servers unusable. The outspoken conservative billionaire, who was a major supporter of President Trump’s election campaign, was targeted after he advocated for the use of nuclear weapons against Iran.
+
+: Iranian hackers were behind an attack on one of Sheldon Adelson’s Las Vegas casinos, crippling IT systems, knocking phone systems offline and rendering computers and servers unusable. The outspoken conservative billionaire, who was a major supporter of President Trump’s election campaign, was targeted after he advocated for the use of nuclear weapons against Iran. 2018: Iranian hackers were blamed for crippling the city of Atlanta with SamSam ransomware, and costing the city millions to clean-up. The attack on Atlanta was one of just hundreds perpetrated by Iranian hackers against U.S. targets. Two Iranians were indicted by the Department of Justice in 2018 but remain at large.
+
+READ: Here’s Everything You Need to Know About the Situation in Iran Right Now
+
+
+
+Iran may not be on the same level as China, Russia or the U.S. when it comes to offensive cyber skills, but these efforts have shown that it can be a highly capable and destructive force willing to attack targets on U.S. soil.
+
+In recent years, Iran’s cyberattacks have for the most part been focused on adversaries in the Middle East, including Saudi Aramco, which was hit with a massively destructive wiper attack that destroyed the data stored on 30,000 computers.
+
+But more recent discoveries point to moves by Tehran to position itself to strike at the very heart of the U.S. by targeting critical national infrastructure, including power grids and government agencies. Now, the death of Soleimani could be the trigger to launch this attack.
+
+Probing networks
+
+A trio of reports in June last year highlighted that an Iranian government-sponsored hacking group known as APT33 (also known as Refined Kitten, Holmium, or Elfin) has been targeting the U.S. government agencies and private companies with targeted spear-phishing attacks.
+
+Among the targets for this campaign was the Department of Energy and U.S. national labs.
+
+READ: Here's what war with Iran would actually look like
+
+Then, in November, Microsoft revealed that the same hacking group had been targeting companies who build industrial control systems, the computers that are used to control and monitor critical national infrastructures such as power grids and nuclear power plants.
+
+"They‘re trying to find the downstream customer, to find out how they work and who uses them,” Ned Moran, a Microsoft security researcher, told Wired at the time. “They’re looking to inflict some pain on someone’s critical infrastructure that makes use of these control systems.”
+
+As a result, when Soulemiani was killed on Friday, the U.S. government immediately re-upped a warning it first issued last year about the threat from Iranian hackers.
+
+So far, no attacks have been detected. Michael Daniel, president and CEO of the Cyber Threat Alliance, an umbrella group that brings together experts in the field to try and combat common threats, said none of his members are reporting an uptick in hacking activity.
+
+“That doesn't necessarily mean there isn't activity; it could be that we haven't seen it yet, it's still not at a broad enough scale to be detected, or defenders haven't attributed the activity yet,” said Daniel, who also served as President Obama’s cybersecurity coordinator.
+
+READ: Young Iraqis aren’t sad Soleimani is dead. But they worry they’ll pay the price
+
+While there has been some speculation that Iran could infiltrate major government agencies, knock out large swathes of the power grid or take phone networks offline, the reality is that the agencies and companies operating these networks have put in place relatively robust defenses in recent years that Iranian hackers would find almost impossible to breach.
+
+But there are plenty of other targets for Tehran to focus on:
+
+“The big companies are probably too well defended now for the Iranians,” Lewis said. “But that doesn't mean they aren't lots of targets out there and that could include government agencies because there are dozens of government agencies — and the Department of Defence has hundreds of individual networks — and some of them are not going to be in good shape.”
+
+Cover: Iranian Supreme Leader Ayatollah Ali Khamenei (left 6), Iranian President Hassan Rouhani (left 5), Soleimani's long-time lieutenant and the new leader of Quds Force Gen. Esmail Qaani (left 7), Islamic Revolutionary Guard Corps commander Hossein Salami (left 3) and Iranian Parliament Speaker Ali Larijani (left 4) attend the funeral ceremony of Qasem Soleimani, commander of Iranian Revolutionary Guards' Quds Forces, who was killed in a U.S. drone airstrike in Iraq, in Tehran, Iran on January 06, 2019. (Photo by Iranian Leader Press Office / Handout/Anadolu Agency via Getty Images)

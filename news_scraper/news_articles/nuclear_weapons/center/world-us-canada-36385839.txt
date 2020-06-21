@@ -1,0 +1,37 @@
+Image copyright ADAM BUTLER Image caption Eight-inch floppy disks date back to the early days of computer systems
+
+The US nuclear weapons force still uses a 1970s-era computer system and 8-inch floppy disks, a government report has revealed.
+
+The Government Accountability Office said the Pentagon was one of several departments where "legacy systems" urgently needed to be replaced.
+
+The report said taxpayers spent $61bn (£41bn) a year on maintaining ageing technologies.
+
+It said that was three times more than the investment on modern IT systems.
+
+The report said that the Department of Defence systems that co-ordinated intercontinental ballistic missiles, nuclear bombers and tanker support aircraft "runs on an IBM Series-1 Computer - a 1970s computing system - and uses eight-inch floppy disks".
+
+"This system remains in use because, in short, it still works," Pentagon spokeswoman Lt Col Valerie Henderson told the AFP news agency.
+
+The floppy disk - what is it?
+
+Image copyright Eyewire
+
+Also called diskette or disk, it became popular in the 1970s
+
+A standard 8in (200 mm) floppy disk had 237.25kB of storage space, enough for 15 seconds of audio
+
+You would need more than 130,000 8-inch floppy disks to store 32GB of information - the size of an average memory stick
+
+In the 1990s, the 3.5in floppy became the norm, with a 1.44MB of memory
+
+Dell stopped making computers with inbuilt floppy disks in 2003. Very few manufacturers still make them
+
+They are still in use in some 1990s technical equipment too valuable to scrap
+
+"However, to address obsolescence concerns, the floppy drives are scheduled to be replaced with secure digital devices by the end of 2017."
+
+She added: "Modernisation across the entire Nuclear Command, Control, and Communications enterprise remains ongoing."
+
+The report said that the Pentagon was planning to fully replace the system by the end of 2020.
+
+According to the report, the US treasury also needed to upgrade its systems, which it said was using "assembly language code - a computer language initially used in the 1950s and typically tied to the hardware for which it was developed".

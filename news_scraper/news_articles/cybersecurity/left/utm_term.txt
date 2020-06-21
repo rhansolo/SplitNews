@@ -1,0 +1,245 @@
+THE KEY
+
+Visitors test smartphones at the ZTE's stand during the Mobile World Congress in Barcelona. (Lluis Genelluis/AFP)
+
+Want more stories about cybersecurity policy and politics? Sign up for this brand new newsletter here.
+
+President Trump’s surprising promise Sunday to help bring Chinese telecom giant ZTE back from the brink of collapse undercuts top law enforcement and intelligence officials, who have warned for years that the company’s products could be used for cyberespionage in the United States.
+
+ZTE has close ties with China’s government, and U.S. officials have raised concerns that its phones and other devices could be used as surveillance tools against Americans.
+
+Lawmakers immediately pointed out the contradiction. “Our intelligence agencies have warned that ZTE technology and phones pose a major cyber security threat,” Rep. Adam B. Schiff (Calif.), the ranking Democrat on the House Intelligence Committee, tweeted at Trump yesterday. “You should care more about our national security than Chinese jobs.”
+
+As Sen. Marco Rubio (R-Fla.) put it in a tweet this morning, the "problem with ZTE isn't jobs & trade, it's national security & espionage":
+
+Problem with ZTE isn’t jobs & trade, it’s national security & espionage. Any telecomm firm in #China can be forced to act as tool of Chinese espionage without any court order or any other review process. We are crazy to allow them to operate in U.S. without tighter restrictions https://t.co/AXtTDgufc9 — Marco Rubio (@marcorubio) May 14, 2018
+
+The head of the FBI and other intelligence chiefs in congressional testimony this year urged American citizens to steer clear of products from ZTE and its Chinese rival Huawei. And just two weeks ago, the Pentagon banned the companies’ phones from being sold on military bases, saying they “may pose an unacceptable risk to Department's personnel, information and mission.”
+
+As my colleagues Tony Romm, Damian Paletta and Steven Mufson report, the Commerce Department last month said it would bar U.S. firms for seven years from exporting critical microchips and other parts to ZTE, as punishment for violating a sanctions settlement over illegal shipments to Iran and North Korea. On Wednesday, ZTE said it would shut down its global business but was “actively communicating with the relevant U.S. government departments in order to facilitate the [order’s] modification or reversal.”
+
+Trump appeared receptive to the idea, sending shockwaves through the national security establishment by tweeting Sunday that he and Chinese President Xi Jinping were working to give ZTE “a way back into business, fast":
+
+President Xi of China, and I, are working together to give massive Chinese phone company, ZTE, a way to get back into business, fast. Too many jobs in China lost. Commerce Department has been instructed to get it done! — Donald J. Trump (@realDonaldTrump) May 13, 2018
+
+“It's striking that he is overruling the judgment of his own national security apparatus in order to help a Chinese company succeed,” Abraham Denmark, director of the Asia Program at the Woodrow Wilson International Center for Scholars, told me. “There’s often tension between economic issues and national security issues, and this tweet seems to suggest in this case the economic issues won out.”
+
+Adam Segal, director of the Digital and Cyberspace Policy Program at the Council on Foreign Relations, called Trump’s instruction to his Commerce Department to assist ZTE “highly unusual, given the intelligence community has given several unambiguous warnings about using ZTE and Huawei products.”
+
+When intelligence officials return to work today, “I would expect to see some pushback,” Segal predicted, “with officials stressing that commercial sanctions might be modified but ZTE should stay out of U.S. networks.”
+
+In a statement later Sunday, White House spokeswoman Lindsay Walters signaled the Commerce Department would play a major role in the way forward. “The administration is in contact with China on this issue, among others in the bilateral relationship. President Trump expects [Commerce] Secretary [Wilbur] Ross to exercise his independent judgment, consistent with applicable laws and regulations, to resolve the regulatory action involving ZTE based on its facts.”
+
+But lawmakers, too, may try to intervene.
+
+After all, it was congressional investigators who sounded the alarm about possible cyberespionage by ZTE and Huawei in 2012, after an 11-month probe by the House Intelligence Committee concluded that the companies were essentially arms of the Chinese government that could be used as conduits for spying on American citizens and companies. And Rubio along with Sen. Tom Cotton (R-Ark.) introduced a bill earlier this year that would bar the U.S. government from buying or leasing telecommunications equipment from the companies over those concerns.
+
+In February, FBI Director Chris Wray told the Senate Intelligence Committee that Americans shouldn’t use ZTE or Huawei products or services. He was joined by the heads of the CIA and National Security Agency, and the director of national intelligence, who also cautioned against the public using ZTE's products.
+
+“We're deeply concerned about the risks of allowing any company or entity that is beholden to foreign governments that don't share our values to gain positions of power inside our telecommunications networks,” Wray testified.
+
+“That provides the capacity to exert pressure or control over our telecommunications infrastructure,” he said. “It provides the capacity to maliciously modify or steal information. And it provides the capacity to conduct undetected espionage.”
+
+Given this, former national security officials tweeted their shock about the announcement Sunday.
+
+From David Gomez, a former FBI counterterrorism agent and cybersecurity strategist:
+
+Wow. I rarely comment on POTUS tweets but this one deserves a response. Telecommunications companies like ZTE use their devices and networks to compile intelligence on behalf of the Chinese govt. That is just a fact. #28YearsInIntelSaysSo https://t.co/GbTjYobDYC — DCGomez (@AllThingsNatSec) May 13, 2018
+
+Nada Bakos, former CIA analyst and fellow at the Foreign Policy Research Institute, said Trump seemed to want to “trade on” national security:
+
+You cannot trade on national security. Promoting jobs in China for a telecom company that is known to be beholden to the Chinese govt, puts US citizens and sensitive info at risk. There is no reward for the USG, national security can’t be used as leverage. https://t.co/rWPAX1mlN2 — 𝙽𝚊𝚍𝚊 𝙱𝚊𝚔𝚘𝚜 (@nadabakos) May 13, 2018
+
+And Josh Campbell, former FBI special agent, didn't mince words:
+
+We don’t need to just pump the brakes, we need to throw the car in reverse and immediately retreat from this ludicrous idea that we are going to enable a counterintelligence threat like ZTE. We should not be making life easier for hostile intelligence services. — Josh Campbell (@joshscampbell) May 13, 2018
+
+But not everyone is as worried.
+
+Sascha Segan, a mobile analyst at PC Magazine, criticized the intelligence community for failing to detail the exact reasoning behind the alleged threat posed by ZTE, which rejects the idea its products are a security risk for Americans.
+
+“U.S. intelligence chiefs paint a dark picture of ZTE and Huawei, which they claim are Chinese spying operations, but we haven’t seen a shred of actual evidence that either company’s phones are dangerous to Americans in any way,” he wrote in a February article. “The intelligence officials disparaging these companies have also given no evidence and been careful not to state that the handsets themselves are a clear and present threat — just that they have an animus against these companies.”
+
+PINGED, PATCHED, PWNED
+
+A "I Voted" sticker is shown by a keyboard in the Voting Machine Hacking Village during the Def Con hacker convention in Las Vegas on July 29, 2017. REUTERS/Steve Marcus.
+
+PINGED: Here is your daily reminder that threats to election security are alive and well. Hackers with foreign IP addresses tried (and failed) to break into an election database in Knox County, Tenn., during the May 1 primary, HuffPost's Sam Levine reports.
+
+The county hired investigators to look into the crash of a public website displaying returns on election night, Levine writes: “In a report released Friday, Sword & Shield Enterprise Security said no election data was compromised in the apparent denial-of-service attack, but that they did discover an attempt to 'exploit the backend database behind the Web server.' "
+
+The county's deputy director of IT declined to discuss the specifics of the attempted breach, but said it was similar to the attacks many states saw in the 2016 election — Sam Levine (@srl) May 11, 2018
+
+Here are some highlights from the report:
+
+"There is evidence of an active attack on the Web server between the hours of 7PM and 10PM unrelated to a typical Denial of Service (DOS) attack."
+
+"In addition to the active attack on the Web server, additional symptoms of a DOS attack occurred between 7PM and 10PM."
+
+"A large number of foreign countries (~65) accessed the Web site between 7PM and 10PM."
+
+County officials said the election site crashed for an hour but the voting data wasn't affected, according to the Associated Press's Adrian Sainz. David Ball, Knox County's deputy director of information technology, told Sainz that the vulnerability the researchers found while reviewing the cyberattack was fixed.
+
+The Google logo at the company's headquarters in Mountain View, Calif., on July 19, 2016. (AP Photo/Marcio Jose Sanchez, File)
+
+PATCHED: As the European Union gears up to implement its sweeping new data privacy regulations, Google announced that it is updating its privacy policy “to make it easier to understand what information we collect, and why we collect it.” The European Union's General Data Protection Regulation is scheduled to become effective May 25.
+
+“We’ve improved the navigation and organization of the policy to make it easier to find what you’re looking for; explained our practices in more detail and with clearer language; and added more detail about the options you have to manage, export, and delete data from our services,” Google's William Malcolm wrote in a blog post on Friday. “The policy now also includes explanatory videos and illustrations, because a visual description can be easier to understand than text alone.”
+
+Here's one of those videos:
+
+While Google is not changing its users' privacy settings or the information it collects on them, it is explaining its policy in a way that makes more sense, Mashable's Rachel Thompson writes.
+
+“Google is just improving 'user transparency' to comply with GDPR's stipulation that companies must provide 'clear and transparent notice' of how users' data is used,” Thompson writes.
+
+An iPhone on Feb. 17, 2016 in Washington. (AP Photo/Carolyn Kaster)
+
+PWNED: Darien Huss, a researcher at the cybersecurity firm Proofpoint, found what he said looks like a North Korean tool to spy on iPhones, although the malware still appears to be in a stage of development, Forbes's Thomas Fox-Brewster reports.
+
+Huss told Fox-Brewster that he found the piece of spyware on a server that contains other spying tools linked to North Korean hackers.
+
+“If the iPhone tool is indeed a piece of spyware, Huss hasn't seen it used yet,” Fox-Brewster writes. “He believes it's currently in development by that North Korean-linked hacker crew, though Proofpoint declined to provide additional details on his research.”
+
+Huss told Forbes that it appears the tool was “not developed in house” by the hackers but instead purchased from a company. Additionally, an “obvious limitation to” the North Korean spyware is that it can be implanted only on an iPhone that has been jailbroken, according to Fox-Brewster.
+
+— More cybersecurity news:
+
+Google Employees Resign in Protest Against Pentagon Contract About a dozen Google employees are resigning in protest over the company’s continued involvement in a military pilot program known as Project Maven. Gizmodo
+
+Russia-Linked Facebook Ads Targeted a Sketchy Chrome Extension at Teen Girls Among the Russian ads released by House Democrats this week were links promoting a suspicious Chrome extension. Wired
+
+PUBLIC KEY
+
+The White House on Jan. 22, 2018. (Photo by Jabin Botsford/The Washington Post)
+
+— A former National Security Council official last year sought ways to surveil the communications of White House staff to suppress leaks, the Daily Beast’s Spencer Ackerman reports.
+
+"Ezra Cohen-Watnick, whom former national security adviser Michael Flynn brought onto the NSC as senior director for intelligence, sought technical solutions in early 2017 for collecting and analyzing phone and other data on White House colleagues for interactions with reporters," Ackerman reports. "He portrayed his desired leak hunt as an 'insider threat' detection effort, according to the ex-officials. Those who heard of it presumed it would focus on NSC staffers held over from the Obama administration. It is unknown whether Cohen-Watnick’s efforts actually resulted in any monitoring program."
+
+While it's unclear if this actually resulted in any monitoring program, a former NSC official told Ackerman: "This seemed designed to intimidate rather than protect national security." Cohen-Watnick later worked for computing giant Oracle and now serves at the Justice Department.
+
+— A Pentagon report says a military and veterans health care project that Trump's senior adviser and son-in-law Jared Kushner backed has problems so serious that patients could lose their lives, Politico's Arthur Allen reports.
+
+“The April 30 report expands upon the findings of a March Politico story in which doctors and IT specialists expressed alarm about the software system, describing how clinicians at one of four pilot centers, Naval Station Bremerton, quit because they were terrified they might hurt patients, or even kill them,” Allen writes. “Experts who saw the Pentagon evaluation — it lists 156 'critical' or 'severe' incident reports with the potential to result in patient deaths — characterized it as 'devastating.'" One member of the testing team told Allen that: “Traditionally, if you have more than five [incident reports] at that high a level, the program has significant issues.”
+
+Digital health records company Cerner Corp. started installing its software for the military last year after the project was approved under the Obama administration in 2015. Kushner recommended that the Department of Veterans Affairs choose the same company, according to Allen.
+
+Sen. Ron Wyden (D-Ore.) at the U.S. Capitol on May 10, 2017. (Photo by Ricky Carioti/The Washington Post)
+
+— Sen. Ron Wyden (D-Ore.) has put a hold on the nomination of Christopher Krebs for undersecretary of the Department of Homeland Security's National Protection and Programs Directorate to demand that the government provide details about tracking devices known as stingrays, Cyberscoop's Sean Lyngaas reports.
+
+“In a congressional notice Thursday, Wyden said he was objecting to Senate floor consideration of the nomination until the department makes public a presentation it gave to federal employees on Stingrays in February,” Lyngaas writes.
+
+The presentation that federal employees received on the issue was marked as “For Official Use Only.”
+
+“I remain hopeful that this is an issue we can work through and resolve soon,” Wyden wrote. “However, until the FOUO designation is removed from those slides and they are made available for public release, I will object to the Senate proceeding with the Krebs nomination.”
+
+— More cybersecurity news about the public sector:
+
+Cops Can Find the Location of Any Phone in the Country in Seconds, and a Senator Wants to Know Why Here are the letters Senator Ron Wyden sent to mobile carriers and the FCC demanding answers and action on the recently highlighted law enforcement service to easily track phones across the country. Motherboard
+
+Industry Lawyer Expected to Head F.T.C. Consumer Protection The possible appointment of Andrew Smith, who represented Facebook, Uber and Equifax and others, raised the prospect of frequent recusals from investigations. New York Times
+
+PRIVATE KEY
+
+David Limp, Amazon's senior vice president of devices, pushes down on an Echo Dot on March 2, 2016, in San Francisco. (AP Photo/Jeff Chiu)
+
+— A group campaigning to protect children from “commercialism,” along with two lawmakers, have questions for Amazon.com and its Echo Dot for kids, The Washington Post's Hayley Tsukayama reports.
+
+“The advocates led by the Campaign for a Commercial-Free Childhood said Friday that the presence of voice-activated speakers on children's nightstands is an unwelcome novelty that could prove intrusive or potentially disruptive to their development,” Tsukayama writes.
+
+Sen. Edward J. Markey (D-Mass.) and Rep. Joe Barton (R-Tex.) also sent a list of questions about the device to Jeffrey P. Bezos, the founder and chief executive of Amazon. (Bezos is also the owner of The Washington Post.)
+
+— The Council to Secure the Digital Economy, an industry group founded by telecom and tech companies, said on Friday that its focus in 2018 will be on countering botnet attacks and preparing to respond should a major cyber emergency occur, Inside Cybersecurity's Charlie Mitchell writes.
+
+— More cybersecurity news about the private sector:
+
+Ticketmaster to Roll Out Facial Recognition, Sparking Privacy Concerns Live Nation, Ticketmaster’s parent company, will start allowing concertgoers to scan their faces for entry into shows. Experts say the technology has troubling implications. The Daily Beast
+
+Tim Cook brought his pro-privacy views to his Duke commencement speech "We reject the excuse that getting the most out of technology means trading away your right to privacy." Recode
+
+SECURITY FAILS
+
+The Golden Gate Bridge in San Francisco on Feb. 6, 2016. (Photo:Kirby Lee-USA TODAY Sports)
+
+— The personal information of 895 patients at two San Francisco hospitals was breached last year between Nov. 20 and Dec. 9, the San Francisco Chronicle's Catherine Ho reports.
+
+“The data included patients’ names, dates of birth, medical record numbers and details of their medical conditions, diagnoses, treatment and care plans,” Ho writes. “It did not include Social Security numbers, driver’s license numbers or financial account numbers, according to officials with the health department, which runs the health network that includes the two hospitals.”
+
+— Chili's Grill & Bar announced that some of its customers' payment information was compromised at certain restaurants as a result of a data breach. “Based on the details of the issue currently uncovered, we believe that malware was used to gather payment card information including credit or debit card numbers as well as cardholder names from our payment-related systems for in-restaurant purchases at certain Chili’s restaurants,” the company said.
+
+On May 11 we learned that some of our Guests’ payment card information from certain restaurants was compromised. We value our relationship with our Guests and are committed to sharing details as we know more here: https://t.co/xWnJ1a7Auy — Chili's Grill & Bar (@Chilis) May 12, 2018
+
+— More hacking news:
+
+CHAT ROOM
+
+— A first-person piece by Scott Shane of the New York Times prompted some soul-searching among journalists and media observers over the weekend. Shane wrote about the ethical dilemmas stemming from journalists' use of information that was hacked and leaked by intelligence services:
+
+“The old rules say that if news organizations obtain material they deem both authentic and newsworthy, they should run it,” Shane writes. “But those conventions may set reporters up for spy agencies to manipulate what and when they publish, with an added danger: An archive of genuine material may be seeded with slick forgeries.” The 2016 election was just the tip of the iceberg, Shane writes: “What Russian intelligence did with shocking success to the Democrats in 2016 shows every promise of becoming a common tool of spycraft around the world.”
+
+Here's an exchange between Marty Lederman, an associate professor at Georgetown University Law Center, and Shane:
+
+All good pts. I think the difference is probably one of kind, not degree. Hacking is what makes this different. If CIA, or a dismayed CIA officer, is leaking, that's a familiar situation. If Russian intel is leaking CIA documents, it's potentially far more disorienting, I think. — Scott Shane (@ScottShaneNYT) May 12, 2018
+
+From New York Times White House correspondent Maggie Haberman:
+
+A really thoughtful piece on what journalists grapple with when hacks - and forgeries - are becoming commonplace. Quick mea culpas don’t do the trick for the next one. https://t.co/v2sxE8YL1g — Maggie Haberman (@maggieNYT) May 12, 2018
+
+From former Estonian president Toomas Hendrik Ilves:
+
+This is an important piece to read to understand disinformation and media manipulation.Publishing leaks provided by foreign spies "legitimizes and incentivizes hacking,... this makes the ethical calculus for journalists much more complex.” https://t.co/YMi5C5vT8F — toomas hendrik ilves (@IlvesToomas) May 13, 2018
+
+From Buzzfeed UK's Editor in Chief Janine Gibson:
+
+Challenging. But a publication must by definition have its own sense of what it should and shouldn’t publish. Otherwise it’s just a producer. When Spies Hack Journalism https://t.co/cH1PKmXsvL — Janine Gibson (@janinegibson) May 13, 2018
+
+From Ari Fleischer, White House press secretary under President George W. Bush:
+
+Very thoughtful coverage of a serious and tricky problem:
+
+
+
+“Future fabrications will be far more difficult to debunk, including so-called deep fakes, audio and video clips of, say, politicians saying or doing things they never said or did.” https://t.co/vbuqt6fXRu — Ari Fleischer (@AriFleischer) May 13, 2018
+
+From Claire Wardle, research fellow at Harvard University's Shorenstein Center on Media, Politics and Public Policy:
+
+This is an important piece about reporting on hacks & leaks, but the same challenges exist when deciding when and how to report on all forms of disinformation. When Spies Hack Journalism https://t.co/yN8ePs1c4Y — Claire Wardle (@cward1e) May 13, 2018
+
+ZERO DAYBOOK
+
+Today
+
+CyberReady 2018 Cybersecurity/Cyber-Intel Conference at MacDill Air Force Base in Tampa.
+
+The Internet of Things World conference starts in Santa Clara, Calif.
+
+Coming soon
+
+Homeland Security Secretary Kirstjen Nielsen appears before the Senate Homeland Security and Governmental Affairs Committee tomorrow.
+
+The Senate Intelligence Committee holds an open hearing on the nomination of William R. Evanina for director of the National Counterintelligence and Security Center tomorrow.
+
+The AFCEA Defensive Cyber Operations Symposium starts in Baltimore tomorrow.
+
+The third annual Cyber Security Summit: Dallas is held in Dallas tomorrow.
+
+The Cloud Security Alliance Federal Summit 2018 is held in Washington tomorrow.
+
+The 2018 Adobe Digital Government Symposium is held in Washington tomorrow.
+
+The Senate Intelligence Committee holds a closed hearing on May 16 on the intelligence community's January 2017 assessment of Russian meddling in the 2016 election.
+
+House Homeland Security Committee markup on May 16 of the DHS Industrial Control Systems Capabilities Enhancement Act of 2018, a cybersecurity bill introduced by Rep. Don Bacon (R-Neb.).
+
+Senate Judiciary Committee hearing on Cambridge Analytica and data privacy on May 16.
+
+USTelecom Cybersecurity Policy Forum in Washington on May 16.
+
+EASTER EGGS
+
+Watch some highlights from the 2018 commencement season:
+
+Why do passengers freak out on airplanes? Science might have the answer:
+
+Homeless moms enjoy a Mother's Day meal on Skid Row in Los Angeles:

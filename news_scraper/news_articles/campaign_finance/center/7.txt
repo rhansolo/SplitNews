@@ -1,0 +1,179 @@
+What Happens When The FEC Can’t Do Its Job?
+
+Welcome to a special edition of FiveThirtyEight’s weekly politics chat. The transcript below has been lightly edited.
+
+sarahf (Sarah Frostenson, politics editor): Last Monday, Federal Election Commission Vice Chairman Matthew Petersen announced his resignation, leaving the FEC effectively shut down, as only three positions on the six-seat committee are currently filled and the agency is legally required to have four commissioners to be fully operational.
+
+What this means is that the agency responsible for both enforcing and advising on the nation’s campaign-finance laws is out of commission for the foreseeable future. And because we’re in the middle of a presidential election … things could get hairy fast.
+
+The FEC has said that it will soldier on, continuing to process filings and other reports, and has called on President Trump to nominate new commissioners and for the Senate to confirm them quickly. But Congress is still in recess and Trump has yet to move forward with appointing new commissioners (remember, there are now three vacancies).
+
+So here with us today to unpack what this could mean for the 2020 election (and campaign finance in general) is Dave Levinthal, editor and senior reporter at the Center for Public Integrity.
+
+Welcome!
+
+dave.levinthal: My pleasure! Thanks for having me.
+
+sarahf: So, first of all, how did we get to the point that the FEC is basically not operational? And just how big of a deal is this for the FEC?
+
+dave.levinthal: You can trace the situation back to 2008, the last time the FEC found itself in semi-shutdown mode because it lacked enough commissioners to legally conduct high-level business.
+
+That year, the FEC went about six months without a quorum of commissioners, until the Senate and President Bush finally struck a deal to appoint new commissioners and get the agency back on track.
+
+clare.malone (Clare Malone, senior political writer): And by “high-level business,” we mean things like opening investigations into possible campaign-finance violations?
+
+dave.levinthal: High-level business would absolutely include investigating allegations of campaign-finance violations. As I wrote last week:
+
+For now, the FEC can’t conduct meetings.
+
+It can’t slap political scofflaws with fines.
+
+It can’t make rules.
+
+It can’t conduct audits and approve them.
+
+sarahf: So … what can the FEC do in its current situation?
+
+dave.levinthal: The most notable thing the FEC will continue to do is carry out its transparency function. That means that political committees, political candidates and so on must still file their periodic campaign-finance disclosures with the FEC — documents that tell the public how much money they’ve raised, spent, etc. — and the FEC staff will still review and post that material.
+
+But if some political committee screws this up, or for that matter acts in a manner that’s potentially in violation of federal campaign-finance laws, they more or less get a temporary pass because the FEC commissioners don’t have the power for now to do anything about it.
+
+clare.malone: Cool. I was interested to learn that there’s been a lot of discord on the commission for a while. A Democrat and an independent on the committee were apparently irritated that certain investigations they deemed worthy weren’t being looked into because the Republican members kept things from moving forward. So in some ways, it sounds like this is the continuation of an already contentious situation at the FEC.
+
+nrakich (Nathaniel Rakich, elections analyst): And Dave, without enforcement mechanisms, there would be no punishment if a campaign does violate campaign-finance laws, right?
+
+dave.levinthal: Generally speaking, the FEC’s law enforcement capabilities are on ice until the Senate approves at least one more nominee to serve on the FEC.
+
+Right now, Trump has nominated one commissioner — a Texas attorney named Trey Trainor who helped stop an anti-Trump movement at the 2016 GOP convention — who he first nominated in September 2017. But the Senate has yet to give Trainor a confirmation hearing, much less going forth and confirming him.
+
+clare.malone: So … why no hearing? I haven’t really seen an explanation for that in everything I’ve been reading.
+
+dave.levinthal: A complex question! My best crack at it: There’s been a tradition — often adhered to, but not always — that the president would nominate FEC commissioners in pairs: one Republican, one Democrat.
+
+But since President Trump has only offered one nominee, the Senate has chosen not to give that lone nominee a hearing. Could it? Sure. Did it need to? Not really — until now — because the FEC has had enough commissioners to at least conduct its high-level business.
+
+nrakich: I find it interesting that, in an age where the Senate has gotten more comfortable with consolidating power within one party (eliminating filibusters for presidents’ nominees, blocking Merrick Garland’s confirmation to the Supreme Court, etc.), that this norm of nominating one Democrat and one Republican simultaneously to the FEC has persisted.
+
+dave.levinthal: Numbers at the FEC commission level have been going the wrong way since the beginning of the Trump presidency. In March 2017, Democratic Commissioner Ann Ravel resigned. And in February 2018, Republican Commissioner Lee Goodman also resigned. That means the FEC has been operating with a bare minimum four commissioners for 1.5 years.
+
+President Trump could have nominated people filled those vacancies at any time, but he didn’t.
+
+clare.malone: Whew.
+
+Dave, champion explanation.
+
+nrakich: Not to be too cynical, but in practical terms, how much of an effect does this shutdown really have? The FEC’s enforcement mechanisms are already pretty toothless and can take years to be resolved anyway.
+
+For example, earlier this summer, now-Sen. Martha McSally was fined for campaign-finance violations she made in … 2014.
+
+She has served two full terms in the House since then.
+
+And despite breaking the rules by taking $319,000 in excess contributions, she was fined only $23,000. So there was no financial disincentive.
+
+clare.malone: Right, and we didn’t learn about Trump’s campaign-finance violations until well after 2016, so there does seem to be a long lag time on this stuff!
+
+dave.levinthal: I’ve heard from more than a few folks who’ve made that very point — that the FEC is already so dysfunctional that there won’t be much difference.
+
+But even if the FEC deadlocks on investigations, even if it’s unable to make affirmative rulings on whether someone broke the law — and this is often the case — at minimum these situations receive a full public airing. For instance, if special interest groups or others vehemently disagree with an FEC ruling, they’ll sue the organization.
+
+Think of all the big court cases that have “FEC” in their names, with Citizens United v. FEC the biggest among them. Without a functioning FEC, this process grinds to a halt, for all intents and purposes.
+
+clare.malone: Got it. So the shutdown is really affecting the transparency of the FEC.
+
+nrakich: I find it interesting, though, that voters don’t seem to care too much about campaign-finance violations. There’s some research suggesting that they don’t do as much as, say, sex scandals (probably for obvious reasons — they’re much drier!) to hurt candidates at the ballot box.
+
+And I assume that most candidates will continue filing disclosure reports even if the FEC is shut down at the filing deadline. But what if they don’t? Would they really suffer any consequences with voters? I’m not sure they would, and that’s scary to me.
+
+clare.malone: I think that’s in part because it’s so much a part of American political culture — and the culture at large — to see big money and politics as linked. There’s a perception that there’s a degree of unfettered spending going on.
+
+dave.levinthal: While the FEC doesn’t have a quorum, if a political committee wanted to stop filing campaign-finance reports or otherwise violate campaign-finance rules, the FEC would not be in any position to do something about it.
+
+Now, the FEC may very well pick up the matter once it’s in business again. But for now, political committees don’t really have anyone policing their activity in a way that would lead to some immediate penalty.
+
+Said another way: The cops are at the station, they’re doing paperwork, but they’re not answering emergency calls.
+
+sarahf: So given how critical the situation is, won’t one of Congress’s first orders of business be appointing the one commissioner Trump has already nominated to get the FEC back up and running?
+
+dave.levinthal: Actually, Sarah, I don’t think there is a reason to think that Congress will make the FEC its first order of business. That’s not to say that the Senate won’t act quickly. But this is largely in the hands of Majority Leader Mitch McConnell and, to a lesser extent, Minority Leader Chuck Schumer.
+
+Also, President Trump plays a major role here. He could theoretically nominate a full slate of new commissioners. He could clean house — float six new nominees. But presidents have largely missed opportunities to proactively replace FEC commissioners. The result: The remaining commissioners continued to serve in “holdover status” — serving even though their term has expired.
+
+sarahf: 😱
+
+dave.levinthal: Bottom line? If Trump wanted to defy political convention — something he’s not exactly shy about doing — he could nominate six new commissioners of his choosing.
+
+Legally, he can’t pack the committee with Republicans — no more than three commissioners can be of the same party — but he doesn’t have to nominate Democrats. He could theoretically nominate three Republicans and three … Libertarians. Or independents.
+
+nrakich: Right. I feel like that would be well within character — but also, I feel like Trump doesn’t spend a lot of time thinking about the FEC.
+
+sarahf: Or any president, it sounds like.
+
+So if you’re Petersen, why resign now, knowing it would throw the FEC into chaos? Was his resignation a surprise?
+
+dave.levinthal: No, Petersen almost left in late 2017, when Trump nominated him for a federal district judgeship. But Petersen flamed out of the judicial job when he was unable to answer a string of basic questions at his nomination hearing, and he withdrew himself from consideration shortly thereafter. His consolation prize? He continued to serve on the FEC.
+
+At the time — December 2017 — CPI wrote that even then it seemed like the FEC had a strong possibility of losing its quorum of commissioners.
+
+So it’s not as if this problem somehow snuck up on people.
+
+nrakich: Yeah, I keep coming back to the fact that the public doesn’t seem to care about campaign finance.
+
+It’s a big problem, IMO, since this is one of the main mechanisms by which we keep candidates accountable.
+
+clare.malone: Well, very few people ever end up serving jail time for these violations, for instance. And unlike a sex scandal, a lot of people will be bored reading about campaign-finance violations.
+
+dave.levinthal: But there are some money-in-politics sex scandals! (cough Stormy Daniels cough) And the FEC plays a role in those … or could.
+
+nrakich: Right, and there are some types of campaign-finance scandals, like when politicians (for example, California Rep. Duncan Hunter) use campaign money for their personal benefit, that I think appeal to voters’ instinct against politicians abusing their office. But I think that’s different from, say, McSally’s case, where her only crime was accepting more than the legal limit in donations.
+
+I fear Americans see the latter as just violations of arbitrary bureaucratic rules, rather than as an immoral act.
+
+clare.malone: Well, not everyone sees breaking the law on certain things as a moral violation. The law doesn’t necessarily equate with morality! Lots of people might think the ends (big money) justify the means. They might not think that the moral universe extends to bureaucratic violations.
+
+dave.levinthal: Great point, Clare, and yes — there are wide swings in opinion on whether the Stormy Daniels matter is a campaign law violation in the first place. (Michael Cohen certainly has some thoughts on this.)
+
+clare.malone: What about for media watchdog organizations like CPI and Open Secrets, though, Dave?
+
+How will your work potentially change because of this?
+
+dave.levinthal: Our job is to report about the role money plays in American politics. And while most people often don’t care about the legal or technical particulars of campaign-finance law, I’ve never gotten the sense that they don’t care about campaign money, especially in the context of their favorite candidates raising cash.
+
+There are tens of thousands of people every day who make campaign contributions, millions every year. The sophistication of political fundraising has made it as easy as ever to support a candidate or cause. That’s why, for example, you see presidential candidates — President Trump and the gaggle of Democrats — raising huge amounts of money from small-dollar donors.
+
+nrakich: Right — and voters do seem to care about the source of the money candidates raise.
+
+For example, every Democratic presidential candidate has pledged not to accept money from corporate PACs, and most have pledged not to accept money from the fossil-fuel industry or federal lobbyists. They wouldn’t be doing that if they didn’t think voters cared about those issues.
+
+clare.malone: Have we seen any irregularities from any of these Democratic candidates? Or from the Trump campaign (this time around)?
+
+dave.levinthal: No, but the FEC also won’t be in a position to address some novel questions about how political candidates should act. For example, lots of cities have sent the Trump campaign bills for police and public safety costs — related to Trump campaign rallies — that they believe the campaign should pay. The Trump campaign doesn’t acknowledge these bills and doesn’t list them as debt, or even “disputed debt,” on campaign-finance reports. It’d be the FEC’s job, ostensibly, to figure this situation out. It can’t now.
+
+clare.malone: Oh that’s really fascinating. NYC certainly saw a lot of controversy over the cost of Trump Tower security right after his election in 2016.
+
+sarahf: So to wrap, it sounds like as long as the FEC can still perform some of its basic functions (like getting candidates to file their reports), we might not see Petersen’s replacement for a while, right? Where does this political fight head next?
+
+clare.malone: I guess … nowhere? Dave is certainly the expert on this, but I don’t think there’s much political will to replace the FEC positions. And I say that mostly from the point of view of public pressure — there’s no incentive to change the course of behavior toward the FEC.
+
+nrakich: As Dave said earlier, President Bush and Congress did finally reach a deal in 2008 the last time the FEC went into limbo because it didn’t have enough members. But I agree with Clare — I think this is so far down on the to-do list for both Trump and McConnell.
+
+Maybe the FEC becomes a poor man’s Merrick Garland — no action until one party regains full control of government.
+
+dave.levinthal: I talked last week with Rep. Derek Kilmer, a Democrat from Washington, about the broader issue of the FEC’s role in government and politics. And he made the case that the FEC needs to be fundamentally reformed and given greater independence and strength.
+
+He even has a bill that would make the FEC a five-commissioner body, which would address the issue of deadlocked votes. The bill isn’t going anywhere, but his hope is that Democrats will win everything in November 2020, and come 2021, the FEC will be reformed.
+
+So I’d say keep a close watch on Schumer in the Senate. If he wants to make a big stink about this, he could. But he, too, has been pretty quiet about the FEC lately. I will also be curious to see if this comes up during the presidential debate next week, since several candidates have been very anti-Citizens United and anti-BIG MONEY in their campaign rhetoric.
+
+nrakich: Yeah, Steve Bullock presented campaign finance as his big issue when he launched his campaign. But in general, I’ve felt that the candidates have not done a good job sticking to what was supposed to be their signature issue (Eric Swalwell and guns, Jay Inslee and climate change, etc.).
+
+dave.levinthal: Even though Bullock has made it his signature issue, he’s had his own little bumps in the road.
+
+clare.malone: Gillibrand also made public funding a thing, if I recall. That did not catch on.
+
+nrakich: That said, if the FEC is shut down for a full year or more — say, through the 2020 election — I bet there will be more of an appetite to reform it come 2021 if Democrats are in charge.
+
+Just speculating, but I think an FEC shutdown might be the kind of thing that gets more noticeable with time.
+
+dave.levinthal: An FEC that effectively sat out the 2020 election would be monumental. It’d take us back to a pre-Watergate era of campaign-finance regulation in certain ways. (The FEC was created after Watergate to help defend against campaign money problems, irregularities and potential lawlessness.)
+
+In fact, I’d say it’d be the most incentive Congress has probably had since Watergate to fundamentally change the nation’s campaign-finance regulation regime.

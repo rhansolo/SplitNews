@@ -1,0 +1,19 @@
+Cyber intruders attempted “brute force” hacking attempts against Hillary Clinton’s email server with “some frequency,” the man who set up and helped maintained the system told Congress on Tuesday.
+
+Justin Cooper said he was paid by both the Clinton Foundation and the Clinton family itself and he helped manage the email accounts, though he said Bryan Pagliano, who worked for the State Department, was responsible for the main operations.
+
+Mr. Pagliano refused to appear to testify and two other contractors involved in handling Mrs. Clinton’s electronics cited their Fifth Amendment rights against self-incrimination but Mr. Cooper did testify, telling the House Oversight Committee that they regularly faced hacking attempts, which picked up particularly in the last two and a half years that Mrs. Clinton was State Department secretary.
+
+“We had developed systems to tamp these down,” he said.
+
+Brute force attacks are attempts to gain access to an account or server by repeated quick attempts to produce valid login credentials.
+
+Mr. Cooper said he could not recall what level of encryption or security was attached to the server, but said he did not believe it had two-factor authentication.
+
+The FBI said there were attempts to get at Mrs. Clinton’s account, but they could not determine whether it had been compromised because of the sophistication of enemy hackers and the low-level technology employed by the Clinton server.
+
+Mr. Cooper also said he didn’t believe Mrs. Clinton set up the server to try to avoid open-records laws.
+
+Sign up for Daily Newsletters Manage Newsletters
+
+Copyright © 2020 The Washington Times, LLC. Click here for reprint permission.

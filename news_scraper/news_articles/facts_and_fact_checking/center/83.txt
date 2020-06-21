@@ -1,0 +1,61 @@
+Flanked by large signs proclaiming, “America leads the world in testing,” President Donald Trump said at a May 11 press conference, “we’ve prevailed on testing.” While the United States has done more total tests for COVID-19 than any other country, it doesn’t lead when testing is measured by other metrics.
+
+At the same press briefing, Adm. Brett Giroir, the assistant secretary for health at the Department of Health and Human Services, who is in charge of the government’s testing efforts, said: “No matter how you look at it, America is leading the world in testing.” Let’s take a look.
+
+Total Number of Tests
+
+As he has stated repeatedly, Trump touted the total number of tests conducted in the U.S. as being the most of any country in the world. “This week the United States will pass 10 million tests conducted, nearly double the number of any other country,” he said.
+
+It’s true that the U.S. — by far — has conducted the most tests for COVID-19, the disease caused by the novel coronavirus, as measured in raw numbers. In the press conference, Giroir showed a graph, similar to the one below, by Our World in Data, a project based at the University of Oxford, that demonstrated this.
+
+As of May 11, the U.S. had conducted 9.35 million tests. The country with the second-highest number was Russia, with 5.8 million tests, as of May 12.
+
+We’d note that Our World in Data cautions comparisons of different countries may not be apples-to-apples. It notes: “[T]here are substantial differences across countries in terms of the units, whether or not all labs are included, the extent to which negative and pending tests are included and other aspects.”
+
+Per-Capita Tests
+
+But the U.S. has a much larger population than most countries, which would make a per-capita comparison a better gauge of countries’ testing efforts. As we’ve explained before, testing a higher proportion of the population increases the ability to control the spread of COVID-19, making the per-capita metric an important one.
+
+Both Trump and Giroir cited per-capita measures, but made misleading claims, leaving out countries that have done better than the U.S. in this regard.
+
+“We’re testing more people per capita than South Korea, the United Kingdom, France, Japan, Sweden, Finland and many other countries, and in some cases combined,” Trump said.
+
+After Giroir showed the graphic on total tests, he said: “If you look at per capita, everyone talks about South Korea being the standard, today we will have done more than twice their per capita rate of testing that was accomplished in South Korea. No matter how you look at it, America is leading the world in testing.”
+
+But he didn’t show a per-capita graph such as the one below, which refutes the idea that the U.S. leads “no matter how you look at it.”
+
+The U.S. was at 26.31 tests per 1,000 people as of May 9. That’s more than South Korea, but less than Iceland, Denmark, Italy, New Zealand, Switzerland, Austria, Australia, Canada, Belgium, Germany, Russia and Spain, among others. Worldometer, a data aggregation website, listed 39 countries and territories with higher per-capita testing rates than the U.S. as of May 12.
+
+South Korea used to have a higher per-capita testing rate, when Trump first made misleading comparisons to the country in late March. It’s noteworthy that the U.S. did ramp up testing and, by April 17, surpass South Korea by this measure. But the two countries reported their first cases of COVID-19 around the same time, on Jan. 20 and 21. Yet South Korea began aggressively testing earlier than the U.S., as this graph shows.
+
+South Korea has been held up as an example, as Giroir mentioned, of how early testing can enable countries to identify and isolate cases, flattening the curve. While the U.S. is now doing more testing, the two countries are at different trajectories in the spread of the disease. Line graphs on the number of confirmed cases show the U.S. on a sharp curve up, beginning in late March, while South Korea’s cases spiked earlier, in late February and early March — and the number remained relatively flat through April.
+
+Economic researchers at the Federal Reserve Bank of St. Louis noted in an April 22 paper that South Korea’s early testing “seems to have paid off,” while U.S. “inaction” resulted in more confirmed COVID-19 cases.
+
+“Testing early and often seems to have paid off for South Korea,” the St. Louis Fed researchers wrote. “The weeks lost due to inaction in the United States during the early stages of the COVID-19 pandemic resulted in rationing of tests to those with severe symptoms. Thus, the United States had a large number of confirmed cases relative to South Korea.”
+
+Tests Per Confirmed Case
+
+Another way of comparing countries is by the number of tests each has performed per confirmed case. By this measure, the U.S. lags far behind most nations, according to Our World in Data.
+
+The map below shows that the U.S., as of May 9, had done only about seven tests per confirmed case — far fewer than South Korea (61), Russia (28), Canada (16) and Japan (14), for example. (Note: The data is updated regularly, so use the slider to change the date to May 9.)
+
+Jeffrey Shaman, an epidemiologist at Columbia University’s Mailman School of Public Health, told us for a previous story that per-capita test numbers are “not as informative as looking at testing per positive infection identified.”
+
+Comparing the U.S. to South Korea, for example, Shaman said, “They’re testing 10 times as many per infection found.”
+
+We downloaded the data for May 9 and found that the U.S. ranked 59th out of 64 countries in tests per confirmed case as of that date.
+
+In April, the Rockefeller Foundation issued a “testing action plan” that called for “rapidly expanding testing capacity to 30 million tests per week over the next six months” in the U.S.
+
+CNBC, April 21: The Rockefeller plan says that more testing must be done to accurately capture the level of Covid-19 infections in the U.S. “In Taiwan, there have been 132 tests conducted for every confirmed case. In Australia, the number is 62. In the United States, it is five,” an executive summary of the plan notes.
+
+As of May 9, the U.S. has conducted about seven tests for every confirmed case, while Taiwan has conducted about 153.
+
+We can also look at this measure in percentage terms: the test positivity rate, or the share of total tests that are positive.
+
+As we wrote recently, if a high percentage of tests are positive, that suggests only the sickest patients are being tested and mild cases are likely being missed, a Johns Hopkins website explains. The World Health Organization has recommended that countries aim for about a 10% test positivity rate to make sure there’s enough testing being conducted to detect all cases.
+
+The U.S. is now at a 14.2% test positivity rate as of May 11. That’s not “leading the world” either.
+
+Editor’s Note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through our “Donate” page. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104.

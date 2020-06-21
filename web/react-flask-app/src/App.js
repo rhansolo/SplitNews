@@ -1,5 +1,5 @@
-import React from 'react';
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import React, { useEffect } from 'react';
+import { HashRouter as Router, Route } from "react-router-dom";
 
 import Header from "./components/layout/Header";
 import Search from "./components/Search";
@@ -10,7 +10,6 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  
   return (
     <Provider>
       <Router>

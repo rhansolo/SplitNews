@@ -1,0 +1,49 @@
+WASHINGTON (Reuters) - The Trump administration on Friday moved to block global chip supplies to blacklisted telecoms equipment giant Huawei Technologies, spurring fears of Chinese retaliation and hammering shares of U.S. producers of chipmaking equipment.
+
+A new rule, unveiled by the Commerce Department and first reported by Reuters, expands U.S. authority to require licenses for sales to Huawei of semiconductors made abroad with U.S. technology, vastly expanding its reach to halt exports to the world’s No. 2 smartphone maker.
+
+“This action puts America first, American companies first, and American national security first,” a senior Commerce Department official told reporters in a telephone briefing on Friday.
+
+Huawei, the world’s top telecoms equipment maker, did not respond to a request for comment.
+
+News of the move against the firm hit European stocks as traders sold into the day’s gains, while shares of chip equipment makers such as Lam Research and KLA Corp closed down 6.4% and 4.8%, respectively, in U.S. trading.
+
+The reaction from China was swift, with a report on Friday by China’s Global Times saying Beijing was ready to put U.S. companies on an “unreliable entity list,” as part of countermeasures in response to the new limits on Huawei.
+
+The measures include launching investigations and imposing restrictions on U.S. companies such as Apple Inc, Cisco Systems Inc and Qualcomm Inc, as well as suspending purchases of Boeing Co airplanes, the report said here citing a source.
+
+The Commerce Department’s rule, effective Friday but with a 120-day grace period, also hits Taiwan Semiconductor Manufacturing Co Ltd, the biggest contract chipmaker and key Huawei supplier, which announced plans to build a U.S.-based plant on Thursday.
+
+TSMC said on Friday it is “following the U.S. export rule change closely” and working with outside counsel to “conduct legal analysis and ensure a comprehensive examination and interpretation of these rules.”
+
+The department said the rule is aimed at preventing Huawei from continuing to “undermine” its status as a blacklisted company, meaning suppliers of U.S.-made sophisticated technology must seek a U.S. government license before selling to it.
+
+“There has been a very highly technical loophole through which Huawei has been in able, in effect, to use U.S. technology with foreign fab producers,” Commerce Secretary Wilbur Ross told Fox Business Network on Friday, calling the rule change a “highly tailored thing to try to correct that loophole.”
+
+The company was added to the Commerce Department’s “entity list” last year due to national security concerns, amid accusations from Washington that it violated U.S. sanctions on Iran and can spy on customers. Huawei has denied the allegations.
+
+Frustration among China hawks in the administration that Huawei’s entity listing was not doing enough to curb its access to supplies prompted an effort, first reported by Reuters in November, to crack down on the company that culminated in Friday’s rule.
+
+Washington lawyer Kevin Wolf, a former Commerce Department official, said the rule appeared to be a “novel, complex expansion of U.S. export controls” for chip-related items made with U.S. technology abroad and sent to Huawei. But he stressed that chips designed by companies other than Huawei and manufactured with U.S. technology could still be sold to the company without the license requirement.
+
+While the new rules will apply to chips regardless of their level of sophistication, a senior U.S. State Department official who also briefed reporters Friday opened the door to some flexibility for the company, echoing reprieves granted to Huawei by the Trump administration previously.
+
+“This is a licensing requirement. It does not necessarily mean that things are denied,” the official said, adding that the rule gives the U.S. government greater “visibility” into the shipments. “What are done with those applications, we’ll have to see ... Each application will be judged on its merits.”
+
+After essentially barring Huawei from buying from U.S. suppliers, the Commerce Department granted licenses to some of Huawei’s biggest U.S. partners to continue to sell to the company, while also allowing smaller rural telecoms companies to continue to purchase Huawei equipment to keep their networks up and running.
+
+Huawei, which needs semiconductors for its smartphones and telecoms equipment, has found itself at the heart of a battle for global technological dominance between the United States and China, whose relationship has soured in recent months over the origins of the deadly coronavirus.
+
+While the rule change is aimed at squeezing Huawei and will hit the chip foundries it relies on, U.S. manufacturers of chipmaking equipment could face long-term pain, if chipmakers develop new equipment sources beyond the reach of U.S. rules.
+
+But for now, most chipmakers rely on equipment produced by U.S. companies such as KLA, Lam Research and Applied Materials, which did not respond to requests for comment.
+
+While some of the complex tools required to make chips come from companies outside the United States, such as Japan’s Tokyo Electron and Hitachi and the Netherlands’ ASML, analysts say it would be difficult to put together an entire toolchain for making advanced semiconductors without at least some American equipment.
+
+The burden of dealing with the new rule is most likely to be felt by foundries such as TSMC that buy the tools, rather than U.S. semiconductor firms such as Qualcomm Inc or Nvidia Corp that tap such foundries as part of their supply chain.
+
+FILE PHOTO: The Huawei logo is seen on a communications device in London, Britain, January 28, 2020. REUTERS/Toby Melville
+
+“We are concerned this rule may create uncertainty and disruption for the global semiconductor supply chain, but it seems to be less damaging to the U.S. semiconductor industry than the very broad approaches previously considered,” Semiconductor Industry Association Chief Executive John Neuffer said in a statement.
+
+U.S. Secretary of State Mike Pompeo said the action was aimed at protecting “the integrity of 5G networks.” He added that the rule “helps prevent Huawei from undermining U.S. export controls.”

@@ -1,0 +1,11 @@
+Iranian hackers have been trying to get into the email accounts of at least one presidential campaign, multiple American journalists and current and former U.S. government officials according to Microsoft.
+
+The hackers have support from Iran’s government and made over 2,700 attempts to identify email accounts of various individuals, a Friday Microsoft report says.
+
+Microsoft did not name the targeted campaign, but researchers said hackers tried to attack 241 accounts. Hackers infiltrated four of them, The New York Times reported. (RELATED: Report: Trump Told Russian Officials He Wasn’t Concerned About Election Interference)
+
+This news comes after Russia tried to interfere in the 2016 U.S. presidential election. The Iranian hackers used online information to get ahold of passwords, The NYT reported.
+
+Tom Burt, Microsoft’s corporate vice president, said in July during the Aspen Security Conference that the company had evidence indicating Russian, Iranian and North Korean hackers have been active in trying to commit cyberattacks. The hackers were targeting nongovernmental organizations and think tanks, according to The NYT.
+
+Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience. For licensing opportunities of our original content, please contact licensing@dailycallernewsfoundation.org.

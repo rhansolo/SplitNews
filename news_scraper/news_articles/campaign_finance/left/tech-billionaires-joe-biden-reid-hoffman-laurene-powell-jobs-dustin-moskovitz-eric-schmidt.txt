@@ -1,0 +1,147 @@
+Joe Biden has a problem. Silicon Valley billionaires think they have a solution.
+
+Election Day is less than six months away, and Democrats are scrambling to patch the digital deficits of their presumptive nominee. And behind the scenes, Silicon Valley’s billionaire Democrats are spending tens of millions of dollars on their own sweeping plans to catch up to President Donald Trump’s lead on digital campaigning — plans that are poised to make them some of the country’s most influential people when it comes to shaping the November results.
+
+These billionaires’ arsenals are funding everything from nerdy political science experiments to divisive partisan news sites to rivalrous attempts to overhaul the party’s beleaguered data file. They are pushing their favored, sometimes peculiar, fixes to a political ailment just like they might if on the board of a struggling startup.
+
+This is all unfolding as the pandemic forces campaigns to pivot away from door-knocks and packed rallies and toward data mining and influencer marketing — which in many ways play to the strengths of these tech titans, making them even more influential at a time when many in the Democratic Party are uneasy with just how powerful some in tech have become.
+
+Their investments matter all the more because of the candidate they inherited. Biden is rushing to hire more aides, create more engaging content, and build better ties with the Silicon Valley donors and talent that evaded him during the primary.
+
+“Because the Biden campaign is the Biden campaign,” said one Democratic operative involved in these efforts, “what we are doing on the independent side matters a hell of a lot more than it would previously.”
+
+“Because the Biden campaign is the Biden campaign, what we are doing on the independent side matters a hell of a lot more than it would previously”
+
+What makes this all the more difficult is that Democrats have long struggled to coordinate their big-money spending like Republicans have, and that atomization has been exacerbated by the arrival of Silicon Valley money, whose hubristic entrepreneurs often prefer to do things their own way.
+
+In Silicon Valley’s new political moment, four billionaires in particular — LinkedIn founder Reid Hoffman, Facebook co-founder Dustin Moskovitz, philanthropist Laurene Powell Jobs, and former Google CEO Eric Schmidt — have the most ambitious plans, according to Recode’s interviews with over 20 donors and operatives. The chess moves of this power set are instrumental to fulfilling Democrats’ — and much of Silicon Valley’s — four-year quest to oust Donald Trump.
+
+And yet each of these billionaires is moving their pieces with varying levels of secrecy, and often with minimal disclosure, scrutiny, or accountability.
+
+Inside the Democratic data war
+
+Four years after the Democratic Party’s data was described by Hillary Clinton as “bankrupt” and “on the verge of insolvency,” tech billionaires are regrouping and pouring millions into the party’s digital infrastructure, even to the point of building competing power centers that threaten the Democratic establishment.
+
+Republicans have invested far more steadily as of late than have Democrats in the data that powers modern campaigns. And so, a decade after a generation of tech wizards helped usher in a new era of digital campaigning that helped elevate Barack Obama to the presidency, it is Democrats who are left playing catch-up. Even if it was self-identifying progressives that created today’s digital tools, it was conservatives who mastered how to use them, and none more than Donald Trump.
+
+“My problem is when Silicon Valley folks think that they know how to do our jobs better. I would never walk into Google or anywhere else and say, ‘Your model sucks.’”
+
+Now, some tech leaders, particularly Hoffman and Schmidt, are racing to master a sphere that, theoretically, is firmly in their bailiwick. But this determination has fueled competing, even rivalrous approaches from multiple tech billionaires. Some Democrats are concerned that both efforts, for all their urgency, are indeed too little, too late — at least for November.
+
+The data wars are a stand-in for the broader tensions between the party and this quartet of Silicon Valley billionaires. While Democratic megadonors on Wall Street tend to route their donations to the party, tech billionaires like to claim they are offering more than just a check — and they want to be more in control.
+
+“My problem is when Silicon Valley folks think that they know how to do our jobs better. I would never walk into Google or anywhere else and say, ‘Your model sucks,’” Jane Kleeb, the chair of the Nebraska Democratic Party, told Recode. “I don’t second-guess them, and I’m asking them not to second-guess us.”
+
+Kleeb and others in Democratic politics have been particularly incensed by a political startup that Hoffman has invested about $18 million, his single-biggest bet this cycle, in called Alloy. The startup is attempting to build a warehouse to store the data that various progressive groups collect on voters and use it to try to get them to the polls. As part of its data acquisition, Alloy has bought some lists of voters’ cellphone numbers, a data source that people say Hoffman’s team, like other donors, sees as key this year due to the new need for digital campaigning.
+
+But Alloy, despite all its promises to revitalize the left’s voter file, has had an at-times frosty relationship with party officials like Kleeb, who have their own voter file that they’d prefer to improve rather than circumvent. And some of the party’s most senior digital operatives consider Alloy to be an underachievement, saying that it has produced few tangible accomplishments, no publicly announced clients, and, most importantly, squandered significant time and money as it struggled to figure out its role in Democratic politics.
+
+“We’re already putting data into the hands of Democrats and progressives on the front lines of this critical election cycle,” said Luis Miranda, an Alloy spokesperson. “We’re proud of our work, and we’re just getting started.”
+
+And it’s not as though all tech billionaires on the same team are backing Alloy as the singular solution. Some are funding other rival revisions to the party’s data deficit. Where Hoffman sees a product to be replaced, Schmidt — a technocrat’s technocrat — sees a product that can be tweaked, perhaps with some executive coaching.
+
+Sources say he has sunk money into the Democratic Data Exchange, a modest, competing effort by the Democratic National Committee to encourage data sharing by state parties to improve the party’s beleaguered digital backbone. Somehow, despite the somewhat duplicative efforts, Democrats still broadly fear that they’re at a disadvantage compared to the rival efforts of the GOP, which were created a decade ago.
+
+Schmidt, a longtime Democratic powerbroker, may be working more closely with the party than Hoffman. But he is still critical of the party’s operatives and so is doing things his own way with his own skunk-works projects.
+
+In 2016, Schmidt effectively funded and embedded a group of technologists within the Clinton campaign. Many Silicon Valley hands, including some Biden allies, think the Schmidt effort was largely unsuccessful.
+
+Four years later, Schmidt is as interested as ever in improving the party’s poor data and infrastructure — but now he has a new strategy: teaching its operatives how to use it.
+
+Schmidt has quietly started a new division called OneOne Ventures to do this, in an already sprawling political empire stretching across a vast number of groups. OneOne has invested in more than 20 different political startups, according to a person familiar with its work, even though it has no public profile and its existence hasn’t been previously reported.
+
+OneOne is essentially an attempt to serve as a bridge between traditional political operatives and technical teams. That’s why one of Schmidt’s key projects is heavily funding a never-publicized group called STAC Labs, created in late 2019 to train state parties on how to use data, according to a job posting, including what the Schmidt-backed Democratic Data Exchange gathers. STAC assigns team members to state parties that serve as consultants, of sorts, to help them model their voters and use data effectively.
+
+Even Kleeb, who found Hoffman and Alloy “arrogant,” told Recode she finds her team’s weekly calls with STAC to be a “real value add.”
+
+Why liberal billionaires envy what conservative billionaires built
+
+Just as is true in the data wars, the funding of ideological news sites is another battlefield where Democratic megadonors are mimicking Republicans. Democratic donors outside of tech tend to fund television ads. But the Silicon Valley set is uniquely seeking to build a digital world optimized for 2020, drawing lessons from the right-wing media ecosystem that conservatives built and Trump capitalized upon in 2016.
+
+“For far too long right-wing media has dominated our discourse and Facebook news feeds,” said Tara McGowan, the founder of Acronym, a political group backed by Powell Jobs and Hoffman. “We can’t sit by another cycle and watch a one-sided battle play out online.”
+
+Behind this, more than anyone else, has been Hoffman, whose team has funded projects that defenders say are a savvy way to take advantage of how information is distributed in the 21st century. Critics say they exacerbate political divides and sometimes push misinformation.
+
+But that hasn’t deterred Hoffman: His aides have indicated that setting up partisan news sites that masquerade as journalism is one of the priorities of its group of allied donors.
+
+In a private 12-page memo written by Hoffman’s top political adviser, Dmitri Mehlhorn, and distributed to prominent donors late last month, Mehlhorn said the key to “beating Trump’s brand machine” was in part to build an equivalent content machine on the left, “building trusted media channels with peer-to-peer elements” and “content that has a journalistic flavor.”
+
+“When truth is tribal, traditional media and advertising can’t reach voters”
+
+“When truth is tribal, traditional media and advertising can’t reach voters,” Mehlhorn says in his manifesto obtained by Recode. “But people still listen to their friends and members of their communities.”
+
+That explains why, largely during the 2018 cycle, sources say Hoffman sank $15 million into MotivAI, a digital advertising firm that has promulgated what critics say was misinformation in the 2018 midterm elections. Hoffman has also indirectly invested in several other digital media companies through an incubator he backs called New Media Ventures.
+
+And most of all, it explains why Hoffman put around $10 million into Acronym, one of the Democratic Party’s most controversial, and well-funded, outside groups that is also betting on partisan media.
+
+Acronym aims to raise $25 million to set up seven of its own media properties in swing states, creating local news sites that portray moderate Democratic candidates in a favorable light, but appear to be objective, homespun outlets. Democratic operatives see what one calls an “Upworthy model” as an effective way to mobilize their base voters who are reluctant to turn out.
+
+Steven Brill, a prominent journalist who now runs a center focused on combating misinformation called NewsGuard, deemed Acronym’s strategy both “really smart and really terrible.”
+
+“One of the things that really bothers me is the hypocrisy of people who say that they favor liberal values. And one of the most basic American values is the democratic process,” Brill told Recode. “When you undermine that process by posing as journalists — when you’re just out to make a partisan hit on someone or a partisan support of someone on the left — I think that is so hideous that it really needs to be called out.”
+
+Acronym says that its work is “factual and transparently progressive.”
+
+This focus on “information distribution” has also led many Silicon Valley donors, directly or indirectly, to fund projects like Pulso and PushBlack, which are quasi-journalistic plays focused on the Hispanic and African American communities, respectively. They are seemingly not as partisan as Acronym efforts, but are, similarly, news publications with political objectives. For instance, PushBlack, which has also been independently backed by Hoffman, delivers a daily text message to its 4 million subscribers with calls to action on issues like criminal justice reform.
+
+Two things both Pulso and PushBlack also do? Register voters who are likely to be Democrats.
+
+The nerdy push to revamp the Democratic turnout machine
+
+These tech billionaires, particularly Moskovitz and Powell Jobs, are also pouring millions into some of the country’s most ambitious voter-registration programs — almost all of it behind the scenes — hoping to emulate what worked for Democrats in 2018.
+
+The core voter-registration group that is raking in Silicon Valley money is called the Voter Participation Center. Along with a linked political group called the Center for Voter Information, it is in the process of trying to raise $56 million by June 30 thanks in part to a secretive group of donors called Mind the Gap, according to two donors who have been told about the fundraising goal in writing by Mind the Gap. That $56 million is in addition to the tens of millions that these groups raised from Mind the Gap donors earlier this cycle. VPC CEO Tom Lopach said these figures were “grossly inflated” but didn’t provide alternatives. (Political nonprofits typically try to not let rivals know about their fundraising.)
+
+Pulso and PushBlack are also indirectly being funded by Mind the Gap, which has already helped lead a recent $12 million fundraising drive to the media outlets’ incubator, Accelerate Change.
+
+With almost no public footprint, Mind the Gap, which is on track to route over $140 million this cycle, has established itself as one of the most powerful groups in Democratic politics.
+
+“Our mandate is simple: to identify all efforts that will be more cost-effective than giving directly to candidate campaigns or SuperPACs, and fund them up to the point of maximal impact,” Mind the Gap wrote to its donors earlier this month.
+
+That’s why Mind the Gap is heavily backing VPC. The group has been around for years, but VPC has recently become one of the hottest investment opportunities in Silicon Valley because its test-everything, measure-anything approach resonates with the tech set. It carried cachet before the coronavirus hit, and especially so now, given the new attention that every donor is placing on strategies like vote-by-mail, a new focus of VPC.
+
+“You had the organizations that were nice-to-haves that, all of a sudden, are integral,” said one adviser to a major donor.
+
+VPC, whose bread-and-butter program is registering voters through direct mail, has used testing, for instance, to learn that an official-looking plain white envelope with a registration application is more likely to be completed than one with an ideological appeal or eye-catching color. It sent 12 million of these no-frills mailers to unregistered voters last month. The group also learned that sending postcards to people on their 18th birthday encouraging them to register to vote is an effective, low-cost tactic.
+
+And now they are using that expertise — and their ballooning scale — to try and conquer the vote-by-mail challenge.
+
+That scalability, in the parlance of Silicon Valley, is key to its appeal in the industry: more tech money, more Democratic votes.
+
+VPC’s backers include Powell Jobs, who sources say is in the process of paring back the volume of her political bets to double down on a smaller number of groups, particularly those like VPC that focus on voter turnout.
+
+About a dozen of these groups, including VPC, PushBlack and Stacey Abrams’s FairFight, gathered at Powell Jobs’s Emerson Collective headquarters in mid-March to raise money for their 2020 plans, sources told Recode. Powell Jobs invited a dozen other deep-pocketed Silicon Valley donors for the intimate, theater-style pitch meeting, including Twitter co-founder Biz Stone and billionaire venture capitalist Ron Conway.
+
+Some activists do have concerns that this relentless Silicon Valley push for efficiency can ignore the irreplaceable value of inherently inefficient work like person-to-person conversation, especially to turn out lower-propensity voters. Other operatives fret that while the experiments and mailers might eject Trump, it is a myopic approach, leaving next-generation, newly elected Democrats and long-term movement groups out to dry — just because they don’t meet the overly numerical tire-kicking from groups like Mind the Gap.
+
+Still, this approach has its high-powered fans, perhaps none more than Moskovitz, a major Mind the Gap donor who is seeking to apply its strategy “to an ever bigger extreme,” said one person familiar with his thinking. Moskovitz’s North Star is a desire to nail the lowest “cost-per-net-Democratic-vote.” That’s largely led his team toward the funding of mail and voter-registration work, such as the millions that sources say he has put into the VPC this cycle.
+
+Moskovitz, like VPC, is drawn to randomized, controlled experiments, so much so that he took the unusual step last year of hiring a newly minted MIT PhD to bring that rigor to his political work. He is single-focusedly driven by what this experimental design — which some other major donors find alienating — can teach him about partisan politics that can then be scaled. For example, Moskovitz’s team recently backed Voto Latino, a group focused on registering Hispanic voters, to fund a small experiment on whether certain pre- or post-roll videos encourage low-propensity Latino voters to search for voter-registration keywords on Google.
+
+On calls with other prospective grantees, aides to Moskovitz, who observers feel largely got burned after coming from nowhere in 2016 to spend millions on late TV ads, have drilled operatives this time around on how they can empirically justify their effectiveness.
+
+It amounts to a more premeditated, professional approach from Moskovitz compared to four years ago, when he has said he was “slow to act, which I regret deeply.”
+
+Coronavirus or politics?
+
+For all these billionaires’ best-laid plans to help-desk the Democratic Party’s digital woes before Election Day, Democrats fret that the coronavirus is dividing their attention and convincing some of them to reroute funds from political causes to charitable ones. Leaders of some Democratic groups, too, say privately they are concerned that the coronavirus could impact how much money their groups raise, either due to pinched net worths or endowments for the billionaire class, or because the rich feel a greater obligation to spend whatever money they do have on charitable work rather than on politics.
+
+“You’re prioritizing your time to think right now, and the money follows your time. How much time do you have to think about Joe Biden?”
+
+One fundraiser close to the Biden campaign said he worried about the “distraction” faced by people like Schmidt and Hoffman, who have both dedicated significant energy to pandemic relief efforts.
+
+“You’re prioritizing your time to think right now, and the money follows your time,” said one Biden fundraiser. “How much time do you have to think about Joe Biden?”
+
+Powell Jobs’s team has also suggested to some political groups that the coronavirus has made budgets tight and caused the Emerson Collective to rethink what precise efforts they will fund in 2020, sources say. Schmidt’s political aides, by contrast, have indicated that they are prepared to spend more money on political causes than they initially planned to.
+
+The coronavirus has also, of course, put pressure on the Biden campaign, too. Asking donors to pay $2,800 for a Zoom call isn’t always an easy sell, fundraisers say. One Silicon Valley billionaire described the nascent Biden-tech relationship so far as “birds chirping.” And so tech leaders have been flooding Biden officials with their digital suggestions for how to campaign during the coronavirus — even inviting his digital director to appear on the hot new app for Silicon Valley insiders, Clubhouse.
+
+Other outreach comes more formally. On a call last Thursday organized by the Biden campaign, a group of major tech leaders was greeted by a special guest: Hoffman. The megadonor, who could spend as much as $100 million this cycle, told those on the line that politics would be his No. 1 priority through Election Day — he’d even step out of board meetings for it.
+
+But he had an exhortation to Silicon Valley product minds, one brimming with irony.
+
+“We don’t need you to go and build anything new,” a person on the call recalled Hoffman saying. “There’s no time for that.”
+
+Support Vox’s explanatory journalism
+
+Every day at Vox, we aim to answer your most important questions and provide you, and our audience around the world, with information that has the power to save lives. Our mission has never been more vital than it is in this moment: to empower you through understanding. Vox’s work is reaching more people than ever, but our distinctive brand of explanatory journalism takes resources — particularly during a pandemic and an economic downturn. Your financial contribution will not constitute a donation, but it will enable our staff to continue to offer free articles, videos, and podcasts at the quality and volume that this moment requires. Please consider making a contribution to Vox today.

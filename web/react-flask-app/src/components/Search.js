@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import SearchBar from "./layout/SearchBar";
+import axios from 'axios';
 
 class Search extends Component {
   state = {
@@ -10,15 +11,22 @@ class Search extends Component {
 
   onSubmit = (e) => {
     e.preventDefault();
-    const { search } = this.state;
+    const search = this.state.search;
 
-    if (search == "") {
+    let param = {search: search};
+
+    if (search === "") {
       this.setState({errors: "Search is empty"});
       return;
     }
+
+    axios.post("search/query", param).then(response => console.log(response));
+    
   }
 
-  onChange = (e) => this.setState({ [e.target.name]: e.target.value });
+  onChange = (e) => {
+    this.setState({ [e.target.name]: e.target.value })
+  };
 
 
   render() {
@@ -28,7 +36,7 @@ class Search extends Component {
       <div className="card mb-3">
         <div className="card-header">Search</div>
         <div className="card-body">
-          <form onSubmit={this.onSubmit.bind(this)}>
+          <form onSubmit={this.onSubmit}>
             <SearchBar
               label="Search"
               name="search"
