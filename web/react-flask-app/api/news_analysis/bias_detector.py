@@ -22,11 +22,11 @@ def scrape_art(article_queue, lqueue, cqueue, rqueue, biases):
 
         bias_score = biases[base_site]
 
-        if (bias_score < -0.3 and len(lqueue) < 15):
+        if (bias_score < -0.3 and len(lqueue) < 100):
             to_put = lqueue
-        elif (bias_score > 0.3 and len(rqueue) < 15):
+        elif (bias_score > 0.3 and len(rqueue) < 100):
             to_put = cqueue
-        elif (-0.3 < bias_score and bias_score > 0.5 and len(cqueue) < 15):
+        elif (-0.3 < bias_score and bias_score > 0.5 and len(cqueue) < 100):
             to_put = rqueue
         else:
             continue
