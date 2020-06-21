@@ -1,6 +1,6 @@
 import time
 import json
-from flask import Flask
+from flask import Flask, request
 
 app = Flask(__name__)
 
@@ -16,9 +16,11 @@ def get_current_time():
 def get_current_time2():
     return json.dumps({'time': time.time()})
 
-@app.route('/search/<query>', methods=['GET'])
-def get_results(query):
-    return { 'query' : query}
+@app.route('/search/query', methods=['POST'])
+def get_results():
+    data = request.get_json()
+    print(data)
+    return data
 
 if __name__ == '__main__':
     app.debug = True
